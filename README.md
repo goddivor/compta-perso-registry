@@ -10,8 +10,8 @@
 [![flag-icons](https://img.shields.io/badge/flag--icons_7.6-2D2D2D?style=flat)](https://github.com/lipis/flag-icons)
 [![jsDelivr](https://img.shields.io/badge/jsDelivr-E84D3D?logo=jsdelivr&logoColor=fff&style=flat)](https://www.jsdelivr.com/)
 
-The **countries, currencies and financial operators of Africa** — banks, mobile money, microfinance
-and fintech — with **SVG flags, SVG currency signs and SVG operator logos**, as plain JSON. Built for
+The **countries, currencies, and financial operators of Africa** (banks, mobile money, microfinance,
+and fintech), with **SVG flags, SVG currency signs, and SVG operator logos**, as plain JSON. Built for
 the Compta Perso app and served through jsDelivr; usable by any app that needs the same data.
 
 </div>
@@ -19,13 +19,14 @@ the Compta Perso app and served through jsDelivr; usable by any app that needs t
 ## 🎖️ Features
 
 - **54 countries** — the sovereign African states, with English and French names, ISO codes, official
-  languages and their legal-tender currencies, generated from Unicode CLDR
-- **43 currencies** — names, plural forms, decimals and the symbol as written locally (`F CFA`, `₦`,
-  `GH₵`, `Ksh`…), never converted into one another
+  languages, and their legal-tender currencies, generated from Unicode CLDR
+- **43 currencies** — names, plural forms, decimals, and the symbol as written locally (`F CFA`, `₦`,
+  `GH₵`, `Ksh`, etc.), never converted into one another
 - **Flags as SVG** — every country in 4:3 and square, from flag-icons
 - **Currency signs as SVG** — each local symbol outlined into paths, tintable with `currentColor`; the
-  West African CFA franc carries the BCEAO sawfish, extracted from the central bank's own vector art
-- **~4,000 operators** — banks, mobile money, microfinance and fintech, every entry carrying the URL of
+  West African CFA franc carries the sawfish emblem of the Central Bank of West African States (BCEAO),
+  extracted from the bank's own vector art
+- **~4,000 operators** — banks, mobile money, microfinance, and fintech, every entry carrying the URL of
   the official list or page it comes from, with old names as searchable aliases
 - **Operator logos as SVG only** — official SVG first, otherwise vectorized, every logo reviewed by eye;
   no PNG ships
@@ -45,7 +46,7 @@ npm install
 npm run setup   # fontTools in .cache/venv, vtracer in .cache/vtracer
 ```
 
-Consuming the data needs nothing: fetch the files from a tagged release.
+Consuming the data requires no installation: fetch the files from a tagged release.
 
 ```
 https://cdn.jsdelivr.net/gh/goddivor/compta-perso-registry@<tag>/data/countries.json
@@ -56,7 +57,7 @@ https://cdn.jsdelivr.net/gh/goddivor/compta-perso-registry@<tag>/svg/flags/1x1/t
 ## ⚙️ Usage
 
 ```bash
-# Regenerate countries, currencies, flags and currency signs, then validate everything
+# Regenerate countries, currencies, flags, and currency signs, then validate everything
 npm run build
 
 # Validate only (rewrites index.json with the counts)
@@ -66,7 +67,7 @@ npm run validate
 ### 🏷️ Logos
 
 ```bash
-# Find candidates per brand: Wikidata, the operators' sites, Google Play, Wikimedia Commons
+# Find candidates per brand: Wikidata, the operators' sites, Google Play, and Wikimedia Commons
 npm run logos:find
 
 # Download and convert to SVG (vectorize rasters), into .cache/logos/out/

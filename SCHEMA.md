@@ -42,7 +42,7 @@ Four layers, built in order. Every file is UTF-8 JSON, 2-space indent, keys in t
 
 `sign.text` is what amounts show; `sign.svg` is the currency's icon, one colour (`currentColor`). Most
 signs outline `text` in `sign.font`. When the issuer has an emblem used as the currency's symbol (XOF:
-the BCEAO sawfish on every coin and note), `sign.svg` is that emblem, `sign.svgColor` its official
+the BCEAO sawfish, printed on its banknotes and struck on its coins), `sign.svg` is that emblem, `sign.svgColor` its official
 colours, `font` is null and `source` is the issuer's vector document it was extracted from.
 
 Display rule for the app: `localSymbols[country] ?? narrowSymbol ?? symbol`. Amounts are rounded to
