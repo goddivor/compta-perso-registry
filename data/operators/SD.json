@@ -1,0 +1,904 @@
+{
+  "country": "SD",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://cbos.gov.sd/en/content/operating-banks-sudan"
+  },
+  "operators": [
+    {
+      "id": "sd-agricultural-bank",
+      "name": "Agricultural Bank of Sudan",
+      "aliases": [
+        "ABS",
+        "Agricultural Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-industrial-development-bank",
+      "name": "Industrial Development Bank",
+      "aliases": [
+        "IDB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/industrial-development-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/oI2tI87ZowlxDfqyOmF_sYMueF4yHjHbpbWHnShIk8AqQXvnb0h_LQgjTHAREXw3kOOsjqqxAO7EZDPuw_ejjMM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-export-development-bank",
+      "name": "Export Development Bank",
+      "aliases": [
+        "EDB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-savings-bank",
+      "name": "Savings and Social Development Bank",
+      "aliases": [
+        "SSDB",
+        "Savings Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/savings-and-social-development-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/coE1XvdHRN2nXUkySTsymMU-akE3RPATmAMUZ38wuoCcl8MGQeyctxn5vjCkgTPOArohAQhOlYzWkVPZzVSu=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-animal-resources-bank",
+      "name": "Animal Resources Bank",
+      "aliases": [
+        "ARB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/animal-resources-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/B36AYgeDlZBwzd47lNYyceDoeZf9mcLJ_s2IVqgyoppY9dKtPBSlr4-LRbQClFxU-m-tR6-LSqfmL3gWfzjfRg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-omdurman-national-bank",
+      "name": "Omdurman National Bank",
+      "aliases": [
+        "ONB",
+        "Ocash",
+        "O-Cash"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan",
+        "https://allafrica.com/stories/202609110006.html"
+      ]
+    },
+    {
+      "id": "sd-el-nilein-bank",
+      "name": "El Nilein Bank",
+      "aliases": [
+        "Nilein Bank",
+        "Elnilein"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-workers-national-bank",
+      "name": "Workers' National Bank",
+      "aliases": [
+        "Workers National Bank",
+        "WNB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-bank-of-khartoum",
+      "name": "Bank of Khartoum",
+      "aliases": [
+        "BOK",
+        "Bankak",
+        "mBOK"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-khartoum.svg",
+        "source": "https://play-lh.googleusercontent.com/Mf7EtInCk8siRRlkB3S70LdHX4ZDL2sAiUKPnCYRqttnMma9qy3A_NciPESHo9yOlToKzhvZ2yQ-_ov9UivQm34=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan",
+        "https://allafrica.com/stories/202609110006.html"
+      ]
+    },
+    {
+      "id": "sd-faisal-islamic-bank",
+      "name": "Faisal Islamic Bank",
+      "aliases": [
+        "FIB",
+        "Faisal Islamic Bank Sudan",
+        "Fawry"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fibsudan.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan",
+        "https://allafrica.com/stories/202609110006.html"
+      ]
+    },
+    {
+      "id": "sd-sudanese-islamic-bank",
+      "name": "Sudanese Islamic Bank",
+      "aliases": [
+        "SIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-sudanese-french-bank",
+      "name": "Sudanese French Bank",
+      "aliases": [
+        "SFB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-sudanese-egyptian-bank",
+      "name": "Sudanese Egyptian Bank",
+      "aliases": [
+        "SEB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-arab-sudanese-bank",
+      "name": "Arab Sudanese Bank",
+      "aliases": [
+        "ASB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-saudi-sudanese-bank",
+      "name": "Saudi Sudanese Bank",
+      "aliases": [
+        "SSB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/saudi-sudanese-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/dPz7LOEj7Iy7z_jSRzAwBFiXh3gc0w3y9bekSfuKhbZqUIQiAKvfStI_evvIje5m8Hx2pAAqX0jEvQWNTfpIuQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-qnb",
+      "name": "Qatar National Bank Sudan",
+      "aliases": [
+        "QNB",
+        "QNB Sudan"
+      ],
+      "type": "bank",
+      "group": "QNB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-qib",
+      "name": "Qatar Islamic Bank Sudan",
+      "aliases": [
+        "QIB"
+      ],
+      "type": "bank",
+      "group": "QIB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/qatar-islamic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/nUScvFltuMVvLW7oKkfWCGkWiEJO7hJSpCu_ne5qlflLzU6OWVOf_EnYM7Ansd5yfbAPr1a_UUaEPGZo4-3DJA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-al-salam-bank",
+      "name": "Al Salam Bank",
+      "aliases": [
+        "Alsalam Bank Sudan"
+      ],
+      "type": "bank",
+      "group": "Al Salam Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-al-baraka-bank",
+      "name": "Al Baraka Bank",
+      "aliases": [
+        "Al Baraka Bank Sudan",
+        "Albaraka"
+      ],
+      "type": "bank",
+      "group": "Al Baraka",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/al-baraka.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-al-khaleej-bank",
+      "name": "Al Khaleej Bank",
+      "aliases": [
+        "Khaleej Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-al-jazeera-bank",
+      "name": "Al Jazeera Sudanese Jordanian Bank",
+      "aliases": [
+        "Al Jazeera Bank",
+        "AJSJB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-byblos-bank-africa",
+      "name": "Byblos Bank Africa",
+      "aliases": [
+        "Byblos"
+      ],
+      "type": "bank",
+      "group": "Byblos Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-blue-nile-mashreq-bank",
+      "name": "Blue Nile Mashreq Bank",
+      "aliases": [
+        "BNMB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-alnile-bank",
+      "name": "AlNile Bank",
+      "aliases": [
+        "Al Nile Bank",
+        "Nile Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-farmers-commercial-bank",
+      "name": "Farmer's Commercial Bank",
+      "aliases": [
+        "Farmers Commercial Bank",
+        "Farmers Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-financial-investment-bank",
+      "name": "Financial Investment Bank",
+      "aliases": [
+        "FIB Sudan"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-family-bank",
+      "name": "Family Bank",
+      "aliases": [
+        "Family Bank Sudan"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/family-bank.svg",
+        "source": "https://familybank.co.ke/family-bank/wp-content/themes/family-bank/assets/images/family-bank-40-logo.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-united-capital-bank",
+      "name": "United Capital Bank",
+      "aliases": [
+        "UCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-ivory-bank",
+      "name": "Ivory Bank",
+      "aliases": [
+        "Ivory Bank Sudan"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-balad-bank",
+      "name": "Balad Bank",
+      "aliases": [
+        "Balad"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-africa-gulf-bank",
+      "name": "Africa and Gulf Bank",
+      "aliases": [
+        "Africa & Gulf Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-tadamon-islamic-bank",
+      "name": "Tadamon Islamic Bank",
+      "aliases": [
+        "Tadamon Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-national-bank-of-sudan",
+      "name": "National Bank of Sudan",
+      "aliases": [
+        "NBS"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-nbe-khartoum",
+      "name": "National Bank of Egypt Khartoum",
+      "aliases": [
+        "NBE Khartoum",
+        "National Bank of Egypt"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-bsic",
+      "name": "BSIC Sudan",
+      "aliases": [
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce",
+        "BSIC"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-ziraat-katilim",
+      "name": "Ziraat Katılım",
+      "aliases": [
+        "Ziraat Katilim",
+        "Ziraat"
+      ],
+      "type": "bank",
+      "group": "Ziraat Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ziraat-kat-l-m.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziraat_Kat%C4%B1l%C4%B1m_Bankas%C4%B1_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://cbos.gov.sd/en/content/operating-banks-sudan"
+      ]
+    },
+    {
+      "id": "sd-bede",
+      "name": "Bede",
+      "aliases": [
+        "Zain Bede",
+        "Bede Wallet",
+        "Zain Fintech"
+      ],
+      "type": "mobile_money",
+      "group": "Zain",
+      "status": "active",
+      "successor": null,
+      "website": "https://bede.sd",
+      "logo": {
+        "svg": "svg/logos/mobile-money/bede.svg",
+        "source": "https://i0.wp.com/bede.sd/wp-content/uploads/2025/01/Bede-logo-white.png?fit=1429%2C656&ssl=1",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.crowdfundinsider.com/2025/04/238647-zain-fintech-launches-bede-mobile-wallet-in-sudan/"
+      ]
+    },
+    {
+      "id": "sd-sah",
+      "name": "Sah",
+      "aliases": [
+        "Sudani Fintech",
+        "Sudani Sah"
+      ],
+      "type": "mobile_money",
+      "group": "Sudatel",
+      "status": "active",
+      "successor": null,
+      "website": "https://sudani.sd",
+      "logo": {
+        "svg": "svg/logos/mobile-money/sah.svg",
+        "source": "https://sudani.sd/wp-content/uploads/2025/04/Sudani-Logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://sudatel.sd/en/sah-launch/"
+      ]
+    },
+    {
+      "id": "sd-al-fal-microfinance",
+      "name": "Al-Fal Microfinance Company",
+      "aliases": [
+        "Al-Fal",
+        "Alfal"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/al-fal-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/7tcxBAl46xNMmZ9BGPsZupcpsZMexRpxC1XT430D5L0LdWkRiFL3AvfUPayoiNE30m-i3LB3P_QV9li-xX3V3w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://safinetwork.org/members/al-fal-microfinance-company/"
+      ]
+    },
+    {
+      "id": "sd-ebdaa",
+      "name": "Ebdaa Microfinance Bank",
+      "aliases": [
+        "Al-Ebdaa",
+        "Al-Ibda Microfinance Bank",
+        "Ebdaa Bank"
+      ],
+      "type": "microfinance",
+      "group": "AGFUND",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://agfund.org/en/focusAreas/financialInclusion/AMUbanks",
+        "https://actumsudan.substack.com/p/sudan-central-bank-launches-33-million"
+      ]
+    },
+    {
+      "id": "sd-azm-microfinance",
+      "name": "Azm Microfinance",
+      "aliases": [
+        "Azm"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://actumsudan.substack.com/p/sudan-central-bank-launches-33-million"
+      ]
+    }
+  ]
+}

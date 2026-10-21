@@ -1,0 +1,1197 @@
+{
+  "country": "MR",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "partial",
+    "mobile_money": "partial",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+    "mobile_money": "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf",
+    "microfinance": "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+  },
+  "operators": [
+    {
+      "id": "mr-international-bank-of-mauritania",
+      "name": "International Bank of Mauritania",
+      "aliases": [
+        "IBM",
+        "International Bank of Mauritanie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-banque-mauritanienne-de-l-investissement",
+      "name": "Banque Mauritanienne de l'Investissement",
+      "aliases": [
+        "BMI",
+        "Banque Mauritanienne de l Investissement"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://bmi.mr",
+      "logo": {
+        "svg": "svg/logos/bank/banque-mauritanienne-de-l-investissement.svg",
+        "source": "https://bmi.mr/wp-content/uploads/2023/08/logo-bmi-1-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bfi-bank",
+      "name": "BFI Bank",
+      "aliases": [
+        "BFI",
+        "Banque de Financement et d'Investissement",
+        "Banque des Financements Islamiques"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bfi.mr",
+      "logo": {
+        "svg": "svg/logos/bank/bfi-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Dl3YRFD2a2KJT7xjtAbIP96ImICAv-RiAoviSkVg9cXSadjbKT-r0NOn3P22S0iT4d4yNHznv7D16BB7gH167w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://www.bfi.mr"
+      ]
+    },
+    {
+      "id": "mr-qnb-mauritanie",
+      "name": "QNB Mauritanie",
+      "aliases": [
+        "QNB",
+        "QNBM",
+        "Qatar National Bank Mauritanie"
+      ],
+      "type": "bank",
+      "group": "QNB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/qnb.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania"
+      ]
+    },
+    {
+      "id": "mr-banque-islamique-de-mauritanie",
+      "name": "Banque Islamique de Mauritanie",
+      "aliases": [
+        "BIM"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-banque-muamelat-as-sahiha",
+      "name": "Banque Muamelat As Sahiha",
+      "aliases": [
+        "BMS"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-banque-populaire-de-mauritanie",
+      "name": "Banque Populaire de Mauritanie",
+      "aliases": [
+        "BPM"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bpm.mr",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-attijari-bank-mauritanie",
+      "name": "Attijari Bank Mauritanie",
+      "aliases": [
+        "ABM",
+        "Attijari",
+        "Attijariwafa"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/attijari-bank.svg",
+        "source": "https://www.attijaribank.com.tn/sites/default/files/Logo_attijari_0.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-chinguitty-bank",
+      "name": "Chinguitty Bank",
+      "aliases": [
+        "Chinguitti Bank",
+        "Chinguitty"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/chinguitty-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Y8Zn3aWvljKGMGmRl7GC1C2dMfOdwB6x4UJzc-P-92hnXo5Ye3rYMgwOFnVZc4aGu6lg609XWvZZD-RvCpMfgKM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-societe-generale-mauritanie",
+      "name": "Société Générale Mauritanie",
+      "aliases": [
+        "SGM",
+        "Societe Generale Mauritanie",
+        "Société Générale"
+      ],
+      "type": "bank",
+      "group": "Société Générale",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-orabank-mauritanie",
+      "name": "Orabank Mauritanie",
+      "aliases": [
+        "Orabank",
+        "Ora Bank"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-banque-el-amana",
+      "name": "Banque El Amana",
+      "aliases": [
+        "BEA",
+        "El Amana"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://bea.mr",
+      "logo": {
+        "svg": "svg/logos/bank/banque-el-amana.svg",
+        "source": "https://bea.mr/wp-content/uploads/2017/07/BANQUEelAMANA_internet_horiz_BLEU.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bamis",
+      "name": "BAMIS",
+      "aliases": [
+        "Banque Al Wava Mauritanienne Islamique",
+        "Al Wava"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://bamis.mr",
+      "logo": {
+        "svg": "svg/logos/bank/bamis.svg",
+        "source": "https://play-lh.googleusercontent.com/0oNUPW35Dy8gvNjD1mN6ziqvWM7lpbSATuZqkosMgjqasqqI0lAwBLH4cxRRyosAZBW0MYDvhumY1FL3zpu5Vw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-generale-de-banque-de-mauritanie",
+      "name": "Générale de Banque de Mauritanie",
+      "aliases": [
+        "GBM",
+        "Generale de Banque de Mauritanie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-banque-nationale-de-mauritanie",
+      "name": "Banque Nationale de Mauritanie",
+      "aliases": [
+        "BNM"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bnm.mr",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bmci",
+      "name": "BMCI",
+      "aliases": [
+        "Banque Mauritanienne pour le Commerce International"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bmci.svg",
+        "source": "https://play-lh.googleusercontent.com/f9oKHPR_4vBbDmQq1xR3wxHaEWO1vx7x1C-j6HXdLK1flBqJw6LLvV0bVpi6VSapsvdiM6XaITsPYsRCxQJOyA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bci-mauritanie",
+      "name": "BCI Mauritanie",
+      "aliases": [
+        "BCI",
+        "Banque pour le Commerce et l'Industrie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-nouvelle-banque-de-mauritanie",
+      "name": "Nouvelle Banque de Mauritanie",
+      "aliases": [
+        "NBM"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "defunct",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bankily",
+      "name": "Bankily",
+      "aliases": [
+        "Bankily BPM"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankily.mr",
+      "logo": {
+        "svg": "svg/logos/mobile-money/bankily.svg",
+        "source": "https://www.bankily.mr/wp-content/uploads/2019/09/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf",
+        "https://www.bankily.mr"
+      ]
+    },
+    {
+      "id": "mr-masrvi",
+      "name": "Masrvi",
+      "aliases": [
+        "Masrvi BMCI"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://masrvi.mr",
+      "logo": {
+        "svg": "svg/logos/mobile-money/masrvi.svg",
+        "source": "https://masrvi.mr/masrvi/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf",
+        "https://masrvi.mr"
+      ]
+    },
+    {
+      "id": "mr-sedad",
+      "name": "Sedad",
+      "aliases": [
+        "Sedad BNM"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/sedad.svg",
+        "source": "https://play-lh.googleusercontent.com/PfhAtHpe2mgoyrijcfLixN8RBRT1CSBu9befUtSIY7ALCbuZisdwJ2tMmRWb2st6XrNJaz2ghw5Y-Wfc8oVLow=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bimbank",
+      "name": "BimBank",
+      "aliases": [
+        "Bim-Bank",
+        "Bim Bank"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bimbank.svg",
+        "source": "https://play-lh.googleusercontent.com/jJtst8KyiTuBmY5KJM8gKi5OGZHEFofCA56HIdwJJQyceZGld5HhOlCO43f8qtV0wy17zjmnAygPHrFU2C86=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bci-pay",
+      "name": "BCI-Pay",
+      "aliases": [
+        "BCI Pay",
+        "BCIPay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bci-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/zDTzdjZJRG9CEYi3sr8RvKq9vuk34X0Sljc8pqonT7d1V6Q2-9edSN-EJULBXLt5oGwx7WOu1wn7i62BGGeerQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-click",
+      "name": "Click",
+      "aliases": [
+        "Click Mauritanie"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/click.svg",
+        "source": "https://play-lh.googleusercontent.com/zvvxCdDElma8WODUfmlezVnc7SqtOiwQ56XrX29r-ZGB6Wq-784F3u2C3aT7kdPsOemT4VUkHpe2xLEP7amyTn0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-amanty",
+      "name": "Amanty",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/amanty.svg",
+        "source": "https://play-lh.googleusercontent.com/X3ZoyV4QscR7e-qa_ViqTG9C4nCwFOQdFebq_oi4vFCg9nOhfSL_6ceY5mRzj0v2bOaCbJ1RZRX2zDaZQhRZ-Rg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-bamis-digital",
+      "name": "Bamis-Digital",
+      "aliases": [
+        "Bamis Digital",
+        "BAMIS Digital"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bamis-digital.svg",
+        "source": "https://play-lh.googleusercontent.com/0oNUPW35Dy8gvNjD1mN6ziqvWM7lpbSATuZqkosMgjqasqqI0lAwBLH4cxRRyosAZBW0MYDvhumY1FL3zpu5Vw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
+      ]
+    },
+    {
+      "id": "mr-usem",
+      "name": "USEM",
+      "aliases": [
+        "Union pour la Solidarité et Entraide Mutuelle"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-djikkee",
+      "name": "Djikkee",
+      "aliases": [
+        "DJIKKEE",
+        "Union Nationale des Caisses d'Épargne et de Crédits"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-mico",
+      "name": "MICO",
+      "aliases": [
+        "Union Nationale des Mutuelles d'Investissement des Crédits Oasiens"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-afma",
+      "name": "AFMA",
+      "aliases": [
+        "Association des Femmes Mauritaniennes Actives"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/afma.svg",
+        "source": "https://play-lh.googleusercontent.com/lhQwt4oEvjUtUipoTM2jkI40Gu6-SeU1zZQ4jMG5zxFz_Xv6v6w_uZEzr6Kyqokz10CfHrwPn9CbNermJtT1Iw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-gfec",
+      "name": "GFEC",
+      "aliases": [
+        "Groupement Féminin d'Épargne et de Crédit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-uef-mc",
+      "name": "UEF MC",
+      "aliases": [
+        "Mutuelle de Crédit de l'Union des Entreprises des Femmes"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-afec",
+      "name": "AFEC",
+      "aliases": [
+        "Association Féminine d'Épargne et de Crédit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-gafif-nkt",
+      "name": "GAFIF NKT",
+      "aliases": [
+        "GAFIF",
+        "Groupement d'Entraide pour les Femmes – Initiative Féminine"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-capec",
+      "name": "CAPEC",
+      "aliases": [
+        "Réseau des Caisses Populaires d'Épargne et de Crédit",
+        "Caisses Populaires d'Epargne et de Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/capec.svg",
+        "source": "https://play-lh.googleusercontent.com/3WASJqY1v6_P7_cgzae3l7wWpJPAP99cnshcjwGvLzNydlopur7fVb0hMX1erP0f2z7DynivSfswHd_mkMuu=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-ceedif",
+      "name": "CEEDIF",
+      "aliases": [
+        "Caisse d'Épargne d'Entraide et de Développement des Initiatives Féminines"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-comcret-sud",
+      "name": "COMCRET-Sud",
+      "aliases": [
+        "COMCRET Sud",
+        "COMCRET – SUD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-nouakchott-credit",
+      "name": "Nouakchott Crédit",
+      "aliases": [
+        "NKTT Crédit",
+        "Nouakchott Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-ibdaa",
+      "name": "IBDAA",
+      "aliases": [
+        "Bank Al IBDA pour la Microfinance en Mauritanie",
+        "Al Ibdaa"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ibdaa.svg",
+        "source": "https://play-lh.googleusercontent.com/uUTllIZE9yZh0LJLqJNMVhhWpeyHOBSO_0v7vr0DMu7YEHzm4_vHXKdgsQgBEAlY9nKeI3SHZoTnfRjVJnTj=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-al-manar",
+      "name": "Al Manar",
+      "aliases": [
+        "AL Manar SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-al-amana-pour-la-finance-islamique",
+      "name": "Al Amana pour la Finance Islamique",
+      "aliases": [
+        "Al Amana"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-tadhamoune-pour-la-microfinance-islamique",
+      "name": "Tadhamoune pour la Microfinance Islamique",
+      "aliases": [
+        "TMI",
+        "TMI SA",
+        "Tadhamoune"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/tadhamoune-pour-la-microfinance-islamique.svg",
+        "source": "https://play-lh.googleusercontent.com/R4UcA_d76iXtbLulGjg0iNfJWcMqlTn5lYe5Zqis0H-6CLb8QvddIyhwwW48uZIOEL8JF7ff2welOYGxS23AIeU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-mec-sa",
+      "name": "MEC SA",
+      "aliases": [
+        "Mutuelle d'Épargne et de Crédits SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-national-cash",
+      "name": "National Cash",
+      "aliases": [
+        "National Cash SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-tayba",
+      "name": "Tayba",
+      "aliases": [
+        "TAYBA SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-sce-sa",
+      "name": "SCE SA",
+      "aliases": [
+        "Société de Crédit et d'Épargne"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-caisse-el-wava",
+      "name": "Caisse El Wava",
+      "aliases": [
+        "Caisse El Wava CEM SA",
+        "CEM SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-emeli",
+      "name": "EMELI",
+      "aliases": [
+        "EMELI SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-excalibur-finance",
+      "name": "Excalibur Finance",
+      "aliases": [
+        "Excalibur Finance SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-arkad",
+      "name": "ARKAD",
+      "aliases": [
+        "Arkad"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-ezka",
+      "name": "EZKA",
+      "aliases": [
+        "Ezka"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-el-yousr",
+      "name": "El Yousr",
+      "aliases": [
+        "EL YOUSR"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-sonaf",
+      "name": "SONAF",
+      "aliases": [
+        "Sonaf"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    },
+    {
+      "id": "mr-al-awn-almoubachir",
+      "name": "Al Awn Almoubachir",
+      "aliases": [
+        "AWN LAK",
+        "Association AL AWN ALMOUBACHIR"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
+      ]
+    }
+  ]
+}

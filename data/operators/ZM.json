@@ -1,0 +1,1419 @@
+{
+  "country": "ZM",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.boz.zm/financial-stability/registered-financial-institutions",
+    "mobile_money": "https://www.boz.zm/financial-stability/registered-financial-institutions",
+    "microfinance": "https://www.boz.zm/financial-stability/registered-financial-institutions",
+    "fintech": "https://www.boz.zm/financial-stability/registered-financial-institutions"
+  },
+  "operators": [
+    {
+      "id": "zm-ab-bank",
+      "name": "AB Bank Zambia",
+      "aliases": [
+        "AB Bank",
+        "Access Bank (AB)"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.abbank.co.zm",
+      "logo": {
+        "svg": "svg/logos/bank/ab-bank.svg",
+        "source": "https://www.abbank.co.zm/wp-content/uploads/2021/12/AB_Bank_Logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-absa",
+      "name": "Absa Bank Zambia",
+      "aliases": [
+        "Absa",
+        "Barclays Zambia"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.absa.co.zm/personal/",
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-access-bank",
+      "name": "Access Bank Zambia",
+      "aliases": [
+        "Access",
+        "Access Bank",
+        "Atlas Mara Zambia",
+        "Cavmont Bank"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-bank-of-china",
+      "name": "Bank of China (Zambia)",
+      "aliases": [
+        "Bank of China",
+        "BOC"
+      ],
+      "type": "bank",
+      "group": "Bank of China",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankofchina.com/zm/",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-china.svg",
+        "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-citibank",
+      "name": "Citibank Zambia",
+      "aliases": [
+        "Citibank",
+        "Citi"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-ecobank",
+      "name": "Ecobank Zambia",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-first-alliance-bank",
+      "name": "First Alliance Bank Zambia",
+      "aliases": [
+        "FAB",
+        "First Alliance Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-first-capital-bank",
+      "name": "First Capital Bank Zambia",
+      "aliases": [
+        "FCB",
+        "First Capital Bank"
+      ],
+      "type": "bank",
+      "group": "First Capital Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/first-capital-bank.svg",
+        "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-fnb",
+      "name": "FNB Zambia",
+      "aliases": [
+        "FNB",
+        "First National Bank Zambia"
+      ],
+      "type": "bank",
+      "group": "FirstRand",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fnbzambia.co.zm",
+      "logo": {
+        "svg": "svg/logos/bank/fnb.svg",
+        "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-indo-zambia-bank",
+      "name": "Indo-Zambia Bank",
+      "aliases": [
+        "IZB",
+        "Indo Zambia Bank",
+        "Indo-Zambia"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.izb.co.zm",
+      "logo": {
+        "svg": "svg/logos/bank/indo-zambia-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/3giWop0lwoFE4XFo8PySzhWQB0j6I_tD5ExCAOEw-3fRo5msFmBwVmh3_QoXbczBoMXUVXh2rzjQpWde2jwT86I=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-stanbic",
+      "name": "Stanbic Bank Zambia",
+      "aliases": [
+        "Stanbic",
+        "Standard Bank"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.stanbicbank.co.zm/zambia/personal",
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-standard-chartered",
+      "name": "Standard Chartered Zambia",
+      "aliases": [
+        "Standard Chartered",
+        "StanChart",
+        "SC"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sc.com/zm/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-uba",
+      "name": "UBA Zambia",
+      "aliases": [
+        "UBA",
+        "United Bank for Africa"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubazambia.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-zicb",
+      "name": "ZICB",
+      "aliases": [
+        "Zambia Industrial Commercial Bank",
+        "ZICB Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zicb.co.zm",
+      "logo": {
+        "svg": "svg/logos/bank/zicb.svg",
+        "source": "https://play-lh.googleusercontent.com/Y8Ma0GuDto8hkCputcTyTMujLJf9FRC-WCMY7R8x2l7JX2ynUX9p3KG5zw3oYS1fZlztV9Xpx7v5PCZ603pGDls=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-zanaco",
+      "name": "Zanaco",
+      "aliases": [
+        "Zambia National Commercial Bank",
+        "ZANACO"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zanaco.co.zm",
+      "logo": {
+        "svg": "svg/logos/bank/zanaco.svg",
+        "source": "https://play-lh.googleusercontent.com/aB3KOyBQOgOzZ8qB0snE9PKWeVRw5s-br_BnsH8NuKBLJuSE0_3vxi-h1Ug43TU0ppplQzsDZtsTGVcgvXCCTyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-natsave",
+      "name": "NATSAVE",
+      "aliases": [
+        "National Savings and Credit Bank",
+        "Natsave"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.natsave.co.zm",
+      "logo": {
+        "svg": "svg/logos/bank/natsave.svg",
+        "source": "https://play-lh.googleusercontent.com/TnVCCDLVku_P3h-WV_8PapGl3EtaqGpSY_XeJJXiZEdmYmlXyXrNnbpA0iacJVv9CUYrm9NZ9VBS913uU8YnXg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-znbs",
+      "name": "Zambia National Building Society",
+      "aliases": [
+        "ZNBS"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.znbs.co.zm",
+      "logo": {
+        "svg": "svg/logos/bank/zambia-national-building-society.svg",
+        "source": "https://www.znbs.co.zm/images/logo-caption.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-dbz",
+      "name": "Development Bank of Zambia",
+      "aliases": [
+        "DBZ"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-bayport",
+      "name": "Bayport Financial Services Zambia",
+      "aliases": [
+        "Bayport"
+      ],
+      "type": "microfinance",
+      "group": "Bayport",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-finca",
+      "name": "FINCA Zambia",
+      "aliases": [
+        "FINCA"
+      ],
+      "type": "microfinance",
+      "group": "FINCA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-lolc-finance",
+      "name": "LOLC Finance Zambia",
+      "aliases": [
+        "LOLC"
+      ],
+      "type": "microfinance",
+      "group": "LOLC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-madison-finance",
+      "name": "Madison Finance",
+      "aliases": [
+        "MFinance",
+        "Madison Finance Company"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/madison-finance.svg",
+        "source": "https://play-lh.googleusercontent.com/gxhXmwf-3x-pEvwn8ut8Vs7qxfIhRvLYkdP3u2HE1AhTTGanx7_AobMmSOwu_ymyYQA4ooL09jNMSNkQpHuo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-microfinance-zambia",
+      "name": "Micro Finance Zambia",
+      "aliases": [
+        "MFZ",
+        "Microfinance Zambia"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-efc",
+      "name": "Entrepreneurs Financial Centre",
+      "aliases": [
+        "EFC",
+        "Pulse Financial Services",
+        "EFC Zambia"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/entrepreneurs-financial-centre.svg",
+        "source": "https://play-lh.googleusercontent.com/ns-Y0CD9jrMrc_Q6dPsCmpyOeDsBvfErFv6ckufb5OTli0V_Fauf7GINszWPwjoVdYbY6dUe_ujCgEJn_8O9-FU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-visionfund",
+      "name": "VisionFund Zambia",
+      "aliases": [
+        "VisionFund",
+        "Vision Fund Zambia"
+      ],
+      "type": "microfinance",
+      "group": "VisionFund",
+      "status": "active",
+      "successor": null,
+      "website": "https://zambia.visionfund.org/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-als-capital",
+      "name": "ALS Capital",
+      "aliases": [
+        "ALS"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/als-capital.svg",
+        "source": "https://play-lh.googleusercontent.com/8Usu0iNNTt1zGAV7DT3BbCI7XnUmnNt8PrrR2RQKc7dPw4G99XxHMGctm2wsXuYMjifw6Y9KS-_T9OMp4Oo70g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-asa-microfinance",
+      "name": "ASA Microfinance Zambia",
+      "aliases": [
+        "ASA"
+      ],
+      "type": "microfinance",
+      "group": "ASA International",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/asa-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/YwfQZ6NMqKebfKekh1UBfWWs3nvBtCTwxEEFzgQOZq39EZMP2mTtTt6BiqgnU1OzzFspRDTKUYFNbY57b1n4TVk=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-agora-microfinance",
+      "name": "Agora Microfinance Zambia",
+      "aliases": [
+        "Agora"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-biu-capital",
+      "name": "BIU Capital",
+      "aliases": [
+        "BIU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/biu-capital.svg",
+        "source": "https://play-lh.googleusercontent.com/HZUVkLEqKI13NZHXRSHC1hOj3tKjxHSVznpi0AmEJP4CiDU_xjaK9y0gqm8JKL-pXByJzJAEdgvH7weXxhgkvQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-chibuyu",
+      "name": "Chibuyu Financing Company",
+      "aliases": [
+        "Chibuyu"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-eleazar",
+      "name": "Eleazar Financial Services",
+      "aliases": [
+        "Eleazar"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-emerald-finance",
+      "name": "Emerald Finance",
+      "aliases": [
+        "Emerald"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-fmc-finance",
+      "name": "FMC Finance",
+      "aliases": [
+        "FMC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-fair-choice-finance",
+      "name": "Fair Choice Finance",
+      "aliases": [
+        "Fair Choice"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-goodfellow-finance",
+      "name": "Goodfellow Finance",
+      "aliases": [
+        "Goodfellow"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-great-north-credit",
+      "name": "Great North Credit",
+      "aliases": [
+        "Great North"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-izwe-loans",
+      "name": "Izwe Loans Zambia",
+      "aliases": [
+        "Izwe",
+        "Izwe Loans"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/izwe-loans.svg",
+        "source": "https://play-lh.googleusercontent.com/y0bMciZmGFnXMcgus_LF-jwVc_F4CvyHScMvO4dVFEaV2FCE9pxzdZP_kz6sbBdjD2bkS9ta_CC80bqEOk3xwQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-kukumba-solutions",
+      "name": "Kukumba Solutions",
+      "aliases": [
+        "Kukumba"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-liquidity-solutions",
+      "name": "Liquidity Solutions",
+      "aliases": [
+        "Liquidity"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-meanwood-finance",
+      "name": "Meanwood Finance Corporation",
+      "aliases": [
+        "Meanwood"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-microloan-foundation",
+      "name": "MicroLoan Foundation Zambia",
+      "aliases": [
+        "MicroLoan Foundation",
+        "Microloan"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-nchanga-financial",
+      "name": "Nchanga Financial Services",
+      "aliases": [
+        "Nchanga"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-robert-syls",
+      "name": "Robert & Syls Microcredit",
+      "aliases": [
+        "Robert and Syls",
+        "Robert & Syls"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-unifi-credit",
+      "name": "Unifi Credit",
+      "aliases": [
+        "Unifi"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-xtenda-finance",
+      "name": "Xtenda Finance",
+      "aliases": [
+        "Xtenda"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-yescash",
+      "name": "YesCash Zambia",
+      "aliases": [
+        "YesCash",
+        "Yes Cash"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/yescash.svg",
+        "source": "https://play-lh.googleusercontent.com/g1iYXXRP3gwnKBkGxzxU-1Q3a_dqyYkAwnK-M18bI18uhqd16nfJcIlfzXX2hE_IzY8P1YTmDghw7qzQjBmUjQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-zambou",
+      "name": "Zambou Financial Services",
+      "aliases": [
+        "Zambou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel",
+        "Airtel Mobile Commerce Zambia"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "MoMo",
+        "MTN"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mtn.zm",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-zamtel-kwacha",
+      "name": "Zamtel Kwacha",
+      "aliases": [
+        "Zamtel Mobile Money",
+        "Zamtel Money",
+        "Zamtel",
+        "Zamkwacha"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zamtel.zm",
+      "logo": {
+        "svg": "svg/logos/mobile-money/zamtel-kwacha.svg",
+        "source": "https://www.zamtel.zm/images/footer-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-zoona",
+      "name": "Zoona",
+      "aliases": [
+        "Zoona Transactions"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/zoona.svg",
+        "source": "https://play-lh.googleusercontent.com/n45xnrCHwt3ontPKpgVANs6N3XeL801y_21dX3EJJri7ypYQry9V5i8ZaIXp51do7FWEfpF75E3iNdz_-r5hs3s=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-yafika",
+      "name": "Yafika Mobile Money",
+      "aliases": [
+        "Yafika"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/yafika-mobile-money.svg",
+        "source": "https://yafika.net/images/logos/yafika_2.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-jabu-wallet",
+      "name": "Jabu Wallet",
+      "aliases": [
+        "Jabu",
+        "GoJabu"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gojabu.com/",
+      "logo": {
+        "svg": "svg/logos/fintech/jabu-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/Ii4P8yAWMGo01AL3zcx6Jrwc0sE05FodogIh6blIH3R7EZs43QEwrM5-ziDtOmp_opc79YsuDvZ9A7hoXM9kI2w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-lupiya",
+      "name": "Lupiya",
+      "aliases": [
+        "Lupiya Pay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lupiya.com",
+      "logo": {
+        "svg": "svg/logos/fintech/lupiya.svg",
+        "source": "https://cdn.prod.website-files.com/67b46660e661f56c37603996/67b48a008ddf54a37fb90c34_Lupiya%20Logo-02.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-union-54",
+      "name": "Union 54",
+      "aliases": [
+        "Union54"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.union54.com",
+      "logo": {
+        "svg": "svg/logos/fintech/union-54.svg",
+        "source": "https://www.union54.com",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-mypay",
+      "name": "MyPay",
+      "aliases": [
+        "MyPay Financial Solutions"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/mypay.svg",
+        "source": "https://play-lh.googleusercontent.com/bv7-9rsgfwU0msXh0fdz5HUMsYjeI_P2SMrbNC_G9lph2jLxoHx56BJboSyiOv7w09_8JFirDlClEEF6SAynHA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-samafrica",
+      "name": "Samafrica Online",
+      "aliases": [
+        "Samafrica"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-spargris",
+      "name": "Spargris",
+      "aliases": [
+        "Spargris Zambia"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-mukuru",
+      "name": "Mukuru",
+      "aliases": [
+        "Mukuru Money Transfer"
+      ],
+      "type": "fintech",
+      "group": "Mukuru",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mukuru.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-instapay",
+      "name": "Instapay Africorp",
+      "aliases": [
+        "Instapay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/instapay-africorp.svg",
+        "source": "https://play-lh.googleusercontent.com/_ks0_XUbrZOkeiXkjaiZEK1S-j1skuQgF1E8S3ff702CoVyaiGnbfXPK74WjgxMk0Q4v2hlhu8WTHxp52Wq0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-zampost",
+      "name": "Zampost Money Transfer",
+      "aliases": [
+        "Zambia Postal Services",
+        "Zampost",
+        "PostDotNet"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/zampost-money-transfer.svg",
+        "source": "https://play-lh.googleusercontent.com/bp-KYnDC7Mn3Bz7LM6GIGr_HY-sQHbB3XulI2fJFiN3h6DUQ4fS_l-ke511t8UonKCzp9sQpmb7xpD6nIqeXvQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    },
+    {
+      "id": "zm-jumo",
+      "name": "JUMO",
+      "aliases": [
+        "JUMO Zambia"
+      ],
+      "type": "fintech",
+      "group": "JUMO",
+      "status": "active",
+      "successor": null,
+      "website": "https://jumo.world/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.boz.zm/financial-stability/registered-financial-institutions",
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+      ]
+    }
+  ]
+}

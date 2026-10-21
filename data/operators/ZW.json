@@ -1,0 +1,697 @@
+{
+  "country": "ZW",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "partial",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf",
+    "microfinance": "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+  },
+  "operators": [
+    {
+      "id": "zw-afc-commercial-bank",
+      "name": "AFC Commercial Bank",
+      "aliases": [
+        "AFC",
+        "Agribank",
+        "Agricultural Development Bank of Zimbabwe"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://afcholdings.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-bancabc",
+      "name": "BancABC",
+      "aliases": [
+        "African Banking Corporation Zimbabwe",
+        "ABC",
+        "Banc ABC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancabc.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-cbz",
+      "name": "CBZ Bank",
+      "aliases": [
+        "CBZ",
+        "Commercial Bank of Zimbabwe"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://cbz.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/cbz-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/d6gLd66yJ-h8OQ0I0H4Gcgb16yWTctb8RRDUPjpo6v9UwUAMfFSDNCQv2_DeRF58q_BL9EJxxjoREWrFf1tuLQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-ecobank",
+      "name": "Ecobank Zimbabwe",
+      "aliases": [
+        "Ecobank",
+        "Premier Banking Corporation"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-fbc-bank",
+      "name": "FBC Bank",
+      "aliases": [
+        "FBC",
+        "First Banking Corporation"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fbc.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/fbc-bank.svg",
+        "source": "https://www.fbc.co.zw/sites/default/files/fbc-holdings-logo.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-first-capital-bank",
+      "name": "First Capital Bank Zimbabwe",
+      "aliases": [
+        "First Capital Bank",
+        "FCB",
+        "Barclays Zimbabwe"
+      ],
+      "type": "bank",
+      "group": "First Capital Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://firstcapitalbank.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/first-capital-bank.svg",
+        "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-metbank",
+      "name": "Metbank",
+      "aliases": [
+        "Metropolitan Bank of Zimbabwe"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://metbank.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-nedbank",
+      "name": "Nedbank Zimbabwe",
+      "aliases": [
+        "Nedbank",
+        "MBCA"
+      ],
+      "type": "bank",
+      "group": "Nedbank",
+      "status": "active",
+      "successor": null,
+      "website": "https://nedbank.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/nedbank.svg",
+        "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-nmb-bank",
+      "name": "NMB Bank",
+      "aliases": [
+        "NMB",
+        "NMBZ"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://nmbz.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/nmb-bank.svg",
+        "source": "https://nmbz.co.zw/nmb/sites/default/files/logo_1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-stanbic",
+      "name": "Stanbic Bank Zimbabwe",
+      "aliases": [
+        "Stanbic",
+        "Standard Bank"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.stanbicbank.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-standard-chartered",
+      "name": "Standard Chartered Zimbabwe",
+      "aliases": [
+        "Standard Chartered",
+        "StanChart"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-steward-bank",
+      "name": "Steward Bank",
+      "aliases": [
+        "Steward"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.stewardbank.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/steward-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/-NGVsA5MhGc6hAwEO-TO5gPncyB2p4Ag30JPrdh_Wc_4p13xDY1gFhlvZDctWntSj3LdhNq3KXwoxHbrZstkwMA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-zb-bank",
+      "name": "ZB Bank",
+      "aliases": [
+        "ZB",
+        "Zimbank",
+        "Zimbabwe Banking Corporation"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zb.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/zb-bank.svg",
+        "source": "https://www.zb.co.zw/sites/default/files/zblogo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-cabs",
+      "name": "CABS",
+      "aliases": [
+        "Central Africa Building Society"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cabs.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/cabs.svg",
+        "source": "https://play-lh.googleusercontent.com/qFJp0Suy2MlTi7Wvf5d1glKOIDTo4UVN_b2Kiiko4ghQDe7nTJIBH2JMhEVrMWTpl3qr4kG8DKeEDeBau6I-Xg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-fbc-building-society",
+      "name": "FBC Building Society",
+      "aliases": [
+        "FBC Building"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fbc.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/fbc-building-society.svg",
+        "source": "https://www.fbc.co.zw/sites/default/files/fbc-holdings-logo.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-nbs",
+      "name": "National Building Society",
+      "aliases": [
+        "NBS"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nbs.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/national-building-society.svg",
+        "source": "https://www.nbs.co.zw/wp-content/themes/NBS/img/nbs-logo-1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-posb",
+      "name": "POSB",
+      "aliases": [
+        "People's Own Savings Bank",
+        "Peoples Own Savings Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.posb.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/posb.svg",
+        "source": "https://play-lh.googleusercontent.com/2_NAI7OZOlA-4kon1DZFf7kQcPHt8_ElVvfR2no1dFtGYnSC7JLeDRgwEALjGy5Fji5IE7DxYEqsjl__aOPpfg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-time-bank",
+      "name": "Time Bank of Zimbabwe",
+      "aliases": [
+        "Time Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://timebank.co.zw/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://timebank.co.zw/"
+      ]
+    },
+    {
+      "id": "zw-afc-land-development-bank",
+      "name": "AFC Land & Development Bank",
+      "aliases": [
+        "AFC Land Bank",
+        "AFC Land and Development Bank of Zimbabwe"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://afcholdings.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-idbz",
+      "name": "Infrastructure Development Bank of Zimbabwe",
+      "aliases": [
+        "IDBZ"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://idbz.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-smedco",
+      "name": "SMEDCO",
+      "aliases": [
+        "Small and Medium Enterprises Development Corporation"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.smedco.co.zw",
+      "logo": {
+        "svg": "svg/logos/bank/smedco.svg",
+        "source": "https://www.smedco.co.zw/assets/img/logob.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-african-century",
+      "name": "African Century",
+      "aliases": [
+        "African Century Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://africancentury.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-empowerbank",
+      "name": "EmpowerBank",
+      "aliases": [
+        "Empower Bank"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.empowerbank.co.zw",
+      "logo": {
+        "svg": "svg/logos/microfinance/empowerbank.svg",
+        "source": "https://play-lh.googleusercontent.com/HsEjW2J8qi0DDlPNDPK_KmdjpmzW4VfH5azOyimFcnwCq2M2D1MemAunpr8CMPKniguAGnInC3DGqQEYqpqmXIM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-getbucks",
+      "name": "GetBucks Microfinance Bank",
+      "aliases": [
+        "GetBucks",
+        "Get Bucks"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.getbucksbank.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/getbucks-microfinance-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/4MDBq4dmosNZqK-SDjWHJMMLRKpvX5LElRX8ThGWzaaedSZiN_PVwl_huwfRrc-HY8tzQdKoDOBRmqpCXN1J=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-lion-microfinance",
+      "name": "Lion Microfinance",
+      "aliases": [
+        "Lion Finance",
+        "Lion"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lionfinance.co.zw",
+      "logo": {
+        "svg": "svg/logos/microfinance/lion-microfinance.svg",
+        "source": "https://www.lionfinance.co.zw/images/resources/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-success-microfinance",
+      "name": "Success Microfinance Bank",
+      "aliases": [
+        "Success Microbank",
+        "Success"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.successmicrobank.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-zwmb",
+      "name": "Zimbabwe Women's Microfinance Bank",
+      "aliases": [
+        "ZWMB",
+        "Women's Bank",
+        "Womens Bank",
+        "Zimbabwe Womens Microfinance Bank"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.womensbank.co.zw",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-innbucks",
+      "name": "InnBucks",
+      "aliases": [
+        "InnBucks Microbank",
+        "Inn Bucks",
+        "Innbucks"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.innbucks.co.zw",
+      "logo": {
+        "svg": "svg/logos/mobile-money/innbucks.svg",
+        "source": "https://play-lh.googleusercontent.com/oxMqivKGKFyTE6LBfNRrjkXmCbFcOUinLp2O4fIcSh5-7LcX_dhkN8f-eVpGTv5RKX-Grkuf_zP_kWJaiqQWlw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
+      ]
+    },
+    {
+      "id": "zw-ecocash",
+      "name": "EcoCash",
+      "aliases": [
+        "Ecocash",
+        "Eco Cash",
+        "Econet"
+      ],
+      "type": "mobile_money",
+      "group": "Econet",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.econet.co.zw",
+      "logo": {
+        "svg": "svg/logos/mobile-money/ecocash.svg",
+        "source": "https://play-lh.googleusercontent.com/p8KM6TJr6mODf24U8AhPlX1uofQp5dATtVOdQxUoPHEgrWCvucuEb89Q5L8An36PBSb2iaoXn2i1H1QcPwFtyA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.econet.co.zw"
+      ]
+    },
+    {
+      "id": "zw-onemoney",
+      "name": "OneMoney",
+      "aliases": [
+        "One Money",
+        "NetOne"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.onemoney.co.zw",
+      "logo": {
+        "svg": "svg/logos/mobile-money/onemoney.svg",
+        "source": "https://play-lh.googleusercontent.com/sMkS6GQjBFWYaoGDhMGco6B4NxmdBV1qyvhuihEmJC0eYtH37gxaQ23DAVl-r9k722otLT837KTlsOOMkyC0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.onemoney.co.zw"
+      ]
+    },
+    {
+      "id": "zw-omari",
+      "name": "O'mari",
+      "aliases": [
+        "Omari",
+        "O mari",
+        "Old Mutual"
+      ],
+      "type": "mobile_money",
+      "group": "Old Mutual",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.omari.co.zw",
+      "logo": {
+        "svg": "svg/logos/mobile-money/o-mari.svg",
+        "source": "https://www.omari.co.zw/images/logo.webp",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.omari.co.zw"
+      ]
+    }
+  ]
+}

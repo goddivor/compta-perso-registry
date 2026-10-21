@@ -1,0 +1,457 @@
+{
+  "country": "DJ",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://banque-centrale.dj/les-etablissements-agrees/",
+    "mobile_money": "https://banque-centrale.dj/les-etablissements-agrees/",
+    "microfinance": "https://banque-centrale.dj/les-etablissements-agrees/"
+  },
+  "operators": [
+    {
+      "id": "dj-boa-mer-rouge",
+      "name": "BOA Mer Rouge",
+      "aliases": [
+        "Bank of Africa Mer Rouge",
+        "BOAMR",
+        "BOA",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-bcimr",
+      "name": "BCIMR",
+      "aliases": [
+        "Banque pour le Commerce et l'Industrie Mer Rouge",
+        "BCI Mer Rouge"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bcimr.svg",
+        "source": "https://play-lh.googleusercontent.com/wXKfAn7ab3JMqng30TlCi6TSepvPbqg7uM81K7cBJV_8FYSDxIUZGgy48P_kOQ5F2iS-emToaz1hW7UxXdC7TQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-iib",
+      "name": "IIB",
+      "aliases": [
+        "Intercontinental Investment Bank",
+        "Intercontinental Investment Bank SA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-bdcd",
+      "name": "BDCD",
+      "aliases": [
+        "Banque de Dépôt et Crédit de Djibouti"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-cac-international-bank",
+      "name": "CAC International Bank",
+      "aliases": [
+        "CAC Bank",
+        "CAC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-exim-bank-djibouti",
+      "name": "Exim Bank Djibouti",
+      "aliases": [
+        "Exim Bank",
+        "Exim"
+      ],
+      "type": "bank",
+      "group": "Exim Bank Tanzania",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-cbe-djibouti",
+      "name": "CBE Djibouti",
+      "aliases": [
+        "Commercial Bank of Ethiopia Djibouti",
+        "Commercial Bank of Ethiopia",
+        "CBE"
+      ],
+      "type": "bank",
+      "group": "Commercial Bank of Ethiopia",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-bank-of-china-djibouti",
+      "name": "Bank of China Djibouti",
+      "aliases": [
+        "Bank of China",
+        "BOC"
+      ],
+      "type": "bank",
+      "group": "Bank of China",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-china.svg",
+        "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-international-business-bank-djibouti",
+      "name": "International Business Bank Djibouti",
+      "aliases": [
+        "IBB Djibouti",
+        "International Business Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-banque-misr-djibouti",
+      "name": "Banque Misr Djibouti",
+      "aliases": [
+        "Banque Misr Djibouti SA",
+        "Banque Misr"
+      ],
+      "type": "bank",
+      "group": "Banque Misr",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-misr.svg",
+        "source": "https://www.banquemisr.com/Assets/Images/bmp-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-cac-islamic-bank",
+      "name": "CAC Islamic Bank",
+      "aliases": [
+        "CACIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-saba-african-bank",
+      "name": "Saba African Bank",
+      "aliases": [
+        "SABA",
+        "Saba Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-salaam-african-bank",
+      "name": "Salaam African Bank",
+      "aliases": [
+        "SAB",
+        "Salaam Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/salaam-african-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/fQo2sk4zIR-EWYQsG4uvHUgNDRltFAw7mle7zUoJO6CI_BXu6Z8pnw9kXRszHHDd711SvWahIstIweU6ARCtoLk=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-east-africa-bank",
+      "name": "East Africa Bank",
+      "aliases": [
+        "EAB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-d-money",
+      "name": "D-Money",
+      "aliases": [
+        "DMoney",
+        "D Money",
+        "Djibouti Telecom"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/d-money.svg",
+        "source": "https://play-lh.googleusercontent.com/0GAHK2npJxs8Wd_YnqmDNzHeIXLa_KaZikbf_6ONOh_fCwztYC2BzQOtoxxJd0VCDT4S4NoU_CKuAu0EVi9Eeio=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-waafi",
+      "name": "Waafi",
+      "aliases": [
+        "WAAFI",
+        "Waafi Djibouti"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/waafi.svg",
+        "source": "https://play-lh.googleusercontent.com/WebSiCg8VA45ly2-olnTh4-o4ETPmfQYpfPYFL7tcscWqqU9KCswlMhMbIhkmPvXrQQpwt50-_JILGrPaEnxtw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-cpec-djibouti",
+      "name": "CPEC Djibouti",
+      "aliases": [
+        "Caisse Populaire d'Epargne et de Crédit de Djibouti",
+        "CPECD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-cpec-nord",
+      "name": "CPEC Nord",
+      "aliases": [
+        "Caisse Populaire d'Epargne et de Crédit du Nord",
+        "CPECN"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-cpec-sud",
+      "name": "CPEC Sud",
+      "aliases": [
+        "Caisse Populaire d'Epargne et de Crédit du Sud",
+        "CPECS"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    },
+    {
+      "id": "dj-upmfi",
+      "name": "UPMFI",
+      "aliases": [
+        "Unité Pilote de Microfinance Islamique"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-centrale.dj/les-etablissements-agrees/"
+      ]
+    }
+  ]
+}

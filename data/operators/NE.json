@@ -1,0 +1,712 @@
+{
+  "country": "NE",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf"
+  },
+  "operators": [
+    {
+      "id": "ne-bank-of-africa-niger",
+      "name": "Bank of Africa Niger",
+      "aliases": [
+        "BOA Niger",
+        "BOA",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.boaniger.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-banque-agricole-du-niger",
+      "name": "Banque Agricole du Niger",
+      "aliases": [
+        "BAGRI",
+        "BAGRI Niger"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-banque-atlantique-niger",
+      "name": "Banque Atlantique Niger",
+      "aliases": [
+        "Banque Atlantique"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-banque-commerciale-du-niger",
+      "name": "Banque Commerciale du Niger",
+      "aliases": [
+        "BCN"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-banque-de-l-habitat-du-niger",
+      "name": "Banque de l'Habitat du Niger",
+      "aliases": [
+        "BHN"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-bia-niger",
+      "name": "BIA Niger",
+      "aliases": [
+        "Banque Internationale pour l'Afrique au Niger",
+        "BIA-Niger",
+        "BIA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-banque-islamique-du-niger",
+      "name": "Banque Islamique du Niger",
+      "aliases": [
+        "BIN"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-bsic-niger",
+      "name": "BSIC Niger",
+      "aliases": [
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Niger",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce Niger",
+        "BSIC"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-ecobank-niger",
+      "name": "Ecobank Niger",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/ne/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-sonibank",
+      "name": "SONIBANK",
+      "aliases": [
+        "Société Nigérienne de Banque",
+        "Societe Nigerienne de Banque",
+        "Sonibank Niger"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-brm-niger",
+      "name": "BRM Niger",
+      "aliases": [
+        "Banque Régionale de Marchés",
+        "Banque Regionale de Marches",
+        "BRM"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-cbao-niger",
+      "name": "CBAO Niger",
+      "aliases": [
+        "CBAO Groupe Attijariwafa Bank",
+        "CBAO",
+        "Attijariwafa Bank"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/cbao.svg",
+        "source": "https://play-lh.googleusercontent.com/cGLGc9gbiqMApeaRa1EutCzwO1g51zEvIs3aixUmPgjDsuaUoD9j_K0hqLT2JoRLTPjs2Ah4I9R7A1PLZd9-AU8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-coris-bank-international-niger",
+      "name": "Coris Bank International Niger",
+      "aliases": [
+        "CBI Niger",
+        "Coris Bank",
+        "CBI"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-orabank-niger",
+      "name": "Orabank Niger",
+      "aliases": [
+        "Orabank",
+        "Orabank Côte d’Ivoire succursale du Niger",
+        "Orabank Cote d’Ivoire succursale du Niger"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Niger",
+        "Airtel"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.airtel.ne",
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ne-zamani-cash",
+      "name": "Zamani Cash",
+      "aliases": [
+        "Orange Money Niger",
+        "Orange Money",
+        "Zamani",
+        "Zamani Telecom"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/zamani-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/kt8wLnUMoz26ry1DVrU2vjBOFoCETzvco5fJM5LWy_3LdWWtTJzWaxGRVl_0SnAP1NJrIGyXEY-8CtGnUZu5sGs=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+        "https://niger.un.org/fr/node/234230"
+      ]
+    },
+    {
+      "id": "ne-moov-flooz",
+      "name": "Moov Flooz",
+      "aliases": [
+        "Flooz",
+        "Moov Money",
+        "Moov Africa",
+        "Moov Africa Niger"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.moov-africa.ne",
+      "logo": {
+        "svg": "svg/logos/mobile-money/moov-flooz.svg",
+        "source": "https://www.moov-africa.ne/wp-content/uploads/2021/04/logo-moov-africa_niger-1.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ne-wave",
+      "name": "Wave",
+      "aliases": [
+        "Wave Niger",
+        "Wave Mobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "Wave",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wave.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/wave.svg",
+        "source": "https://www.wave.com/img/nav-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ne-coris-money",
+      "name": "Coris Money",
+      "aliases": [
+        "Coris Money Niger"
+      ],
+      "type": "mobile_money",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/coris-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ne-mynita",
+      "name": "MyNITA",
+      "aliases": [
+        "My NITA",
+        "NITA"
+      ],
+      "type": "mobile_money",
+      "group": "NITA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mynita.svg",
+        "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ne-amanata",
+      "name": "Amanata",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/amanata.svg",
+        "source": "https://play-lh.googleusercontent.com/VXDu6FNrz0TrAR0VZ-txL1oKfUTTgfUTB8Rl6VgPTA83PSiW458bo7FECzaiPQIg7LFbg8dsEDT22R2iDfxFrSM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ne-al-izza-business-pay",
+      "name": "Al Izza Business Pay",
+      "aliases": [
+        "Al Izza Pay",
+        "Al-Izza"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/al-izza-business-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/Ksf499CepGGLod-8xXjIGNIwrLbHSuTCj3MpR454_KqDNHiixCwK8HzkGYzm2-TLdEh2BvzgmaPJC3YtvCo-=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ne-nita",
+      "name": "NITA",
+      "aliases": [
+        "Niger Transfert d'Argent",
+        "NITA Transfert"
+      ],
+      "type": "fintech",
+      "group": "NITA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/nita.svg",
+        "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-al-izza-transfert",
+      "name": "Al-Izza Transfert",
+      "aliases": [
+        "Al-Izza Transfert d'Argent International",
+        "Al Izza"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-amana-transfert",
+      "name": "Amana Transfert",
+      "aliases": [
+        "Amana Transfert d'Argent et Finance",
+        "Amana"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/amana-transfert.svg",
+        "source": "https://play-lh.googleusercontent.com/VXDu6FNrz0TrAR0VZ-txL1oKfUTTgfUTB8Rl6VgPTA83PSiW458bo7FECzaiPQIg7LFbg8dsEDT22R2iDfxFrSM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-bnif-afuwa",
+      "name": "BNIF Afuwa",
+      "aliases": [
+        "Bureau National d'Intermédiation Financière",
+        "Bureau National d'Intermediation Financiere",
+        "Afuwa",
+        "BNIF"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-ifutur",
+      "name": "iFUTUR",
+      "aliases": [
+        "iFutur",
+        "i-Futur"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ne-mcpec",
+      "name": "MCPEC",
+      "aliases": [
+        "Mouvement des Caisses Populaires d'Epargne et de Crédit",
+        "Mouvement des Caisses Populaires d'Epargne et de Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ne-acep-niger",
+      "name": "ACEP Niger",
+      "aliases": [
+        "ACEP Niger SA",
+        "ACEP"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://acepniger.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/acep.svg",
+        "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ne-capital-finance",
+      "name": "Capital Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ne-asusu",
+      "name": "Asusu",
+      "aliases": [
+        "Asusu SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://asusu-sa.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/asusu.svg",
+        "source": "http://www.asusu-sa.com/theme/asusu/img/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "country": "TD",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "partial",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+    "mobile_money": "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+  },
+  "operators": [
+    {
+      "id": "td-coris-bank",
+      "name": "Coris Bank International Tchad",
+      "aliases": [
+        "Coris Bank Tchad",
+        "CBI Tchad",
+        "Coris",
+        "Société Générale Tchad",
+        "SGT",
+        "Societe Generale Tchad"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": "https://tchad.coris.bank/",
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.financialafrik.com/2025/06/18/coris-bank-tchad-officiellement-lancee/",
+        "https://tchad.coris.bank/lentreprise/"
+      ]
+    },
+    {
+      "id": "td-vista-bank",
+      "name": "Vista Bank Tchad",
+      "aliases": [
+        "Vista Bank Chad",
+        "BAC",
+        "Banque Agricole et Commerciale",
+        "Vista"
+      ],
+      "type": "bank",
+      "group": "Vista",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/vista.svg",
+        "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.financialafrik.com/2026/03/31/vista-finalise-lacquisition-de-la-bac-et-lance-vista-bank-tchad/",
+        "https://tchadinfos.com/2026/03/30/tchad-vista-group-holding-acquiert-la-banque-agricole-et-commercialepour-lancer-vista-bank-tchad/"
+      ]
+    },
+    {
+      "id": "td-bcc",
+      "name": "Banque Commerciale du Chari",
+      "aliases": [
+        "BCC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-commerciale-du-chari.svg",
+        "source": "https://play-lh.googleusercontent.com/aiffcJA9bKaNlj9AOYMTLednYgFzdqO9t9abwGwM981sgCYeCZUYkl30OB9BjhOQvcy5ASc69VQRprGlaUk_new=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Tchad_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "td-cbt",
+      "name": "Commercial Bank Tchad",
+      "aliases": [
+        "CBT"
+      ],
+      "type": "bank",
+      "group": "Commercial Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/commercial-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/z74gptYV6jhhPr_9ITlF7lfq2cjPwO9pf-zSCSeMECDSzqKAKePkx91JhitJBXzNfmikzNI9ee2YFNOSZQTr8g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+        "https://tchadinfos.com/2025/12/09/economie-commercial-bank-tchad-inaugure-sa-nouvelle-agence-de-farcha/"
+      ]
+    },
+    {
+      "id": "td-ecobank",
+      "name": "Ecobank Tchad",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+        "https://www.ecobank.com/td/personal-banking/countries"
+      ]
+    },
+    {
+      "id": "td-orabank",
+      "name": "Orabank Tchad",
+      "aliases": [
+        "Orabank",
+        "Financial Bank Tchad",
+        "FBT"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Tchad_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "td-bsic",
+      "name": "BSIC Tchad",
+      "aliases": [
+        "BSIC",
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Tchad_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "td-uba",
+      "name": "UBA Tchad",
+      "aliases": [
+        "United Bank for Africa Tchad",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Tchad_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "td-bht",
+      "name": "Banque de l'Habitat du Tchad",
+      "aliases": [
+        "BHT"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
+        "https://www.financialafrik.com/2026/10/20/atlantic-financial-group-afg-prend-le-controle-de-la-banque-de-lhabitat-du-tchad/"
+      ]
+    },
+    {
+      "id": "td-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Tchad",
+        "Airtel Mobile Commerce Tchad"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "td-moov-money",
+      "name": "Moov Money",
+      "aliases": [
+        "Moov Money Tchad",
+        "Moov Africa",
+        "Tigo Cash"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/moov-money.svg",
+        "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://ecomatin.net/tchad-moov-money-decroche-son-agrement-detablissement-de-paiement",
+        "https://tchadinfos.com/2025/01/29/annonce-moov-africa-tchad-honore-par-lorganisation-mondiale-des-douanes-pour-sa-contribution-a-la-digitalisation-de-la-collecte-des-recettes-douanieres-au-tchad/"
+      ]
+    },
+    {
+      "id": "td-express-union-tchad",
+      "name": "Express Union Tchad",
+      "aliases": [
+        "EUT",
+        "Express Union"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.ifc.org/en/pressroom/2023/ifc-partners-with-express-union-chad-to-boost-financial-inclusion-in-chad"
+      ]
+    },
+    {
+      "id": "td-ucec-mk",
+      "name": "UCEC-MK",
+      "aliases": [
+        "UCEC MK"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.mfw4a.org/country/chad"
+      ]
+    }
+  ]
+}

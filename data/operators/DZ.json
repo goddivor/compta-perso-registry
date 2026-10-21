@@ -1,0 +1,539 @@
+{
+  "country": "DZ",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/"
+  },
+  "operators": [
+    {
+      "id": "dz-bea",
+      "name": "Banque Extérieure d'Algérie",
+      "aliases": [
+        "BEA",
+        "Banque Exterieure d'Algerie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bea.dz",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-bna",
+      "name": "Banque Nationale d'Algérie",
+      "aliases": [
+        "BNA",
+        "Banque Nationale d'Algerie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bna.dz",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-cpa",
+      "name": "Crédit Populaire d'Algérie",
+      "aliases": [
+        "CPA",
+        "Credit Populaire d'Algerie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cpa-bank.dz",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-bdl",
+      "name": "Banque de Développement Local",
+      "aliases": [
+        "BDL",
+        "Banque de Developpement Local"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bdl.dz",
+      "logo": {
+        "svg": "svg/logos/bank/banque-de-developpement-local.svg",
+        "source": "https://www.bdl.dz/wp-content/uploads/2022/12/logo-1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-badr",
+      "name": "BADR",
+      "aliases": [
+        "Banque de l'Agriculture et du Développement Rural",
+        "BADR Bank",
+        "Banque de l'Agriculture et du Developpement Rural"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-cnep",
+      "name": "CNEP-Banque",
+      "aliases": [
+        "CNEP",
+        "CNEP Banque",
+        "Caisse Nationale d'Épargne et de Prévoyance",
+        "Caisse Nationale d'Epargne et de Prevoyance"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/cnep-banque.svg",
+        "source": "https://play-lh.googleusercontent.com/57oakNhX5jHT4aKL-6HE6yjjiBf_vgsJelVu-e6L7SpZkmL3o_j6ZSv9n_Xv7vO1akGZeA2uYFch-J2bkKb7Zg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-bnh",
+      "name": "Banque Nationale de l'Habitat",
+      "aliases": [
+        "BNH"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-al-baraka",
+      "name": "Al Baraka d'Algérie",
+      "aliases": [
+        "Banque Al Baraka d'Algérie",
+        "Al Baraka Bank",
+        "Al Baraka d'Algerie",
+        "Albaraka"
+      ],
+      "type": "bank",
+      "group": "Al Baraka",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.albaraka-bank.dz",
+      "logo": {
+        "svg": "svg/logos/bank/al-baraka.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-citibank",
+      "name": "Citibank Algeria",
+      "aliases": [
+        "Citibank N.A. Algeria",
+        "Citi",
+        "Citibank Algérie"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-bank-abc",
+      "name": "Bank ABC Algérie",
+      "aliases": [
+        "Arab Banking Corporation Algeria",
+        "ABC Algeria",
+        "Bank ABC",
+        "Bank ABC Algerie"
+      ],
+      "type": "bank",
+      "group": "Bank ABC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-abc.svg",
+        "source": "https://play-lh.googleusercontent.com/lD_fzc9mOn-eCQ54OuTRIDzM1e2Km_X_v7z_pzdgsXkjUsm889fyHJY_Ar6KcMcqoYNLEV_uiwJ5nUOQbdHbmg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-natixis",
+      "name": "Natixis Algérie",
+      "aliases": [
+        "Natixis",
+        "Natixis Algerie"
+      ],
+      "type": "bank",
+      "group": "Natixis",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.natixis.dz",
+      "logo": {
+        "svg": "svg/logos/bank/natixis.svg",
+        "source": "https://play-lh.googleusercontent.com/JgHUwhmOxS1niPcj49fZDlvxS3-UwGTD4ZVog6tOY3lZLv5ldTOSY_3rVcR5VKy0v1X-hVIhQ5c7E0aAp7MrbqM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-societe-generale",
+      "name": "Société Générale Algérie",
+      "aliases": [
+        "SGA",
+        "Societe Generale Algerie",
+        "Société Générale"
+      ],
+      "type": "bank",
+      "group": "Société Générale",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.societegenerale.dz",
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-arab-bank",
+      "name": "Arab Bank Algeria",
+      "aliases": [
+        "Arab Bank PLC Algeria",
+        "Arab Bank"
+      ],
+      "type": "bank",
+      "group": "Arab Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/arab-bank.svg",
+        "source": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-bnp-paribas",
+      "name": "BNP Paribas El Djazaïr",
+      "aliases": [
+        "BNP Paribas Al-Djazair",
+        "BNP Paribas El Djazair",
+        "BNP Paribas"
+      ],
+      "type": "bank",
+      "group": "BNP Paribas",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bnpparibas.dz",
+      "logo": {
+        "svg": "svg/logos/bank/bnp-paribas.svg",
+        "source": "https://play-lh.googleusercontent.com/473y5IxooyykDBp0X1vf-m3SLhu3dXxnlZuQhIlFzJWjlQjdnC4kqYWXSe5t6xAHLbq90g_7q1JjnB3RkklHGw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-trust-bank",
+      "name": "Trust Bank Algeria",
+      "aliases": [
+        "Trust Bank",
+        "Trust Bank Algérie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.trustbank.dz",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-housing-bank",
+      "name": "The Housing Bank Algeria",
+      "aliases": [
+        "The Housing Bank for Trade and Finance Algeria",
+        "HBTF",
+        "Housing Bank"
+      ],
+      "type": "bank",
+      "group": "Housing Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-gulf-bank",
+      "name": "Gulf Bank Algérie",
+      "aliases": [
+        "AGB",
+        "Gulf Bank Algeria",
+        "Gulf Bank Algerie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gulf-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/y4H0tqwqAUNmLCQjSycvzRW_mJEogFCkXvF39AX5yibPPSKqX52jY-P1YYeWXmZRczYLXr8iToRxpBXEJVEeSw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-fransabank",
+      "name": "Fransabank El Djazaïr",
+      "aliases": [
+        "Fransabank Al-Djazair",
+        "Fransabank",
+        "Fransabank El Djazair"
+      ],
+      "type": "bank",
+      "group": "Fransabank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fransabank.dz",
+      "logo": {
+        "svg": "svg/logos/bank/fransabank.svg",
+        "source": "https://www.fransabank.dz/wp-content/themes/finbank-child/images/logo-fr.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-hsbc",
+      "name": "HSBC Algeria",
+      "aliases": [
+        "HSBC",
+        "HSBC Algérie"
+      ],
+      "type": "bank",
+      "group": "HSBC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/hsbc.svg",
+        "source": "https://www.business.hsbc.co.mu/-/media/project/common/logos/hsbc-logo.svg?iar=0&hash=760ECB6B4C7C98D34B9FD48EC152BB77",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-al-salam",
+      "name": "Al Salam Bank Algeria",
+      "aliases": [
+        "Al Salam Bank",
+        "Al Salam Bank-Algeria",
+        "Alsalam Algeria"
+      ],
+      "type": "bank",
+      "group": "Al Salam Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.alsalamalgeria.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
+        "https://algerie-eco.com/?p=209197"
+      ]
+    },
+    {
+      "id": "dz-ziraat",
+      "name": "Ziraat Bank Algeria",
+      "aliases": [
+        "T.C. Ziraat Bankası Algeria",
+        "Ziraat Bankasi",
+        "Ziraat Bank"
+      ],
+      "type": "bank",
+      "group": "Ziraat Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ziraat-bank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziraat_Bankas%C4%B1_logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/"
+      ]
+    },
+    {
+      "id": "dz-algerie-poste",
+      "name": "Algérie Poste",
+      "aliases": [
+        "Algerie Poste",
+        "CCP",
+        "BaridiMob",
+        "Baridi Mob",
+        "Edahabia",
+        "Eddahabia",
+        "Poste"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/algerie-poste.svg",
+        "source": "https://play-lh.googleusercontent.com/2abr63Zw3vuxvLQQvndDtY8b8Mhv7h_uL_Ke8mGnJ1AgI8URV1MDxavBg13MaRxysQ7bNpUiR06ZaeUMREjD=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alg%C3%A9rie_Poste",
+        "https://algerie-eco.com/2020/12/22/algerie-poste-lancement-du-service-recharge-mobil-sur-baridimob/"
+      ]
+    }
+  ]
+}

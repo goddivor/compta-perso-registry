@@ -1,0 +1,180 @@
+{
+  "country": "GQ",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "partial",
+    "mobile_money": "partial",
+    "microfinance": "none",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
+    "mobile_money": "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+  },
+  "operators": [
+    {
+      "id": "gq-bange",
+      "name": "BANGE",
+      "aliases": [
+        "Banco Nacional de Guinea Ecuatorial"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bange.svg",
+        "source": "https://play-lh.googleusercontent.com/Se22a8LTe9P6ekkIOQUg-EmchCooEr65Ijezs_I95yenSkvzqvjiekkwB2LAoJqGhDfleOJdcfNHjkbx7kqm=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Equatorial_Guinea",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Guin_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "gq-bgfibank",
+      "name": "BGFIBank Guinea Ecuatorial",
+      "aliases": [
+        "BGFI",
+        "BGFIBank GE",
+        "BGFIBank Equatorial Guinea"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Equatorial_Guinea",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Guin_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "gq-cceibank",
+      "name": "CCEI Bank GE",
+      "aliases": [
+        "CCEIBANK",
+        "CCEI Bank Guinea Ecuatorial",
+        "CCEI-GE"
+      ],
+      "type": "bank",
+      "group": "Afriland First Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Equatorial_Guinea",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Guin_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "gq-cbge",
+      "name": "Commercial Bank Guinée Equatoriale",
+      "aliases": [
+        "CBGE",
+        "Commercial Bank GE",
+        "Commercial Bank Guinee Equatoriale"
+      ],
+      "type": "bank",
+      "group": "Commercial Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/commercial-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/z74gptYV6jhhPr_9ITlF7lfq2cjPwO9pf-zSCSeMECDSzqKAKePkx91JhitJBXzNfmikzNI9ee2YFNOSZQTr8g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Equatorial_Guinea"
+      ]
+    },
+    {
+      "id": "gq-ecobank",
+      "name": "Ecobank Guinea Ecuatorial",
+      "aliases": [
+        "Ecobank",
+        "Ecobank Equatorial Guinea"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Equatorial_Guinea",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_Guin_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "gq-getesa-money",
+      "name": "GETESA Money",
+      "aliases": [
+        "GETESA"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/getesa-money.svg",
+        "source": "https://getesa.gq/site-assets/images/getesa-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.electronicpaymentsinternational.com/news/comviva-getesa-digital-payments-partnership/"
+      ]
+    },
+    {
+      "id": "gq-bgfimoney",
+      "name": "BGFIMoney",
+      "aliases": [
+        "BGFI Money",
+        "BGFIMobile"
+      ],
+      "type": "mobile_money",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bgfimoney.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    }
+  ]
+}

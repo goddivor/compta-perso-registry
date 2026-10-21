@@ -1,0 +1,2718 @@
+{
+  "country": "CD",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.bcc.cd/intermediaires-financiers/banques-agreees",
+    "mobile_money": "https://www.bcc.cd/intermediaires-financiers/etablissements-monnaie-electronique",
+    "microfinance": "https://www.bcc.cd/intermediaires-financiers/microfinance"
+  },
+  "operators": [
+    {
+      "id": "cd-uba",
+      "name": "UBA RDC",
+      "aliases": [
+        "United Bank for Africa DRC",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-tmb",
+      "name": "Trust Merchant Bank",
+      "aliases": [
+        "TMB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.tmb.cd/",
+      "logo": {
+        "svg": "svg/logos/bank/trust-merchant-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/YEqgE-rwNJXqL5wczESm6sTDFCS3Y4xmlQUYYh_kz0dnqfBv6Pw7atYdz29EADaBFx1TOhe-2dhETjM98TeZ1A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-standard-bank",
+      "name": "Standard Bank Congo",
+      "aliases": [
+        "Standard Bank"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardbank.cd/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-solidaire-banque",
+      "name": "Solidaire Banque",
+      "aliases": [
+        "Solidaire"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.solidairebanque.com/",
+      "logo": {
+        "svg": "svg/logos/bank/solidaire-banque.svg",
+        "source": "https://www.solidairebanque.com/images/fixed/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-sofibanque",
+      "name": "Sofibanque",
+      "aliases": [
+        "SOFIBANQUE"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/sofibanque.svg",
+        "source": "https://play-lh.googleusercontent.com/aaZiUqALnSg44WE6MFDQgUbjU7DlE9LrO_9Ho_bAo4cLkwpU59ubh08imUG-rAQgGFpZhbTd7Lspt-JJEakySEE=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-rawbank",
+      "name": "Rawbank",
+      "aliases": [
+        "RAW Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.rawbank.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-megabank",
+      "name": "MEGABANK DRC",
+      "aliases": [
+        "Megabank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-fbnbank",
+      "name": "FBNBank DRC",
+      "aliases": [
+        "FirstBank DRC",
+        "FBN Bank",
+        "First Bank"
+      ],
+      "type": "bank",
+      "group": "FirstBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/fbnbank.svg",
+        "source": "https://play-lh.googleusercontent.com/X8N6kEAHBE_VC5XOHEeT6lDaJ1r9hZAnn65LFqL3qZfAskniKkf81B1eSBA_Gz_fWb27IukVkwq1gb1OLTPCdg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-equity-bcdc",
+      "name": "Equity BCDC",
+      "aliases": [
+        "Equity Banque Commerciale du Congo",
+        "BCDC",
+        "Equity"
+      ],
+      "type": "bank",
+      "group": "Equity",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/equity.svg",
+        "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-ecobank",
+      "name": "Ecobank RDC",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-citi",
+      "name": "Citi Group Congo",
+      "aliases": [
+        "Citibank",
+        "Citi"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-crdb",
+      "name": "CRDB Bank DR Congo",
+      "aliases": [
+        "CRDB"
+      ],
+      "type": "bank",
+      "group": "CRDB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/crdb.svg",
+        "source": "https://crdbbank.co.tz/storage/app/media/images/logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-boa",
+      "name": "Bank of Africa RDC",
+      "aliases": [
+        "BOA",
+        "BOA RDC",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.boa-rdc.com/",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-bgfibank",
+      "name": "BGFIBank RDC",
+      "aliases": [
+        "BGFI",
+        "BGFIBank"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-afriland-first-bank",
+      "name": "Afriland First Bank CD",
+      "aliases": [
+        "Afriland",
+        "Afriland First Bank"
+      ],
+      "type": "bank",
+      "group": "Afriland First Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-access-bank",
+      "name": "Access Bank RDC",
+      "aliases": [
+        "Access Bank",
+        "Access"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/banques-agreees"
+      ]
+    },
+    {
+      "id": "cd-cadeco",
+      "name": "CADECO",
+      "aliases": [
+        "Caisse Générale d'Épargne du Congo"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cadeco.cd/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/caisse-epargne-credit"
+      ]
+    },
+    {
+      "id": "cd-m-pesa",
+      "name": "M-Pesa",
+      "aliases": [
+        "Vodacash",
+        "Vodacom M-Pesa",
+        "MPesa"
+      ],
+      "type": "mobile_money",
+      "group": "Vodacom",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/m-pesa.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/etablissements-monnaie-electronique",
+        "https://www.vodacom.cd/"
+      ]
+    },
+    {
+      "id": "cd-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money RDC",
+        "OM"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.cd/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/etablissements-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "cd-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money RDC"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/etablissements-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "cd-afrimoney",
+      "name": "Afrimoney",
+      "aliases": [
+        "Afrimobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "Africell",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.africell.cd/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/afrimoney.svg",
+        "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/etablissements-monnaie-electronique",
+        "https://www.africell.cd/"
+      ]
+    },
+    {
+      "id": "cd-lbc",
+      "name": "LBC",
+      "aliases": [
+        "Société de Microfinance Light in Business, en sigle LBC",
+        "Light in Business"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-smico",
+      "name": "SMICO",
+      "aliases": [
+        "Société de Microcrédit Congolais, en sigle SMICO",
+        "Société de Microcrédit Congolais"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-procfin-sa",
+      "name": "PROCFIN SA",
+      "aliases": [
+        "Société de Micro finance PROCFIN SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-vision-fund",
+      "name": "VISION FUND",
+      "aliases": [
+        "Société de Micro Finance VISION FUND"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-tid-sa",
+      "name": "TID SA",
+      "aliases": [
+        "Société de Micro Finance Trust Investiment Développement, en sigle TID SA",
+        "Trust Investiment Développement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-tujenge-pamoja",
+      "name": "TUJENGE PAMOJA",
+      "aliases": [
+        "Société de Micro Finance TUJENGE PAMOJA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-tujenge",
+      "name": "TUJENGE",
+      "aliases": [
+        "Société de Micro Finance TUJENGE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-paidek",
+      "name": "PAIDEK",
+      "aliases": [
+        "Société de Micro Finance PAIDEK"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/paidek.svg",
+        "source": "https://play-lh.googleusercontent.com/zmBVv1S-qKeIgikv5y71aPL2TNqFbohE_3nrRTnWzopO0tW7835S2CDJS7SGUDrzVichxi2qbV4sP4bn6jKOug=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-micropop-s-a",
+      "name": "MICROPOP S.A",
+      "aliases": [
+        "Société de Micro Finance MICROPOP S.A"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-lolc",
+      "name": "LOLC",
+      "aliases": [
+        "Société de Micro Finance LOLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-imf-bisou-bisou",
+      "name": "IMF BISOU BISOU",
+      "aliases": [
+        "Société de Micro Finance IMF BISOU BISOU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-ifod-sa",
+      "name": "IFOD SA",
+      "aliases": [
+        "Société de Micro Finance IFOD SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-hekima",
+      "name": "HEKIMA",
+      "aliases": [
+        "Société de Micro Finance HEKIMA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-guilgal-sa",
+      "name": "GUILGAL SA",
+      "aliases": [
+        "Société de Micro Finance GUILGAL SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-finca-rd-congo",
+      "name": "FINCA RD CONGO",
+      "aliases": [
+        "Société de Micro Finance FINCA RD CONGO",
+        "FINCA"
+      ],
+      "type": "microfinance",
+      "group": "FINCA",
+      "status": "active",
+      "successor": null,
+      "website": "https://finca.cd/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-baobab",
+      "name": "BAOBAB",
+      "aliases": [
+        "Société de Micro Finance BAOBAB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/microfinance"
+      ]
+    },
+    {
+      "id": "cd-emilac",
+      "name": "EMILAC",
+      "aliases": [
+        "Entreprise de Microcrédit Laity du Congo, en sigle EMILAC",
+        "Laity du Congo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-crec",
+      "name": "CREC",
+      "aliases": [
+        "Entreprise de Micro-Crédit CREC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-kitumaini-sa",
+      "name": "KITUMAINI SA",
+      "aliases": [
+        "Entreprise de Micro crédit KITUMAINI SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-watu",
+      "name": "WATU",
+      "aliases": [
+        "Entreprise de Micro Crédit WATU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-tgd-sarl",
+      "name": "TGD sarl",
+      "aliases": [
+        "Entreprise de Micro Crédit TGD sarl"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-mama-tombwama",
+      "name": "MAMA TOMBWAMA",
+      "aliases": [
+        "Entreprise de Micro Crédit MAMA TOMBWAMA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-lisanga-credit",
+      "name": "LISANGA CREDIT",
+      "aliases": [
+        "Entreprise de Micro Crédit LISANGA CREDIT"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-credit-ya-mpa",
+      "name": "CREDIT YA MPA",
+      "aliases": [
+        "Entreprise de Micro Crédit CREDIT YA MPA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-busina-microcredit-sprl",
+      "name": "BUSINA MICROCREDIT sprl",
+      "aliases": [
+        "Entreprise de Micro Crédit BUSINA MICROCREDIT sprl"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-ape-sarl",
+      "name": "APE Sarl",
+      "aliases": [
+        "Entreprise de Micro Crédit APE Sarl"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/entreprises-de-micro-credit"
+      ]
+    },
+    {
+      "id": "cd-seneve",
+      "name": "SENEVE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mucec-coopec",
+      "name": "MUCEC/COOPEC",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit, en abrégé MUCEC/COOPEC",
+        "Mutuelle d'Epargne et de Crédit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mutec-coopec",
+      "name": "MUTEC/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-muffec-mbuji-mayi",
+      "name": "MUFFEC MBUJI-MAYI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-muffec-centre",
+      "name": "MUFFEC CENTRE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mucrefeki-coopec",
+      "name": "MUCREFEKI / COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-microtous",
+      "name": "MICROTOUS",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecrekin-coopec",
+      "name": "MECREKIN/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecrego-coopec",
+      "name": "MECREGO/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecrebu-coopec",
+      "name": "MECREBU/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-virunga-coopec",
+      "name": "MECRE-VIRUNGA/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-katindo-coopec",
+      "name": "MECRE-KATINDO/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-beni-coopec",
+      "name": "MECRE-BENI/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-uvira-coopec",
+      "name": "MECRE UVIRA/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-ngaliema-upn-coopec",
+      "name": "MECRE NGALIEMA UPN/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-matadi-coopec",
+      "name": "MECRE MATADI/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-kisangani-coopec",
+      "name": "MECRE KISANGANI/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-kintambo-magasin",
+      "name": "MECRE KINTAMBO MAGASIN",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-kindu-coopec",
+      "name": "MECRE KINDU/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-kavumu-coopec",
+      "name": "MECRE KAVUMU/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-ibanda-coopec",
+      "name": "MECRE IBANDA/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mecre-bunia-coopec",
+      "name": "MECRE BUNIA/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mec-idece-coopec",
+      "name": "MEC IDECE/COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-mec-bomoko-coopec",
+      "name": "MEC BOMOKO COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-siloe",
+      "name": "COOPEC SILOE",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit pour le Sauvetage des Initiatives Locales Entreprenariale, en sigle COOPEC SILOE",
+        "Coopérative d'Epargne et de Crédit pour le Sauvetage des Initiatives Locales Entreprenariale"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-pmi",
+      "name": "COOPEC PMI",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit pour la Promotion des Membres pour l'Investissement, en sigle COOPEC PMI",
+        "Coopérative d'Epargne et de Crédit pour la Promotion des Membres pour l'Investissement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-udev",
+      "name": "COOPEC UDEV",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit Unité pour le Développement, en sigle COOPEC UDEV",
+        "Coopérative d'Epargne et de Crédit Unité pour le Développement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopesa",
+      "name": "COOPESA",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit SANKURU, en sigle COOPESA",
+        "Coopérative d'Epargne et de Crédit SANKURU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-cecafep",
+      "name": "COOPEC CECAFEP",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit Agricole pour les Femmes Paysannes, en sigle COOPEC CECAFEP",
+        "Coopérative d'Epargne et de Crédit Agricole pour les Femmes Paysannes"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopecco-kirumba",
+      "name": "COOPECCO-KIRUMBA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-cec-boma",
+      "name": "COOPEC/CEC-BOMA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-sodac",
+      "name": "COOPEC-SODAC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-progikis",
+      "name": "COOPEC-PROGIKIS",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-camec-kwilu-ngongo",
+      "name": "COOPEC-CAMEC KWILU-NGONGO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-union-charite",
+      "name": "COOPEC UNION&CHARITE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-umoja-ni-nguvu",
+      "name": "COOPEC UMOJA NI NGUVU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-ruzizi",
+      "name": "COOPEC RUZIZI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-pilote",
+      "name": "COOPEC PILOTE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-peke-siwezi",
+      "name": "COOPEC PEKE SIWEZI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-obuguma",
+      "name": "COOPEC OBUGUMA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-nyawera-bukavu",
+      "name": "COOPEC NYAWERA BUKAVU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-nyatende",
+      "name": "COOPEC NYATENDE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-nguvu-ya-ushindi",
+      "name": "COOPEC NGUVU YA USHINDI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-mudiano",
+      "name": "COOPEC MUDIANO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-mkono-mkononi",
+      "name": "COOPEC MKONO MKONONI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopemi",
+      "name": "COOPEMI",
+      "aliases": [
+        "COOPEC MINEMBWE, en sigle COOPEMI",
+        "COOPEC MINEMBWE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-mbongo-za-kinvuka",
+      "name": "COOPEC MBONGO ZA KINVUKA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-mbengu-bora",
+      "name": "COOPEC MBENGU BORA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-mbatu-mboya",
+      "name": "COOPEC MBATU MBOYA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-lwanzo",
+      "name": "COOPEC LWANZO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-lisungi-mbandaka",
+      "name": "COOPEC LISUNGI MBANDAKA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-le-tresor-beni",
+      "name": "COOPEC LE TRESOR BENI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-le-palmier-beni",
+      "name": "COOPEC LE PALMIER/BENI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-le-meilleur-semeur-kisangani",
+      "name": "COOPEC LE MEILLEUR SEMEUR/Kisangani",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-la-semence",
+      "name": "COOPEC LA SEMENCE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-la-pepiniere",
+      "name": "COOPEC LA PEPINIERE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-la-colombe",
+      "name": "COOPEC LA COLOMBE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-kando",
+      "name": "COOPEC KANDO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-kalundu",
+      "name": "COOPEC KALUNDU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-kabare",
+      "name": "COOPEC KABARE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-imara-kindu",
+      "name": "COOPEC IMARA/KINDU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-imara-goma",
+      "name": "COOPEC IMARA/GOMA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-imara-bukavu",
+      "name": "COOPEC IMARA BUKAVU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-ilumbi",
+      "name": "COOPEC ILUMBI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-fomulac-katana",
+      "name": "COOPEC FOMULAC KATANA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-fatima",
+      "name": "COOPEC FATIMA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-emergence",
+      "name": "COOPEC EMERGENCE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-ecc-kikwit",
+      "name": "COOPEC ECC/ Kikwit",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-coprokas",
+      "name": "COOPEC COPROKAS",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-coodefi",
+      "name": "COOPEC COODEFI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-ciherano",
+      "name": "COOPEC CIHERANO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-ceac-lukula",
+      "name": "COOPEC CEAC LUKULA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-ceac-matete",
+      "name": "COOPEC CEAC / MATETE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-camec-mbanza-ngungu",
+      "name": "COOPEC CAMEC MBANZA-NGUNGU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-cahi",
+      "name": "COOPEC CAHI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-bulungu",
+      "name": "COOPEC BULUNGU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-bonne-semence",
+      "name": "COOPEC BONNE SEMENCE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-bonne-moisson",
+      "name": "COOPEC BONNE MOISSON",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-bomengo",
+      "name": "COOPEC BOMENGO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-bantu-tudisange",
+      "name": "COOPEC BANTU TUDISANGE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-bagira",
+      "name": "COOPEC BAGIRA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-amour-divin",
+      "name": "COOPEC AMOUR DIVIN",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-alliance-vie",
+      "name": "COOPEC ALLIANCE-VIE",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-akiba-yetu",
+      "name": "COOPEC AKIBA YETU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coopec-agropas-le-grenier-butembo",
+      "name": "COOPEC AGROPAS-LE GRENIER/BUTEMBO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coocec-kivu",
+      "name": "COOCEC-KIVU",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-coocec-mecreco",
+      "name": "COOCEC MECRECO",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    },
+    {
+      "id": "cd-camec-inkisi-coopec",
+      "name": "CAMEC INKISI / COOPEC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcc.cd/intermediaires-financiers/cooperatives-credit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,748 @@
+{
+  "country": "LY",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://cbl.gov.ly/en/banks/",
+    "mobile_money": "https://cbl.gov.ly/en/electronic-payment/"
+  },
+  "operators": [
+    {
+      "id": "ly-national-union-bank",
+      "name": "National Union Bank",
+      "aliases": [
+        "NUB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://nubank.ly/wp/",
+      "logo": {
+        "svg": "svg/logos/bank/national-union-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/n1Rz4ccHuNweStDJ2IVYWE_s4JNZR6skwIx6aczJZY5byGe9q3cngthQBt-bcamkda6SoK1Fv0sDdzFS4BSO=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-imaar-bank",
+      "name": "Imaar Bank",
+      "aliases": [
+        "Emaar Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://imaarbank.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-islamic-finance-bank",
+      "name": "Islamic Finance Bank",
+      "aliases": [
+        "IFB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://ifb.ly/en",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-daman-islamic-bank",
+      "name": "Daman Islamic Bank",
+      "aliases": [
+        "DIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://dib.ly",
+      "logo": {
+        "svg": "svg/logos/bank/daman-islamic-bank.svg",
+        "source": "https://dib.ly/dib_content/uploads/2023/06/dibank-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-al-seraj-islamic-bank",
+      "name": "Al Seraj Islamic Bank",
+      "aliases": [
+        "SIB",
+        "Alseraj"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://sib.com.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-aiib",
+      "name": "Arab Islamic Investment Bank",
+      "aliases": [
+        "AIIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.aiib.ly",
+      "logo": {
+        "svg": "svg/logos/bank/arab-islamic-investment-bank.svg",
+        "source": "https://www.aiib.ly/wp-content/uploads/2024/09/aiib-1.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://cbl.gov.ly/banks/"
+      ]
+    },
+    {
+      "id": "ly-jumhouria-bank",
+      "name": "Jumhouria Bank",
+      "aliases": [
+        "Gumhouria Bank",
+        "Jumhuriya Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.jbank.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-ncb",
+      "name": "National Commercial Bank",
+      "aliases": [
+        "NCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ncb.ly",
+      "logo": {
+        "svg": "svg/logos/bank/national-commercial-bank.svg",
+        "source": "https://www.ncb.ly/assets/images/logo-footer.webp",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-wahda-bank",
+      "name": "Wahda Bank",
+      "aliases": [
+        "Wahda"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wahdabank.com",
+      "logo": {
+        "svg": "svg/logos/bank/wahda-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/RDd9F99zdblxVunDyGVawixY-iGwA_URHHNa_tv1TFxI4YCNfxBalwz7ENY4kJWLB3v1KosAWK7XxetqWISlvuw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-sahara-bank",
+      "name": "Sahara Bank",
+      "aliases": [
+        "Saharabank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.saharabank.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-bcd",
+      "name": "Bank of Commerce & Development",
+      "aliases": [
+        "BCD",
+        "Bank of Commerce and Development"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bcd.ly",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-commerce-and-development.svg",
+        "source": "https://play-lh.googleusercontent.com/z1xJT_Km6_CpAwgCTk7nEZh8gH2ruRtY4B090duSVmJ_N4moWK4ndJqT3fA8qvjSHwRRLd9cv7Dfak1-TW35EA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-north-africa-bank",
+      "name": "North Africa Bank",
+      "aliases": [
+        "NAB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nab.ly",
+      "logo": {
+        "svg": "svg/logos/bank/north-africa-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/hvQ-wy-38HhRtk-zw3ZQ88Qc5xG436wt94gTe5s2AdtN5_jsJ304o5wIKUhZt6s1ExW0EbwgPHq9kovhAGre5FM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-aman-bank",
+      "name": "Aman Bank",
+      "aliases": [
+        "Aman Bank for Commerce and Investment",
+        "ABCI"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.aman-bank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-alejmaa-alarabi-bank",
+      "name": "Alejma'a Alarabi Bank",
+      "aliases": [
+        "Alejmaa Alarabi Bank",
+        "Al Ejmaa Al Arabi"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://ejmaa.aabank.ly/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-lfb",
+      "name": "Libyan Foreign Bank",
+      "aliases": [
+        "LFB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lfb.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-first-gulf-libyan-bank",
+      "name": "First Gulf Libyan Bank",
+      "aliases": [
+        "FAB Libya"
+      ],
+      "type": "bank",
+      "group": "FAB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankfab.com/ar-ly/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-alwaha-bank",
+      "name": "Alwaha Bank",
+      "aliases": [
+        "Waha Bank",
+        "Oasis Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.alwahabank.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-ubci",
+      "name": "United Bank for Commerce & Investment",
+      "aliases": [
+        "UBCI",
+        "United Bank for Commerce and Investment"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubci-libya.com",
+      "logo": {
+        "svg": "svg/logos/bank/united-bank-for-commerce-and-investment.svg",
+        "source": "https://www.ubci-libya.com/images/Logo.kl4qjs692y.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-atib",
+      "name": "Assaray Trade and Investment Bank",
+      "aliases": [
+        "ATIB",
+        "Assaray Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.atib.ly",
+      "logo": {
+        "svg": "svg/logos/bank/assaray-trade-and-investment-bank.svg",
+        "source": "https://atib.ly/documents/33593/0/Logo+%281%29.svg/784e427c-b1f5-1703-7742-05266caab2ef?version=1.0&t=1754471542579",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-mediterranean-bank",
+      "name": "Mediterranean Bank",
+      "aliases": [
+        "Medit Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.meditbank.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-nuran-bank",
+      "name": "Nuran Bank",
+      "aliases": [
+        "Alnuran Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nub.ly",
+      "logo": {
+        "svg": "svg/logos/bank/nuran-bank.svg",
+        "source": "https://nub.ly/uploads/2021/10/nub-logo-dark.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-alwafa-bank",
+      "name": "Alwafa Bank",
+      "aliases": [
+        "Wafa Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.alwafabank.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-tadhamon-bank",
+      "name": "Tadhamon Bank",
+      "aliases": [
+        "TAB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.tab.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-libyan-islamic-bank",
+      "name": "Libyan Islamic Bank",
+      "aliases": [
+        "LIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lib.com.ly",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-yaqeen-bank",
+      "name": "Yaqeen Bank",
+      "aliases": [
+        "Alyaqeen Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.yaqeenbank.ly",
+      "logo": {
+        "svg": "svg/logos/bank/yaqeen-bank.svg",
+        "source": "https://yaqeenbank.ly/hysgge/2025/11/logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-andalus-bank",
+      "name": "Andalus Bank",
+      "aliases": [
+        "Alandalus Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.andalusbank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/banks/"
+      ]
+    },
+    {
+      "id": "ly-sadad",
+      "name": "Sadad",
+      "aliases": [
+        "Almadar Aljadid",
+        "Al Madar Sadad",
+        "Almadar"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/sadad.svg",
+        "source": "https://play-lh.googleusercontent.com/KzLJCXv4TkJSkF3sSCqWGMp4s0gREeFXVS-lk2yb3Qsp-Yz-XffMc9aFXAhYZmAKlpgG_FliN94lowd16Uc8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/electronic-payment/",
+        "https://cbl.gov.ly/en/?p=17144"
+      ]
+    },
+    {
+      "id": "ly-international-union",
+      "name": "International Union Company",
+      "aliases": [
+        "International Union"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/international-union.svg",
+        "source": "http://www.unionintlco.com/img/logo-default.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/electronic-payment/"
+      ]
+    },
+    {
+      "id": "ly-meza",
+      "name": "Meza Financial Services",
+      "aliases": [
+        "Meza"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/meza-financial-services.svg",
+        "source": "https://emezafinancialservices.com/pics/logo.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/electronic-payment/"
+      ]
+    },
+    {
+      "id": "ly-gpay",
+      "name": "GPay",
+      "aliases": [
+        "Libya Guide GPay",
+        "Dalil Libya",
+        "Libya Guide"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/gpay.svg",
+        "source": "https://play-lh.googleusercontent.com/sPd7qWUl6G668p70BPqxN6OYqEYpCakoWgpKOuHodT6bM_6nJCJFlIJEKALNyq6f15MLlgB9GUsJDCJTyISP5w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/electronic-payment/",
+        "https://apps.apple.com/app/id1493319624"
+      ]
+    },
+    {
+      "id": "ly-fawry",
+      "name": "Fawry Libya",
+      "aliases": [
+        "Fawry for E-Payment Services",
+        "Fawry"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/fawry.svg",
+        "source": "https://play-lh.googleusercontent.com/PkMr6QNi5qt2gi-ZloS0CPv_AMF-PdO0aVcwI2kbP1PlJb_h3oY3_NlOGqKIfEirjsuPWwaUtFZ8usudu-HJOA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/electronic-payment/"
+      ]
+    },
+    {
+      "id": "ly-albidaya",
+      "name": "Albidaya Fintech",
+      "aliases": [
+        "Albidaya",
+        "Al Bidaya"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/electronic-payment/"
+      ]
+    },
+    {
+      "id": "ly-runpay",
+      "name": "RUNPAY",
+      "aliases": [
+        "Mousahamat Digital Payment",
+        "Run Pay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/runpay.svg",
+        "source": "https://play-lh.googleusercontent.com/bYF3AYF162k2A7Co-kNgfbCPgp34v1T1QN8U4fOjDUu49vmGMTVwyOgufzKWNsBtwsTI4OFHlWtHUXxuQXWR8YI=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.gov.ly/en/electronic-payment/"
+      ]
+    },
+    {
+      "id": "ly-namaa-tamweel",
+      "name": "Namaa Tamweel",
+      "aliases": [
+        "Namaa"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.expertisefrance.fr/en/actualite?id=778769",
+        "https://smeportal.unescwa.org/financing/namaa-tamweel"
+      ]
+    }
+  ]
+}

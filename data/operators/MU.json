@@ -1,0 +1,583 @@
+{
+  "country": "MU",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees",
+    "microfinance": "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
+  },
+  "operators": [
+    {
+      "id": "mu-abc-banking",
+      "name": "ABC Banking Corporation",
+      "aliases": [
+        "ABC Bank",
+        "ABC Banking",
+        "ABC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.abcbanking.mu",
+      "logo": {
+        "svg": "svg/logos/bank/abc-banking.svg",
+        "source": "https://abcbanking.mu/wp-content/themes/abc-banking-theme/images/abc-banking-logo.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-absa",
+      "name": "Absa Bank Mauritius",
+      "aliases": [
+        "Absa",
+        "Barclays Mauritius",
+        "Absa Bank (Mauritius)"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.absabank.mu/",
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-afrasia",
+      "name": "AfrAsia Bank",
+      "aliases": [
+        "AfrAsia",
+        "Afrasia Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.afrasiabank.com",
+      "logo": {
+        "svg": "svg/logos/bank/afrasia-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/-4tWgGXzDQdGOsCyjNVHbEtk_m_aCpnRB5RmOWR61X2qfErMfPDrHueI_eeZWyVXylNUvfXQxO4BJZqTim6tta0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-bank-of-baroda",
+      "name": "Bank of Baroda",
+      "aliases": [
+        "BOB",
+        "Baroda"
+      ],
+      "type": "bank",
+      "group": "Bank of Baroda",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankofbaroda-mu.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-baroda.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-bank-of-china",
+      "name": "Bank of China (Mauritius)",
+      "aliases": [
+        "Bank of China",
+        "BOC"
+      ],
+      "type": "bank",
+      "group": "Bank of China",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.bankofchina.com/mu",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-china.svg",
+        "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-bank-one",
+      "name": "Bank One",
+      "aliases": [
+        "BankOne",
+        "Bank One Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankone.mu/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-banque-patronus",
+      "name": "Banque Patronus",
+      "aliases": [
+        "Patronus",
+        "Banque Patronus Limitee"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-bcp-bank",
+      "name": "BCP Bank (Mauritius)",
+      "aliases": [
+        "BCP Bank",
+        "BCP",
+        "Banque Populaire Mauritius"
+      ],
+      "type": "bank",
+      "group": "Groupe BCP",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bcpbank.mu/",
+      "logo": {
+        "svg": "svg/logos/bank/bcp-bank.svg",
+        "source": "https://www.bcpbank.mu/themes/bcp/img/logo-bcp.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-hsbc",
+      "name": "HSBC Mauritius",
+      "aliases": [
+        "HSBC",
+        "HSBC Bank (Mauritius)",
+        "The Hongkong and Shanghai Banking Corporation"
+      ],
+      "type": "bank",
+      "group": "HSBC",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.hsbc.co.mu",
+      "logo": {
+        "svg": "svg/logos/bank/hsbc.svg",
+        "source": "https://www.business.hsbc.co.mu/-/media/project/common/logos/hsbc-logo.svg?iar=0&hash=760ECB6B4C7C98D34B9FD48EC152BB77",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-investec",
+      "name": "Investec Bank (Mauritius)",
+      "aliases": [
+        "Investec"
+      ],
+      "type": "bank",
+      "group": "Investec",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.investec.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-maubank",
+      "name": "MauBank",
+      "aliases": [
+        "Mau Bank",
+        "MauBank Ltd",
+        "MPCB",
+        "Mauritius Post and Cooperative Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.maubank.mu",
+      "logo": {
+        "svg": "svg/logos/bank/maubank.svg",
+        "source": "https://maubank.mu/assets/images/svg/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-sbi",
+      "name": "SBI (Mauritius)",
+      "aliases": [
+        "SBI",
+        "State Bank of India Mauritius",
+        "SBI Mauritius"
+      ],
+      "type": "bank",
+      "group": "State Bank of India",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sbimauritius.com",
+      "logo": {
+        "svg": "svg/logos/bank/sbi.svg",
+        "source": "https://mu.statebank/image/layout_set_logo?img_id=1511455&t=1792523219396",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-sbm-bank",
+      "name": "SBM Bank",
+      "aliases": [
+        "SBM",
+        "State Bank of Mauritius",
+        "SBM Bank (Mauritius)"
+      ],
+      "type": "bank",
+      "group": "SBM",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sbmgroup.mu",
+      "logo": {
+        "svg": "svg/logos/bank/sbm.svg",
+        "source": "https://play-lh.googleusercontent.com/FtnuQpIHLTzzyx6sDYY5e_cjQ8JtYyLkA21aJVLAoQYlmeKuTVC4jF-Rf68YtGl4I768BLVyZ8PLW457mdxR=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-standard-bank",
+      "name": "Standard Bank Mauritius",
+      "aliases": [
+        "Standard Bank",
+        "Stanbic"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardbank.mu",
+      "logo": {
+        "svg": "svg/logos/bank/standard-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-standard-chartered",
+      "name": "Standard Chartered Mauritius",
+      "aliases": [
+        "Standard Chartered",
+        "StanChart",
+        "SC"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sc.com/mu/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-mcb",
+      "name": "MCB",
+      "aliases": [
+        "The Mauritius Commercial Bank",
+        "Mauritius Commercial Bank",
+        "MCB Juice",
+        "Juice"
+      ],
+      "type": "bank",
+      "group": "MCB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mcb.mu",
+      "logo": {
+        "svg": "svg/logos/bank/mcb.svg",
+        "source": "https://mcb.mg/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-warwyck",
+      "name": "Warwyck Private Bank",
+      "aliases": [
+        "Warwyck"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.warwyck.com",
+      "logo": {
+        "svg": "svg/logos/bank/warwyck-private-bank.svg",
+        "source": "https://www.warwyck.com/images/icn/logo-armoiry.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
+      ]
+    },
+    {
+      "id": "mu-la-prudence-leasing",
+      "name": "La Prudence Leasing Finance",
+      "aliases": [
+        "La Prudence",
+        "Prudence Leasing"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.prudenceleasing.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/la-prudence-leasing-finance.svg",
+        "source": "https://www.prudenceleasing.com/wp-content/uploads/2022/09/cropped-cropped-LPL-Logo-FINAL.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
+      ]
+    },
+    {
+      "id": "mu-mhc",
+      "name": "Mauritius Housing Company",
+      "aliases": [
+        "MHC",
+        "Mauritius Housing Company Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mhc.mu",
+      "logo": {
+        "svg": "svg/logos/microfinance/mauritius-housing.svg",
+        "source": "https://play-lh.googleusercontent.com/gZ2-_Pzvj2CWIaoWid-OGjNyAt0uvx7S3wmZe3tTwsUQ7uScMAMMzdwPeXcSJRUtjShR1nkqEpBo5AhRtufLEw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
+      ]
+    },
+    {
+      "id": "mu-mcb-leasing",
+      "name": "MCB Leasing",
+      "aliases": [
+        "Finlease",
+        "Finlease Company",
+        "MCB Leasing Limited"
+      ],
+      "type": "microfinance",
+      "group": "MCB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mcbleasing.mu",
+      "logo": {
+        "svg": "svg/logos/microfinance/mcb.svg",
+        "source": "https://mcbleasing.mu/images/mcbleasinglibraries/default-album/logo-leasing.svg?sfvrsn=d1fb3788_1",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
+      ]
+    },
+    {
+      "id": "mu-sicom-financial-services",
+      "name": "SICOM Financial Services",
+      "aliases": [
+        "SICOM",
+        "SICOM Finance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sicom.mu",
+      "logo": {
+        "svg": "svg/logos/microfinance/sicom-financial-services.svg",
+        "source": "https://www.sicom.mu/ResourcePackages/Bootstrap5/assets/images/logo-white.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
+      ]
+    },
+    {
+      "id": "mu-spice-finance",
+      "name": "SPICE Finance",
+      "aliases": [
+        "Spice Finance",
+        "SPICE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.spicefinance.mu",
+      "logo": {
+        "svg": "svg/logos/microfinance/spice-finance.svg",
+        "source": "https://play-lh.googleusercontent.com/VFi49tRzm-LDvRVn873stAdP55RfHG49KTIG7ZF1plNPCg7np3sOJvC9ETPSKj5sAskGih9rMY4V5lEhGi3l=s512",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
+      ]
+    },
+    {
+      "id": "mu-mcs-mutual-aid",
+      "name": "Mauritius Civil Service Mutual Aid Association",
+      "aliases": [
+        "MCSMAA",
+        "Civil Service Mutual Aid",
+        "Mutual Aid"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mcsmutualaid.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/mauritius-civil-service-mutual-aid-association.svg",
+        "source": "http://www.mcsmutualaid.mu/images/mcslogo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
+      ]
+    },
+    {
+      "id": "mu-myt-money",
+      "name": "my.t money",
+      "aliases": [
+        "myt money",
+        "my.t",
+        "mytmoney",
+        "Mauritius Telecom"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.myt.mu/support/mytmoney/1/money",
+      "logo": {
+        "svg": "svg/logos/mobile-money/my-t-money.svg",
+        "source": "https://www.myt.mu/images/logos/myt_Logo_Blue.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.myt.mu/support/mytmoney/1/money",
+        "https://ict.io/en/?p=30779"
+      ]
+    },
+    {
+      "id": "mu-blink",
+      "name": "blink by Emtel",
+      "aliases": [
+        "Blink",
+        "Emtel Blink",
+        "Emtel",
+        "Emtel Cash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://blink.emtel.com/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/blink-by-emtel.svg",
+        "source": "https://play-lh.googleusercontent.com/TZpbhyVVqy6ZThNSo6cxHFgFB3Y8pZN2Y1w3Rnv_SM_OSc7KR6E-tVoLi7DkSMBXeTL43ctAj9zKoN7ka86-4wI=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://blink.emtel.com/?p=257",
+        "https://apps.apple.com/us/app/blink-by-emtel/id1607506713"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "country": "CG",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.dgifn.cg/index.php/assujettis/",
+    "mobile_money": "https://www.dgifn.cg/index.php/assujettis/",
+    "microfinance": "https://www.dgifn.cg/index.php/assujettis/"
+  },
+  "operators": [
+    {
+      "id": "cg-banque-postale-du-congo",
+      "name": "Banque Postale du Congo",
+      "aliases": [
+        "BPC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-bch",
+      "name": "Banque Congolaise de l'Habitat",
+      "aliases": [
+        "BCH"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-congolaise-de-l-habitat.svg",
+        "source": "https://play-lh.googleusercontent.com/P5ZMe9OzPOx1goiweSd_g8wJwDcRZZyNFNEiYH-H2Ow-VcQP_2M-kqjTyZFz9E7BLUdsCnmRVNmDA0rA4OwLWw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-bci",
+      "name": "BCI",
+      "aliases": [
+        "Banque Commerciale Internationale"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-bgfibank",
+      "name": "BGFIBank Congo",
+      "aliases": [
+        "BGFI Bank",
+        "BGFI"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/",
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "cg-bsca",
+      "name": "BSCA Bank",
+      "aliases": [
+        "Banque Sino-Congolaise pour l'Afrique",
+        "BSCA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-afriland-first-bank",
+      "name": "Afriland First Bank Congo",
+      "aliases": [
+        "Afriland",
+        "Afriland First Bank"
+      ],
+      "type": "bank",
+      "group": "Afriland First Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/afriland-first-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/sm0-ZU-rjt_y9rxZjbR9g9iwM7Hts8cUhMplGvlNAl367u7IvgVgPN_DHpXXQlvooZknA55y4NIuhBWfEEzDNg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-lcb-bank",
+      "name": "LCB Bank",
+      "aliases": [
+        "La Congolaise de Banque",
+        "LCB",
+        "Bank of Africa Congo",
+        "BOA Congo",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/",
+        "https://www.sgg.cg/textes-officiels/arretes/2025/congo-arrete-2025-1512.pdf"
+      ]
+    },
+    {
+      "id": "cg-ecobank",
+      "name": "Ecobank Congo",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-uba",
+      "name": "UBA Congo",
+      "aliases": [
+        "United Bank for Africa Congo",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-credit-du-congo",
+      "name": "Crédit du Congo",
+      "aliases": [
+        "CDCO",
+        "Credit du Congo"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/",
+        "https://www.beac.int/wp-content/uploads/2016/10/Liste_Banques_-Congo_28oct2014.pdf"
+      ]
+    },
+    {
+      "id": "cg-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "Mobile Money Congo",
+        "MoMo"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/",
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "cg-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Mobile Commerce Congo",
+        "Airtel Money Congo"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/",
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "cg-bgfi-mobile",
+      "name": "BGFI Mobile",
+      "aliases": [
+        "BGFIMobile"
+      ],
+      "type": "mobile_money",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bgfi-mobile.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "cg-cfcm",
+      "name": "Caisse Féminine d'Épargne et de Crédit Mutuel",
+      "aliases": [
+        "CFCM",
+        "Caisse Feminine d'Epargne et de Credit Mutuel"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-capped",
+      "name": "Caisse de Participation à la Promotion des Entreprises et à leur Développement",
+      "aliases": [
+        "CAPPED",
+        "Caisse de Participation a la Promotion des Entreprises et a leur Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-hope-congo",
+      "name": "Hope Congo",
+      "aliases": [
+        "HOPE CONGO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-euc",
+      "name": "Express Union Congo",
+      "aliases": [
+        "EUC",
+        "Express Union"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-ccec",
+      "name": "Caisse Congolaise d'Épargne et de Crédit",
+      "aliases": [
+        "CCEC",
+        "Caisse Congolaise d'Epargne et de Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-caiec",
+      "name": "Caisse d'Appui aux Initiatives Économiques des Claires",
+      "aliases": [
+        "CAIEC",
+        "Caisse d'Appui aux Initiatives Economiques des Claires"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-cfpr",
+      "name": "Caisse Féminine Planète Rurale",
+      "aliases": [
+        "CFPR",
+        "Caisse Feminine Planete Rurale"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-mecrecu",
+      "name": "Mutuelle d'Épargne et de Crédit des Chrétiens Unis",
+      "aliases": [
+        "MECRECU",
+        "Mutuelle d'Epargne et de Credit des Chretiens Unis"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-ccd",
+      "name": "Caisse pour le Commerce et le Développement",
+      "aliases": [
+        "CCD",
+        "Caisse pour le Commerce et le Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-cofina",
+      "name": "Cofina Congo",
+      "aliases": [
+        "Compagnie Financière Africaine Congo",
+        "COFINA"
+      ],
+      "type": "microfinance",
+      "group": "Cofina",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-comifi",
+      "name": "Congolaise de Microfinance",
+      "aliases": [
+        "COMIFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-gcf",
+      "name": "Groupe Charden Farell",
+      "aliases": [
+        "GCF",
+        "Charden Farell"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/charden-farell.svg",
+        "source": "https://play-lh.googleusercontent.com/ZVjEMoHDW9jYtzKBFtAv6Ro1ym2ZrYe80PpuBg3Y43PA8xdknDc359vke34NVX6U6QNhzw_D_IXN3uca9SzaRrA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-cmpc",
+      "name": "Crédit Muprocom",
+      "aliases": [
+        "CMPC",
+        "Credit Muprocom"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-fodam",
+      "name": "Fonds de Développement Agro-pastoral et Micro-entreprise",
+      "aliases": [
+        "FODAM",
+        "MUCASO",
+        "Fonds de Developpement Agro-pastoral et Micro-entreprise"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-omega-finance-investissement",
+      "name": "Omega Finance Investissement",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-sodeco",
+      "name": "Société d'Épargne et de Crédit du Congo",
+      "aliases": [
+        "SODECO",
+        "Societe d'Epargne et de Credit du Congo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-ceck",
+      "name": "Caisse d'Épargne et de Crédit des Femmes du Kouilou",
+      "aliases": [
+        "CECK",
+        "Caisse d'Epargne et de Credit des Femmes du Kouilou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-natifcred",
+      "name": "Natifcred",
+      "aliases": [
+        "NC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-ccfo",
+      "name": "Caisse Communautaire des Femmes d'Oyo",
+      "aliases": [
+        "CCFO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-cspd",
+      "name": "Crédit Solidaire pour la Promotion du Développement",
+      "aliases": [
+        "CSPD",
+        "Credit Solidaire pour la Promotion du Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-cadc",
+      "name": "Caisse d'Appui du Développement Communautaire",
+      "aliases": [
+        "CADC",
+        "MUDECO",
+        "Caisse d'Appui du Developpement Communautaire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/caisse-d-appui-du-developpement-communautaire.svg",
+        "source": "https://play-lh.googleusercontent.com/3ynFu2zXJQQmdT-40SO7lfDhdCJGxIwNYePChpRCQu-b46wRmrh7uc35iKHdvryp9XnrXyFnXSQipWbeIWPwYSo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-mocp",
+      "name": "Mutuelle Opération Crédit Plus",
+      "aliases": [
+        "MOCP",
+        "Mutuelle Operation Credit Plus"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-mecl",
+      "name": "Mutuelle d'Épargne et de Crédit Likelemba",
+      "aliases": [
+        "MECL",
+        "Mutuelle d'Epargne et de Credit Likelemba"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    },
+    {
+      "id": "cg-mucodec",
+      "name": "MUCODEC",
+      "aliases": [
+        "Réseau MUCODEC",
+        "Mucodec"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.dgifn.cg/index.php/assujettis/"
+      ]
+    }
+  ]
+}

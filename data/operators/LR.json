@@ -1,0 +1,774 @@
+{
+  "country": "LR",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://cbl.org.lr/general/commercial-banks-liberia-information",
+    "microfinance": "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+  },
+  "operators": [
+    {
+      "id": "lr-lbdi",
+      "name": "LBDI",
+      "aliases": [
+        "Liberian Bank for Development and Investment",
+        "Liberian Bank for Development & Investment"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lbdi.net",
+      "logo": {
+        "svg": "svg/logos/bank/lbdi.svg",
+        "source": "https://static.wixstatic.com/media/e7c448_a43a9f2b07084b7b85d92f234d63c51d~mv2.png/v1/fill/w_328,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LBDI_logo_color_ds_03.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-ecobank-liberia",
+      "name": "Ecobank Liberia",
+      "aliases": [
+        "Ecobank",
+        "EBLL",
+        "Ecobank Liberia Limited"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-international-bank-liberia",
+      "name": "International Bank Liberia",
+      "aliases": [
+        "IB",
+        "IBLL",
+        "International Bank",
+        "IB Bank",
+        "International Bank (Liberia) Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://ibliberia.com",
+      "logo": {
+        "svg": "svg/logos/bank/international-bank.svg",
+        "source": "https://ibliberia.com/wp-content/themes/ib/images/ib-brand-logo-with-name-white.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-bloom-bank-africa-liberia",
+      "name": "Bloom Bank Africa Liberia",
+      "aliases": [
+        "Bloom Bank",
+        "Bloom Bank Africa",
+        "BBALL",
+        "Global Bank Liberia",
+        "GBLL",
+        "Global Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bloom-bank-africa.svg",
+        "source": "https://bloombankafrica.com/assets/55efbb96367fe0d2f417854c3b5a19110fd5411c-C85geNzK.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information",
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-sib-liberia",
+      "name": "SIB Liberia",
+      "aliases": [
+        "Sapelle International Bank",
+        "SIBLL",
+        "Sapelle",
+        "SIB",
+        "Sapelle International Bank Liberia Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sibll.com",
+      "logo": {
+        "svg": "svg/logos/bank/sib.svg",
+        "source": "https://www.sibll.com/assets/images/logo-cropped.jpeg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-uba-liberia",
+      "name": "UBA Liberia",
+      "aliases": [
+        "UBA",
+        "United Bank for Africa",
+        "UBALL",
+        "United Bank for Africa Liberia Limited"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com/liberia",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-accessbank-liberia",
+      "name": "AccessBank Liberia",
+      "aliases": [
+        "Access Bank Liberia",
+        "AccessBank",
+        "ABLL",
+        "Access Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://accessbankliberia.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-gtbank-liberia",
+      "name": "GTBank Liberia",
+      "aliases": [
+        "GTBank",
+        "GTB",
+        "Guaranty Trust Bank Liberia",
+        "GTBL",
+        "GTBLL"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-afriland-first-bank-liberia",
+      "name": "Afriland First Bank Liberia",
+      "aliases": [
+        "Afriland",
+        "Afriland First Bank",
+        "AFBLL"
+      ],
+      "type": "bank",
+      "group": "Afriland First Group",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.afrilandfirstbanklb.com",
+      "logo": {
+        "svg": "svg/logos/bank/afriland-first-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/sm0-ZU-rjt_y9rxZjbR9g9iwM7Hts8cUhMplGvlNAl367u7IvgVgPN_DHpXXQlvooZknA55y4NIuhBWfEEzDNg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information"
+      ]
+    },
+    {
+      "id": "lr-first-atlantic-bank-liberia",
+      "name": "First Atlantic Bank Liberia",
+      "aliases": [
+        "First Atlantic Bank",
+        "FABLL",
+        "First Atlantic"
+      ],
+      "type": "bank",
+      "group": "First Atlantic Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/general/commercial-banks-liberia-information",
+        "https://allafrica.com/stories/202608040281.html"
+      ]
+    },
+    {
+      "id": "lr-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Liberia",
+        "OM"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.com.lr",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://developingtelecoms.com/telecom-technology/financial-services/19812-orange-liberias-mobile-money-service-gets-separate-licence-under-new-regs.html"
+      ]
+    },
+    {
+      "id": "lr-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "MoMo",
+        "Lonestar Cell MTN Mobile Money",
+        "Lonestar MoMo"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": "https://lonestarcell.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://developingtelecoms.com/telecom-technology/financial-services/19812-orange-liberias-mobile-money-service-gets-separate-licence-under-new-regs.html",
+        "https://www.liberianobserver.com/liberia-lonestar-cell-mtn-extends-momo-push-pull-service-international-bank"
+      ]
+    },
+    {
+      "id": "lr-diaconia-microfinance-deposit-taking-institution",
+      "name": "Diaconia Microfinance Deposit-Taking Institution",
+      "aliases": [
+        "DMDI",
+        "Diaconia"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf",
+        "https://www.liberianobserver.com/news/dmdi-cuts-ribbon-on-new-monrovia-head-office/article_a49a4eff-c9ee-4a0a-87d1-d9836d4a8cec.html"
+      ]
+    },
+    {
+      "id": "lr-modern-savings-and-loans",
+      "name": "Modern Savings and Loans",
+      "aliases": [
+        "Modern Savings & Loans",
+        "Kailondo Financial Services",
+        "Kailondo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://frontpageafricaonline.com/?p=115974"
+      ]
+    },
+    {
+      "id": "lr-liberia-enterprise-development-finance-company",
+      "name": "Liberia Enterprise Development Finance Company",
+      "aliases": [
+        "LEDFC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-brac-liberia",
+      "name": "BRAC Liberia",
+      "aliases": [
+        "BRAC",
+        "BRAC Liberia Microfinance"
+      ],
+      "type": "microfinance",
+      "group": "BRAC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/brac.svg",
+        "source": "https://play-lh.googleusercontent.com/I64Mlc-QDJVMdq9lppT3sWvdIMPdTya7d3_cs3ylLikC_s5JK6IVebVX-n-w7MG_urLhcf1dbaKJVAM6Of3U=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-foundation-for-women-liberia",
+      "name": "Foundation for Women Liberia",
+      "aliases": [
+        "FFW",
+        "Foundation for Women"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-action-for-community-matters",
+      "name": "Action for Community Matters",
+      "aliases": [
+        "ACM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-agk-microfinance",
+      "name": "AGK Microfinance",
+      "aliases": [
+        "AGK"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/agk-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/p3ZfuxevCHP-WSXHr4NRTpMQzD1upsdmaN4fX6tWV_ZCrb6BrYS0D4ktZULSstbqkv1rvci0PyzHWKA5BFdnVlw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-business-link",
+      "name": "Business Link",
+      "aliases": [
+        "Business Link Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-fidelity-microfinance",
+      "name": "Fidelity Microfinance",
+      "aliases": [
+        "Fidelity"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-kendei-empowerment-foundation-microfinance",
+      "name": "Kendei Empowerment Foundation Microfinance",
+      "aliases": [
+        "Kendei",
+        "KEF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-new-world-finance",
+      "name": "New World Finance",
+      "aliases": [
+        "New World"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-gbahlay-geh-rural-community-finance-institution",
+      "name": "Gbahlay-Geh Rural Community Finance Institution",
+      "aliases": [
+        "Gbahlay-Geh RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-grand-kru-rural-community-finance-institution",
+      "name": "Grand Kru Rural Community Finance Institution",
+      "aliases": [
+        "Grand Kru RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-rivergee-rural-community-finance-institution",
+      "name": "Rivergee Rural Community Finance Institution",
+      "aliases": [
+        "Rivergee RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-gbarpolu-rural-community-finance-institution",
+      "name": "Gbarpolu Rural Community Finance Institution",
+      "aliases": [
+        "Gbarpolu RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-rivercess-rural-community-finance-institution",
+      "name": "Rivercess Rural Community Finance Institution",
+      "aliases": [
+        "Rivercess RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-sinoe-rural-community-finance-institution",
+      "name": "Sinoe Rural Community Finance Institution",
+      "aliases": [
+        "Sinoe RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-nimba-rural-community-finance-institution",
+      "name": "Nimba Rural Community Finance Institution",
+      "aliases": [
+        "Nimba RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-zorlayea-rural-community-finance-institution",
+      "name": "Zorlayea Rural Community Finance Institution",
+      "aliases": [
+        "Zorlayea RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-kolahun-rural-community-finance-institution",
+      "name": "Kolahun Rural Community Finance Institution",
+      "aliases": [
+        "Kolahun RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-totota-rural-community-finance-institution",
+      "name": "Totota Rural Community Finance Institution",
+      "aliases": [
+        "Totota RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    },
+    {
+      "id": "lr-tappita-rural-community-finance-institution",
+      "name": "Tappita Rural Community Finance Institution",
+      "aliases": [
+        "Tappita RCFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
+      ]
+    }
+  ]
+}

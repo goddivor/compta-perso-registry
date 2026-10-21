@@ -1,0 +1,2366 @@
+{
+  "country": "CI",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "microfinance": "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf"
+  },
+  "operators": [
+    {
+      "id": "ci-afg-bank-cote-d-ivoire",
+      "name": "AFG Bank Côte d’Ivoire",
+      "aliases": [
+        "AFG Bank",
+        "AFG Bank CI",
+        "AFG Bank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "AFG",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/afg.svg",
+        "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-afrikabanque-cote-d-ivoire",
+      "name": "Afrikabanque Côte d’Ivoire",
+      "aliases": [
+        "BACI",
+        "Afrika Banque",
+        "Afrikabanque",
+        "Afrikabanque Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-afriland-first-bank-cote-d-ivoire",
+      "name": "Afriland First Bank Côte d’Ivoire",
+      "aliases": [
+        "First Bank CI",
+        "Afriland First Bank",
+        "Afriland",
+        "Afriland First Bank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Afriland First",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-bank-of-africa-cote-d-ivoire",
+      "name": "Bank of Africa Côte d’Ivoire",
+      "aliases": [
+        "BOA Côte d’Ivoire",
+        "BOA Cote d’Ivoire",
+        "BOA CI",
+        "BOA",
+        "Bank of Africa",
+        "Bank of Africa Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.boacoteivoire.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-banque-atlantique-cote-d-ivoire",
+      "name": "Banque Atlantique Côte d’Ivoire",
+      "aliases": [
+        "Banque Atlantique",
+        "Banque Atlantique Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-banque-de-l-habitat-de-cote-d-ivoire",
+      "name": "Banque de l'Habitat de Côte d’Ivoire",
+      "aliases": [
+        "BHCI",
+        "Banque de l'Habitat de Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-banque-de-l-union-cote-d-ivoire",
+      "name": "Banque de l'Union Côte d’Ivoire",
+      "aliases": [
+        "BDU-CI",
+        "BDU",
+        "Banque de l'Union Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "BDM",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-de-l-union.svg",
+        "source": "https://play-lh.googleusercontent.com/helGBPfyigLDsuDvf2esUDfgjH2L9xJMmkmS7LmjX5aVxkeLh5bLwoQ6taKC9bVLSr0fbxBjDfiknFncyFA_=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-bicici",
+      "name": "BICICI",
+      "aliases": [
+        "Banque Internationale pour le Commerce et l'Industrie de la Côte d'Ivoire",
+        "Banque Internationale pour le Commerce et l'Industrie de la Cote d'Ivoire"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-banque-nationale-d-investissement",
+      "name": "Banque Nationale d'Investissement",
+      "aliases": [
+        "BNI"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-nationale-d-investissement.svg",
+        "source": "https://play-lh.googleusercontent.com/40tpSHqAx-MKZKtfyl67O_lf_bkzmoeCTTgh5sXcz4KOHHuiXzmFUYj49HvxBfn5T-rkQufh35Xjd0KFQdo4lw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-bsic-cote-d-ivoire",
+      "name": "BSIC Côte d’Ivoire",
+      "aliases": [
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Côte d'Ivoire",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce Cote d'Ivoire",
+        "BSIC",
+        "BSIC Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-bgfibank-cote-d-ivoire",
+      "name": "BGFIBank Côte d’Ivoire",
+      "aliases": [
+        "BGFIBank CI",
+        "BGFI Bank",
+        "BGFI",
+        "BGFIBank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": "https://groupebgfibank.com",
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-bridge-bank-group-cote-d-ivoire",
+      "name": "Bridge Bank Group Côte d’Ivoire",
+      "aliases": [
+        "Bridge Bank",
+        "BBG-CI",
+        "BBG",
+        "Bridge Bank Group Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Bridge Bank Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bridge-bank-group.svg",
+        "source": "https://play-lh.googleusercontent.com/FC9EncO-u-6xoC-58Ztg_x_4nceSovN9Lc783YQ240dYhjZzTEtRD8ET58iC9mTyaUE6_p8NNvy8f8B6445BxA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-citibank-cote-d-ivoire",
+      "name": "Citibank Côte d’Ivoire",
+      "aliases": [
+        "Citibank CI",
+        "Citibank",
+        "Citi",
+        "Citibank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-coris-bank-international-cote-d-ivoire",
+      "name": "Coris Bank International Côte d’Ivoire",
+      "aliases": [
+        "CBI-CI",
+        "Coris Bank",
+        "CBI",
+        "Coris Bank International Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-ecobank-cote-d-ivoire",
+      "name": "Ecobank Côte d’Ivoire",
+      "aliases": [
+        "Ecobank",
+        "Ecobank CI",
+        "Ecobank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/ci/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-gtbank-cote-d-ivoire",
+      "name": "GTBank Côte d’Ivoire",
+      "aliases": [
+        "Guaranty Trust Bank Côte d’Ivoire",
+        "Guaranty Trust Bank Cote d’Ivoire",
+        "GTBank CI",
+        "GTBank",
+        "GTCO",
+        "GTBank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-mansa-bank",
+      "name": "Mansa Bank",
+      "aliases": [
+        "Mansabank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-nsia-banque-cote-d-ivoire",
+      "name": "NSIA Banque Côte d’Ivoire",
+      "aliases": [
+        "NSIA Banque CI",
+        "NSIA Banque",
+        "NSIA",
+        "NSIA Banque Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "NSIA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nsiabanque.ci",
+      "logo": {
+        "svg": "svg/logos/bank/nsia.svg",
+        "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-orabank-cote-d-ivoire",
+      "name": "Orabank Côte d’Ivoire",
+      "aliases": [
+        "Orabank",
+        "Orabank CI",
+        "Orabank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-orange-bank-africa",
+      "name": "Orange Bank Africa",
+      "aliases": [
+        "Orange Bank",
+        "OBA"
+      ],
+      "type": "bank",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/orange.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-societe-generale-cote-d-ivoire",
+      "name": "Société Générale Côte d’Ivoire",
+      "aliases": [
+        "SGCI",
+        "SG CI",
+        "Societe Generale",
+        "Societe Generale Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Société Générale",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-societe-ivoirienne-de-banque",
+      "name": "Société Ivoirienne de Banque",
+      "aliases": [
+        "SIB",
+        "Societe Ivoirienne de Banque"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/societe-ivoirienne-de-banque.svg",
+        "source": "https://play-lh.googleusercontent.com/y6c1-2g1lgjzd531GqebeYf8Y5R-6XrGL1221VpFd9Grr7YsF6QKmABROufqxb6zoDog67xRj1gDP8LqYMB9Aw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-stanbic-bank-cote-d-ivoire",
+      "name": "Stanbic Bank Côte d’Ivoire",
+      "aliases": [
+        "Stanbic Bank",
+        "Stanbic",
+        "Stanbic Bank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-standard-chartered-bank-cote-d-ivoire",
+      "name": "Standard Chartered Bank Côte d’Ivoire",
+      "aliases": [
+        "Standard Chartered",
+        "Standard Chartered Bank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-uba-cote-d-ivoire",
+      "name": "UBA Côte d’Ivoire",
+      "aliases": [
+        "United Bank for Africa Côte d’Ivoire",
+        "United Bank for Africa Cote d’Ivoire",
+        "UBA CI",
+        "UBA",
+        "UBA Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-versus-bank",
+      "name": "Versus Bank",
+      "aliases": [
+        "Versus"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/versus-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/K3qqsoBU0mh8RGbdibIIkMxj4voHIcd74ALT6KXUE9KNegI7zCEjPL6kpsRZ0DPFxoLYZrz2obekLC-zjRe8rw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-zenith-bank-cote-d-ivoire",
+      "name": "Zenith Bank Côte d’Ivoire",
+      "aliases": [
+        "Zenith Bank",
+        "Zenith",
+        "Zenith Bank Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": "Zenith",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/zenith.svg",
+        "source": "https://play-lh.googleusercontent.com/RIcMVbshRar85KSNG8-JuIEzLffjIAsjxxVXJ0msQeVDJ7RH_8qxsxGDfsI1rt21N545mKZz27I4FFAhAj7eJMc=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-bms-cote-d-ivoire",
+      "name": "BMS Côte d’Ivoire",
+      "aliases": [
+        "Banque Malienne de Solidarité",
+        "Banque Malienne de Solidarite",
+        "BMS",
+        "BMS-CI",
+        "BMS Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-brm-cote-d-ivoire",
+      "name": "BRM Côte d’Ivoire",
+      "aliases": [
+        "Banque Régionale de Marchés",
+        "Banque Regionale de Marches",
+        "BRM",
+        "BRM Cote d’Ivoire"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Côte d'Ivoire",
+        "Orange Money Cote d'Ivoire",
+        "OM",
+        "Orange",
+        "OMCI"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "MoMo",
+        "MTN Mobile Financial Services",
+        "MTN Money"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-moov-money",
+      "name": "Moov Money",
+      "aliases": [
+        "Moov Money Côte d'Ivoire",
+        "Moov Money Cote d'Ivoire",
+        "MMCI",
+        "Moov Africa",
+        "Flooz"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.moov-africa.ci",
+      "logo": {
+        "svg": "svg/logos/mobile-money/moov-money.svg",
+        "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-pe-ya-pay",
+      "name": "Pe Ya Pay",
+      "aliases": [
+        "Djogana Pay",
+        "PeYaPay",
+        "Djogana"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/pe-ya-pay.svg",
+        "source": "https://www.peyapay.ci/logo/peyapay_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-wave",
+      "name": "Wave",
+      "aliases": [
+        "Wave Côte d'Ivoire",
+        "Wave Cote d'Ivoire",
+        "Wave Mobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "Wave",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wave.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/wave.svg",
+        "source": "https://www.wave.com/img/nav-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-celpaid-money",
+      "name": "Celpaid Money",
+      "aliases": [
+        "Celpaid"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/celpaid-money.svg",
+        "source": "https://play-lh.googleusercontent.com/9zbEho9fWHVqCPXhDYhscNBbROsdOnogAWaDlMZ5rMV94x4wXpOhh_JEtLpnZE0DjrPGYQj5-1fBFnzDMHbqgw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-sama-money",
+      "name": "Sama Money",
+      "aliases": [
+        "Sama Money CI",
+        "Sama"
+      ],
+      "type": "mobile_money",
+      "group": "Sama Money",
+      "status": "active",
+      "successor": null,
+      "website": "https://sama.money",
+      "logo": {
+        "svg": "svg/logos/mobile-money/sama-money.svg",
+        "source": "https://sama.money/_astro/logo_sama_money_sombre.lz7lq_CM_Z1ek07O.webp",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-coris-money",
+      "name": "Coris Money",
+      "aliases": [
+        "Coris Money Côte d'Ivoire",
+        "Coris Money Cote d'Ivoire"
+      ],
+      "type": "mobile_money",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/coris-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-wizall",
+      "name": "Wizall",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/wizall.svg",
+        "source": "https://play-lh.googleusercontent.com/hUXTCUlz9v7X4VEVWgQO05rdCPVnbkH588NTTgr3mN12jYt_tQVgMyBCS4kEfzrX1NgPowYzfwx7EFymE-E-lQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-kash-kash",
+      "name": "Kash Kash",
+      "aliases": [
+        "KashKash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-xikka-money",
+      "name": "Xikka Money",
+      "aliases": [
+        "Xikka"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/xikka-money.svg",
+        "source": "https://play-lh.googleusercontent.com/WzNtHGwsnjTlKOU2Q_KvluqgBEmNPc2_BBHgM5UISMBX_9u7acV6AMpn7Q7JTKzwkGOg54DJEIyIw4-B4ddz=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-sara-money",
+      "name": "Sara Money",
+      "aliases": [
+        "Sara",
+        "NanoBNK"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/sara-money.svg",
+        "source": "https://play-lh.googleusercontent.com/wBh-qU_emqkJLhyVGW7nUygBnvWrre6gZhFdJLWZnBqx_yzGHV4dIq30Ah1sgV9OAq6M3xaQwxa_SCyE4H-NClc=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-xpress",
+      "name": "Xpress",
+      "aliases": [
+        "Ecobank Xpress"
+      ],
+      "type": "mobile_money",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/xpress.svg",
+        "source": "https://play-lh.googleusercontent.com/BFyTJJOQi2MtC0o9SvSj-QFRIFz1gd2RG-Lvk2kZjaa5QBctXFsUrjG4SROjcci5rO3sCki8Fqm2H56uRQHW=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-b-free",
+      "name": "B.Free",
+      "aliases": [
+        "BFree",
+        "B Free",
+        "BNI B.Free"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/b-free.svg",
+        "source": "https://play-lh.googleusercontent.com/CaAyqFhxlA-l7PzQAW8WD0WY00ih7vDEIOxXnZzJkec4GLO1WzRt3RQ_DoTMlQrmC18MfLMNeE741S9FKon1Sw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-tresor-money",
+      "name": "Trésor Money",
+      "aliases": [
+        "Tresor Money",
+        "Banque du Trésor",
+        "Banque du Tresor"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/tresor-money.svg",
+        "source": "https://play-lh.googleusercontent.com/vy4X0IG-E2wPC1CHscO2WOX33ld8yvUghVX3lJuJQ2UrqW_qPFet_p4bR2RwZy5DvLOmXReONp_vQhemFCoNlw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ci-djamo",
+      "name": "Djamo",
+      "aliases": [
+        "Djamo Côte d'Ivoire",
+        "Djamo Cote d'Ivoire",
+        "Djamo CI"
+      ],
+      "type": "fintech",
+      "group": "Djamo",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.djamo.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-cinetpay",
+      "name": "CinetPay",
+      "aliases": [
+        "CinetPay Africa",
+        "Cinet Pay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-dunya-digital-payment",
+      "name": "Dunya Digital Payment",
+      "aliases": [
+        "Dunya"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-feexpay",
+      "name": "FeexPay",
+      "aliases": [
+        "FeexPay Côte d'Ivoire",
+        "FeexPay Cote d'Ivoire",
+        "Feex Pay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/feexpay.svg",
+        "source": "https://play-lh.googleusercontent.com/LfrSGKk6eOEIzFUNsGNyiMdcSNx2SL-4cZNVF19bFo7ZFNyGVDz0IO_G6Ji9dmDNDrizWGBfCCF1YQwHxKWbWQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-firstcom-global-payments",
+      "name": "Firstcom Global Payments",
+      "aliases": [
+        "Firstcom"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-julaya",
+      "name": "Julaya",
+      "aliases": [
+        "Julaya Côte d'Ivoire",
+        "Julaya Cote d'Ivoire"
+      ],
+      "type": "fintech",
+      "group": "Julaya",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-paymetrust",
+      "name": "PayMeTrust",
+      "aliases": [
+        "Paymetrust"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-syca",
+      "name": "SYCA",
+      "aliases": [
+        "Syca Pay",
+        "SycaPay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/syca.svg",
+        "source": "https://play-lh.googleusercontent.com/KflahHBL0ZvBYrfmGoKbK5KkjNBq8S0rf7z2LYCBZGKmNkShdwI1YezOiIJItuf6cAPYXjV--yqUPLqc-sWr9A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-touchpoint-financial-services",
+      "name": "TouchPoint Financial Services",
+      "aliases": [
+        "TouchPoint",
+        "Touch Point"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/touchpoint-financial-services.svg",
+        "source": "https://play-lh.googleusercontent.com/QzUJW-n4_-UFgVrhqpFEPAvN6Ewm-TTDHylLCBhCrILhQD2EwMqwrhivUUgmhH2bUCmXQVmc0gUusDc-j1ZDGg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-nita-cote-d-ivoire",
+      "name": "NITA Côte d’Ivoire",
+      "aliases": [
+        "Niger Transfert d'Argent",
+        "NITA",
+        "NITA Cote d’Ivoire"
+      ],
+      "type": "fintech",
+      "group": "NITA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/nita.svg",
+        "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-connekt4",
+      "name": "Connekt4",
+      "aliases": [
+        "Connekt4 Côte d’Ivoire",
+        "Connekt4 Cote d’Ivoire"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ci-unacoopec-ci",
+      "name": "UNACOOPEC-CI",
+      "aliases": [
+        "Union Nationale des Coopératives d'Epargne et de Crédit de Côte d'Ivoire",
+        "Union Nationale des Cooperatives d'Epargne et de Credit de Cote d'Ivoire",
+        "UNACOOPEC",
+        "COOPEC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-rcmec-ci",
+      "name": "RCMEC-CI",
+      "aliases": [
+        "Réseau des Caisses Mutuelles d'Epargne et de Crédit de Côte d'Ivoire",
+        "Reseau des Caisses Mutuelles d'Epargne et de Credit de Cote d'Ivoire",
+        "RCMEC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://rcmec-ci.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-remuci",
+      "name": "REMUCI",
+      "aliases": [
+        "Mutuelle de Crédit et d'Epargne des Femmes d'Aboisso, Bonoua et Grand Bassam",
+        "Mutuelle de Credit et d'Epargne des Femmes d'Aboisso, Bonoua et Grand Bassam",
+        "MUCREFAB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-mucrefbo",
+      "name": "MUCREFBO",
+      "aliases": [
+        "Mutuelle d'Epargne et Crédit des Femmes de la région de Bouaflé",
+        "Mutuelle d'Epargne et Credit des Femmes de la region de Bouafle"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-ges-ci",
+      "name": "GES-CI",
+      "aliases": [
+        "Groupe d'Epargne et de Soutien en Côte d'Ivoire",
+        "Groupe d'Epargne et de Soutien en Cote d'Ivoire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-mukefi",
+      "name": "MUKEFI",
+      "aliases": [
+        "Mutuelle Koumala d'Epargne et de Financement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-mucref-ci",
+      "name": "MUCREF-CI",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit des Fonctionnaires de Côte d'Ivoire",
+        "Mutuelle d'Epargne et de Credit des Fonctionnaires de Cote d'Ivoire",
+        "MUCREF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-ifecc",
+      "name": "IFECC",
+      "aliases": [
+        "Institution Financière d'Epargne et de Crédit des Coopérateurs de Soubré",
+        "Institution Financiere d'Epargne et de Credit des Cooperateurs de Soubre",
+        "I.F.E.C.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-cecka-agou",
+      "name": "CECKA Agou",
+      "aliases": [
+        "Caisse d'Epargne et de Crédit Kêlécho d'Agou",
+        "Caisse d'Epargne et de Credit Kelecho d'Agou",
+        "CECKA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-cefa-gabiadji",
+      "name": "CEFA Gabiadji",
+      "aliases": [
+        "Caisse d'Epargne et de Financement Agricole",
+        "CEFA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-omis-finances",
+      "name": "OMIS Finances",
+      "aliases": [
+        "Œuvres et Missions Internationales Finances"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-credit-fef",
+      "name": "Crédit FEF",
+      "aliases": [
+        "Crédit du Fonds des Femmes",
+        "Credit du Fonds des Femmes",
+        "FEF",
+        "CREDIT-FEF",
+        "Credit FEF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-cepe-ci",
+      "name": "CEPE-CI",
+      "aliases": [
+        "Caisse d'Epargne des Personnels de l'Education de Côte d'Ivoire",
+        "Caisse d'Epargne des Personnels de l'Education de Cote d'Ivoire",
+        "CEPE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-ma2e",
+      "name": "MA2E",
+      "aliases": [
+        "Mutuelle des Agents de l'Eau et de l'Electricité",
+        "Mutuelle des Agents de l'Eau et de l'Electricite"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ma2e.svg",
+        "source": "https://play-lh.googleusercontent.com/NVPYfsNm6uOtYZc6BSS1p36RqjJNd63SqSt6j9bWNInvSoVOEyYdI4r_MyCKZpOQwvj_jEdRcyQuDfwQcB7vuTc=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-mcf-pme",
+      "name": "MCF-PME",
+      "aliases": [
+        "Mutuelle de Crédit et de Financement des PME",
+        "Mutuelle de Credit et de Financement des PME"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-fcec",
+      "name": "FCEC",
+      "aliases": [
+        "Fonds Communautaire d'Epargne et de Crédit de Yamoussoukro",
+        "Fonds Communautaire d'Epargne et de Credit de Yamoussoukro"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-mect",
+      "name": "MECT",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit de Tafiré",
+        "Mutuelle d'Epargne et de Credit de Tafire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-casudco",
+      "name": "CASUDCO",
+      "aliases": [
+        "Crédit Agricole du Sud Comoé",
+        "Credit Agricole du Sud Comoe"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-cooep-attinguie",
+      "name": "COOEP Attinguié",
+      "aliases": [
+        "Coopérative d'Epargne et de Prêts d'Attinguié",
+        "Cooperative d'Epargne et de Prets d'Attinguie",
+        "COOEP",
+        "COOEP Attinguie"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-crep-eco-meagui",
+      "name": "CREP ECO Méagui",
+      "aliases": [
+        "Caisse Rurale d'Epargne et de Prêt Economique de Méagui",
+        "Caisse Rurale d'Epargne et de Pret Economique de Meagui",
+        "CREP ECO",
+        "CREP ECO Meagui"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-yveo-finances",
+      "name": "YVEO Finances",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit Yacoli Village Ecole Ouverte",
+        "Mutuelle d'Epargne et de Credit Yacoli Village Ecole Ouverte",
+        "YVEO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-fcr",
+      "name": "FCR",
+      "aliases": [
+        "Fonds Coopératif Rural",
+        "Fonds Cooperatif Rural"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-advans-cote-d-ivoire",
+      "name": "Advans Côte d’Ivoire",
+      "aliases": [
+        "ADVANS CI",
+        "Advans",
+        "Advans Cote d’Ivoire"
+      ],
+      "type": "microfinance",
+      "group": "Advans",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.advanscotedivoire.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/advans.svg",
+        "source": "https://www.advanscotedivoire.com/wp-content/uploads/sites/8/2024/04/Logo-Advans-couleurs.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-baobab-cote-d-ivoire",
+      "name": "Baobab Côte d’Ivoire",
+      "aliases": [
+        "BAOBAB-CI SA",
+        "BAOBAB CI",
+        "Baobab",
+        "Baobab Cote d’Ivoire"
+      ],
+      "type": "microfinance",
+      "group": "Baobab",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-credit-access",
+      "name": "Crédit Access",
+      "aliases": [
+        "Credit Access",
+        "CREDIT ACCESS"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://creditaccess.ci",
+      "logo": {
+        "svg": "svg/logos/microfinance/credit-access.svg",
+        "source": "https://creditaccess.ci/wp-content/uploads/2023/01/cropped-cropped-Logo_CREDIT-ACCESS.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-fidra",
+      "name": "FIDRA",
+      "aliases": [
+        "Fonds International pour le Développement de la Retraite Active",
+        "Fonds International pour le Developpement de la Retraite Active"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/fidra.svg",
+        "source": "https://play-lh.googleusercontent.com/MupkpDm6SU_YC7sZwRDhKQcKfL1ZI18wUh0Qpj3QmZi34yVq0SZIFh2kay9jkEv08kp1cRW1Npj-X7meHEld8vs=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-fin-elle",
+      "name": "Fin'Elle",
+      "aliases": [
+        "La Finance pour ELLE SA",
+        "Finelle"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-finafrica-microfinance",
+      "name": "Finafrica Microfinance",
+      "aliases": [
+        "PAMF-CI",
+        "Première Agence de Microfinance de Côte d’Ivoire",
+        "Premiere Agence de Microfinance de Cote d’Ivoire",
+        "Finafrica"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-cofina-cote-d-ivoire",
+      "name": "Cofina Côte d’Ivoire",
+      "aliases": [
+        "COFINA-CI SA",
+        "Compagnie Financière Africaine Côte d’Ivoire",
+        "Compagnie Financiere Africaine Cote d’Ivoire",
+        "COFINA",
+        "Cofina Cote d’Ivoire"
+      ],
+      "type": "microfinance",
+      "group": "COFINA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cofinacotedivoire.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-cedaici",
+      "name": "CEDAICI",
+      "aliases": [
+        "Caisse d'Epargne pour le Développement Agricole et Industriel de Côte d'Ivoire",
+        "Caisse d'Epargne pour le Developpement Agricole et Industriel de Cote d'Ivoire",
+        "CEDAICI SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-atlantique-microfinance",
+      "name": "Atlantique Microfinance",
+      "aliases": [
+        "AMIFA",
+        "Atlantic Microfinance for Africa",
+        "AMIFA CI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-celpaid-finances",
+      "name": "Celpaid Finances",
+      "aliases": [
+        "CELPAID",
+        "Celpaid Finances SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/celpaid-finances.svg",
+        "source": "https://play-lh.googleusercontent.com/9zbEho9fWHVqCPXhDYhscNBbROsdOnogAWaDlMZ5rMV94x4wXpOhh_JEtLpnZE0DjrPGYQj5-1fBFnzDMHbqgw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-adec",
+      "name": "ADEC",
+      "aliases": [
+        "Alliance pour le Développement de l'Epargne et du Crédit",
+        "Alliance pour le Developpement de l'Epargne et du Credit",
+        "ADEC SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-witti-finances",
+      "name": "Witti Finances",
+      "aliases": [
+        "Witti Finances Côte d’Ivoire SA",
+        "Witti Finances Cote d’Ivoire SA",
+        "Witti"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-hes-finances",
+      "name": "HES Finances",
+      "aliases": [
+        "HES Finances SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-agir-finance",
+      "name": "Agir Finance",
+      "aliases": [
+        "Agir Finance SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-bridge-microfinance",
+      "name": "Bridge Microfinance",
+      "aliases": [
+        "BRIDGE MICROFINANCE SA",
+        "Brigde Microfinance"
+      ],
+      "type": "microfinance",
+      "group": "Bridge Bank Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-sirius-finances",
+      "name": "Sirius Finances",
+      "aliases": [
+        "Sirius Finances SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-credafrica",
+      "name": "Credafrica",
+      "aliases": [
+        "Credafrica SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-financia-cote-d-ivoire",
+      "name": "Financia Côte d’Ivoire",
+      "aliases": [
+        "Financia",
+        "Financia CI SA",
+        "Financia Cote d’Ivoire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-difin",
+      "name": "DIFIN",
+      "aliases": [
+        "Divine Finance Internationale",
+        "DIFIN SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-mobicred-cote-d-ivoire",
+      "name": "Mobicred Côte d’Ivoire",
+      "aliases": [
+        "MOBICRED-CI SA",
+        "Mobicred",
+        "Mobicred Cote d’Ivoire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-coris-meso-finance-cote-d-ivoire",
+      "name": "Coris Méso Finance Côte d’Ivoire",
+      "aliases": [
+        "CMF-CI SA",
+        "CMF-CI",
+        "Coris Meso Finance",
+        "Coris Meso Finance Cote d’Ivoire"
+      ],
+      "type": "microfinance",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-djamo-finance",
+      "name": "Djamo Finance",
+      "aliases": [
+        "Djamo Finance SA"
+      ],
+      "type": "microfinance",
+      "group": "Djamo",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/djamo.svg",
+        "source": "https://play-lh.googleusercontent.com/COFlFnBiED3WHi-J8CRd6ehKOzBjvgKGySJasSaOm1OrMZbsn0NVzk3uL4PpzGo7mF91EBaOvbsqRL9ImD_-7A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-alc-microfinance",
+      "name": "ALC Microfinance",
+      "aliases": [
+        "Africa Link Capital Microfinance",
+        "ALC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    },
+    {
+      "id": "ci-innov-finance",
+      "name": "Innov Finance",
+      "aliases": [
+        "Innov Finance SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
+        "https://microfinance.tresor.gouv.ci/micro/liste-des-systemes-financiers-decentralisees-agrees/"
+      ]
+    }
+  ]
+}

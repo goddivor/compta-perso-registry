@@ -1,0 +1,1618 @@
+{
+  "country": "SN",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf"
+  },
+  "operators": [
+    {
+      "id": "sn-afrikabanque-senegal",
+      "name": "Afrikabanque Sénégal",
+      "aliases": [
+        "Afrika Banque",
+        "Afrikabanque",
+        "Afrikabanque Senegal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-algerian-bank-of-senegal",
+      "name": "Algerian Bank of Senegal",
+      "aliases": [
+        "ABS"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-bank-of-africa-senegal",
+      "name": "Bank of Africa Sénégal",
+      "aliases": [
+        "BOA Sénégal",
+        "BOA Senegal",
+        "BOA",
+        "Bank of Africa",
+        "Bank of Africa Senegal"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.boasenegal.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-banque-atlantique-senegal",
+      "name": "Banque Atlantique Sénégal",
+      "aliases": [
+        "Banque Atlantique",
+        "Banque Atlantique Senegal"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-banque-de-l-habitat-du-senegal",
+      "name": "Banque de l'Habitat du Sénégal",
+      "aliases": [
+        "BHS",
+        "Banque de l'Habitat du Senegal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-banque-des-institutions-mutualistes-d-afrique-de-l-ouest",
+      "name": "Banque des Institutions Mutualistes d'Afrique de l'Ouest",
+      "aliases": [
+        "BIMAO"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-banque-islamique-du-senegal",
+      "name": "Banque Islamique du Sénégal",
+      "aliases": [
+        "BIS",
+        "Banque Islamique du Senegal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-banque-nationale-pour-le-developpement-economique",
+      "name": "Banque Nationale pour le Développement Économique",
+      "aliases": [
+        "BNDE",
+        "Banque Nationale pour le Developpement Economique"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-nationale-pour-le-developpement-economique.svg",
+        "source": "https://play-lh.googleusercontent.com/JHsbjIGqzMTKpRM57L58Ebh_z6dn922hJm1Hb6rC8ELJnEwuL1C9Qm27IOwmt5RMx3blmbTwotb8z5BK-kOlyA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-banque-regionale-de-marches",
+      "name": "Banque Régionale de Marchés",
+      "aliases": [
+        "BRM",
+        "Banque Regionale de Marches"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-bsic-senegal",
+      "name": "BSIC Sénégal",
+      "aliases": [
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Sénégal",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce Senegal",
+        "BSIC",
+        "BSIC Senegal"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-bgfibank-senegal",
+      "name": "BGFIBank Sénégal",
+      "aliases": [
+        "BGFI Bank",
+        "BGFI",
+        "BGFIBank Senegal"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": "https://groupebgfibank.com",
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-cbao",
+      "name": "CBAO",
+      "aliases": [
+        "CBAO Groupe Attijariwafa Bank",
+        "Attijariwafa Bank"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/cbao.svg",
+        "source": "https://play-lh.googleusercontent.com/cGLGc9gbiqMApeaRa1EutCzwO1g51zEvIs3aixUmPgjDsuaUoD9j_K0hqLT2JoRLTPjs2Ah4I9R7A1PLZd9-AU8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-citibank-senegal",
+      "name": "Citibank Sénégal",
+      "aliases": [
+        "Citibank SN",
+        "Citibank",
+        "Citi",
+        "Citibank Senegal"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-coris-bank-international-senegal",
+      "name": "Coris Bank International Sénégal",
+      "aliases": [
+        "CBI Sénégal",
+        "CBI Senegal",
+        "Coris Bank",
+        "CBI",
+        "Coris Bank International Senegal"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-credit-du-senegal",
+      "name": "Crédit du Sénégal",
+      "aliases": [
+        "CDS",
+        "Credit du Senegal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-credit-international",
+      "name": "Crédit International",
+      "aliases": [
+        "CI",
+        "Credit International"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-ecobank-senegal",
+      "name": "Ecobank Sénégal",
+      "aliases": [
+        "Ecobank",
+        "Ecobank Senegal"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/sn/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-fbnbank-senegal",
+      "name": "FBNBank Sénégal",
+      "aliases": [
+        "FBN Bank",
+        "First Bank",
+        "FBNBank",
+        "FBNBank Senegal"
+      ],
+      "type": "bank",
+      "group": "FirstBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/fbnbank.svg",
+        "source": "https://play-lh.googleusercontent.com/X8N6kEAHBE_VC5XOHEeT6lDaJ1r9hZAnn65LFqL3qZfAskniKkf81B1eSBA_Gz_fWb27IukVkwq1gb1OLTPCdg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-la-banque-agricole",
+      "name": "La Banque Agricole",
+      "aliases": [
+        "LBA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/la-banque-agricole.svg",
+        "source": "https://play-lh.googleusercontent.com/rV7hk3JGJSJJLxJEuCFAGkAQWXyE9PSTXj8XUYZAnG1lxk_HDCHvFKis6p7PU5K8JpfhYqO6NdPPpGeP-ImE=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-la-banque-outarde",
+      "name": "La Banque Outarde",
+      "aliases": [
+        "LBO"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/la-banque-outarde.svg",
+        "source": "https://play-lh.googleusercontent.com/W8VNrl2ZqqCJ7VkiMIQeleDgr72I2Y83A9zPTFskcIL91Jf3Wz8oBkbfETYVhnTy6uglIKOi-MyV-v9Ouwfjzg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-nsia-banque-senegal",
+      "name": "NSIA Banque Sénégal",
+      "aliases": [
+        "NSIA Banque",
+        "NSIA",
+        "NSIA Banque Senegal"
+      ],
+      "type": "bank",
+      "group": "NSIA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/nsia.svg",
+        "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-societe-generale-senegal",
+      "name": "Société Générale Sénégal",
+      "aliases": [
+        "SG Sénégal",
+        "SG Senegal",
+        "SGSN",
+        "Societe Generale",
+        "Societe Generale Senegal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-sunu-bank-senegal",
+      "name": "Sunu Bank Sénégal",
+      "aliases": [
+        "SUNU Bank",
+        "Sunu Bank SN",
+        "Sunu Bank Senegal"
+      ],
+      "type": "bank",
+      "group": "SUNU",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/sunu.svg",
+        "source": "https://www.sunubank.tg/sites/default/files/Logo-officiel-SUNUBank.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-uba-senegal",
+      "name": "UBA Sénégal",
+      "aliases": [
+        "United Bank for Africa Sénégal",
+        "United Bank for Africa Senegal",
+        "UBA",
+        "UBA Senegal"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-bdm-senegal",
+      "name": "BDM Sénégal",
+      "aliases": [
+        "Banque de Développement du Mali",
+        "Banque de Developpement du Mali",
+        "BDM",
+        "BDM Senegal"
+      ],
+      "type": "bank",
+      "group": "BDM",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-bci-mali-senegal",
+      "name": "BCI Mali Sénégal",
+      "aliases": [
+        "Banque pour le Commerce et l'Industrie du Mali",
+        "BCI",
+        "BCI-Mali",
+        "BCI Mali Senegal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-bridge-bank-group-senegal",
+      "name": "Bridge Bank Group Sénégal",
+      "aliases": [
+        "Bridge Bank",
+        "BBG",
+        "Bridge Bank Group Senegal"
+      ],
+      "type": "bank",
+      "group": "Bridge Bank Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bridge-bank-group.svg",
+        "source": "https://play-lh.googleusercontent.com/FC9EncO-u-6xoC-58Ztg_x_4nceSovN9Lc783YQ240dYhjZzTEtRD8ET58iC9mTyaUE6_p8NNvy8f8B6445BxA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-orabank-senegal",
+      "name": "Orabank Sénégal",
+      "aliases": [
+        "Orabank",
+        "Orabank Côte d’Ivoire succursale du Sénégal",
+        "Orabank Cote d’Ivoire succursale du Senegal",
+        "Orabank Senegal"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-orange-bank-africa-senegal",
+      "name": "Orange Bank Africa Sénégal",
+      "aliases": [
+        "Orange Bank",
+        "OBA",
+        "Orange Bank Africa Senegal"
+      ],
+      "type": "bank",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/orange.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Sénégal",
+        "Orange Money Senegal",
+        "Orange Finances Mobiles Sénégal",
+        "Orange Finances Mobiles Senegal",
+        "OM",
+        "Orange"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.sn",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-mixx-by-yas",
+      "name": "Mixx by Yas",
+      "aliases": [
+        "Free Money",
+        "Mobile Cash",
+        "Yas",
+        "Mixx",
+        "Free"
+      ],
+      "type": "mobile_money",
+      "group": "Yas",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mixx-by-yas.svg",
+        "source": "https://cdn-ilcckdn.nitrocdn.com/mJCoEvGkeejlEvJdEMQjiBVdPamvpGSY/assets/images/optimized/rev-1219e8c/yas.tg/wp-content/uploads/2024/10/jem_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+        "https://fr.apanews.net/technologies/senegal-free-devient-yas-une-nouvelle-ere-pour-loperateur-telecom/",
+        "https://www.osiris.sn/mixx-by-yas-lance-une-carte-prepayee-pour-booster-l-inclusion-financiere-au.html"
+      ]
+    },
+    {
+      "id": "sn-wave",
+      "name": "Wave",
+      "aliases": [
+        "Wave Sénégal",
+        "Wave Senegal",
+        "Wave Digital Finance",
+        "Wave Mobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "Wave",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wave.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/wave.svg",
+        "source": "https://www.wave.com/img/nav-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-quickpay",
+      "name": "QuickPay",
+      "aliases": [
+        "Quick Pay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/quickpay.svg",
+        "source": "https://play-lh.googleusercontent.com/NivXtQbefrpfPpLPkgtpUx-AQZXx_ZOeAcqlUvy5EShVPDlAqQy3b02nH_iwN_FBPc6w5bMBZ6j-M1ra6kyPCw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-touchpoint",
+      "name": "TouchPoint",
+      "aliases": [
+        "TouchPoint Financial Services",
+        "Touch Point"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/touchpoint.svg",
+        "source": "https://play-lh.googleusercontent.com/QzUJW-n4_-UFgVrhqpFEPAvN6Ewm-TTDHylLCBhCrILhQD2EwMqwrhivUUgmhH2bUCmXQVmc0gUusDc-j1ZDGg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-kash-kash",
+      "name": "Kash Kash",
+      "aliases": [
+        "KashKash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-wizall",
+      "name": "Wizall",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/wizall.svg",
+        "source": "https://play-lh.googleusercontent.com/hUXTCUlz9v7X4VEVWgQO05rdCPVnbkH588NTTgr3mN12jYt_tQVgMyBCS4kEfzrX1NgPowYzfwx7EFymE-E-lQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-zuulu-pay",
+      "name": "Zuulu Pay",
+      "aliases": [
+        "Zuulu",
+        "ZuuluPay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-coris-money",
+      "name": "Coris Money",
+      "aliases": [
+        "Coris Money Sénégal",
+        "Coris Money Senegal"
+      ],
+      "type": "mobile_money",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/coris-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-bissocash",
+      "name": "Bissocash",
+      "aliases": [
+        "Bisso Cash",
+        "Bissotech"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-post-cash",
+      "name": "Post Cash",
+      "aliases": [
+        "PostCash",
+        "La Poste Sénégal",
+        "La Poste Senegal"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/post-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/WY9e-UF-EePKcFLuZzwMPo05eIBtgw5AtWpmkfZgKV--jc8u_gfvguTep7aJqZKmwNMLC6lFQ0sANKSSnRL7Xg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-flash",
+      "name": "Flash",
+      "aliases": [
+        "New Africa Technology"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/flash.svg",
+        "source": "https://play-lh.googleusercontent.com/xemiqFey3iTZglLGA_7yBPL9vY0X5OnnW6lp-x6WflRuT_5J0p9JT3EQF2AHl4piOQOuBz2gAQqVnv241xSFOQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "sn-djamo",
+      "name": "Djamo",
+      "aliases": [
+        "Djamo Sénégal",
+        "Djamo Senegal"
+      ],
+      "type": "fintech",
+      "group": "Djamo",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.djamo.com/fr-sn",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-african-financial-agent",
+      "name": "African Financial Agent",
+      "aliases": [
+        "AFA"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/african-financial-agent.svg",
+        "source": "https://play-lh.googleusercontent.com/R0otM_mR_51LOagjTQm9duv-yY9UvhoPEkxHrego9FPECHjbC7cjZJTPLsNM0CVtBOb8Qe04-XE_h7cFWwY5=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-bictorys",
+      "name": "Bictorys",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/bictorys.svg",
+        "source": "https://play-lh.googleusercontent.com/4TO0-TCZKap8lVal_s9Rpjd66RE6S29WQSSkIrrJYuqbGRxi8jtTZoJgJql8g_8pdS7UgTsrWibSRU3H8kQLdxE=s512",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-copay",
+      "name": "Copay",
+      "aliases": [
+        "CoPay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-dunya-digital-payment",
+      "name": "Dunya Digital Payment",
+      "aliases": [
+        "Dunya"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-flutterwave-senegal",
+      "name": "Flutterwave Sénégal",
+      "aliases": [
+        "Flutterwave",
+        "Flutterwave Senegal"
+      ],
+      "type": "fintech",
+      "group": "Flutterwave",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/flutterwave.svg",
+        "source": "https://play-lh.googleusercontent.com/zWjoyiUrwmVpVz6_LiqY7Ly14t49ZLmRenMiCfAL3xaMPo_OyFPT7KaNvreXe3UsY99DyVnq8N5cWmCkzOkucQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-julaya",
+      "name": "Julaya",
+      "aliases": [
+        "Julaya Sénégal",
+        "Julaya Senegal"
+      ],
+      "type": "fintech",
+      "group": "Julaya",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-mikaty",
+      "name": "Mikaty",
+      "aliases": [
+        "Mikaty SN"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-samir-money",
+      "name": "Samir Money",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/samir-money.svg",
+        "source": "https://play-lh.googleusercontent.com/L82Fb64leaqPG33gSNEDGV1Aux4Pel4tAKuxDvgtkfNAOMKjW3-y-cboUmO1nRl6L5ISZiiPXoYV7u0Sq0fJXKQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-sesa-digital-finance",
+      "name": "SESA Digital Finance",
+      "aliases": [
+        "SESA"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-versus-finances-tech",
+      "name": "Versus Finances Tech",
+      "aliases": [
+        "Versus Fintech"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-wafacash-west-africa",
+      "name": "Wafacash West Africa",
+      "aliases": [
+        "Wafacash"
+      ],
+      "type": "fintech",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "sn-paydunya",
+      "name": "PayDunya",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://paydunya.com",
+      "logo": {
+        "svg": "svg/logos/fintech/paydunya.svg",
+        "source": "https://paydunya.com/refont/images/logo/blue_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://paydunya.com"
+      ]
+    },
+    {
+      "id": "sn-credit-mutuel-du-senegal",
+      "name": "Crédit Mutuel du Sénégal",
+      "aliases": [
+        "CMS",
+        "UCCMS",
+        "FCCMS",
+        "Union du Crédit Mutuel du Sénégal",
+        "Union du Credit Mutuel du Senegal",
+        "Credit Mutuel du Senegal"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cms.sn",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-baobab-senegal",
+      "name": "Baobab Sénégal",
+      "aliases": [
+        "BAOBAB",
+        "Baobab SA",
+        "Baobab Senegal"
+      ],
+      "type": "microfinance",
+      "group": "Baobab",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-cofina-senegal",
+      "name": "Cofina Sénégal",
+      "aliases": [
+        "COFINA",
+        "Cofina Senegal"
+      ],
+      "type": "microfinance",
+      "group": "COFINA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-pamecas",
+      "name": "PAMECAS",
+      "aliases": [
+        "Union des Mutuelles du Partenariat pour la Mobilisation de l'Epargne et du Crédit au Sénégal",
+        "Union des Mutuelles du Partenariat pour la Mobilisation de l'Epargne et du Credit au Senegal",
+        "UM-PAMECAS"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://pamecas.sn",
+      "logo": {
+        "svg": "svg/logos/microfinance/pamecas.svg",
+        "source": "https://play-lh.googleusercontent.com/OjY7lHgwsk_KJm-Zk4V-quXicK5iyki1HXkXAJraYoxuLAnK_SIhEDdks1P9zuST0DtmOgy4Nag26I9ZsJXKIg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-acep-senegal",
+      "name": "ACEP Sénégal",
+      "aliases": [
+        "Union des Mutuelles de l'Alliance de Crédit et d'Epargne pour la Production",
+        "Union des Mutuelles de l'Alliance de Credit et d'Epargne pour la Production",
+        "UM-ACEP",
+        "ACEP",
+        "ACEP Senegal"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/acep.svg",
+        "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-amifa-senegal",
+      "name": "AMIFA Sénégal",
+      "aliases": [
+        "Atlantic Microfinance for Africa",
+        "AMIFA",
+        "AMIFA Senegal"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-u-imcec",
+      "name": "U-IMCEC",
+      "aliases": [
+        "Union des Institutions Mutualistes Communautaires d'Epargne et de Crédit",
+        "Union des Institutions Mutualistes Communautaires d'Epargne et de Credit",
+        "IMCEC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-mecap",
+      "name": "MECAP",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit des Agents du Secteur Public et Parapublic",
+        "Mutuelle d'Epargne et de Credit des Agents du Secteur Public et Parapublic"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://mecap.sn",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-caurie-microfinance",
+      "name": "Caurie Microfinance",
+      "aliases": [
+        "CAURIEMF",
+        "Caurie MF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-credit-kash",
+      "name": "Crédit Kash",
+      "aliases": [
+        "CREDITKASH",
+        "Credit Kash Sénégal",
+        "Credit Kash Senegal",
+        "Credit Kash"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.creditkash.sn",
+      "logo": {
+        "svg": "svg/logos/microfinance/credit-kash.svg",
+        "source": "https://www.creditkash.sn/storage/2025/04/CKSN-scaled.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-visionfund-senegal",
+      "name": "VisionFund Sénégal",
+      "aliases": [
+        "VFM",
+        "Vision Fund Sénégal Microfinance",
+        "Vision Fund Senegal Microfinance",
+        "VisionFund Senegal"
+      ],
+      "type": "microfinance",
+      "group": "VisionFund",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-mectrans",
+      "name": "MECTRANS",
+      "aliases": [
+        "Mectrans"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://mectrans.sn",
+      "logo": {
+        "svg": "svg/logos/microfinance/mectrans.svg",
+        "source": "https://mectrans.sn/wp-content/uploads/2018/03/cropped-cropped-logo13-1-150x133-1.gif",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-meczy",
+      "name": "MECZY",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit de la Zone de Yoff",
+        "Mutuelle d'Epargne et de Credit de la Zone de Yoff"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-kajas-microfinance",
+      "name": "Kajas Microfinance",
+      "aliases": [
+        "KAJAS"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-microsen",
+      "name": "Microsen",
+      "aliases": [
+        "Microsen SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "sn-urmecs",
+      "name": "URMECS",
+      "aliases": [
+        "Union Rurale des Mutuelles d'Epargne et de Crédit du Sénégal",
+        "Union Rurale des Mutuelles d'Epargne et de Credit du Senegal"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.urmecs.sn",
+      "logo": {
+        "svg": "svg/logos/microfinance/urmecs.svg",
+        "source": "https://play-lh.googleusercontent.com/PMe6RFA9AcP0h0oF6ph7Zox2DuR02t8WiH_oZ3OW39YlMDmHfEhZ2qtE72K6mylSFJhZ-Q8T4bMtC-vvdG7E=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    }
+  ]
+}

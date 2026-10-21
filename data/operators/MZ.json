@@ -1,0 +1,952 @@
+{
+  "country": "MZ",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+    "mobile_money": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+    "microfinance": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+    "fintech": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls"
+  },
+  "operators": [
+    {
+      "id": "mz-millennium-bim",
+      "name": "Millennium bim",
+      "aliases": [
+        "BIM",
+        "Banco Internacional de Moçambique",
+        "Banco Internacional de Mocambique",
+        "Millennium"
+      ],
+      "type": "bank",
+      "group": "Millennium bcp",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.millenniumbim.co.mz",
+      "logo": {
+        "svg": "svg/logos/bank/millennium-bim.svg",
+        "source": "https://www.millenniumbim.co.mz/media/j1hg5lay/logotipo-selo-30-anos-topo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-absa",
+      "name": "Absa Bank Moçambique",
+      "aliases": [
+        "Absa",
+        "Absa Mozambique",
+        "Barclays Moçambique",
+        "Absa Bank Mocambique"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.absa.co.mz/pt/personal/",
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-standard-bank",
+      "name": "Standard Bank Moçambique",
+      "aliases": [
+        "Standard Bank",
+        "SB",
+        "Standard Bank Mocambique"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardbank.co.mz",
+      "logo": {
+        "svg": "svg/logos/bank/standard-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-bci",
+      "name": "BCI",
+      "aliases": [
+        "Banco Comercial e de Investimentos",
+        "BCI Moçambique"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bci.co.mz",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-first-capital-bank",
+      "name": "First Capital Bank Moçambique",
+      "aliases": [
+        "First Capital Bank",
+        "FCB"
+      ],
+      "type": "bank",
+      "group": "First Capital Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.firstcapitalbank.co.mz/en",
+      "logo": {
+        "svg": "svg/logos/bank/first-capital-bank.svg",
+        "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-vista-bank",
+      "name": "Vista Bank Moçambique",
+      "aliases": [
+        "Vista Bank",
+        "BSG",
+        "Société Générale Moçambique",
+        "Societe Generale Mocambique",
+        "Banco Société Générale Moçambique"
+      ],
+      "type": "bank",
+      "group": "Vista",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/vista.svg",
+        "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-fnb",
+      "name": "FNB Moçambique",
+      "aliases": [
+        "FNB",
+        "First National Bank Moçambique",
+        "FNB Mocambique"
+      ],
+      "type": "bank",
+      "group": "FirstRand",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fnb.co.mz",
+      "logo": {
+        "svg": "svg/logos/bank/fnb.svg",
+        "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-ecobank",
+      "name": "Ecobank Moçambique",
+      "aliases": [
+        "Ecobank",
+        "Ecobank Mocambique"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-moza-banco",
+      "name": "Moza Banco",
+      "aliases": [
+        "Moza",
+        "Mozabanco"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mozabanco.co.mz",
+      "logo": {
+        "svg": "svg/logos/bank/moza-banco.svg",
+        "source": "https://play-lh.googleusercontent.com/uOdsxPaRo2xLllfVdDY5OUb20dPJbJEcD3rbBAGOFjGaMvjuDCxGx5I81xQ6eyCc2w3bak8jRPTqHeUYhN-BRA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-uba",
+      "name": "UBA Moçambique",
+      "aliases": [
+        "UBA",
+        "United Bank for Africa",
+        "UBA Mocambique"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubamozambique.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-nedbank",
+      "name": "Nedbank Moçambique",
+      "aliases": [
+        "Nedbank",
+        "Nedbank Mocambique",
+        "Banco Único"
+      ],
+      "type": "bank",
+      "group": "Nedbank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nedbank.co.mz",
+      "logo": {
+        "svg": "svg/logos/bank/nedbank.svg",
+        "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-bni",
+      "name": "Banco Nacional de Investimento",
+      "aliases": [
+        "BNI"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bni.co.mz",
+      "logo": {
+        "svg": "svg/logos/bank/banco-nacional-de-investimento.svg",
+        "source": "https://www.bni.co.mz/content-files/uploads/2020/03/logo_300.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-banco-big",
+      "name": "Banco BIG Moçambique",
+      "aliases": [
+        "BIG",
+        "Banco BIG"
+      ],
+      "type": "bank",
+      "group": "Banco BiG",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancobig.co.mz",
+      "logo": {
+        "svg": "svg/logos/bank/banco-big.svg",
+        "source": "https://play-lh.googleusercontent.com/F2Q5nFY0ajb3Nrm88yNIHqYTUQJ1NtxCDDZGFNY4mzwwZrl3f7MOyimcDJ3v_Q63zSsbrVDBCxVLWulOF264=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-letshego",
+      "name": "Banco Letshego",
+      "aliases": [
+        "Letshego",
+        "Letshego Moçambique"
+      ],
+      "type": "bank",
+      "group": "Letshego",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-access-bank",
+      "name": "Access Bank Mozambique",
+      "aliases": [
+        "Access Bank",
+        "Access",
+        "Acess Bank"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": "https://mozambique.accessbankplc.com/pt",
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-ac-microbanco",
+      "name": "AC Microbanco",
+      "aliases": [
+        "ACMB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ac-microbanco.svg",
+        "source": "https://play-lh.googleusercontent.com/nsOCGQII-6iYHF_IOcbOoI9a_cdYYak6K0rbGjJBltCq85IYcV3Ieww2TcUb57YU_4duGjv33h_4fTFYLGJF=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-bayport",
+      "name": "Bayport Financial Services Moçambique",
+      "aliases": [
+        "Bayport",
+        "Bayport Mozambique"
+      ],
+      "type": "microfinance",
+      "group": "Bayport",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bayport.co.mz",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-socremo",
+      "name": "Socremo Microbanco",
+      "aliases": [
+        "Socremo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://socremo.com/",
+      "logo": {
+        "svg": "svg/logos/microfinance/socremo-microbanco.svg",
+        "source": "https://play-lh.googleusercontent.com/RpswMbFWKdzJoHHi380cytG045T66f7KvP7U5yzoMYnRzJ7TtlfuAb9hfcVTvvfkb3vr-RsxLrCx8rxt1LuZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-caixa-mulher",
+      "name": "Caixa Mulher",
+      "aliases": [
+        "CM",
+        "Caixa Mulher Microbanco"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-yingwe",
+      "name": "Yingwe Microbanco",
+      "aliases": [
+        "Yingwe",
+        "YMcb"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-caixa-financeira-caia",
+      "name": "Caixa Financeira de Caia",
+      "aliases": [
+        "CFCaia",
+        "Caia"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/caixa-financeira-de-caia.svg",
+        "source": "https://play-lh.googleusercontent.com/W8OyF1WVvpUwyHdzfBtGXM0j3g_O7qTVlsuYts3mMwU7yrSHa-RzZA4P_OcjK3M5BKLEhNiRLC0uaXqeXelZRg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-futuro",
+      "name": "Futuro Microbanco",
+      "aliases": [
+        "Futuro",
+        "Futuro Mcb"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-cppm",
+      "name": "Caixa de Poupança Postal de Moçambique",
+      "aliases": [
+        "CPPM",
+        "Caixa Postal",
+        "Caixa de Poupanca Postal de Mocambique"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-confianca",
+      "name": "Confiança Microbanco",
+      "aliases": [
+        "Confiança",
+        "Confianca",
+        "Confiança Mcb"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/confianca-microbanco.svg",
+        "source": "https://play-lh.googleusercontent.com/9CsIlPxPibhFuzr8tFYIIcyTmFQPs27sTsTBqXgSXCvEIJbdfMyJMUPAuCSS_WN4ZD8VsctaGQORO7cdtZgfUg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-mybucks",
+      "name": "MyBucks Bank Mozambique",
+      "aliases": [
+        "MyBucks",
+        "My Bucks"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://mybucks.co.mz/",
+      "logo": {
+        "svg": "svg/logos/microfinance/mybucks-bank.svg",
+        "source": "https://mybucks.co.mz/wp-content/uploads/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-xtenda",
+      "name": "Xtenda Finanças Moçambique",
+      "aliases": [
+        "Xtenda",
+        "Xtenda Financas"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-mais",
+      "name": "Microbanco de Apoio aos Investimentos",
+      "aliases": [
+        "MAIS",
+        "Microbanco MAIS"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-dumba",
+      "name": "Dumba Microbanco",
+      "aliases": [
+        "Dumba"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-servcred",
+      "name": "Servcred Microbanco",
+      "aliases": [
+        "Servcred"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-metropolitano",
+      "name": "Metropolitano Microbanco",
+      "aliases": [
+        "Metropolitano",
+        "Metrolopolitano Microbanco"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-maximo",
+      "name": "Maximo Microbanco",
+      "aliases": [
+        "Maximo",
+        "Máximo Microbanco"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-cpc",
+      "name": "Cooperativa de Poupança e Crédito",
+      "aliases": [
+        "CPC",
+        "Cooperativa de Poupanca e Credito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-kuyakana",
+      "name": "Cooperativa de Crédito Kuyakana",
+      "aliases": [
+        "Kuyakana"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-ccmea",
+      "name": "Cooperativa de Crédito dos Micro-empresários de Angónia",
+      "aliases": [
+        "CCMEA",
+        "Angónia",
+        "Angonia"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-cdmn",
+      "name": "Caixa das Mulheres de Nacala",
+      "aliases": [
+        "CDMN",
+        "Caixa das Mulheres"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://bancomoc.mz/en/areas-of-expertise/licensing/licensing-of-institutions/"
+      ]
+    },
+    {
+      "id": "mz-mkesh",
+      "name": "mKesh",
+      "aliases": [
+        "M-Kesh",
+        "Mkesh",
+        "Carteira Móvel",
+        "Carteira Movel",
+        "Tmcel",
+        "mCel"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mkesh.svg",
+        "source": "https://play-lh.googleusercontent.com/WF4dooI9tV1mts-g5PYVjd44JA6HW9r8dMVtCDYp-_UbPYqir6pv4pMXO1WaUT_1_xBW9USqxbfLGRlZlxzUkmI=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://www.millenniumbim.co.mz/media/4642/comunicado-de-imprensa-assinatura-mou-bim_mkesh_interoperabilidade.pdf",
+        "https://apps.apple.com/to/app/mkesh/id1565335463"
+      ]
+    },
+    {
+      "id": "mz-m-pesa",
+      "name": "M-Pesa",
+      "aliases": [
+        "Mpesa",
+        "Vodafone M-Pesa",
+        "Vodacom M-Pesa",
+        "Vodacom"
+      ],
+      "type": "mobile_money",
+      "group": "Vodacom",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.vm.co.mz",
+      "logo": {
+        "svg": "svg/logos/mobile-money/m-pesa.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://acemoneytransfer.com/en/blog/best-mobile-money-apps-mozambique"
+      ]
+    },
+    {
+      "id": "mz-e-mola",
+      "name": "e-Mola",
+      "aliases": [
+        "eMola",
+        "Emola",
+        "M-Mola",
+        "Movitel"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.movitel.co.mz",
+      "logo": {
+        "svg": "svg/logos/mobile-money/e-mola.svg",
+        "source": "https://play-lh.googleusercontent.com/Zs-xwLqYde2cHA17w_MdRurMHoGu4gWv3jBlJCLBMm9EhnwXdw4GZrzjo-aNbLtVceVDKLzNq4pHS3v3EGWLtbg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://acemoneytransfer.com/en/blog/best-mobile-money-apps-mozambique"
+      ]
+    },
+    {
+      "id": "mz-mukuru",
+      "name": "Mukuru",
+      "aliases": [
+        "Mukuru Moçambique"
+      ],
+      "type": "fintech",
+      "group": "Mukuru",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mukuru.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls"
+      ]
+    },
+    {
+      "id": "mz-paytek",
+      "name": "Paytek",
+      "aliases": [
+        "Paytek Tecnologias e Serviços de Pagamentos"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls"
+      ]
+    }
+  ]
+}

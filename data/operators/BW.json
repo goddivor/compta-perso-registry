@@ -1,0 +1,430 @@
+{
+  "country": "BW",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
+    "mobile_money": "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+  },
+  "operators": [
+    {
+      "id": "bw-absa-bank-botswana",
+      "name": "Absa Bank Botswana",
+      "aliases": [
+        "Absa",
+        "ABSA Botswana",
+        "Barclays Bank of Botswana",
+        "Barclays"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.absa.co.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-access-bank-botswana",
+      "name": "Access Bank Botswana",
+      "aliases": [
+        "Access Bank",
+        "BancABC",
+        "African Banking Corporation"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.accessbankplc.com/botswana",
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-bank-of-baroda-botswana",
+      "name": "Bank of Baroda Botswana",
+      "aliases": [
+        "Bank of Baroda",
+        "BoB Baroda",
+        "Baroda"
+      ],
+      "type": "bank",
+      "group": "Bank of Baroda",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-baroda.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-bank-gaborone",
+      "name": "Bank Gaborone",
+      "aliases": [
+        "BG",
+        "Bank Gaborone Limited"
+      ],
+      "type": "bank",
+      "group": "Capricorn",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankgaborone.co.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/bank-gaborone.svg",
+        "source": "https://www.bankgaborone.co.bw/_catalogs/masterpage/BG/images/SiteLogo.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-bbs-bank",
+      "name": "BBS Bank",
+      "aliases": [
+        "BBS",
+        "Botswana Building Society"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bbs.co.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/bbs-bank.svg",
+        "source": "https://www.bbs.co.bw/sites/default/files/bbs-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-first-capital-bank",
+      "name": "First Capital Bank Botswana",
+      "aliases": [
+        "First Capital Bank",
+        "FCB"
+      ],
+      "type": "bank",
+      "group": "First Capital Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.firstcapitalbank.co.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/first-capital-bank.svg",
+        "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-fnb",
+      "name": "FNB Botswana",
+      "aliases": [
+        "First National Bank of Botswana",
+        "First National Bank",
+        "FNBB",
+        "FNB"
+      ],
+      "type": "bank",
+      "group": "FirstRand",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fnbbotswana.co.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/fnb.svg",
+        "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-stanbic-bank-botswana",
+      "name": "Stanbic Bank Botswana",
+      "aliases": [
+        "Stanbic",
+        "Stanbic Bank",
+        "Standard Bank"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.stanbicbank.co.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-standard-chartered",
+      "name": "Standard Chartered Botswana",
+      "aliases": [
+        "Standard Chartered",
+        "Standard Chartered Bank Botswana",
+        "StanChart",
+        "SCB"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sc.com/bw/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-botswana-savings-bank",
+      "name": "Botswana Savings Bank",
+      "aliases": [
+        "BSB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bsb.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/botswana-savings-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/xTt-kqsqYnBipnMaNZ_54Qw4SH4csJcaXUs2TgH6fyq8FjQxdT22reiEzTwWLBWsZP_3PCF7_3ON-oZ-W4xz9A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-national-development-bank",
+      "name": "National Development Bank",
+      "aliases": [
+        "NDB",
+        "NDB Botswana"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ndb.bw/",
+      "logo": {
+        "svg": "svg/logos/bank/national-development-bank.svg",
+        "source": "https://www.ndb.bw/wp-content/uploads/2025/09/site-logo-3.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Botswana",
+        "OM"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.co.bw/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-myzaka",
+      "name": "MyZaka",
+      "aliases": [
+        "Mascom MyZaka",
+        "MyZaka Mascom Money",
+        "Mascom Money",
+        "MyZakaPay"
+      ],
+      "type": "mobile_money",
+      "group": "Mascom",
+      "status": "active",
+      "successor": null,
+      "website": "https://mascom.bw/about-mascom-myzaka/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/myzaka.svg",
+        "source": "https://mascom.bw/wp-content/uploads/2026/10/Mascom_Always-you_Borderless-Logo_Full-Colour.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
+        "https://mascom.bw/about-mascom-myzaka/"
+      ]
+    },
+    {
+      "id": "bw-smega",
+      "name": "Smega",
+      "aliases": [
+        "BTC Smega",
+        "BTC Mobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "BTC",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.btc.bw/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/smega.svg",
+        "source": "https://btc.bw/wp-content/uploads/2020/08/btc-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
+        "https://mmegi.bw/business/btc-smegas-revenues-rise-150/news"
+      ]
+    },
+    {
+      "id": "bw-poso-money",
+      "name": "Poso Money",
+      "aliases": [
+        "BotswanaPost Poso Money",
+        "Botswana Post",
+        "PosoMoney"
+      ],
+      "type": "mobile_money",
+      "group": "BotswanaPost",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.botswanapost.co.bw/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/poso-money.svg",
+        "source": "https://botswanapost.post/sites/default/files/logo%20%281%29.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
+        "https://dailynews.gov.bw/news-detail/49016"
+      ]
+    },
+    {
+      "id": "bw-mukuru",
+      "name": "Mukuru",
+      "aliases": [
+        "Mukuru Bureau de Change",
+        "Mukuru Wallet"
+      ],
+      "type": "fintech",
+      "group": "Mukuru",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mukuru.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+      ]
+    },
+    {
+      "id": "bw-letshego",
+      "name": "Letshego Botswana",
+      "aliases": [
+        "Letshego",
+        "Letshego Financial Services",
+        "LetsGo"
+      ],
+      "type": "microfinance",
+      "group": "Letshego",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.letshego.com/botswana",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
+        "https://www.letshego.com/botswana"
+      ]
+    },
+    {
+      "id": "bw-bayport",
+      "name": "Bayport Botswana",
+      "aliases": [
+        "Bayport",
+        "Bayport Financial Services",
+        "Money Quest Investments"
+      ],
+      "type": "microfinance",
+      "group": "Bayport",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://ewsdata.rightsindevelopment.org/projects/IFC-49980/",
+        "https://www.mfw4a.org/news/non-banking-financial-institutions-regulatory-authority-nbfira"
+      ]
+    }
+  ]
+}

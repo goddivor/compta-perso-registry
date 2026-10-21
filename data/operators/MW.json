@@ -1,0 +1,289 @@
+{
+  "country": "MW",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+  },
+  "operators": [
+    {
+      "id": "mw-cdh-investment-bank",
+      "name": "CDH Investment Bank",
+      "aliases": [
+        "CDH",
+        "CDHIB",
+        "CDH Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://cdh-malawi.com/",
+      "logo": {
+        "svg": "svg/logos/bank/cdh-investment-bank.svg",
+        "source": "https://cdh-malawi.com/wp-content/uploads/2025/04/Group.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-ecobank",
+      "name": "Ecobank Malawi",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ecobank.com/mw/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-fdh-bank",
+      "name": "FDH Bank",
+      "aliases": [
+        "FDH",
+        "First Discount House",
+        "Opportunity Bank Malawi"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fdh.co.mw/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-first-capital-bank",
+      "name": "First Capital Bank Malawi",
+      "aliases": [
+        "First Capital Bank",
+        "FCB",
+        "FMB",
+        "First Merchant Bank"
+      ],
+      "type": "bank",
+      "group": "First Capital Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.firstcapitalbank.co.mw/",
+      "logo": {
+        "svg": "svg/logos/bank/first-capital-bank.svg",
+        "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-national-bank-of-malawi",
+      "name": "National Bank of Malawi",
+      "aliases": [
+        "NBM",
+        "National Bank",
+        "Natbank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.natbank.co.mw/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-nbs-bank",
+      "name": "NBS Bank",
+      "aliases": [
+        "NBS",
+        "New Building Society"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.nbsmw.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-standard-bank",
+      "name": "Standard Bank Malawi",
+      "aliases": [
+        "Standard Bank",
+        "Stanbic Malawi"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardbank.co.mw/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-centenary-bank",
+      "name": "Centenary Bank Malawi",
+      "aliases": [
+        "Centenary Bank",
+        "MyBucks Banking Corporation",
+        "MyBucks"
+      ],
+      "type": "bank",
+      "group": "Centenary Group",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.centenarybank.co.mw/",
+      "logo": {
+        "svg": "svg/logos/bank/centenary-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/AWD51d8OyF8wPzU8uZglvKZgsbx7O1rLl_O_IybDqbW1PpnNgTLBh6jdIIUYWvKDnKEQdwyG7pKLnuWf7GWkz9Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
+      ]
+    },
+    {
+      "id": "mw-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Malawi",
+        "Airtel",
+        "Airtel Mobile Commerce"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.airtel.mw",
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.mamamoney.co.za/blog/money-transfers-to-malawi-understanding-mobile-wallets-and-cash-pickup-options",
+        "https://help.taptapsend.com/en/receiving-countries/how-can-i-send-money-to-malawi",
+        "https://itweb.africa/article/competition-heats-up-in-malawis-mobile-money-market/P3gQ2qGxjd3vnRD1"
+      ]
+    },
+    {
+      "id": "mw-tnm-mpamba",
+      "name": "TNM Mpamba",
+      "aliases": [
+        "Mpamba",
+        "TNM",
+        "Telekom Networks Malawi"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.tnm.co.mw",
+      "logo": {
+        "svg": "svg/logos/mobile-money/tnm-mpamba.svg",
+        "source": "https://play-lh.googleusercontent.com/dGgGkSFso-mdFgXbKWR8GS8SPMmIHssZWpExUWV6jRKCnPJxq_Mqcj9Kc5koi8woPGJRfNO6PW50Gx6c5vpm4g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.mamamoney.co.za/blog/money-transfers-to-malawi-understanding-mobile-wallets-and-cash-pickup-options",
+        "https://help.taptapsend.com/en/receiving-countries/how-can-i-send-money-to-malawi",
+        "https://mwnation.com/tnm-touts-mpamba-as-key-financial-solution/"
+      ]
+    },
+    {
+      "id": "mw-finca",
+      "name": "FINCA Malawi",
+      "aliases": [
+        "FINCA"
+      ],
+      "type": "microfinance",
+      "group": "FINCA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finca.org/finca-celebrates-25-years-of-impact-in-malawi"
+      ]
+    },
+    {
+      "id": "mw-visionfund",
+      "name": "VisionFund Malawi",
+      "aliases": [
+        "VisionFund",
+        "Vision Fund Malawi"
+      ],
+      "type": "microfinance",
+      "group": "VisionFund",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.gca-foundation.org/en/organisation/visionfund-malawi/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1456 @@
+{
+  "sources": {
+    "generatedAt": "2026-10-21",
+    "cldr": "48.2.0",
+    "flagIcons": "7.6.0"
+  },
+  "currencies": [
+    {
+      "code": "AOA",
+      "numeric": "973",
+      "name": {
+        "en": "Angolan Kwanza",
+        "fr": "kwanza angolais"
+      },
+      "plural": {
+        "en": {
+          "one": "Angolan kwanza",
+          "other": "Angolan kwanzas"
+        },
+        "fr": {
+          "one": "kwanza angolais",
+          "other": "kwanzas angolais"
+        }
+      },
+      "symbol": "AOA",
+      "narrowSymbol": "Kz",
+      "localSymbols": {
+        "AO": "Kz"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "Kz",
+        "svg": "svg/currencies/AOA.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "AO"
+      ]
+    },
+    {
+      "code": "BIF",
+      "numeric": "108",
+      "name": {
+        "en": "Burundian Franc",
+        "fr": "franc burundais"
+      },
+      "plural": {
+        "en": {
+          "one": "Burundian franc",
+          "other": "Burundian francs"
+        },
+        "fr": {
+          "one": "franc burundais",
+          "other": "francs burundais"
+        }
+      },
+      "symbol": "BIF",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "BI": "FBu"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "FBu",
+        "svg": "svg/currencies/BIF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "BI"
+      ]
+    },
+    {
+      "code": "BWP",
+      "numeric": "72",
+      "name": {
+        "en": "Botswanan Pula",
+        "fr": "pula botswanais"
+      },
+      "plural": {
+        "en": {
+          "one": "Botswanan pula",
+          "other": "Botswanan pulas"
+        },
+        "fr": {
+          "one": "pula botswanais",
+          "other": "pulas botswanais"
+        }
+      },
+      "symbol": "BWP",
+      "narrowSymbol": "P",
+      "localSymbols": {
+        "BW": "P"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "P",
+        "svg": "svg/currencies/BWP.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "BW"
+      ]
+    },
+    {
+      "code": "CDF",
+      "numeric": "976",
+      "name": {
+        "en": "Congolese Franc",
+        "fr": "franc congolais"
+      },
+      "plural": {
+        "en": {
+          "one": "Congolese franc",
+          "other": "Congolese francs"
+        },
+        "fr": {
+          "one": "franc congolais",
+          "other": "francs congolais"
+        }
+      },
+      "symbol": "CDF",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "CD": "FC"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "FC",
+        "svg": "svg/currencies/CDF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "CD"
+      ]
+    },
+    {
+      "code": "CVE",
+      "numeric": "132",
+      "name": {
+        "en": "Cape Verdean Escudo",
+        "fr": "escudo capverdien"
+      },
+      "plural": {
+        "en": {
+          "one": "Cape Verdean escudo",
+          "other": "Cape Verdean escudos"
+        },
+        "fr": {
+          "one": "escudo capverdien",
+          "other": "escudos capverdiens"
+        }
+      },
+      "symbol": "CVE",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "CV": "​"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "CVE",
+        "svg": "svg/currencies/CVE.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "CV"
+      ]
+    },
+    {
+      "code": "DJF",
+      "numeric": "262",
+      "name": {
+        "en": "Djiboutian Franc",
+        "fr": "franc djiboutien"
+      },
+      "plural": {
+        "en": {
+          "one": "Djiboutian franc",
+          "other": "Djiboutian francs"
+        },
+        "fr": {
+          "one": "franc djiboutien",
+          "other": "francs djiboutiens"
+        }
+      },
+      "symbol": "DJF",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "DJ": "Fdj"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "Fdj",
+        "svg": "svg/currencies/DJF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "DJ"
+      ]
+    },
+    {
+      "code": "DZD",
+      "numeric": "12",
+      "name": {
+        "en": "Algerian Dinar",
+        "fr": "dinar algérien"
+      },
+      "plural": {
+        "en": {
+          "one": "Algerian dinar",
+          "other": "Algerian dinars"
+        },
+        "fr": {
+          "one": "dinar algérien",
+          "other": "dinars algériens"
+        }
+      },
+      "symbol": "DZD",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "DZ": "د.ج.‏"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "DZD",
+        "svg": "svg/currencies/DZD.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "DZ"
+      ]
+    },
+    {
+      "code": "EGP",
+      "numeric": "818",
+      "name": {
+        "en": "Egyptian Pound",
+        "fr": "livre égyptienne"
+      },
+      "plural": {
+        "en": {
+          "one": "Egyptian pound",
+          "other": "Egyptian pounds"
+        },
+        "fr": {
+          "one": "livre égyptienne",
+          "other": "livres égyptiennes"
+        }
+      },
+      "symbol": "EGP",
+      "narrowSymbol": "E£",
+      "localSymbols": {
+        "EG": "ج.م.‏"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "E£",
+        "svg": "svg/currencies/EGP.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "EG"
+      ]
+    },
+    {
+      "code": "ERN",
+      "numeric": "232",
+      "name": {
+        "en": "Eritrean Nakfa",
+        "fr": "nafka érythréen"
+      },
+      "plural": {
+        "en": {
+          "one": "Eritrean nakfa",
+          "other": "Eritrean nakfas"
+        },
+        "fr": {
+          "one": "nafka érythréen",
+          "other": "nafkas érythréens"
+        }
+      },
+      "symbol": "ERN",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "ER": "Nfk"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "Nfk",
+        "svg": "svg/currencies/ERN.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "ER"
+      ]
+    },
+    {
+      "code": "ETB",
+      "numeric": "230",
+      "name": {
+        "en": "Ethiopian Birr",
+        "fr": "birr éthiopien"
+      },
+      "plural": {
+        "en": {
+          "one": "Ethiopian birr",
+          "other": "Ethiopian birrs"
+        },
+        "fr": {
+          "one": "birr éthiopien",
+          "other": "birrs éthiopiens"
+        }
+      },
+      "symbol": "ETB",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "ET": "ብር"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "ETB",
+        "svg": "svg/currencies/ETB.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "ET"
+      ]
+    },
+    {
+      "code": "GHS",
+      "numeric": "936",
+      "name": {
+        "en": "Ghanaian Cedi",
+        "fr": "cédi ghanéen"
+      },
+      "plural": {
+        "en": {
+          "one": "Ghanaian cedi",
+          "other": "Ghanaian cedis"
+        },
+        "fr": {
+          "one": "cédi ghanéen",
+          "other": "cédis ghanéens"
+        }
+      },
+      "symbol": "GHS",
+      "narrowSymbol": "GH₵",
+      "localSymbols": {
+        "GH": "GH₵"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "GH₵",
+        "svg": "svg/currencies/GHS.svg",
+        "font": "Noto Sans Bold"
+      },
+      "countries": [
+        "GH"
+      ]
+    },
+    {
+      "code": "GMD",
+      "numeric": "270",
+      "name": {
+        "en": "Gambian Dalasi",
+        "fr": "dalasi gambien"
+      },
+      "plural": {
+        "en": {
+          "one": "Gambian dalasi",
+          "other": "Gambian dalasis"
+        },
+        "fr": {
+          "one": "dalasi gambien",
+          "other": "dalasis gambiens"
+        }
+      },
+      "symbol": "GMD",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "GM": "D"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "D",
+        "svg": "svg/currencies/GMD.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "GM"
+      ]
+    },
+    {
+      "code": "GNF",
+      "numeric": "324",
+      "name": {
+        "en": "Guinean Franc",
+        "fr": "franc guinéen"
+      },
+      "plural": {
+        "en": {
+          "one": "Guinean franc",
+          "other": "Guinean francs"
+        },
+        "fr": {
+          "one": "franc guinéen",
+          "other": "francs guinéens"
+        }
+      },
+      "symbol": "GNF",
+      "narrowSymbol": "FG",
+      "localSymbols": {
+        "GN": "FG"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "FG",
+        "svg": "svg/currencies/GNF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "GN"
+      ]
+    },
+    {
+      "code": "KES",
+      "numeric": "404",
+      "name": {
+        "en": "Kenyan Shilling",
+        "fr": "shilling kényan"
+      },
+      "plural": {
+        "en": {
+          "one": "Kenyan shilling",
+          "other": "Kenyan shillings"
+        },
+        "fr": {
+          "one": "shilling kényan",
+          "other": "shillings kényans"
+        }
+      },
+      "symbol": "KES",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "KE": "Ksh"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "Ksh",
+        "svg": "svg/currencies/KES.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "KE"
+      ]
+    },
+    {
+      "code": "KMF",
+      "numeric": "174",
+      "name": {
+        "en": "Comorian Franc",
+        "fr": "franc comorien"
+      },
+      "plural": {
+        "en": {
+          "one": "Comorian franc",
+          "other": "Comorian francs"
+        },
+        "fr": {
+          "one": "franc comorien",
+          "other": "francs comoriens"
+        }
+      },
+      "symbol": "KMF",
+      "narrowSymbol": "CF",
+      "localSymbols": {
+        "KM": "CF"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "CF",
+        "svg": "svg/currencies/KMF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "KM"
+      ]
+    },
+    {
+      "code": "LRD",
+      "numeric": "430",
+      "name": {
+        "en": "Liberian Dollar",
+        "fr": "dollar libérien"
+      },
+      "plural": {
+        "en": {
+          "one": "Liberian dollar",
+          "other": "Liberian dollars"
+        },
+        "fr": {
+          "one": "dollar libérien",
+          "other": "dollars libériens"
+        }
+      },
+      "symbol": "LRD",
+      "narrowSymbol": "$",
+      "localSymbols": {
+        "LR": "$"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "$",
+        "svg": "svg/currencies/LRD.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "LR"
+      ]
+    },
+    {
+      "code": "LSL",
+      "numeric": "426",
+      "name": {
+        "en": "Lesotho Loti",
+        "fr": "loti lesothan"
+      },
+      "plural": {
+        "en": {
+          "one": "Lesotho loti",
+          "other": "Lesotho lotis"
+        },
+        "fr": {
+          "one": "loti lesothan",
+          "other": "maloti lesothans"
+        }
+      },
+      "symbol": "LSL",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "LS": "M"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "M",
+        "svg": "svg/currencies/LSL.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "LS"
+      ]
+    },
+    {
+      "code": "LYD",
+      "numeric": "434",
+      "name": {
+        "en": "Libyan Dinar",
+        "fr": "dinar libyen"
+      },
+      "plural": {
+        "en": {
+          "one": "Libyan dinar",
+          "other": "Libyan dinars"
+        },
+        "fr": {
+          "one": "dinar libyen",
+          "other": "dinars libyens"
+        }
+      },
+      "symbol": "LYD",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "LY": "د.ل.‏"
+      },
+      "decimals": 3,
+      "cashDecimals": null,
+      "sign": {
+        "text": "LYD",
+        "svg": "svg/currencies/LYD.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "LY"
+      ]
+    },
+    {
+      "code": "MAD",
+      "numeric": "504",
+      "name": {
+        "en": "Moroccan Dirham",
+        "fr": "dirham marocain"
+      },
+      "plural": {
+        "en": {
+          "one": "Moroccan dirham",
+          "other": "Moroccan dirhams"
+        },
+        "fr": {
+          "one": "dirham marocain",
+          "other": "dirhams marocains"
+        }
+      },
+      "symbol": "MAD",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "MA": "د.م.‏"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "MAD",
+        "svg": "svg/currencies/MAD.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "MA"
+      ]
+    },
+    {
+      "code": "MGA",
+      "numeric": "969",
+      "name": {
+        "en": "Malagasy Ariary",
+        "fr": "ariary malgache"
+      },
+      "plural": {
+        "en": {
+          "one": "Malagasy ariary",
+          "other": "Malagasy ariaries"
+        },
+        "fr": {
+          "one": "ariary malgache",
+          "other": "ariarys malgaches"
+        }
+      },
+      "symbol": "MGA",
+      "narrowSymbol": "Ar",
+      "localSymbols": {
+        "MG": "Ar"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "Ar",
+        "svg": "svg/currencies/MGA.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "MG"
+      ]
+    },
+    {
+      "code": "MRU",
+      "numeric": "929",
+      "name": {
+        "en": "Mauritanian Ouguiya",
+        "fr": "ouguiya mauritanien"
+      },
+      "plural": {
+        "en": {
+          "one": "Mauritanian ouguiya",
+          "other": "Mauritanian ouguiyas"
+        },
+        "fr": {
+          "one": "ouguiya mauritanien",
+          "other": "ouguiyas mauritaniens"
+        }
+      },
+      "symbol": "MRU",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "MR": "أ.م."
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "MRU",
+        "svg": "svg/currencies/MRU.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "MR"
+      ]
+    },
+    {
+      "code": "MUR",
+      "numeric": "480",
+      "name": {
+        "en": "Mauritian Rupee",
+        "fr": "roupie mauricienne"
+      },
+      "plural": {
+        "en": {
+          "one": "Mauritian rupee",
+          "other": "Mauritian rupees"
+        },
+        "fr": {
+          "one": "roupie mauricienne",
+          "other": "roupies mauriciennes"
+        }
+      },
+      "symbol": "MUR",
+      "narrowSymbol": "Rs",
+      "localSymbols": {
+        "MU": "Rs"
+      },
+      "decimals": 2,
+      "cashDecimals": 0,
+      "sign": {
+        "text": "Rs",
+        "svg": "svg/currencies/MUR.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "MU"
+      ]
+    },
+    {
+      "code": "MWK",
+      "numeric": "454",
+      "name": {
+        "en": "Malawian Kwacha",
+        "fr": "kwacha malawite"
+      },
+      "plural": {
+        "en": {
+          "one": "Malawian kwacha",
+          "other": "Malawian kwachas"
+        },
+        "fr": {
+          "one": "kwacha malawite",
+          "other": "kwachas malawites"
+        }
+      },
+      "symbol": "MWK",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "MW": "MK"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "MK",
+        "svg": "svg/currencies/MWK.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "MW"
+      ]
+    },
+    {
+      "code": "MZN",
+      "numeric": "943",
+      "name": {
+        "en": "Mozambican Metical",
+        "fr": "metical mozambicain"
+      },
+      "plural": {
+        "en": {
+          "one": "Mozambican metical",
+          "other": "Mozambican meticals"
+        },
+        "fr": {
+          "one": "metical mozambicain",
+          "other": "meticais mozambicains"
+        }
+      },
+      "symbol": "MZN",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "MZ": "MTn"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "MTn",
+        "svg": "svg/currencies/MZN.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "MZ"
+      ]
+    },
+    {
+      "code": "NAD",
+      "numeric": "516",
+      "name": {
+        "en": "Namibian Dollar",
+        "fr": "dollar namibien"
+      },
+      "plural": {
+        "en": {
+          "one": "Namibian dollar",
+          "other": "Namibian dollars"
+        },
+        "fr": {
+          "one": "dollar namibien",
+          "other": "dollars namibiens"
+        }
+      },
+      "symbol": "NAD",
+      "narrowSymbol": "$",
+      "localSymbols": {
+        "NA": "$"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "$",
+        "svg": "svg/currencies/NAD.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "NA"
+      ]
+    },
+    {
+      "code": "NGN",
+      "numeric": "566",
+      "name": {
+        "en": "Nigerian Naira",
+        "fr": "naira nigérian"
+      },
+      "plural": {
+        "en": {
+          "one": "Nigerian naira",
+          "other": "Nigerian nairas"
+        },
+        "fr": {
+          "one": "naira nigérian",
+          "other": "nairas nigérians"
+        }
+      },
+      "symbol": "NGN",
+      "narrowSymbol": "₦",
+      "localSymbols": {
+        "NG": "₦"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "₦",
+        "svg": "svg/currencies/NGN.svg",
+        "font": "Noto Sans Bold"
+      },
+      "countries": [
+        "NG"
+      ]
+    },
+    {
+      "code": "RWF",
+      "numeric": "646",
+      "name": {
+        "en": "Rwandan Franc",
+        "fr": "franc rwandais"
+      },
+      "plural": {
+        "en": {
+          "one": "Rwandan franc",
+          "other": "Rwandan francs"
+        },
+        "fr": {
+          "one": "franc rwandais",
+          "other": "francs rwandais"
+        }
+      },
+      "symbol": "RWF",
+      "narrowSymbol": "RF",
+      "localSymbols": {
+        "RW": "RF"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "RF",
+        "svg": "svg/currencies/RWF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "RW"
+      ]
+    },
+    {
+      "code": "SCR",
+      "numeric": "690",
+      "name": {
+        "en": "Seychellois Rupee",
+        "fr": "roupie des Seychelles"
+      },
+      "plural": {
+        "en": {
+          "one": "Seychellois rupee",
+          "other": "Seychellois rupees"
+        },
+        "fr": {
+          "one": "roupie des Seychelles",
+          "other": "roupies des Seychelles"
+        }
+      },
+      "symbol": "SCR",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "SC": "SR"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "SR",
+        "svg": "svg/currencies/SCR.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "SC"
+      ]
+    },
+    {
+      "code": "SDG",
+      "numeric": "938",
+      "name": {
+        "en": "Sudanese Pound",
+        "fr": "livre soudanaise"
+      },
+      "plural": {
+        "en": {
+          "one": "Sudanese pound",
+          "other": "Sudanese pounds"
+        },
+        "fr": {
+          "one": "livre soudanaise",
+          "other": "livres soudanaises"
+        }
+      },
+      "symbol": "SDG",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "SD": "ج.س."
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "SDG",
+        "svg": "svg/currencies/SDG.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "SD"
+      ]
+    },
+    {
+      "code": "SLE",
+      "numeric": null,
+      "name": {
+        "en": "Sierra Leonean Leone",
+        "fr": "leone sierra-léonais"
+      },
+      "plural": {
+        "en": {
+          "one": "Sierra Leonean leone",
+          "other": "Sierra Leonean leones"
+        },
+        "fr": {
+          "one": "leone sierra-léonais",
+          "other": "leones sierra-léonais"
+        }
+      },
+      "symbol": "SLE",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "SL": "Le"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "Le",
+        "svg": "svg/currencies/SLE.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "SL"
+      ]
+    },
+    {
+      "code": "SOS",
+      "numeric": "706",
+      "name": {
+        "en": "Somali Shilling",
+        "fr": "shilling somalien"
+      },
+      "plural": {
+        "en": {
+          "one": "Somali shilling",
+          "other": "Somali shillings"
+        },
+        "fr": {
+          "one": "shilling somalien",
+          "other": "shillings somaliens"
+        }
+      },
+      "symbol": "SOS",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "SO": "S"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "S",
+        "svg": "svg/currencies/SOS.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "SO"
+      ]
+    },
+    {
+      "code": "SSP",
+      "numeric": "728",
+      "name": {
+        "en": "South Sudanese Pound",
+        "fr": "livre sud-soudanaise"
+      },
+      "plural": {
+        "en": {
+          "one": "South Sudanese pound",
+          "other": "South Sudanese pounds"
+        },
+        "fr": {
+          "one": "livre sud-soudanaise",
+          "other": "livres sud-soudanaises"
+        }
+      },
+      "symbol": "SSP",
+      "narrowSymbol": "£",
+      "localSymbols": {
+        "SS": "£"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "£",
+        "svg": "svg/currencies/SSP.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "SS"
+      ]
+    },
+    {
+      "code": "STN",
+      "numeric": "930",
+      "name": {
+        "en": "São Tomé & Príncipe Dobra",
+        "fr": "dobra santoméen"
+      },
+      "plural": {
+        "en": {
+          "one": "São Tomé & Príncipe dobra",
+          "other": "São Tomé & Príncipe dobras"
+        },
+        "fr": {
+          "one": "dobra santoméen",
+          "other": "dobras santoméens"
+        }
+      },
+      "symbol": "STN",
+      "narrowSymbol": "Db",
+      "localSymbols": {
+        "ST": "Db"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "Db",
+        "svg": "svg/currencies/STN.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "ST"
+      ]
+    },
+    {
+      "code": "SZL",
+      "numeric": "748",
+      "name": {
+        "en": "Swazi Lilangeni",
+        "fr": "lilangeni swazi"
+      },
+      "plural": {
+        "en": {
+          "one": "Swazi lilangeni",
+          "other": "Swazi emalangeni"
+        },
+        "fr": {
+          "one": "lilangeni swazi",
+          "other": "lilangenis swazis"
+        }
+      },
+      "symbol": "SZL",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "SZ": "E"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "E",
+        "svg": "svg/currencies/SZL.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "SZ"
+      ]
+    },
+    {
+      "code": "TND",
+      "numeric": "788",
+      "name": {
+        "en": "Tunisian Dinar",
+        "fr": "dinar tunisien"
+      },
+      "plural": {
+        "en": {
+          "one": "Tunisian dinar",
+          "other": "Tunisian dinars"
+        },
+        "fr": {
+          "one": "dinar tunisien",
+          "other": "dinars tunisiens"
+        }
+      },
+      "symbol": "TND",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "TN": "د.ت.‏"
+      },
+      "decimals": 3,
+      "cashDecimals": null,
+      "sign": {
+        "text": "TND",
+        "svg": "svg/currencies/TND.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "TN"
+      ]
+    },
+    {
+      "code": "TZS",
+      "numeric": "834",
+      "name": {
+        "en": "Tanzanian Shilling",
+        "fr": "shilling tanzanien"
+      },
+      "plural": {
+        "en": {
+          "one": "Tanzanian shilling",
+          "other": "Tanzanian shillings"
+        },
+        "fr": {
+          "one": "shilling tanzanien",
+          "other": "shillings tanzaniens"
+        }
+      },
+      "symbol": "TZS",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "TZ": "TSh"
+      },
+      "decimals": 2,
+      "cashDecimals": 0,
+      "sign": {
+        "text": "TSh",
+        "svg": "svg/currencies/TZS.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "TZ"
+      ]
+    },
+    {
+      "code": "UGX",
+      "numeric": "800",
+      "name": {
+        "en": "Ugandan Shilling",
+        "fr": "shilling ougandais"
+      },
+      "plural": {
+        "en": {
+          "one": "Ugandan shilling",
+          "other": "Ugandan shillings"
+        },
+        "fr": {
+          "one": "shilling ougandais",
+          "other": "shillings ougandais"
+        }
+      },
+      "symbol": "UGX",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "UG": "USh"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "USh",
+        "svg": "svg/currencies/UGX.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "UG"
+      ]
+    },
+    {
+      "code": "USD",
+      "numeric": "840",
+      "name": {
+        "en": "US Dollar",
+        "fr": "dollar des États-Unis"
+      },
+      "plural": {
+        "en": {
+          "one": "US dollar",
+          "other": "US dollars"
+        },
+        "fr": {
+          "one": "dollar des États-Unis",
+          "other": "dollars des États-Unis"
+        }
+      },
+      "symbol": "$",
+      "narrowSymbol": "$",
+      "localSymbols": {
+        "ZW": "US$"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "$",
+        "svg": "svg/currencies/USD.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "ZW"
+      ]
+    },
+    {
+      "code": "XAF",
+      "numeric": "950",
+      "name": {
+        "en": "Central African CFA Franc",
+        "fr": "franc CFA (BEAC)"
+      },
+      "plural": {
+        "en": {
+          "one": "Central African CFA franc",
+          "other": "Central African CFA francs"
+        },
+        "fr": {
+          "one": "franc CFA (BEAC)",
+          "other": "francs CFA (BEAC)"
+        }
+      },
+      "symbol": "FCFA",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "CF": "FCFA",
+        "CG": "FCFA",
+        "CM": "FCFA",
+        "GA": "FCFA",
+        "GQ": "FCFA",
+        "TD": "FCFA"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "FCFA",
+        "svg": "svg/currencies/XAF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "CF",
+        "CG",
+        "CM",
+        "GA",
+        "GQ",
+        "TD"
+      ]
+    },
+    {
+      "code": "XOF",
+      "numeric": "952",
+      "name": {
+        "en": "West African CFA Franc",
+        "fr": "franc CFA (BCEAO)"
+      },
+      "plural": {
+        "en": {
+          "one": "West African CFA franc",
+          "other": "West African CFA francs"
+        },
+        "fr": {
+          "one": "franc CFA (BCEAO)",
+          "other": "francs CFA (BCEAO)"
+        }
+      },
+      "symbol": "F CFA",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "BF": "F CFA",
+        "BJ": "F CFA",
+        "CI": "F CFA",
+        "GW": "F CFA",
+        "ML": "F CFA",
+        "NE": "F CFA",
+        "SN": "F CFA",
+        "TG": "F CFA"
+      },
+      "decimals": 0,
+      "cashDecimals": null,
+      "sign": {
+        "text": "F CFA",
+        "svg": "svg/currencies/XOF.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "BF",
+        "BJ",
+        "CI",
+        "GW",
+        "ML",
+        "NE",
+        "SN",
+        "TG"
+      ]
+    },
+    {
+      "code": "ZAR",
+      "numeric": "710",
+      "name": {
+        "en": "South African Rand",
+        "fr": "rand sud-africain"
+      },
+      "plural": {
+        "en": {
+          "one": "South African rand",
+          "other": "South African rand"
+        },
+        "fr": {
+          "one": "rand sud-africain",
+          "other": "rands sud-africains"
+        }
+      },
+      "symbol": "ZAR",
+      "narrowSymbol": "R",
+      "localSymbols": {
+        "LS": "R",
+        "NA": "ZAR",
+        "ZA": "R"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "R",
+        "svg": "svg/currencies/ZAR.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "LS",
+        "NA",
+        "ZA"
+      ]
+    },
+    {
+      "code": "ZMW",
+      "numeric": "967",
+      "name": {
+        "en": "Zambian Kwacha",
+        "fr": "kwacha zambien"
+      },
+      "plural": {
+        "en": {
+          "one": "Zambian kwacha",
+          "other": "Zambian kwachas"
+        },
+        "fr": {
+          "one": "kwacha zambien",
+          "other": "kwachas zambiens"
+        }
+      },
+      "symbol": "ZMW",
+      "narrowSymbol": "ZK",
+      "localSymbols": {
+        "ZM": "K"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "K",
+        "svg": "svg/currencies/ZMW.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "ZM"
+      ]
+    },
+    {
+      "code": "ZWG",
+      "numeric": null,
+      "name": {
+        "en": "Zimbabwean Gold",
+        "fr": "or du Zimbabwe"
+      },
+      "plural": {
+        "en": {
+          "one": "Zimbabwean gold",
+          "other": "Zimbabwean gold"
+        },
+        "fr": {
+          "one": "or du Zimbabwe",
+          "other": "or du Zimbabwe"
+        }
+      },
+      "symbol": "ZWG",
+      "narrowSymbol": null,
+      "localSymbols": {
+        "ZW": "ZWG"
+      },
+      "decimals": 2,
+      "cashDecimals": null,
+      "sign": {
+        "text": "ZWG",
+        "svg": "svg/currencies/ZWG.svg",
+        "font": "Poppins Bold"
+      },
+      "countries": [
+        "ZW"
+      ]
+    }
+  ]
+}

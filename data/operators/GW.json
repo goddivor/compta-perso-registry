@@ -1,0 +1,237 @@
+{
+  "country": "GW",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "none",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+  },
+  "operators": [
+    {
+      "id": "gw-banco-da-africa-ocidental",
+      "name": "Banco da África Ocidental",
+      "aliases": [
+        "BAO",
+        "Banco da Africa Ocidental"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banco-da-africa-ocidental.svg",
+        "source": "https://play-lh.googleusercontent.com/K1n5l5OsAOc5FOLPrMT0MTZjlFlj-Z6rlYzjXsVTBst-68Do64Ux9H8XeL9AguVRkinbr3QrvBgXCebqcJ_8FA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
+      ]
+    },
+    {
+      "id": "gw-banco-da-uniao",
+      "name": "Banco da União",
+      "aliases": [
+        "BDU",
+        "Banco da Uniao"
+      ],
+      "type": "bank",
+      "group": "BDM",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banco-da-uniao.svg",
+        "source": "https://play-lh.googleusercontent.com/helGBPfyigLDsuDvf2esUDfgjH2L9xJMmkmS7LmjX5aVxkeLh5bLwoQ6taKC9bVLSr0fbxBjDfiknFncyFA_=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
+      ]
+    },
+    {
+      "id": "gw-ecobank-guine-bissau",
+      "name": "Ecobank Guiné-Bissau",
+      "aliases": [
+        "Ecobank",
+        "Ecobank Guinée-Bissau",
+        "Ecobank Guinee-Bissau",
+        "Ecobank Guinea-Bissau",
+        "Ecobank Guine-Bissau"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/gw/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
+      ]
+    },
+    {
+      "id": "gw-banque-atlantique-guine-bissau",
+      "name": "Banque Atlantique Guiné-Bissau",
+      "aliases": [
+        "Banque Atlantique",
+        "Banque Atlantique Côte d’Ivoire succursale de Guinée-Bissau",
+        "Banque Atlantique Cote d’Ivoire succursale de Guinee-Bissau",
+        "Banque Atlantique Guine-Bissau"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
+      ]
+    },
+    {
+      "id": "gw-coris-bank-international-guine-bissau",
+      "name": "Coris Bank International Guiné-Bissau",
+      "aliases": [
+        "Coris Bank",
+        "CBI",
+        "Coris Bank International Sénégal succursale de Guinée-Bissau",
+        "Coris Bank International Senegal succursale de Guinee-Bissau",
+        "Coris Bank International Guine-Bissau"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
+      ]
+    },
+    {
+      "id": "gw-orabank-guine-bissau",
+      "name": "Orabank Guiné-Bissau",
+      "aliases": [
+        "Orabank",
+        "Orabank Côte d’Ivoire succursale de Guinée-Bissau",
+        "Orabank Cote d’Ivoire succursale de Guinee-Bissau",
+        "Orabank Guine-Bissau"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
+      ]
+    },
+    {
+      "id": "gw-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Bissau",
+        "Finances Mobiles Bissau",
+        "OM",
+        "Orange"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "gw-telecel-cash",
+      "name": "Telecel Cash",
+      "aliases": [
+        "Telecel Money",
+        "Telecel",
+        "MTN MoMo",
+        "MTN Mobile Money",
+        "MoMo"
+      ],
+      "type": "mobile_money",
+      "group": "Telecel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/telecel-cash.svg",
+        "source": "https://telecel.com.gh/icons/icon-48x48.png?v=a3b267ceb2db2a81c1dc75f0ef2b1aaf",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+        "https://support.taptapsend.com/hc/en-gb/articles/52194646544275-Guinea-Bissau",
+        "https://techpoint.africa/news/mtn-exits-guinea-bissau-telecel/"
+      ]
+    },
+    {
+      "id": "gw-intouch-guine-bissau",
+      "name": "InTouch Guiné-Bissau",
+      "aliases": [
+        "Intouch",
+        "InTouch Guinée-Bissau",
+        "InTouch Guinee-Bissau",
+        "TouchPay",
+        "InTouch Guine-Bissau"
+      ],
+      "type": "fintech",
+      "group": "InTouch",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.intouchgroup.net",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    }
+  ]
+}

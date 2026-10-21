@@ -1,0 +1,283 @@
+{
+  "country": "KM",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://banque-comores.km/page/show/etablissements-de-credit",
+    "microfinance": "https://banque-comores.km/page/show/etablissements-de-credit"
+  },
+  "operators": [
+    {
+      "id": "km-afg-bank-comores",
+      "name": "AFG Bank Comores",
+      "aliases": [
+        "AFG Bank",
+        "AFG",
+        "BIC Comores",
+        "Banque pour l'Industrie et le Commerce",
+        "Banque pour l Industrie et le Commerce des Comores"
+      ],
+      "type": "bank",
+      "group": "AFG",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/afg.svg",
+        "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/page/show/etablissements-de-credit",
+        "https://en.wikipedia.org/wiki/AFG_Bank"
+      ]
+    },
+    {
+      "id": "km-bdc",
+      "name": "Banque de Développement des Comores",
+      "aliases": [
+        "BDC",
+        "Banque de Developpement des Comores"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/page/show/etablissements-de-credit",
+        "https://banque-comores.km/uploads/BCC-livret(3).pdf"
+      ]
+    },
+    {
+      "id": "km-exim-bank-comores",
+      "name": "Exim Bank Comores",
+      "aliases": [
+        "Exim Bank",
+        "EXIM",
+        "Eximbank Comores"
+      ],
+      "type": "bank",
+      "group": "Exim Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/page/show/etablissements-de-credit",
+        "https://banque-comores.km/uploads/BCC-livret(3).pdf"
+      ]
+    },
+    {
+      "id": "km-bfc",
+      "name": "Banque Fédérale de Commerce",
+      "aliases": [
+        "BFC",
+        "Banque Federale de Commerce"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/page/show/etablissements-de-credit",
+        "https://banque-comores.km/uploads/BCC-livret(3).pdf"
+      ]
+    },
+    {
+      "id": "km-bpc",
+      "name": "Banque Postale des Comores",
+      "aliases": [
+        "BPC",
+        "SNPSF",
+        "Société Nationale des Postes et des Services Financiers",
+        "Poste Comores"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bpc.km/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/uploads/BCC-livret(3).pdf",
+        "https://www.developmentaid.org/donors/view/518590/bpc-la-banque-postale-des-comores",
+        "https://banque-comores.km/uploads/APPEL-A-CANDIDATURE-DG-BPC-pour-publication-court.pdf"
+      ]
+    },
+    {
+      "id": "km-meck",
+      "name": "MECK",
+      "aliases": [
+        "Mutuelles d'Epargne et de Crédit ya Komor",
+        "Union des MECK",
+        "MECK Moroni",
+        "Mutuelles d Epargne et de Credit ya Komor"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://meck-moroni.org/",
+      "logo": {
+        "svg": "svg/logos/microfinance/meck.svg",
+        "source": "https://meck-moroni.org/assets/images/logo_meckMoroni.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/page/show/etablissements-de-credit",
+        "https://banque-comores.km/uploads/BCC-livret(3).pdf"
+      ]
+    },
+    {
+      "id": "km-sanduk-anjouan",
+      "name": "Union des Sanduk d'Anjouan",
+      "aliases": [
+        "Sanduk Anjouan",
+        "Sanduk",
+        "Union des Sanduk d Anjouan"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/page/show/etablissements-de-credit"
+      ]
+    },
+    {
+      "id": "km-sanduk-moheli",
+      "name": "Union des Sanduk de Mohéli",
+      "aliases": [
+        "Sanduk Moheli",
+        "Sanduk Mwali",
+        "Union des Sanduk de Moheli"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://banque-comores.km/page/show/etablissements-de-credit"
+      ]
+    },
+    {
+      "id": "km-mvola",
+      "name": "MVola",
+      "aliases": [
+        "M'Vola",
+        "Mvola Comores",
+        "Telma Money",
+        "Yas Comores",
+        "Telco Money"
+      ],
+      "type": "mobile_money",
+      "group": "Axian",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mvola.km/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mvola.svg",
+        "source": "https://www.mvola.km/wp-content/uploads/2023/12/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.mvola.km/",
+        "https://yas.km/",
+        "https://www.ifc.org/content/dam/ifc/doc/mgrt/comoros-building-resilience-through-dfs.pdf"
+      ]
+    },
+    {
+      "id": "km-huri-money",
+      "name": "Huri Money",
+      "aliases": [
+        "Huri",
+        "HuriMoney",
+        "Comores Telecom Money"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/huri-money.svg",
+        "source": "https://play-lh.googleusercontent.com/UnnzUQann-Pu3oflHUedIztioHhWXS9iW6xcpMYhOJNHNQenXtJ_us7nzmHEX-eik2ofXZYz_ITS5ljy3JjjauU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mail.lagazettedescomores.com/assets/pdfs/Lagazette_3930.pdf",
+        "https://www.ifc.org/content/dam/ifc/doc/mgrt/comoros-building-resilience-through-dfs.pdf"
+      ]
+    },
+    {
+      "id": "km-holo",
+      "name": "Holo",
+      "aliases": [
+        "Holo BDC",
+        "BDC Holo"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/holo.svg",
+        "source": "https://play-lh.googleusercontent.com/Hpjx-B-EL2J-TPsjS1OHklQlYIa6qM-2MB0-iyhBysqvkNPto1ziCnkC4IfKorClc7MkeiEEUuwnlDc3q-XUxUo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mail.lagazettedescomores.com/assets/pdfs/Lagazette_3930.pdf",
+        "https://www.ifc.org/content/dam/ifc/doc/mgrt/comoros-building-resilience-through-dfs.pdf"
+      ]
+    }
+  ]
+}

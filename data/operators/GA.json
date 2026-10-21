@@ -1,0 +1,404 @@
+{
+  "country": "GA",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "partial",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.apecgabon.com/etablissements-membres/",
+    "mobile_money": "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+  },
+  "operators": [
+    {
+      "id": "ga-bgfibank",
+      "name": "BGFIBank Gabon",
+      "aliases": [
+        "BGFI",
+        "BGFI Bank"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Gabon"
+      ]
+    },
+    {
+      "id": "ga-afg-bank",
+      "name": "AFG Bank Gabon",
+      "aliases": [
+        "BICIG",
+        "Banque Internationale pour le Commerce et l'Industrie du Gabon",
+        "AFG",
+        "AFG Bank"
+      ],
+      "type": "bank",
+      "group": "Atlantic Financial Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/afg-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://www.financialafrik.com/2024/06/24/gabon-la-bicig-devient-afg-bank-et-triple-son-capital/"
+      ]
+    },
+    {
+      "id": "ga-ugb",
+      "name": "UGB",
+      "aliases": [
+        "Union Gabonaise de Banque"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ugb.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/UGB_logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Gabon"
+      ]
+    },
+    {
+      "id": "ga-uba",
+      "name": "UBA Gabon",
+      "aliases": [
+        "United Bank for Africa Gabon",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Gabon"
+      ]
+    },
+    {
+      "id": "ga-orabank",
+      "name": "Orabank Gabon",
+      "aliases": [
+        "Orabank",
+        "Financial Bank Gabon",
+        "FBG"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Gabon"
+      ]
+    },
+    {
+      "id": "ga-ecobank",
+      "name": "Ecobank Gabon",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Gabon"
+      ]
+    },
+    {
+      "id": "ga-citibank",
+      "name": "Citibank Gabon",
+      "aliases": [
+        "Citibank",
+        "Citi"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Gabon"
+      ]
+    },
+    {
+      "id": "ga-bceg",
+      "name": "BCEG",
+      "aliases": [
+        "Banque pour le Commerce et l'Entrepreneuriat du Gabon"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.apecgabon.com/etablissements-membres/",
+        "https://www.ecofinagency.com/news-finances/3010-49979-gabon-new-state-backed-bank-bceg-lends-13-6m-to-businesses-in-10-months"
+      ]
+    },
+    {
+      "id": "ga-coris-bank",
+      "name": "Coris Bank International Gabon",
+      "aliases": [
+        "Coris Bank",
+        "CBI Gabon",
+        "Coris"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://echosdeleco.com/articles/banques-le-gabon-nouveau-marche-de-conquete"
+      ]
+    },
+    {
+      "id": "ga-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Gabon"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf",
+        "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf"
+      ]
+    },
+    {
+      "id": "ga-moov-money",
+      "name": "Moov Money",
+      "aliases": [
+        "Moov Money Gabon",
+        "Mobi Cash",
+        "MobiCash",
+        "Gabon Telecom"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/moov-money.svg",
+        "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.gabonreview.com/moov-africa-gabon-telecom-lance-le-transfert-dargent-international-avec-moov-money/",
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "ga-clikpay-money",
+      "name": "Clikpay Money",
+      "aliases": [
+        "Clikpay",
+        "Clikpay Gabon"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/clikpay-money.svg",
+        "source": "https://play-lh.googleusercontent.com/AI7AVsiIkOxeIZ54LoS4gpR9uedyqjwrBLZYUsYvQV8qeBlMhC7SfqnAj5K0NaVT6bnX6dEbglxkgKZYcxA9LmI=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf",
+        "https://www.beac.int/wp-content/uploads/2016/10/RAPPORT-SUR-LES-SERVICES-DE-PAIEMENT-DANS-LA-CEMAC2.pdf"
+      ]
+    },
+    {
+      "id": "ga-bgfimobile",
+      "name": "BGFIMobile",
+      "aliases": [
+        "BGFI Mobile",
+        "BGFIMoney"
+      ],
+      "type": "mobile_money",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bgfimobile.svg",
+        "source": "https://bgfibankgabon.bgfi.com/assets/images/logo-bgfi.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "ga-sfe",
+      "name": "Salam Financial & Exchange",
+      "aliases": [
+        "SFE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf"
+      ]
+    },
+    {
+      "id": "ga-cofina",
+      "name": "Cofina Gabon",
+      "aliases": [
+        "Compagnie Financière Africaine Gabon",
+        "Cofina Mobile",
+        "COFINA"
+      ],
+      "type": "microfinance",
+      "group": "Cofina",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf"
+      ]
+    },
+    {
+      "id": "ga-edg",
+      "name": "Épargne et Développement du Gabon",
+      "aliases": [
+        "EDG",
+        "Dibot",
+        "Epargne et Developpement du Gabon"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf"
+      ]
+    },
+    {
+      "id": "ga-finam",
+      "name": "Finam",
+      "aliases": [
+        "Financière Africaine de Micro-projets",
+        "FINAM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf"
+      ]
+    }
+  ]
+}

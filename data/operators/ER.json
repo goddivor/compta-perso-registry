@@ -1,0 +1,107 @@
+{
+  "country": "ER",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "partial",
+    "mobile_money": "none",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {},
+  "operators": [
+    {
+      "id": "er-commercial-bank-of-eritrea",
+      "name": "Commercial Bank of Eritrea",
+      "aliases": [
+        "CBER",
+        "CBE Eritrea"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Eritrea",
+        "https://en.wikipedia.org/wiki/Commercial_Bank_of_Eritrea"
+      ]
+    },
+    {
+      "id": "er-housing-and-commerce-bank-of-eritrea",
+      "name": "Housing and Commerce Bank of Eritrea",
+      "aliases": [
+        "Housing and Commerce Bank",
+        "HCBE",
+        "Housing Bank of Eritrea"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Eritrea",
+        "https://en.wikipedia.org/wiki/Housing_and_Commerce_Bank"
+      ]
+    },
+    {
+      "id": "er-eritrean-investment-and-development-bank",
+      "name": "Eritrean Investment and Development Bank",
+      "aliases": [
+        "Eritrean Development and Investment Bank",
+        "EIDB",
+        "EDIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Eritrea",
+        "https://en.wikipedia.org/wiki/Eritrean_Investment_and_Development_Bank"
+      ]
+    },
+    {
+      "id": "er-saving-and-micro-credit-program",
+      "name": "Saving and Micro Credit Program",
+      "aliases": [
+        "SMCP",
+        "Saving and Microcredit Programme"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/saving-and-micro-credit-program.svg",
+        "source": "https://play-lh.googleusercontent.com/O5mamag4VzLufS0mc4d4cwx7cWzEbB-ZvwJvPkKdlyH0yo0IPX6yYYLOpDFM6vc8PufTbVMLVOQYBJFFHfga=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/81756",
+        "https://repository.uwc.ac.za/handle/10566/6474"
+      ]
+    }
+  ]
+}

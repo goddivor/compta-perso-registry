@@ -1,0 +1,719 @@
+{
+  "country": "SS",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "none",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://boss.gov.ss/list-of-banks/"
+  },
+  "operators": [
+    {
+      "id": "ss-african-national-bank",
+      "name": "African National Bank",
+      "aliases": [
+        "ANB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-afriland-first-bank-south-sudan",
+      "name": "Afriland First Bank South Sudan",
+      "aliases": [
+        "Afriland First Bank",
+        "Afriland"
+      ],
+      "type": "bank",
+      "group": "Afriland First",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-agricultural-bank-of-south-sudan",
+      "name": "Agricultural Bank of South Sudan",
+      "aliases": [
+        "Agricultural Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-buffalo-commercial-bank",
+      "name": "Buffalo Commercial Bank",
+      "aliases": [
+        "Buffalo Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-charter-one-bank",
+      "name": "Charter One Bank",
+      "aliases": [],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-commercial-bank-of-ethiopia-south-sudan",
+      "name": "Commercial Bank of Ethiopia South Sudan",
+      "aliases": [
+        "Commercial Bank of Ethiopia",
+        "CBE"
+      ],
+      "type": "bank",
+      "group": "Commercial Bank of Ethiopia",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-co-operative-bank-of-south-sudan",
+      "name": "Co-operative Bank of South Sudan",
+      "aliases": [
+        "Cooperative Bank of South Sudan",
+        "Co-op Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-ecobank-south-sudan",
+      "name": "Ecobank South Sudan",
+      "aliases": [
+        "Ecobank South Sudan Ltd",
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-eden-commercial-bank",
+      "name": "Eden Commercial Bank",
+      "aliases": [
+        "Eden Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-equity-bank-south-sudan",
+      "name": "Equity Bank South Sudan",
+      "aliases": [
+        "Equity Bank South Sudan Limited",
+        "Equity Bank",
+        "Equity"
+      ],
+      "type": "bank",
+      "group": "Equity",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/equity.svg",
+        "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-international-commercial-bank-south-sudan",
+      "name": "International Commercial Bank South Sudan",
+      "aliases": [
+        "International Commercial Bank",
+        "ICB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-ivory-bank",
+      "name": "Ivory Bank",
+      "aliases": [],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-kcb-bank-south-sudan",
+      "name": "KCB Bank South Sudan",
+      "aliases": [
+        "KCB Bank South Sudan Limited",
+        "KCB"
+      ],
+      "type": "bank",
+      "group": "KCB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/kcb.svg",
+        "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-kush-bank",
+      "name": "Kush Bank",
+      "aliases": [
+        "Kush Bank PLC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-liberty-commercial-bank",
+      "name": "Liberty Commercial Bank",
+      "aliases": [
+        "Liberty Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-mountains-trade-and-development-bank",
+      "name": "Mountains Trade and Development Bank",
+      "aliases": [
+        "MTDB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-national-credit-bank",
+      "name": "National Credit Bank",
+      "aliases": [
+        "NCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/national-credit-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/EbvLtvv08S1XR0IK5M4PblOGzdHmnMmmUbgkdMeY821KmIwBJaDCwLUWsHjx3N_dxQiqcGzkLpKrT5XcTfC2cw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-nile-commercial-bank",
+      "name": "Nile Commercial Bank",
+      "aliases": [
+        "NCB South Sudan",
+        "Nile Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-opportunity-bank-south-sudan",
+      "name": "Opportunity Bank South Sudan",
+      "aliases": [
+        "Opportunity Bank"
+      ],
+      "type": "bank",
+      "group": "Opportunity International",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-nidb",
+      "name": "NIDB",
+      "aliases": [
+        "National Investment & Development Bank (SS) Plc",
+        "National Investment and Development Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-people-s-bank",
+      "name": "People's Bank",
+      "aliases": [
+        "Peoples Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/people-s-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/JiXM2hi2Yy5B1AzZjzyINtnvyLq3UpvtVZQVEDtSu0AiK8A4KG34zJr-Y5Px9JOi7ZZPf_cbnU7KdYDydPJ1pQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-phoenix-commercial-bank",
+      "name": "Phoenix Commercial Bank",
+      "aliases": [
+        "Phoenix Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-qatar-national-bank-south-sudan",
+      "name": "Qatar National Bank South Sudan",
+      "aliases": [
+        "Qatar National Bank",
+        "QNB"
+      ],
+      "type": "bank",
+      "group": "QNB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-regent-african-bank",
+      "name": "Regent African Bank",
+      "aliases": [
+        "Regent Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-royal-express-bank",
+      "name": "Royal Express Bank",
+      "aliases": [],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-south-sudan-commercial-bank",
+      "name": "South Sudan Commercial Bank",
+      "aliases": [
+        "SSCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-stanbic-bank-south-sudan",
+      "name": "Stanbic Bank South Sudan",
+      "aliases": [
+        "Stanbic Bank Kenya Limited",
+        "Stanbic Bank",
+        "Stanbic"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-alpha-commercial-bank",
+      "name": "Alpha Commercial Bank",
+      "aliases": [
+        "Alpha Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-ebony-national-bank",
+      "name": "Ebony National Bank",
+      "aliases": [
+        "Ebony Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-horizon-bank",
+      "name": "Horizon Bank",
+      "aliases": [],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-national-bank-of-egypt-juba",
+      "name": "National Bank of Egypt Juba",
+      "aliases": [
+        "National Bank of Egypt-Juba",
+        "National Bank of Egypt",
+        "NBE"
+      ],
+      "type": "bank",
+      "group": "National Bank of Egypt",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://boss.gov.ss/list-of-banks/"
+      ]
+    },
+    {
+      "id": "ss-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "MoMo",
+        "MTN"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://boss.gov.ss/mobile-money-providers-vow-nationwide-expansion-to-back-governments-digital-payment-push/"
+      ]
+    },
+    {
+      "id": "ss-m-gurush",
+      "name": "m-Gurush",
+      "aliases": [
+        "MGurush",
+        "M-Gurush",
+        "mGurush"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/m-gurush.svg",
+        "source": "https://play-lh.googleusercontent.com/tkFjXETdttz05aMciyZFzqp4zSpQJab-aGApv8uvbqouSZV79L7aj39FdjLW1X35oe092NzncZ3OATCD7GzkFzU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://sudantribune.com/?p=65930"
+      ]
+    }
+  ]
+}

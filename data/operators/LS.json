@@ -1,0 +1,3447 @@
+{
+  "country": "LS",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/",
+    "mobile_money": "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
+    "microfinance": "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/micro-finance-institutions/"
+  },
+  "operators": [
+    {
+      "id": "ls-standard-lesotho-bank",
+      "name": "Standard Lesotho Bank",
+      "aliases": [
+        "Standard Bank",
+        "SLB",
+        "Standard Lesotho Bank Ltd"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardlesothobank.co.ls/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-lesotho-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/"
+      ]
+    },
+    {
+      "id": "ls-nedbank-lesotho",
+      "name": "Nedbank Lesotho",
+      "aliases": [
+        "Nedbank"
+      ],
+      "type": "bank",
+      "group": "Nedbank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nedbank.co.ls/",
+      "logo": {
+        "svg": "svg/logos/bank/nedbank.svg",
+        "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/"
+      ]
+    },
+    {
+      "id": "ls-fnb",
+      "name": "FNB Lesotho",
+      "aliases": [
+        "First National Bank Lesotho",
+        "First National Bank",
+        "FNB"
+      ],
+      "type": "bank",
+      "group": "FirstRand",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fnb.co.ls/",
+      "logo": {
+        "svg": "svg/logos/bank/fnb.svg",
+        "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/"
+      ]
+    },
+    {
+      "id": "ls-postbank",
+      "name": "Lesotho PostBank",
+      "aliases": [
+        "Lesotho Post Bank",
+        "PostBank",
+        "LPB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lpb.co.ls/",
+      "logo": {
+        "svg": "svg/logos/bank/lesotho-postbank.svg",
+        "source": "https://play-lh.googleusercontent.com/98iSbumd1GJO3nQFdCyaE9fbqKeoAva-GxJku1H9S8m23yzHP6bCaJ_urmX1HePKeZyh3xPOJKrR_H4vWtWb98k=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/",
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/"
+      ]
+    },
+    {
+      "id": "ls-mpesa",
+      "name": "M-Pesa",
+      "aliases": [
+        "MPesa",
+        "Mpesa",
+        "Vodacom M-Pesa",
+        "VCL Financial Services"
+      ],
+      "type": "mobile_money",
+      "group": "Vodacom",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.vodacom.co.ls/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/m-pesa.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
+        "https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution"
+      ]
+    },
+    {
+      "id": "ls-ecocash",
+      "name": "EcoCash",
+      "aliases": [
+        "Eco Cash",
+        "Econet EcoCash",
+        "Sasai Econet Financial Services"
+      ],
+      "type": "mobile_money",
+      "group": "Econet",
+      "status": "active",
+      "successor": null,
+      "website": "https://etl.co.ls/ecocash/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/ecocash.svg",
+        "source": "https://play-lh.googleusercontent.com/p8KM6TJr6mODf24U8AhPlX1uofQp5dATtVOdQxUoPHEgrWCvucuEb89Q5L8An36PBSb2iaoXn2i1H1QcPwFtyA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
+        "https://etl.co.ls/ecocash/"
+      ]
+    },
+    {
+      "id": "ls-c-pay",
+      "name": "C-Pay",
+      "aliases": [
+        "CPay",
+        "Chaperone",
+        "Chaperone C-Pay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cpay.co.ls/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/c-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/IfVm585Rcjylr9nx0tdSDUChErmHmV4QaVJKnwYVS1zV0BdY4Cf1LYyGEuFNGmnjF51FyHCJsPfrOGZkwwnA3A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
+        "https://www.thereporter.co.ls/2022/07/04/chaperone-launches-new-products/"
+      ]
+    },
+    {
+      "id": "ls-smartel-money",
+      "name": "Smartel Money",
+      "aliases": [
+        "Smartel",
+        "MyWallet",
+        "Smartel MyWallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/smartel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/PfjP4-7JZDlBehTnM3wGcmufj13PzrEBdkZx77KGrC7hXYxJQWY1U97_1ly0xQglYukfaL78sKsFuxfZeMk_m_g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
+        "https://www.thereporter.co.ls/2020/08/24/smartel-money-gains-traction/"
+      ]
+    },
+    {
+      "id": "ls-mukuru",
+      "name": "Mukuru",
+      "aliases": [
+        "Mukuru Bureau de Change"
+      ],
+      "type": "fintech",
+      "group": "Mukuru",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mukuru.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/foreign-exchange-bureau-and-money-transfere/"
+      ]
+    },
+    {
+      "id": "ls-agriculture-and-small-business-mf",
+      "name": "Agriculture & Small Business MF",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/agriculture-small-business-mf/"
+      ]
+    },
+    {
+      "id": "ls-airvantage-lesotho",
+      "name": "Airvantage Lesotho",
+      "aliases": [
+        "Airvantage Lesotho Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/airvantage-lesotho-ltd/"
+      ]
+    },
+    {
+      "id": "ls-alimela-thuto-financial-services",
+      "name": "Alimela Thuto Financial Services",
+      "aliases": [
+        "Alimela Thuto Financial Services Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/alimela-thuto-financial-services-limited/"
+      ]
+    },
+    {
+      "id": "ls-atlas-finance",
+      "name": "Atlas Finance",
+      "aliases": [
+        "Atlas Finance Pty Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/atlas-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-bana-ba-thari",
+      "name": "Bana Ba Thari",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bana-ba-thari/"
+      ]
+    },
+    {
+      "id": "ls-batlokoa-financial-services",
+      "name": "Batlokoa Financial Services",
+      "aliases": [
+        "Batlokoa Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/batlokoa-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-bcm-finance",
+      "name": "BCM Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bcm-finance/"
+      ]
+    },
+    {
+      "id": "ls-big-r-financial-services",
+      "name": "Big R Financial Services",
+      "aliases": [
+        "Big R Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/big-r-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-bih-finance",
+      "name": "BIH Finance",
+      "aliases": [
+        "BIH Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bih-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-bj-financial-services",
+      "name": "BJ Financial Services",
+      "aliases": [
+        "BJ Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bj-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-blessings-financial-services",
+      "name": "Blessings Financial Services",
+      "aliases": [
+        "Blessings Financial Services Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/blessings-financial-services-limited/"
+      ]
+    },
+    {
+      "id": "ls-bm-financial-services",
+      "name": "BM Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bm-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-bng-finance",
+      "name": "BNG Finance",
+      "aliases": [
+        "BNG Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bng-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-bohlokoa-financial-services",
+      "name": "Bohlokoa Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bohlokoa-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-boikaho-financial-services",
+      "name": "Boikaho Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/boikaho-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-bophelong-financial-services",
+      "name": "Bophelong Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bophelong-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-bushel-financial-services",
+      "name": "Bushel Financial Services",
+      "aliases": [
+        "bushel financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/bushel-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-cash-advance",
+      "name": "Cash Advance",
+      "aliases": [
+        "Cash Advance Pty Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/cash-advance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-cgt-financial-services",
+      "name": "CGT Financial Services",
+      "aliases": [
+        "CGT Financial Services Pty Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/cgt-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-champ-financial-services",
+      "name": "CHAMP Financial Services",
+      "aliases": [
+        "CHAMP Financial Services Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/champ-financial-services-limited/"
+      ]
+    },
+    {
+      "id": "ls-dee-s-cash-loans",
+      "name": "Dee's Cash loans",
+      "aliases": [
+        "Dees Cash loans"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/dees-cash-loans/"
+      ]
+    },
+    {
+      "id": "ls-digiloans",
+      "name": "Digiloans",
+      "aliases": [
+        "Digiloans Limited Mercury Finance ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/digiloans-limited-mercury-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-dropmarks",
+      "name": "Dropmarks",
+      "aliases": [
+        "Dropmarks Pty Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/dropmarks-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-e-m-instant-loans",
+      "name": "E.M. Instant Loans",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/e-m-instant-loans/"
+      ]
+    },
+    {
+      "id": "ls-easy-credit-finance",
+      "name": "Easy Credit Finance",
+      "aliases": [
+        "Easy Credit Finance( Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/easy-credit-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-eezee-loans",
+      "name": "Eezee Loans",
+      "aliases": [
+        "Eezee Loans (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/eezee-loans-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-eliza-micro-finance",
+      "name": "Eliza Micro Finance",
+      "aliases": [
+        "Eliza Micro Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/eliza-micro-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-express-credit",
+      "name": "Express Credit",
+      "aliases": [
+        "Express Credit (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/express-credit-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-faith-financial-services",
+      "name": "Faith Financial Services",
+      "aliases": [
+        "Faith Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/faith-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-fast-loans-financial-sercives",
+      "name": "Fast Loans Financial Sercives",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/fast-loans-financial-sercives/"
+      ]
+    },
+    {
+      "id": "ls-financial-hub",
+      "name": "Financial Hub",
+      "aliases": [
+        "Financial Hub (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/financial-hub-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-first-finance",
+      "name": "First Finance",
+      "aliases": [
+        "First Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/first-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-fresh-money-solutions",
+      "name": "Fresh Money Solutions",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/fresh-money-solutions/"
+      ]
+    },
+    {
+      "id": "ls-goldenheart-financial-services",
+      "name": "Goldenheart Financial Services",
+      "aliases": [
+        "Goldenheart Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/goldenheart-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-green-dot-finance-1",
+      "name": "Green Dot Finance 1",
+      "aliases": [
+        "Green Dot Finance 1 Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/green-dot-finance-1-ltd/"
+      ]
+    },
+    {
+      "id": "ls-gumu-financial-services",
+      "name": "Gumu Financial Services",
+      "aliases": [
+        "Gumu Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/gumu-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-highlands-financial-services",
+      "name": "Highlands Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/highlands-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-ideas-in-action",
+      "name": "Ideas in Action",
+      "aliases": [
+        "Ideas in Action (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/ideas-in-action-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-immediate-finance",
+      "name": "Immediate Finance",
+      "aliases": [
+        "Immediate Finance PTY LTD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/immediate-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-innovated-financial-services",
+      "name": "Innovated Financial Services",
+      "aliases": [
+        "Innovated Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/innovated-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-innovative-quick-solutions",
+      "name": "Innovative Quick Solutions",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/innovative-quick-solutions/"
+      ]
+    },
+    {
+      "id": "ls-isaac-holdings",
+      "name": "Isaac Holdings",
+      "aliases": [
+        "Isaac Holdings Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/isaac-holdings-ltd/"
+      ]
+    },
+    {
+      "id": "ls-jfm-financial-services",
+      "name": "JFM Financial Services",
+      "aliases": [
+        "JFM Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/jfm-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-jg-microfinance",
+      "name": "JG Microfinance",
+      "aliases": [
+        "JG Microfinance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/jg-microfinance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-joy-finance",
+      "name": "Joy Finance",
+      "aliases": [
+        "Joy Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/joy-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-jp-financial-services",
+      "name": "JP Financial Services",
+      "aliases": [
+        "JP Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/jp-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-juju-financial-services",
+      "name": "Juju Financial Services",
+      "aliases": [
+        "Juju Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/juju-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-justali-finance",
+      "name": "Justali Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/justali-finance/"
+      ]
+    },
+    {
+      "id": "ls-kbotle-financial-services",
+      "name": "Kbotle Financial Services",
+      "aliases": [
+        "Kbotle Financial Services (Pty)Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/kbotle-financial-services-ptyltd/"
+      ]
+    },
+    {
+      "id": "ls-kekana-finance",
+      "name": "Kekana Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/kekana-finance/"
+      ]
+    },
+    {
+      "id": "ls-khemisi-financial-services",
+      "name": "Khemisi Financial Services",
+      "aliases": [
+        "Khemisi Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/khemisi-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-khotla-finacial-services",
+      "name": "Khotla Finacial Services",
+      "aliases": [
+        "Khotla Finacial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/khotla-finacial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-kk-finance",
+      "name": "KK Finance",
+      "aliases": [
+        "KK Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/kk-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-kopo-finance",
+      "name": "Kopo Finance",
+      "aliases": [
+        "Kopo Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/kopo-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-ktwins-finance",
+      "name": "Ktwins Finance",
+      "aliases": [
+        "Ktwins Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/ktwins-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-l-and-r-financial-services",
+      "name": "L & R Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/l-r-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-lat-financial-services",
+      "name": "LAT Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lat-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-lb-micro-finance",
+      "name": "LB Micro Finance",
+      "aliases": [
+        "LB Micro Finance (pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lb-micro-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-legacy-financial-services",
+      "name": "Legacy Financial Services",
+      "aliases": [
+        "Legacy Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/legacy-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-lenderu",
+      "name": "Lenderu",
+      "aliases": [
+        "Lenderu Pty Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lenderu-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-leo-financial-services",
+      "name": "Leo Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/leo-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-lereko-financial-services",
+      "name": "Lereko Financial Services",
+      "aliases": [
+        "Lereko Financial Services (Pty)Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lereko-financial-services-ptyltd/"
+      ]
+    },
+    {
+      "id": "ls-lesana-lesotho",
+      "name": "Lesana Lesotho",
+      "aliases": [
+        "Lesana Lesotho Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lesana-lesotho-limited/"
+      ]
+    },
+    {
+      "id": "ls-letlama-microfinance",
+      "name": "Letlama Microfinance",
+      "aliases": [
+        "Letlama Microfinance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/letlama-microfinance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-letlotlo-credit",
+      "name": "Letlotlo Credit",
+      "aliases": [
+        "Letlotlo Credit Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/letlotlo-credit-ltd/"
+      ]
+    },
+    {
+      "id": "ls-letshego",
+      "name": "Letshego Lesotho",
+      "aliases": [
+        "Letshego",
+        "Letshego Financial Services Limited"
+      ],
+      "type": "microfinance",
+      "group": "Letshego",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.letshego.com/lesotho",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/letshego-financial-services-limited/",
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/micro-finance-institutions/"
+      ]
+    },
+    {
+      "id": "ls-lh-financial-services",
+      "name": "LH Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lh-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-lilly-financial-services",
+      "name": "Lilly Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lilly-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-lizet-financial-services",
+      "name": "Lizet Financial Services",
+      "aliases": [
+        "Lizet Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lizet-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-lme-finance",
+      "name": "LME Finance",
+      "aliases": [
+        "LME Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lme-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-lmk-credit-and-capital",
+      "name": "LMK Credit and Capital",
+      "aliases": [
+        "LMK Credit and Capital (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lmk-credit-and-capital-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-loan-central",
+      "name": "Loan Central",
+      "aliases": [
+        "Loan Central (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/loan-central-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-loyal-financial-services",
+      "name": "Loyal Financial Services",
+      "aliases": [
+        "Loyal Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/loyal-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-lq-financial-services",
+      "name": "LQ Financial Services",
+      "aliases": [
+        "LQ Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/lq-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-m-a-m-financial-services",
+      "name": "M.A.M Financial Services",
+      "aliases": [
+        "M.A.M Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/m-a-m-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mabusane-finance",
+      "name": "Mabusane Finance",
+      "aliases": [
+        "Mabusane Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mabusane-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-marea-financial-services",
+      "name": "Marea Financial Services",
+      "aliases": [
+        "Marea Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/marea-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-matebele-finance",
+      "name": "Matebele Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/matebele-finance/"
+      ]
+    },
+    {
+      "id": "ls-mbn-financial-services",
+      "name": "MBN Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mbn-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-mcm-finance",
+      "name": "MCM Finance",
+      "aliases": [
+        "MCM Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mcm-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mel-finance",
+      "name": "MEL Finance",
+      "aliases": [
+        "MEL Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mel-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mercury-finance",
+      "name": "Mercury Finance",
+      "aliases": [
+        "Mercury Finance Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mercury-finance-limited/"
+      ]
+    },
+    {
+      "id": "ls-mjm-financial-services",
+      "name": "MJM Financial Services",
+      "aliases": [
+        "MJM Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mjm-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mkn-financial-services",
+      "name": "MKN Financial Services",
+      "aliases": [
+        "MKN Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mkn-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mm-financial-loans",
+      "name": "MM Financial Loans",
+      "aliases": [
+        "MM Financial Loans Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mm-financial-loans-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mokhothu-holdings",
+      "name": "Mokhothu Holdings",
+      "aliases": [
+        "Mokhothu Holdings (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mokhothu-holdings-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-molebo-s-financial-services",
+      "name": "Molebo's Financial Services",
+      "aliases": [
+        "Molebos Financial Services"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/molebos-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-moralla-finance",
+      "name": "Moralla Finance",
+      "aliases": [
+        "Moralla Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/moralla-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-moses-microfinance",
+      "name": "Moses Microfinance",
+      "aliases": [
+        "Moses Microfinance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/moses-microfinance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mosh-financial-services",
+      "name": "Mosh Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mosh-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-mother-and-daughter",
+      "name": "Mother and Daughter",
+      "aliases": [
+        "Mother and Daughter (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mother-and-daughter-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mothusi-financial-services",
+      "name": "Mothusi Financial Services",
+      "aliases": [
+        "Mothusi Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mothusi-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mottek-finance",
+      "name": "Mottek Finance",
+      "aliases": [
+        "Mottek Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mottek-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-mp-financial-services",
+      "name": "MP Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mp-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-mpowli-financial-services",
+      "name": "Mpowli Financial Services",
+      "aliases": [
+        "Mpowli Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/mpowli-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-msb-holdings",
+      "name": "MSB Holdings",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/msb-holdings/"
+      ]
+    },
+    {
+      "id": "ls-ms-financial-services",
+      "name": "MS Financial Services",
+      "aliases": [
+        "MS Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/ms-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-myhope-micro-finance",
+      "name": "Myhope Micro-Finance",
+      "aliases": [
+        "Myhope Micro-Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/myhope-micro-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-myloan",
+      "name": "Myloan",
+      "aliases": [
+        "Myloan Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/myloan.svg",
+        "source": "https://play-lh.googleusercontent.com/XMn4nn3GGHmhMsLojWWgJZrsDXm3ja03iLq6hR4jrBoGruRcEpgysnUpVGnXSslMkbUW2CIsg-bmU24nG61s6Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/myloan-limited/"
+      ]
+    },
+    {
+      "id": "ls-n-and-r-financial-services",
+      "name": "N&R Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/nr-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-neca-financial-services",
+      "name": "NECA Financial Services",
+      "aliases": [
+        "NECA Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/neca-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-netloans",
+      "name": "Netloans",
+      "aliases": [
+        "Netloans Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/netloans-limited/"
+      ]
+    },
+    {
+      "id": "ls-nk-finance",
+      "name": "NK Finance",
+      "aliases": [
+        "NK Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/nk-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-np-finance",
+      "name": "NP Finance",
+      "aliases": [
+        "NP Finance Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/np-finance-limited/"
+      ]
+    },
+    {
+      "id": "ls-nts-epase-fiancial-services",
+      "name": "Nts'epase Fiancial Services",
+      "aliases": [
+        "Nts'epase Fiancial Services Ltd",
+        "Ntsepase Fiancial Services"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/ntsepase-fiancial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-once-and-always-financial-services",
+      "name": "Once & Always Financial Services",
+      "aliases": [
+        "Once & Always Financial Services (Pty) Lt"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/once-always-financial-services-pty-lt/"
+      ]
+    },
+    {
+      "id": "ls-onfon-micro-finance",
+      "name": "ONFON Micro Finance",
+      "aliases": [
+        "ONFON Micro Finance Pty Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/onfon-micro-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-on-point-financial-service",
+      "name": "On Point Financial Service",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/on-point-financial-service/"
+      ]
+    },
+    {
+      "id": "ls-ozy-s-financial-services",
+      "name": "OZY's Financial Services",
+      "aliases": [
+        "OZYs Financial Services"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/ozys-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-p-lichaba-financial-services",
+      "name": "P-Lichaba Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/p-lichaba-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-p-k-financial-services",
+      "name": "P.K Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/p-k-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-pinnacle-financial-services",
+      "name": "Pinnacle Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/pinnacle-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-platinum-credit",
+      "name": "Platinum Credit",
+      "aliases": [
+        "Platinum Credit Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/platinum-credit.svg",
+        "source": "https://play-lh.googleusercontent.com/7pWXZdNmvF2UtS0Bxz6r_jWapbcZuYfqB_FlY8gXrZVHUag2LMpO9pez6F-AIfMxy6e3TLD3ldQyAs5GCh8qCQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/platinum-credit-ltd/"
+      ]
+    },
+    {
+      "id": "ls-pln-financial-services",
+      "name": "PLN Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/pln-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-poise",
+      "name": "Poise",
+      "aliases": [
+        "Poise (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/poise-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-power-house-financial-services",
+      "name": "Power House Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/power-house-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-prime-capital",
+      "name": "Prime Capital",
+      "aliases": [
+        "Prime Capital (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/prime-capital-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-prime-financial-services",
+      "name": "Prime Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/prime-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-prosperity-loans",
+      "name": "Prosperity Loans",
+      "aliases": [
+        "Prosperity Loans (Pty)Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/prosperity-loans-ptyltd/"
+      ]
+    },
+    {
+      "id": "ls-ps-finance",
+      "name": "PS Finance",
+      "aliases": [
+        "PS Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/ps-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-pulamaliboho-financial-services",
+      "name": "Pulamaliboho Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/pulamaliboho-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-quick-financial-bailout",
+      "name": "Quick Financial Bailout",
+      "aliases": [
+        "Quick Financial Bailout (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/quick-financial-bailout-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-reco-financial-services",
+      "name": "Reco Financial Services",
+      "aliases": [
+        "Reco Financial Services ( Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/reco-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-redeem-financial-services",
+      "name": "Redeem Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/redeem-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-remmoho-financial-services",
+      "name": "Remmoho Financial Services",
+      "aliases": [
+        "Remmoho Financial Services (Pty) L"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/remmoho-financial-services-pty-l/"
+      ]
+    },
+    {
+      "id": "ls-renko-financial-services",
+      "name": "RENKO Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/renko-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-rise-financial-pathways",
+      "name": "Rise Financial Pathways",
+      "aliases": [
+        "Rise Financial Pathways (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/rise-financial-pathways-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-roby-financial-services",
+      "name": "Roby Financial Services",
+      "aliases": [
+        "Roby Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/roby-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-rorisang-financial-services",
+      "name": "Rorisang Financial Services",
+      "aliases": [
+        "Rorisang Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/rorisang-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-sekabi-financial-services",
+      "name": "Sekabi Financial Services",
+      "aliases": [
+        "Sekabi Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/sekabi-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-sekhobe-financial-services",
+      "name": "Sekhobe Financial Services",
+      "aliases": [
+        "Sekhobe Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/sekhobe-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-selibeng-financial-services",
+      "name": "Selibeng Financial Services",
+      "aliases": [
+        "Selibeng Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/selibeng-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-serumula-financial-services",
+      "name": "Serumula Financial Services",
+      "aliases": [
+        "Serumula Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/serumula-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-sick-financial-services",
+      "name": "Sick Financial Services",
+      "aliases": [
+        "Sick Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/sick-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-sjr-financial-services",
+      "name": "SJR Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/sjr-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-sk-loans",
+      "name": "SK Loans",
+      "aliases": [
+        "SK Loans (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/sk-loans-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-sprtfin",
+      "name": "SPRTFIN",
+      "aliases": [
+        "SPRTFIN Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/sprtfin-ltd/"
+      ]
+    },
+    {
+      "id": "ls-success-financial-services",
+      "name": "Success Financial Services",
+      "aliases": [
+        "Success Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/success-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-sy-financial-services",
+      "name": "SY Financial Services",
+      "aliases": [
+        "SY Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/sy-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-tasima-finance",
+      "name": "Tasima Finance",
+      "aliases": [
+        "Tasima Finance Pty Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tasima-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-telet-finance",
+      "name": "Telet Finance",
+      "aliases": [
+        "Telet Finance LTD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/telet-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-tharollo-financial-services",
+      "name": "Tharollo Financial Services",
+      "aliases": [
+        "Tharollo Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tharollo-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-tharollong-money-solutions",
+      "name": "Tharollong money Solutions",
+      "aliases": [
+        "Tharollong money Solutions (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tharollong-money-solutions-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-the-dochka-finance",
+      "name": "The Dochka Finance",
+      "aliases": [
+        "The Dochka Finance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/the-dochka-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-thusano-financial-solutions",
+      "name": "Thusano Financial Solutions",
+      "aliases": [
+        "Thusano Financial Solutions Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/thusano-financial-solutions-ltd/"
+      ]
+    },
+    {
+      "id": "ls-thusong-financial-services",
+      "name": "Thusong Financial Services",
+      "aliases": [
+        "Thusong Financial Services Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/thusong-financial-services-limited/"
+      ]
+    },
+    {
+      "id": "ls-til-financial-services",
+      "name": "TIL Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/til-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-tj-finance",
+      "name": "TJ Finance",
+      "aliases": [
+        "TJ Finance (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tj-finance-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-tkm-financial-services",
+      "name": "TKM Financial Services",
+      "aliases": [
+        "TKM Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tkm-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-t-leluka-finance",
+      "name": "T Leluka Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/t-leluka-finance/"
+      ]
+    },
+    {
+      "id": "ls-tl-finance",
+      "name": "TL Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tl-finance/"
+      ]
+    },
+    {
+      "id": "ls-tm-financial-services",
+      "name": "TM Financial Services",
+      "aliases": [
+        "TM Financial Services (PTY) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tm-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-tr-financial-services",
+      "name": "TR Financial Services",
+      "aliases": [
+        "TR Financial Services (Pty) Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tr-financial-services-pty-ltd/"
+      ]
+    },
+    {
+      "id": "ls-trust-financial-services",
+      "name": "Trust Financial Services",
+      "aliases": [
+        "Trust Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/trust-financial-services-ltd/"
+      ]
+    },
+    {
+      "id": "ls-ts-epo-ea-rona-finance",
+      "name": "Ts'epo ea rona Finance",
+      "aliases": [
+        "Ts'epo ea rona Finance Ltd",
+        "Tsepo ea rona Finance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/tsepo-ea-rona-finance-ltd/"
+      ]
+    },
+    {
+      "id": "ls-unifier-financial-services",
+      "name": "Unifier Financial Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/unifier-financial-services/"
+      ]
+    },
+    {
+      "id": "ls-zecho-financial-services",
+      "name": "Zecho Financial Services",
+      "aliases": [
+        "Zecho Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.org.ls/other-financial-institutions-2/zecho-financial-services-ltd/"
+      ]
+    }
+  ]
+}

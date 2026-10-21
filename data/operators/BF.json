@@ -1,0 +1,1081 @@
+{
+  "country": "BF",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf"
+  },
+  "operators": [
+    {
+      "id": "bf-bank-of-africa-burkina-faso",
+      "name": "Bank of Africa Burkina Faso",
+      "aliases": [
+        "BOA Burkina",
+        "BOA",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-banque-agricole-du-faso",
+      "name": "Banque Agricole du Faso",
+      "aliases": [
+        "BADF"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-banque-atlantique-burkina-faso",
+      "name": "Banque Atlantique Burkina Faso",
+      "aliases": [
+        "Banque Atlantique"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-banque-commerciale-du-burkina",
+      "name": "Banque Commerciale du Burkina",
+      "aliases": [
+        "BCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-commerciale-du-burkina.svg",
+        "source": "https://play-lh.googleusercontent.com/HZlHMyrILkiWlbS0G9MPiW-gkuyY59N1tP4IlGBFbGoLmvAkThKtPMSkTpzPYfZl_B4kluu4PgSJoWyppqCmBQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-banque-de-l-union-burkina-faso",
+      "name": "Banque de l'Union Burkina Faso",
+      "aliases": [
+        "BDU-BF",
+        "BDU"
+      ],
+      "type": "bank",
+      "group": "BDM",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-de-l-union.svg",
+        "source": "https://play-lh.googleusercontent.com/helGBPfyigLDsuDvf2esUDfgjH2L9xJMmkmS7LmjX5aVxkeLh5bLwoQ6taKC9bVLSr0fbxBjDfiknFncyFA_=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-banque-postale-du-burkina-faso",
+      "name": "Banque Postale du Burkina Faso",
+      "aliases": [
+        "BPBF"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-bsic-burkina",
+      "name": "BSIC Burkina",
+      "aliases": [
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Burkina",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce Burkina",
+        "BSIC"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-coris-bank-international",
+      "name": "Coris Bank International",
+      "aliases": [
+        "CBI",
+        "Coris Bank",
+        "CBI Burkina"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-ecobank-burkina",
+      "name": "Ecobank Burkina",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/bf/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-ib-bank-burkina",
+      "name": "IB Bank Burkina",
+      "aliases": [
+        "International Business Bank Burkina",
+        "IB Bank"
+      ],
+      "type": "bank",
+      "group": "IB Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ib-bank.com",
+      "logo": {
+        "svg": "svg/logos/bank/ib-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/q1IPcXgVe5TwC-Opxloqbw2THBPUsK28vYzPnOIC7KNxgOQ7UlFFIlVkYkaAy2LTmUdYQrPqtm-gVA9Mbt8qzg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-societe-generale-burkina-faso",
+      "name": "Société Générale Burkina Faso",
+      "aliases": [
+        "SG Burkina",
+        "SGBF",
+        "Societe Generale",
+        "Societe Generale Burkina Faso"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-uba-burkina",
+      "name": "UBA Burkina",
+      "aliases": [
+        "United Bank for Africa Burkina",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-vista-bank-burkina",
+      "name": "Vista Bank Burkina",
+      "aliases": [
+        "Vista Bank",
+        "Vista"
+      ],
+      "type": "bank",
+      "group": "Vista",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/vista.svg",
+        "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-wendkuni-bank-international",
+      "name": "Wendkuni Bank International",
+      "aliases": [
+        "WBI",
+        "Wendkuni Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-bridge-bank-group-burkina",
+      "name": "Bridge Bank Group Burkina",
+      "aliases": [
+        "Bridge Bank",
+        "BBG",
+        "Bridge Bank Group Côte d’Ivoire succursale du Burkina",
+        "Bridge Bank Group Cote d’Ivoire succursale du Burkina"
+      ],
+      "type": "bank",
+      "group": "Bridge Bank Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bridge-bank-group.svg",
+        "source": "https://play-lh.googleusercontent.com/FC9EncO-u-6xoC-58Ztg_x_4nceSovN9Lc783YQ240dYhjZzTEtRD8ET58iC9mTyaUE6_p8NNvy8f8B6445BxA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-cbao-burkina",
+      "name": "CBAO Burkina",
+      "aliases": [
+        "CBAO Groupe Attijariwafa Bank",
+        "CBAO",
+        "Attijariwafa Bank"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/cbao.svg",
+        "source": "https://play-lh.googleusercontent.com/cGLGc9gbiqMApeaRa1EutCzwO1g51zEvIs3aixUmPgjDsuaUoD9j_K0hqLT2JoRLTPjs2Ah4I9R7A1PLZd9-AU8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-orabank-burkina",
+      "name": "Orabank Burkina",
+      "aliases": [
+        "Orabank",
+        "Orabank Côte d’Ivoire succursale du Burkina",
+        "Orabank Cote d’Ivoire succursale du Burkina"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Burkina Faso",
+        "OM",
+        "Orange"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.bf",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bf-moov-money",
+      "name": "Moov Money",
+      "aliases": [
+        "Moov Africa",
+        "Moov Africa Money",
+        "Flooz",
+        "Moov Money Burkina"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://moov-africa.bf",
+      "logo": {
+        "svg": "svg/logos/mobile-money/moov-money.svg",
+        "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bf-coris-money",
+      "name": "Coris Money",
+      "aliases": [
+        "Coris Money Burkina"
+      ],
+      "type": "mobile_money",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/coris-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bf-wave",
+      "name": "Wave",
+      "aliases": [
+        "Wave Burkina",
+        "Wave Mobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "Wave",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wave.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/wave.svg",
+        "source": "https://www.wave.com/img/nav-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bf-wizall",
+      "name": "Wizall",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/wizall.svg",
+        "source": "https://play-lh.googleusercontent.com/hUXTCUlz9v7X4VEVWgQO05rdCPVnbkH588NTTgr3mN12jYt_tQVgMyBCS4kEfzrX1NgPowYzfwx7EFymE-E-lQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bf-telecel",
+      "name": "Telecel",
+      "aliases": [
+        "Wendkuni Bank International"
+      ],
+      "type": "mobile_money",
+      "group": "Telecel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/telecel.svg",
+        "source": "https://telecel.com.gh/icons/icon-48x48.png?v=a3b267ceb2db2a81c1dc75f0ef2b1aaf",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bf-bmoney",
+      "name": "BMoney",
+      "aliases": [
+        "B Money",
+        "Banque Commerciale du Burkina"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bf-intouch-burkina",
+      "name": "InTouch Burkina",
+      "aliases": [
+        "Intouch",
+        "TouchPay"
+      ],
+      "type": "fintech",
+      "group": "InTouch",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.intouchgroup.net",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-kerry-payments",
+      "name": "Kerry Payments",
+      "aliases": [
+        "Kerry Payments Burkina",
+        "Kerry"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "bf-caisses-populaires-du-burkina",
+      "name": "Caisses Populaires du Burkina",
+      "aliases": [
+        "FCPB",
+        "Faîtière des Caisses Populaires du Burkina",
+        "Faitiere des Caisses Populaires du Burkina",
+        "RCPB",
+        "Caisse Populaire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-cofina-burkina",
+      "name": "Cofina Burkina",
+      "aliases": [
+        "COFINA"
+      ],
+      "type": "microfinance",
+      "group": "COFINA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-baobab-burkina",
+      "name": "Baobab Burkina",
+      "aliases": [
+        "BAOBAB"
+      ],
+      "type": "microfinance",
+      "group": "Baobab",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-acep-burkina",
+      "name": "ACEP Burkina",
+      "aliases": [
+        "Agence de Crédit pour l'Entreprise Privée du Burkina",
+        "Agence de Credit pour l'Entreprise Privee du Burkina",
+        "ACEP"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/acep.svg",
+        "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-codec-ouaga",
+      "name": "CODEC Ouaga",
+      "aliases": [
+        "Coopérative Diocésaine d'Epargne et de Crédit de Ouagadougou",
+        "Cooperative Diocesaine d'Epargne et de Credit de Ouagadougou",
+        "CODEC Ouagadougou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-coris-meso-finance",
+      "name": "Coris Méso Finance",
+      "aliases": [
+        "CMF",
+        "Coris Meso Finance"
+      ],
+      "type": "microfinance",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-amifa-burkina",
+      "name": "AMIFA Burkina",
+      "aliases": [
+        "Atlantic Microfinance for Africa",
+        "AMIFA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-coopec-galor",
+      "name": "COOPEC Galor",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit Galor",
+        "Cooperative d'Epargne et de Credit Galor"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-finacom",
+      "name": "FINACOM",
+      "aliases": [
+        "Finance Communautaire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-graine",
+      "name": "GRAINE",
+      "aliases": [
+        "Société Groupe d'Accompagnement à l'Investissement et à l'Epargne",
+        "Societe Groupe d'Accompagnement a l'Investissement et a l'Epargne",
+        "GRAINE SARL"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-pamf-burkina",
+      "name": "PAMF Burkina",
+      "aliases": [
+        "Première Agence de Microfinance",
+        "Premiere Agence de Microfinance",
+        "PAMF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-mifa",
+      "name": "MIFA",
+      "aliases": [
+        "Microfinance Fadima",
+        "Fadima"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/mifa.svg",
+        "source": "https://play-lh.googleusercontent.com/iDXGSYZoRgmy0QBz2utSeE3EMsg_vwuzhnBIYqHrlKpMdRn_TLvEiIkZEDz4oKNRa43VVDTROrd7W_HasvAv4g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-cpb",
+      "name": "CPB",
+      "aliases": [
+        "Caisse des Producteurs du Burkina"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-codec-koudougou",
+      "name": "CODEC Koudougou",
+      "aliases": [
+        "Coopérative Diocésaine d'Epargne et de Crédit de Koudougou",
+        "Cooperative Diocesaine d'Epargne et de Credit de Koudougou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-urc-nazinon",
+      "name": "URC Nazinon",
+      "aliases": [
+        "Union Régionale des Coopératives d'Epargne et de Crédit du Nazinon",
+        "Union Regionale des Cooperatives d'Epargne et de Credit du Nazinon",
+        "URCNAZINON"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-pmbf",
+      "name": "PMBF",
+      "aliases": [
+        "Pan African Microfinance Burkina Faso"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-finec-burkina",
+      "name": "FINEC Burkina",
+      "aliases": [
+        "Microfinance pour l'Epargne et le Crédit du Burkina",
+        "Microfinance pour l'Epargne et le Credit du Burkina",
+        "FINEC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-credit-mutuel-burkina-faso",
+      "name": "Crédit Mutuel Burkina Faso",
+      "aliases": [
+        "CMBF",
+        "Credit Mutuel Burkina Faso"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-caisse-baitoul-maal",
+      "name": "Caisse Baitoul Maal",
+      "aliases": [
+        "CBM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/caisse-baitoul-maal.svg",
+        "source": "https://play-lh.googleusercontent.com/9ZyiSRDATCD44g8yHz1rHM1s-sI2dZem0QFyrzStFgsmmHMty47Y10BWKx49LAQ-OqL2-VbJUAksziMidcf1fw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-yikri",
+      "name": "Yikri",
+      "aliases": [
+        "Association Yikri"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bf-cif",
+      "name": "CIF",
+      "aliases": [
+        "Confédération des Institutions Financières",
+        "Confederation des Institutions Financieres",
+        "CIF Burkina"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "country": "CV",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "none",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx",
+    "fintech": "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+  },
+  "operators": [
+    {
+      "id": "cv-banco-bai-cabo-verde",
+      "name": "Banco BAI Cabo Verde",
+      "aliases": [
+        "BAI",
+        "BAI Cabo Verde",
+        "Banco Angolano de Investimentos Cabo Verde"
+      ],
+      "type": "bank",
+      "group": "BAI",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancobai.cv",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-banco-caboverdiano-de-negocios",
+      "name": "Banco Caboverdiano de Negócios",
+      "aliases": [
+        "BCN",
+        "Banco Caboverdiano de Negocios"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://bcn.cv",
+      "logo": {
+        "svg": "svg/logos/bank/banco-caboverdiano-de-negocios.svg",
+        "source": "https://bcn.cv/pt_PT/wp-content/uploads/2020/04/LogoBCN_White.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-banco-comercial-do-atlantico",
+      "name": "Banco Comercial do Atlântico",
+      "aliases": [
+        "BCA",
+        "Banco Comercial do Atlantico"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bca.cv",
+      "logo": {
+        "svg": "svg/logos/bank/banco-comercial-do-atlantico.svg",
+        "source": "https://bca-cv.s3.eu-west-1.amazonaws.com/website/logo-footer.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-bfi-bank",
+      "name": "BFI Bank",
+      "aliases": [
+        "BFI",
+        "Banco de Fomento Internacional"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bfi-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Dl3YRFD2a2KJT7xjtAbIP96ImICAv-RiAoviSkVg9cXSadjbKT-r0NOn3P22S0iT4d4yNHznv7D16BB7gH167w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-caixa-economica-de-cabo-verde",
+      "name": "Caixa Económica de Cabo Verde",
+      "aliases": [
+        "Caixa",
+        "CECV",
+        "Caixa Economica de Cabo Verde"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.caixa.cv",
+      "logo": {
+        "svg": "svg/logos/bank/caixa-economica-de-cabo-verde.svg",
+        "source": "https://cecv.s3-eu-west-1.amazonaws.com/caixa-net-org/caixa_logo_white.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-caixa-geral-de-depositos-cabo-verde",
+      "name": "Caixa Geral de Depósitos Cabo Verde",
+      "aliases": [
+        "CGD",
+        "Caixa Geral de Depositos",
+        "Banco Interatlântico",
+        "Banco Interatlantico",
+        "BI"
+      ],
+      "type": "bank",
+      "group": "Caixa Geral de Depósitos",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/caixa-geral-de-depositos.svg",
+        "source": "https://play-lh.googleusercontent.com/ECRQrTLac2f4c3F2lEezL1F21tqRcrDS8G5SelmGgG3sKFUY8TjWIa_V6r1Me7EFqiO7zV2oI6jnVY9YGUaNMg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-ecobank-cabo-verde",
+      "name": "Ecobank Cabo Verde",
+      "aliases": [
+        "Ecobank",
+        "Ecobank Cape Verde"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-intercontinental-investment-bank",
+      "name": "Intercontinental Investment Bank",
+      "aliases": [
+        "IIB",
+        "iiB",
+        "International Investment Bank",
+        "Banco Internacional de Cabo Verde"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-banco-bic-cabo-verde",
+      "name": "Banco BIC Cabo Verde",
+      "aliases": [
+        "BIC",
+        "Banco BIC",
+        "Banco Português de Negócios",
+        "BPN IFI"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "defunct",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-maxpay",
+      "name": "MAXPAY",
+      "aliases": [
+        "Max Pay",
+        "MaxPay",
+        "MAXPAY Instituição de Pagamentos"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+      ]
+    },
+    {
+      "id": "cv-pagali",
+      "name": "Pagali",
+      "aliases": [
+        "Pagali Wallet"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://apps.apple.com/ly/app/pagali/id6449363463"
+      ]
+    },
+    {
+      "id": "cv-morabi",
+      "name": "Morabi",
+      "aliases": [
+        "MORABI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://forbesafricalusofona.com/?p=156246"
+      ]
+    },
+    {
+      "id": "cv-citicoop",
+      "name": "Citicoop",
+      "aliases": [
+        "CITICOOP",
+        "Citi Coop"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://forbesafricalusofona.com/?p=156246"
+      ]
+    },
+    {
+      "id": "cv-fami-picos",
+      "name": "Fami-Picos",
+      "aliases": [
+        "Fami Picos",
+        "FAMI-PICOS",
+        "Famipicos"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://forbesafricalusofona.com/?p=156246"
+      ]
+    }
+  ]
+}

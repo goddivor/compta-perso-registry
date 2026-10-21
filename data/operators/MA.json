@@ -1,0 +1,1146 @@
+{
+  "country": "MA",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
+    "mobile_money": "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
+    "microfinance": "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+  },
+  "operators": [
+    {
+      "id": "ma-al-barid-bank",
+      "name": "Al Barid Bank",
+      "aliases": [
+        "ABB",
+        "Barid Bank",
+        "Albarid Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.albaridbank.ma",
+      "logo": {
+        "svg": "svg/logos/bank/al-barid-bank.svg",
+        "source": "https://www.albaridbank.ma/themes/baridbank/assets/img/logo-footer.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-arab-bank",
+      "name": "Arab Bank Maroc",
+      "aliases": [
+        "Arab Bank PLC",
+        "Arab Bank"
+      ],
+      "type": "bank",
+      "group": "Arab Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/arab-bank.svg",
+        "source": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-attijariwafa-bank",
+      "name": "Attijariwafa bank",
+      "aliases": [
+        "Attijariwafa",
+        "Attijari",
+        "AWB"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.attijariwafabank.com",
+      "logo": {
+        "svg": "svg/logos/bank/attijariwafa.svg",
+        "source": "https://play-lh.googleusercontent.com/Q8Jw-WaLslrWjwmEpBSo7a2sMvhfQm-biyO99xf_AaXSO-Bv907UZ85Zw-IMiXB5bFA_Nl7eu0sHAtSRvA8Ok3I=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-banco-sabadell",
+      "name": "Banco Sabadell",
+      "aliases": [
+        "Sabadell"
+      ],
+      "type": "bank",
+      "group": "Banco Sabadell",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banco-sabadell.svg",
+        "source": "https://play-lh.googleusercontent.com/JCwxCOePzkv2fe8PuthutadKGRuuLMlDQAY3HxMipQlBW1HazP2efrMnjn_H_OPe9cjyouHvtsvZwp3_ypTEdcU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-bank-al-amal",
+      "name": "Bank Al-Amal",
+      "aliases": [
+        "Bank Al Amal",
+        "Banque Al Amal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-banque-populaire",
+      "name": "Banque Populaire",
+      "aliases": [
+        "BCP",
+        "Banque Centrale Populaire",
+        "Groupe Banque Populaire",
+        "Chaabi",
+        "Chaabi Bank",
+        "Banque Populaire du Centre Sud",
+        "Banque Populaire de Fès-Meknès",
+        "Banque Populaire de Laâyoune",
+        "Banque Populaire de Marrakech-Béni Mellal",
+        "Banque Populaire de Nador-Al Hoceima",
+        "Banque Populaire d'Oujda",
+        "Banque Populaire de Rabat-Kénitra",
+        "Banque Populaire de Tanger-Tétouan"
+      ],
+      "type": "bank",
+      "group": "BCP",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.groupebcp.com",
+      "logo": {
+        "svg": "svg/logos/bank/banque-populaire.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Banque_Populaire_2018_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-bank-of-africa",
+      "name": "Bank of Africa",
+      "aliases": [
+        "BOA",
+        "BMCE",
+        "BMCE Bank",
+        "BMCE Bank of Africa",
+        "Bank of Africa Maroc"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankofafrica.ma",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-bmci",
+      "name": "BMCI",
+      "aliases": [
+        "Banque Marocaine pour le Commerce et l'Industrie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bmci.ma",
+      "logo": {
+        "svg": "svg/logos/bank/bmci.svg",
+        "source": "https://play-lh.googleusercontent.com/f9oKHPR_4vBbDmQq1xR3wxHaEWO1vx7x1C-j6HXdLK1flBqJw6LLvV0bVpi6VSapsvdiM6XaITsPYsRCxQJOyA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-caixabank",
+      "name": "CaixaBank",
+      "aliases": [
+        "Caixa",
+        "La Caixa",
+        "Caja de Ahorros y Pensiones de Barcelona"
+      ],
+      "type": "bank",
+      "group": "CaixaBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/caixabank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_CaixaBank.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-cdg-capital",
+      "name": "CDG Capital",
+      "aliases": [
+        "CDG"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/cdg-capital.svg",
+        "source": "https://play-lh.googleusercontent.com/kyX07WMTDWOsEG50zW-xY9xlPVi-CjWSGLA6BD4bmXoKbto9rB27tgnffaYv9n0oW6mZafyCvzQzveHqEM3E4A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-cfg-bank",
+      "name": "CFG Bank",
+      "aliases": [
+        "CFG Group",
+        "CFG"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cfgbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/cfg-bank.svg",
+        "source": "https://www.cfgbank.com/wp-content/themes/cfg/assets/img/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-citibank",
+      "name": "Citibank Maghreb",
+      "aliases": [
+        "Citi",
+        "Citibank"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-credit-agricole",
+      "name": "Crédit Agricole du Maroc",
+      "aliases": [
+        "CAM",
+        "Credit Agricole du Maroc",
+        "Crédit Agricole"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.creditagricole.ma",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-credit-du-maroc",
+      "name": "Crédit du Maroc",
+      "aliases": [
+        "CDM",
+        "Credit du Maroc"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-cih-bank",
+      "name": "CIH Bank",
+      "aliases": [
+        "CIH",
+        "Crédit Immobilier et Hôtelier",
+        "Credit Immobilier et Hotelier"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-fec",
+      "name": "Fonds d'Équipement Communal",
+      "aliases": [
+        "FEC",
+        "Fonds d'Equipement Communal"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-bcp-securities-services",
+      "name": "BCP Securities Services",
+      "aliases": [
+        "BCP Securities"
+      ],
+      "type": "bank",
+      "group": "BCP",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-saham-bank",
+      "name": "Saham Bank",
+      "aliases": [
+        "Société Générale Maroc",
+        "Societe Generale Maroc",
+        "SGMB",
+        "SG Maroc"
+      ],
+      "type": "bank",
+      "group": "Saham",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sahambank.com",
+      "logo": {
+        "svg": "svg/logos/bank/saham.svg",
+        "source": "https://www.sahambank.com/wp-content/themes/newbank/assets/img/saham-bank-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
+        "https://medias24.com/2025/06/18/societe-generale-devient-saham-bank-images/"
+      ]
+    },
+    {
+      "id": "ma-umb",
+      "name": "Union Marocaine de Banques",
+      "aliases": [
+        "UMB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-al-akhdar-bank",
+      "name": "Al Akhdar Bank",
+      "aliases": [
+        "AAB",
+        "Al Akhdar"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-arreda",
+      "name": "Arreda",
+      "aliases": [
+        "Arreda Crédit du Maroc"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/arreda.svg",
+        "source": "https://play-lh.googleusercontent.com/17KG49TMH73dmCtPoSqboELZd3vbtFh2gLiuhFPcZpiXtF---twUkEUHo8BH1KMETRlcL9mfHiuP8Yjeth-Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-bank-al-yousr",
+      "name": "Bank Al Yousr",
+      "aliases": [
+        "Al Yousr"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.alyousr.ma",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-bank-al-karam",
+      "name": "Bank Al Karam",
+      "aliases": [
+        "Al Karam"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-al-karam.svg",
+        "source": "https://play-lh.googleusercontent.com/TMU5Qhf1Q0KyVst8m-pw75n_XcUfQx1dzyLsaerTMsfDD-FhJeAkzUEz4TLWTepMRxcGs_cz2dmsoN5hT2PlA9k=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-bank-assafa",
+      "name": "Bank Assafa",
+      "aliases": [
+        "Assafa"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-assafa.svg",
+        "source": "https://play-lh.googleusercontent.com/WXZZDb0tPHMc18-smLn89prE049F4ClUQi3FEuvmwgDAapnIgVQNptfCOIu7j9MwAaXfiAxm-LyehBV-R7Mf1Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-dar-al-amane",
+      "name": "Dar Al-Amane",
+      "aliases": [
+        "Dar Al Amane"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/dar-al-amane.svg",
+        "source": "https://play-lh.googleusercontent.com/dLISQUL9i_bTXDEZYOaIzIujb5Y1TjD8L7lR7nvae2ZKeeL9zauPSNKuXcreStOoaINrvXLXJZH5MAz6nr9izQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-najmah",
+      "name": "Najmah",
+      "aliases": [
+        "Najmah BMCI"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-umnia-bank",
+      "name": "Umnia Bank",
+      "aliases": [
+        "Umnia"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.umniabank.ma",
+      "logo": {
+        "svg": "svg/logos/bank/umnia-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/574wQlcGtOjUpgX4mMfryJWg-Bkh7sp-jxuzMDltb_UXdhrUpm7KXElJhLIqnTXyKSKnAHPCfIPmQwT4u6GGLfI=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-daama-tamwil",
+      "name": "Daama Tamwil",
+      "aliases": [
+        "Daama Tamwil CCG",
+        "Tamwilcom"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-al-amana",
+      "name": "Al Amana Microfinance",
+      "aliases": [
+        "Alamana",
+        "Al Amana",
+        "AMSSF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.alamana.org.ma",
+      "logo": {
+        "svg": "svg/logos/microfinance/al-amana-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/H6LOBm68F_tZMtyuGPpNzIZtkWhMlc8OWKP20X7oe0AikrXNIJiuJI_CHXQFE-qVD0OL7SfIKi9Or6A4ev1pJQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-alkarama",
+      "name": "Fondation Alkarama",
+      "aliases": [
+        "Alkarama",
+        "Fondation Alkarama pour la Micro Finance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-amos",
+      "name": "AMOS",
+      "aliases": [
+        "Association Marocaine Oued Srou pour le Micro Crédit",
+        "Oued Srou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-ismailia",
+      "name": "Association Ismailia de Micro-Crédit",
+      "aliases": [
+        "AIMC",
+        "Ismailia"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-attadamoune",
+      "name": "Attadamoune Microfinance",
+      "aliases": [
+        "Attadamoune"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-brj-microfinance",
+      "name": "BRJ Microfinance",
+      "aliases": [
+        "BRJ"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/brj-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/4wlvjGsLx8mt0Wp293H1QQT7VtvnA2qB2uJGOZUUD1NkceRlEW51GfGjqkFR69cyVEi0ROBi0KAs2-W6jZUZYA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-arrawaj",
+      "name": "Fondation Arrawaj",
+      "aliases": [
+        "Arrawaj",
+        "Fondation Arrawaj de la Finance Inclusive"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-ardi",
+      "name": "Fondation Ardi",
+      "aliases": [
+        "Ardi",
+        "Fondation Ardi Micro-Crédit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-fbpmc",
+      "name": "Fondation Banque Populaire pour le Micro-Crédit",
+      "aliases": [
+        "FBPMC",
+        "Microfinance Fondation Banque Populaire"
+      ],
+      "type": "microfinance",
+      "group": "BCP",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-attissir",
+      "name": "Attissir",
+      "aliases": [
+        "Association Microfinance du Nord",
+        "AMN Attissir"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-barid-cash",
+      "name": "Barid Cash",
+      "aliases": [
+        "BaridCash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.baridcash.ma",
+      "logo": {
+        "svg": "svg/logos/mobile-money/barid-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/S96568C3sj748bgr8WbDsrsDDOZzuWlW5HB6LNQJswpKTSdbByEWhZcFKsmCsqoEJ5SyAE2HvFCnEQZLxFFFug=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-cash-plus",
+      "name": "Cash Plus",
+      "aliases": [
+        "Cashplus",
+        "CashPlus"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cashplus.ma",
+      "logo": {
+        "svg": "svg/logos/mobile-money/cash-plus.svg",
+        "source": "https://cdn.prod.website-files.com/6218cd1560a71e2f136765f7/625ebfc1317e32955b15ae9f_cashplus-icon-webclip.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-damane-cash",
+      "name": "Damane Cash",
+      "aliases": [
+        "DamaneCash"
+      ],
+      "type": "mobile_money",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/damane-cash.svg",
+        "source": "https://damanecash.ma/wp-content/themes/bmce-cash/front/app/assets/images/logo--header.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
+        "https://fnh.ma/article/actualite-financiere-maroc/etablissements-de-paiement-damane-cash-filiale-de-bmce-bank-of-africa-obtient-son-agrement"
+      ]
+    },
+    {
+      "id": "ma-lana-cash",
+      "name": "Lana Cash",
+      "aliases": [
+        "LanaCash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lanacash.ma",
+      "logo": {
+        "svg": "svg/logos/mobile-money/lana-cash.svg",
+        "source": "https://lanacash.ma/wp-content/uploads/2026/10/bLOGO-3-copie-2-3.webp",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-m2t",
+      "name": "M2T",
+      "aliases": [
+        "Maroc Traitement de Transactions"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-maymouna",
+      "name": "Maymouna Services Financiers",
+      "aliases": [
+        "Maymouna",
+        "Madmoun"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/maymouna-services-financiers.svg",
+        "source": "https://play-lh.googleusercontent.com/m84AVxvGhKV_7tAOidb9Uj7rjZcaXh-Wb3uoFH578hg2L64QAMAceBRfCEBHDfs0t6CDWF2i3QUltJvdhGO4=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
+        "https://ecoactu.ma/etablissements-de-paiement-maymouna-services-financiers/"
+      ]
+    },
+    {
+      "id": "ma-mt-cash",
+      "name": "MT Cash",
+      "aliases": [
+        "MTCash",
+        "Maroc Telecom Cash"
+      ],
+      "type": "mobile_money",
+      "group": "Maroc Telecom",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mtcash.ma",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mt-cash.svg",
+        "source": "https://www.mtcash.ma/wp-content/uploads/2020/04/MTCASHLOGO.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
+        "https://www.osiris.sn/maroc-telecom-a-rejoint-inwi-et-orange-dans-le-mobile-money-avec-sa-solution-mt.html"
+      ]
+    },
+    {
+      "id": "ma-naps",
+      "name": "NAPS",
+      "aliases": [
+        "Naps SA"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.naps.ma",
+      "logo": {
+        "svg": "svg/logos/mobile-money/naps.svg",
+        "source": "https://naps.ma/wp-content/uploads/2024/06/NAPS-LOGO.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Maroc",
+        "OM"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-wafacash",
+      "name": "Wafacash",
+      "aliases": [
+        "Wafa Cash"
+      ],
+      "type": "mobile_money",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/wafacash.svg",
+        "source": "https://www.wafacash.com/sites/default/files/styles/webp/public/2025-04/Logo_Wafacash_MarocB.png.webp?itok=AQgKJayv",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-inwi-money",
+      "name": "inwi money",
+      "aliases": [
+        "Inwi Money",
+        "Wana Money",
+        "Wana"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.inwimoney.ma",
+      "logo": {
+        "svg": "svg/logos/mobile-money/inwi-money.svg",
+        "source": "https://play-lh.googleusercontent.com/DDoL0CVLVkwBlbGx052cdLap3MIjMHdwOLXEQ-cOJTMP0K_3VzHT3gHHkzAz-0JnxX6MTW2E70WkJZDPox0ri1w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
+        "https://fr.hespress.com/468948-inwi-money-et-wafacash-unissent-leurs-forces-pour-elargir-lacces-aux-services-financiers-de-proximite.html"
+      ]
+    },
+    {
+      "id": "ma-al-filahi-cash",
+      "name": "Al Filahi Cash",
+      "aliases": [
+        "Filahi Cash",
+        "Alfilahi Cash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    },
+    {
+      "id": "ma-chari-money",
+      "name": "Chari Money",
+      "aliases": [
+        "Chari"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.chari.ma",
+      "logo": {
+        "svg": "svg/logos/mobile-money/chari-money.svg",
+        "source": "https://www.chari.ma/_next/image?url=%2Fimages%2Flogo.png&w=256&q=75",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
+      ]
+    }
+  ]
+}

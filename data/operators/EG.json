@@ -1,0 +1,1574 @@
+{
+  "country": "EG",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf",
+    "mobile_money": "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+  },
+  "operators": [
+    {
+      "id": "eg-banque-misr",
+      "name": "Banque Misr",
+      "aliases": [
+        "BM",
+        "Bank Misr"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banquemisr.com",
+      "logo": {
+        "svg": "svg/logos/bank/banque-misr.svg",
+        "source": "https://www.banquemisr.com/Assets/Images/bmp-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-nbe",
+      "name": "National Bank of Egypt",
+      "aliases": [
+        "NBE",
+        "Al Ahly"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nbe.com.eg",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-egyptian-arab-land-bank",
+      "name": "Egyptian Arab Land Bank",
+      "aliases": [
+        "EALB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-agricultural-bank",
+      "name": "Agricultural Bank of Egypt",
+      "aliases": [
+        "ABE",
+        "Agricultural Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-idb",
+      "name": "Industrial Development Bank",
+      "aliases": [
+        "IDB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/industrial-development-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/oI2tI87ZowlxDfqyOmF_sYMueF4yHjHbpbWHnShIk8AqQXvnb0h_LQgjTHAREXw3kOOsjqqxAO7EZDPuw_ejjMM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-banque-du-caire",
+      "name": "Banque du Caire",
+      "aliases": [
+        "BdC",
+        "Bank of Cairo"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-du-caire.svg",
+        "source": "https://play-lh.googleusercontent.com/L6uK4Rje4HPUhvo3wSxoaswJLI3dAPWzvKawktJkft-xRcBLNq1S6io16ZCMZaF95uWRYJ6Lfrcgk9CB4dqNOTA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-the-united-bank",
+      "name": "The United Bank",
+      "aliases": [
+        "United Bank",
+        "UB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-alexbank",
+      "name": "Bank of Alexandria",
+      "aliases": [
+        "ALEXBANK",
+        "Alex Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.alexbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-alexandria.svg",
+        "source": "https://res.cloudinary.com/alex-bank/image/upload/fl_lossy/c_scale,w_auto/f_auto,q_auto/dpr_auto/test/publicportal/commons/AlexBank_retail2",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-midbank",
+      "name": "MIDBank",
+      "aliases": [
+        "MIDBank S.A.E"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/midbank.svg",
+        "source": "https://play-lh.googleusercontent.com/oDiXVsq6VtC86VXJHWwATyMa7iQNsrTaCNGDuIOhJtuls_yW0PKXqbnLdDmGqJBMW05U66wKXYb3LfcFicbtzQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-cib",
+      "name": "CIB",
+      "aliases": [
+        "Commercial International Bank",
+        "CIB Egypt"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cibeg.com",
+      "logo": {
+        "svg": "svg/logos/bank/cib.svg",
+        "source": "https://cibke.com/wp-content/uploads/2024/01/logo-white-qa.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-attijariwafa-bank",
+      "name": "Attijariwafa bank Egypt",
+      "aliases": [
+        "Attijariwafa",
+        "Attijari Egypt"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/attijariwafa.svg",
+        "source": "https://play-lh.googleusercontent.com/Q8Jw-WaLslrWjwmEpBSo7a2sMvhfQm-biyO99xf_AaXSO-Bv907UZ85Zw-IMiXB5bFA_Nl7eu0sHAtSRvA8Ok3I=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-saib",
+      "name": "SAIB",
+      "aliases": [
+        "Societe Arabe Internationale de Banque",
+        "Société Arabe Internationale de Banque"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-credit-agricole",
+      "name": "Crédit Agricole Egypt",
+      "aliases": [
+        "Credit Agricole Egypt",
+        "CAE"
+      ],
+      "type": "bank",
+      "group": "Crédit Agricole",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/credit-agricole.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Cr%C3%A9dit_Agricole_logo_2017.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-emirates-nbd",
+      "name": "Emirates NBD Egypt",
+      "aliases": [
+        "Emirates National Bank of Dubai",
+        "ENBD"
+      ],
+      "type": "bank",
+      "group": "Emirates NBD",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/emirates-nbd.svg",
+        "source": "https://play-lh.googleusercontent.com/SE1QW9TysPkbFYDysj3hpAH7ViW6YjWaAWAQjeoMUlQ7PYH9Ju_6I90X4wL4EJL_tVjwdo1RD9miFTHT7KWf0g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-suez-canal-bank",
+      "name": "Suez Canal Bank",
+      "aliases": [
+        "SCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-qnb",
+      "name": "QNB Egypt",
+      "aliases": [
+        "Qatar National Bank Alahli",
+        "QNB Alahli",
+        "QNB"
+      ],
+      "type": "bank",
+      "group": "QNB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.qnbalahli.com",
+      "logo": {
+        "svg": "svg/logos/bank/qnb.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-bank-nxt",
+      "name": "Bank NXT",
+      "aliases": [
+        "aiBANK",
+        "Arab Investment Bank",
+        "NXT"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-nxt.svg",
+        "source": "https://play-lh.googleusercontent.com/RyEP85_2nuEwbjipUj5FMfCDxFV_3eTkpIKXqaqRVZaZJqxYDq0JFkw743corCNsipB9gVUNHq8WP_OB6xFP=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf",
+        "https://www.zawya.com/en/business/banking-and-insurance/egypt-aibank-rebrands-as-bank-nxt-focused-on-empowering-clients-financial-future-j7rmjxqb"
+      ]
+    },
+    {
+      "id": "eg-abk",
+      "name": "ABK Egypt",
+      "aliases": [
+        "Al Ahli Bank of Kuwait - Egypt",
+        "ABK"
+      ],
+      "type": "bank",
+      "group": "ABK",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/abk.svg",
+        "source": "https://play-lh.googleusercontent.com/RMTyg40GywAa88LYif_7LYcAvfhfPTg_K1tEXQAZ5rnUJQFhwFESB-FjJbQ6Ojqd4ObQj_97Dcc7A3baXMkY4N8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-fab-misr",
+      "name": "FABMISR",
+      "aliases": [
+        "First Abu Dhabi Bank Misr",
+        "FAB Misr"
+      ],
+      "type": "bank",
+      "group": "FAB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/fab.svg",
+        "source": "https://play-lh.googleusercontent.com/aPIS4dEk626OZ7DtJffksXJehJjagcRG5kMnhFGG5MOID8wPWXbvls7YfKDNCQmmMo4LlcF3bNNiwl0Upd4MaPU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-kfh",
+      "name": "KFH Egypt",
+      "aliases": [
+        "Kuwait Finance House Egypt",
+        "Ahli United Bank Egypt",
+        "AUB Egypt",
+        "KFH"
+      ],
+      "type": "bank",
+      "group": "KFH",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/kfh.svg",
+        "source": "https://play-lh.googleusercontent.com/8uUDANaK6JEguyD_FGE1Q5LUrimtld1-QhLho33bgEDU-d0OmcYabrDuUiBKLPetPsKNEF5vlO2BapywFc5waw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf",
+        "https://www.egypttoday.com/Article/3/138128/Kuwait-Finance-House-rebrands-Ahli-United-Bank-solidifying-integration-to"
+      ]
+    },
+    {
+      "id": "eg-faisal-islamic-bank",
+      "name": "Faisal Islamic Bank of Egypt",
+      "aliases": [
+        "FAIB",
+        "Faisal Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.faisalbank.com.eg",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-hdb",
+      "name": "Housing and Development Bank",
+      "aliases": [
+        "HDB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/housing-and-development-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/kQPHKCA2MgAwTzcXNPC-eU7_UorEaZGCsNs0dblXYO7nRopqRn_Vf29raKdvbXdAHNtF_AfxGn_1jNYh4EIO2Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-al-baraka",
+      "name": "Al Baraka Bank Egypt",
+      "aliases": [
+        "Al Baraka",
+        "Albaraka Egypt"
+      ],
+      "type": "bank",
+      "group": "Al Baraka",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/al-baraka.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-nbk",
+      "name": "NBK Egypt",
+      "aliases": [
+        "National Bank of Kuwait Egypt",
+        "NBK"
+      ],
+      "type": "bank",
+      "group": "NBK",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/nbk.svg",
+        "source": "https://play-lh.googleusercontent.com/FtzC-umA7K1rwI_PSBx2qXsvBYtevSBpucTpS1SrkBD5PyQR8aoUce19f6ecLSVZ0pFhKsAq49DbExXeb1GN8A4=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-adib",
+      "name": "ADIB Egypt",
+      "aliases": [
+        "Abu Dhabi Islamic Bank Egypt",
+        "ADIB"
+      ],
+      "type": "bank",
+      "group": "ADIB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/adib.svg",
+        "source": "https://play-lh.googleusercontent.com/1fD30JC6Hz7_Hvd8GgOSXglvo0U_CvDqlDaCCBYJ0AezeeHk_8t2I_GCTeo0m7ZRx-IFWQFfpyQxeGn5WdVWUQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-adcb",
+      "name": "ADCB Egypt",
+      "aliases": [
+        "Abu Dhabi Commercial Bank Egypt",
+        "ADCB"
+      ],
+      "type": "bank",
+      "group": "ADCB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/adcb.svg",
+        "source": "https://play-lh.googleusercontent.com/LuKGS_rl3UseW0YeNcNXG4VrUiIYzXR7DmE9tGxTybIJKGwJvhLBEQICb4es_aLxUJYEc_in4KeR7C3szuuVbQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-egyptian-gulf-bank",
+      "name": "Egyptian Gulf Bank",
+      "aliases": [
+        "EG Bank",
+        "EGB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/egyptian-gulf-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Li56X_toKdn-hetE6Hd5M8khAXVzT38xkQCYXaAOxCrsXwjmOoNtV6IhyWm8bLJQh9n7iY4GpK5UkxsylIU8zA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-aaib",
+      "name": "Arab African International Bank",
+      "aliases": [
+        "AAIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-hsbc",
+      "name": "HSBC Egypt",
+      "aliases": [
+        "HSBC Bank Egypt",
+        "HSBC"
+      ],
+      "type": "bank",
+      "group": "HSBC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/hsbc.svg",
+        "source": "https://www.business.hsbc.co.mu/-/media/project/common/logos/hsbc-logo.svg?iar=0&hash=760ECB6B4C7C98D34B9FD48EC152BB77",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-bank-abc",
+      "name": "Bank ABC Egypt",
+      "aliases": [
+        "Arab Banking Corporation Egypt",
+        "ABC"
+      ],
+      "type": "bank",
+      "group": "Bank ABC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-abc.svg",
+        "source": "https://play-lh.googleusercontent.com/lD_fzc9mOn-eCQ54OuTRIDzM1e2Km_X_v7z_pzdgsXkjUsm889fyHJY_Ar6KcMcqoYNLEV_uiwJ5nUOQbdHbmg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-ebank",
+      "name": "Export Development Bank of Egypt",
+      "aliases": [
+        "EBank",
+        "EBE",
+        "Export Development Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-aib",
+      "name": "Arab International Bank",
+      "aliases": [
+        "AIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/arab-international-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/MNWPjMLyGrta99OCgOVByXjTcBVUPzo7DWjAZmZuKuhRq7i-7AbKp_lYYeLaxzLJBP1fJrUat6cg1518-nRM8g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-citibank",
+      "name": "Citibank Egypt",
+      "aliases": [
+        "Citi Bank N.A. Egypt",
+        "Citi"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-arab-bank",
+      "name": "Arab Bank Egypt",
+      "aliases": [
+        "Arab Bank PLC",
+        "Arab Bank"
+      ],
+      "type": "bank",
+      "group": "Arab Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/arab-bank.svg",
+        "source": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-mashreq",
+      "name": "Mashreq Bank Egypt",
+      "aliases": [
+        "Mashreq",
+        "Mashreqbank"
+      ],
+      "type": "bank",
+      "group": "Mashreq",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/mashreq.svg",
+        "source": "https://play-lh.googleusercontent.com/KI1sdGnEl2-d8qFvLokGymBgb6R3M84Jx53xp6i9gJEYxJnxPMxk38DUAxe4e0WHB52OgSlPf6aNsrC2nDoc8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-standard-chartered",
+      "name": "Standard Chartered Egypt",
+      "aliases": [
+        "Standard Chartered"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
+      ]
+    },
+    {
+      "id": "eg-bm-wallet",
+      "name": "BM Wallet",
+      "aliases": [
+        "Banque Misr Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bm-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/mydj5DyJVkASr4WKIOvhT8Movv7EyYqj48mljL3auynu5TCbE9d0JoV8oj9M3ce7u2c-aa3-wqsfsfIzeAz_ug=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-we-pay",
+      "name": "WE Pay",
+      "aliases": [
+        "WePay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/we-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/RHj9H01qk_KoZkkNACWqucGlGv_oeEh6AXBpDDikTfbLABetwGT4cRKZnaz0D0ml0bgrWXyt4dBopuRFMEHZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-ma7fazty",
+      "name": "Ma7fazty",
+      "aliases": [
+        "Mahfazty",
+        "ALEXBANK Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/ma7fazty.svg",
+        "source": "https://play-lh.googleusercontent.com/oQg5czYyepCiyb5EnifZwmoIYM6laEyQbPEyDDtPO3cMUB4dhrMkyLRTyLk02K07gwj-_hqX9g3h2RD6pvjLHCg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-vodafone-cash",
+      "name": "Vodafone Cash",
+      "aliases": [
+        "VF Cash"
+      ],
+      "type": "mobile_money",
+      "group": "Vodafone",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/vodafone-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/08hq6PR9N_dxRxkai60TX5nkhwGpd__-1V9Dq9BmtBPCgyLw6U7h01yGkjr_hUInaNMDC1w1OGk4pfIyBvTMpzU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-qnb-wallet",
+      "name": "QNB Wallet",
+      "aliases": [
+        "QNB Alahli Wallet"
+      ],
+      "type": "mobile_money",
+      "group": "QNB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/qnb-wallet.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-aib-wallet",
+      "name": "AIB Wallet",
+      "aliases": [
+        "Arab International Bank Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-cashati",
+      "name": "Cashati",
+      "aliases": [
+        "SAIB Cashati"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-halan-cash",
+      "name": "Halan Cash",
+      "aliases": [
+        "Halan"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://halan.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/halan-cash.svg",
+        "source": "https://halan.com/wp-content/themes/halan/app/images/Full-logo-black-version.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-nbk-wallet",
+      "name": "NBK Wallet",
+      "aliases": [
+        "National Bank of Kuwait Wallet"
+      ],
+      "type": "mobile_money",
+      "group": "NBK",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/nbk-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/FtzC-umA7K1rwI_PSBx2qXsvBYtevSBpucTpS1SrkBD5PyQR8aoUce19f6ecLSVZ0pFhKsAq49DbExXeb1GN8A4=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-floussy",
+      "name": "Floussy",
+      "aliases": [
+        "HDB Wallet",
+        "Flousy"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/floussy.svg",
+        "source": "https://play-lh.googleusercontent.com/hHXHoYa8ON6Boq8URbmu_vu2AH-z09leEUY1v4H4kvigLr60XiUkTtAZep6qvb2zfEYF4neBIzPamfd-vE6TWQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-faisal-cash",
+      "name": "Faisal Cash",
+      "aliases": [
+        "Faisal Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/faisal-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/NwB-C-fLN3AMW_RPJisUo3xemCEJoQlGSbZcoqORCQLfEmECyxENW6iZvexeoNhaA2DXe59zqcQIdsndzxy3=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-blom-wallet",
+      "name": "BLOM Wallet",
+      "aliases": [
+        "Blom Bank Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-gebe",
+      "name": "GEBE",
+      "aliases": [
+        "EBank Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/gebe.svg",
+        "source": "https://play-lh.googleusercontent.com/2bDdnGAMllJ-bdkBMd7Yf4RU-mFePCbW_ZbqBNGTZVclmYDfIL2H0c3qyCNDEBLCWRFT-8iGd09Kgyn0PJW87Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-phone-cash",
+      "name": "Phone Cash",
+      "aliases": [
+        "NBE Phone Cash",
+        "PhoneCash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/phone-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/WJ7bMYbVxqtQa2yX9jyQ9jZ4mzUQ_Wfrk5CkjT1WpING5GarfBHP8MDF5JnaLnAzUFFLOy3eJIX2sZEI-f-_65k=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-orange-cash",
+      "name": "Orange Cash",
+      "aliases": [
+        "Orange Wallet"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.eg",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-cash.svg",
+        "source": "https://www.orange.eg/Style%20Library/OrangeImages/OrangeLogo-fb.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-easy-cash",
+      "name": "Easy Cash",
+      "aliases": [
+        "EasyCash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/easy-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/LkadxLAa-tJFA-M9Q00BHDSjrBcrNyKgjeqkByKwLZ2YV3BeNDCj5daFWinjxozZLTFcFRBgfSh0Oo_nElWo_Vs=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-qahera-cash",
+      "name": "Qahera Cash",
+      "aliases": [
+        "Banque du Caire Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/qahera-cash.svg",
+        "source": "https://play-lh.googleusercontent.com/RfiU69wxHj7eBjQHIZX0kRau9YbuUMrOA4lvRzOTMgC9TM7uqjTbCXBP36s5jRFAVzb6frZ-goA66i1FRAr5_v8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-e-and-cash",
+      "name": "e& Cash",
+      "aliases": [
+        "Etisalat Cash",
+        "e and Cash",
+        "Etisalat Wallet"
+      ],
+      "type": "mobile_money",
+      "group": "e&",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet",
+        "https://waya.media/e-egypt-launched-instant-international-money-transfer-service-via-e-cash-wallet/"
+      ]
+    },
+    {
+      "id": "eg-cib-smart-wallet",
+      "name": "CIB Smart Wallet",
+      "aliases": [
+        "Smart Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/cib-smart-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/31KuVSQSvp1Nax985PsPrpk1PKUkukEPTUSbnVm3RxM6TpkbgFhbxqpyLSwZGeU2TkqBB79kApImUioTiQJi5_c=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-ameen",
+      "name": "Ameen",
+      "aliases": [
+        "CIB Ameen"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/ameen.svg",
+        "source": "https://play-lh.googleusercontent.com/LL4jQ1QJwUG7CesjyORBKJ3Vn7gmBoV-RzdDIkg2Z8hw8GMdR4MRPCVnyd8U1jEOkspse1cu0IxI7a2LnHgLog=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-banki-wallet",
+      "name": "Banki Wallet",
+      "aliases": [
+        "Credit Agricole Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-audi2pay",
+      "name": "Audi2Pay",
+      "aliases": [
+        "Audi 2 Pay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-abk-wallet",
+      "name": "ABK Wallet",
+      "aliases": [
+        "Al Ahli Bank of Kuwait Wallet"
+      ],
+      "type": "mobile_money",
+      "group": "ABK",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/abk-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/O-osdEHkCLkvhqesCGUXt14m6LYyhqGAVhRKOxe9tNzKX8DdKeUDxRVgM7HxMmjIDyQSMAwBxSJ6yGbZZgAKroM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-3altayer",
+      "name": "3altayer",
+      "aliases": [
+        "Altayer",
+        "Al Tayer",
+        "ADIB Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/3altayer.svg",
+        "source": "https://play-lh.googleusercontent.com/tU0KXgRnyEZgHkRkT7moHU_z6ib4l4egrMjF3NknRF7_O5Q0B9unxbxnXq_QQ6q9wFQwFfhaoQ4q8BbegJfS_Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-scb-e-wallet",
+      "name": "SCB E-Wallet",
+      "aliases": [
+        "Suez Canal Bank Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/scb-e-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/jNAXl5Vc41-tLC-CJF4fJ0d72Cu8tWWpfPdB6uEKC1zd5UPKOe86pE2gBZ3Oo_b7Zty-8W6khL3vJuuHiG19=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-ub-wallet",
+      "name": "UB Wallet",
+      "aliases": [
+        "United Bank Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-e-pocket",
+      "name": "E-Pocket",
+      "aliases": [
+        "EPocket",
+        "KFH Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/e-pocket.svg",
+        "source": "https://play-lh.googleusercontent.com/Cs60VKgWMZ5fdRBOabnjfdP741tk9DDU3r2E2lq-SRgpAVV5K5VuhnKe_25-HNIniGFz5KG1O4QN-PK0xugw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-adcb-wallet",
+      "name": "ADCB Wallet",
+      "aliases": [
+        "Abu Dhabi Commercial Bank Wallet"
+      ],
+      "type": "mobile_money",
+      "group": "ADCB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/adcb-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/LuKGS_rl3UseW0YeNcNXG4VrUiIYzXR7DmE9tGxTybIJKGwJvhLBEQICb4es_aLxUJYEc_in4KeR7C3szuuVbQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-agri-wallet",
+      "name": "Agri-Wallet",
+      "aliases": [
+        "Agri Wallet"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/agri-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/vucVeyYdY6BV9Z858J6VJ5kp2hXvqEr_WYwOi1lbUBmJFSTTvYbnYraLkv4Q4C5a1fq-Jj0KPHQGC7907zDbvIo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
+      ]
+    },
+    {
+      "id": "eg-tanmeyah",
+      "name": "Tanmeyah",
+      "aliases": [
+        "Tanmeyah Micro Enterprise Services"
+      ],
+      "type": "microfinance",
+      "group": "EFG Holding",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.tanmeyah.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.efghldg.com/media/Tanmeyah-V.1-English.pdf"
+      ]
+    },
+    {
+      "id": "eg-reefy",
+      "name": "Reefy",
+      "aliases": [
+        "Reefy Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/reefy.svg",
+        "source": "https://play-lh.googleusercontent.com/sH1aDfs8DxdncCmQ9cOXqTefKNhOcyv3zYdl0li1zP-cfro5VoP4lB-UOUZOFdbKuKIOwCktFLZILyvc7rWpLA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.egyptindependent.com/sawiris-owned-enterprise-gets-first-microfinance-license"
+      ]
+    },
+    {
+      "id": "eg-tamweely",
+      "name": "Tamweely",
+      "aliases": [
+        "Tamweely Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://launchbaseafrica.com/2026/08/13/egypts-licence-freeze-spawns-95m-tamweely-deal/"
+      ]
+    },
+    {
+      "id": "eg-telda",
+      "name": "Telda",
+      "aliases": [
+        "Telda Card"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://telda.app",
+      "logo": {
+        "svg": "svg/logos/fintech/telda.svg",
+        "source": "https://telda.app/_next/static/media/telda-logo.25c7955c.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://au-startups.com/news/fintech-startups-revolutionizing-banking-and-financial-services-in-north-africa"
+      ]
+    },
+    {
+      "id": "eg-khazna",
+      "name": "Khazna",
+      "aliases": [
+        "Khazna App"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://khazna.app",
+      "logo": {
+        "svg": "svg/logos/fintech/khazna.svg",
+        "source": "https://play-lh.googleusercontent.com/2K4zVtQMEypLW2h66mwmQBMIVe2MoLRE45cZD6r41iUT2MwdpGCM1ElsFWOeNRtZLaNWnxhVVb-QpPbbskaa=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbinsights.com/investor/khazna"
+      ]
+    },
+    {
+      "id": "eg-valu",
+      "name": "valU",
+      "aliases": [
+        "Valu",
+        "U Consumer Finance"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.valu.com.eg",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://allbusiness.africa/insights/egyptian-fintech-2026"
+      ]
+    },
+    {
+      "id": "eg-mnt-halan",
+      "name": "MNT-Halan",
+      "aliases": [
+        "MNT Halan",
+        "Halan App"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://halan.com",
+      "logo": {
+        "svg": "svg/logos/fintech/mnt-halan.svg",
+        "source": "https://halan.com/wp-content/themes/halan/app/images/Full-logo-black-version.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://allafrica.com/stories/202606090112.html"
+      ]
+    }
+  ]
+}

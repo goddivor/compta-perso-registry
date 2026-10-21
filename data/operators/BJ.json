@@ -1,0 +1,1089 @@
+{
+  "country": "BJ",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf"
+  },
+  "operators": [
+    {
+      "id": "bj-bange-bank-benin",
+      "name": "Bange Bank Bénin",
+      "aliases": [
+        "BANGE Bank",
+        "BANGE",
+        "Bange Bank Benin"
+      ],
+      "type": "bank",
+      "group": "BANGE",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bange.svg",
+        "source": "https://play-lh.googleusercontent.com/Se22a8LTe9P6ekkIOQUg-EmchCooEr65Ijezs_I95yenSkvzqvjiekkwB2LAoJqGhDfleOJdcfNHjkbx7kqm=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-bank-of-africa-benin",
+      "name": "Bank of Africa Bénin",
+      "aliases": [
+        "BOA Bénin",
+        "BOA Benin",
+        "BOA",
+        "Bank of Africa",
+        "Bank of Africa Benin"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.boabenin.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-banque-atlantique-benin",
+      "name": "Banque Atlantique Bénin",
+      "aliases": [
+        "Banque Atlantique",
+        "Banque Atlantique Benin"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-biic",
+      "name": "BIIC",
+      "aliases": [
+        "Banque Internationale pour l'Industrie et le Commerce",
+        "B.I.I.C"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.biic-bank.com",
+      "logo": {
+        "svg": "svg/logos/bank/biic.svg",
+        "source": "https://play-lh.googleusercontent.com/ofK0ErP-5Ne_asd76Vihn3vBF_hOXEGJchxZSFA9KsSbF7sScf9huQ2t4RrWpWcNHHXJeTu25AV8Tyar_K47=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-bsic-benin",
+      "name": "BSIC Bénin",
+      "aliases": [
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Bénin",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce Benin",
+        "BSIC",
+        "BSIC Benin"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-bgfibank-benin",
+      "name": "BGFIBank Bénin",
+      "aliases": [
+        "BGFI Bank",
+        "BGFI",
+        "BGFIBank Benin"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": "https://groupebgfibank.com",
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-coris-bank-international-benin",
+      "name": "Coris Bank International Bénin",
+      "aliases": [
+        "CBI Bénin",
+        "CBI Benin",
+        "Coris Bank",
+        "CBI",
+        "Coris Bank International Benin"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-ecobank-benin",
+      "name": "Ecobank Bénin",
+      "aliases": [
+        "Ecobank",
+        "Ecobank Benin"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/bj/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-nsia-banque-benin",
+      "name": "NSIA Banque Bénin",
+      "aliases": [
+        "NSIA Banque",
+        "NSIA",
+        "NSIA Banque Benin"
+      ],
+      "type": "bank",
+      "group": "NSIA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/nsia.svg",
+        "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-orabank-benin",
+      "name": "Orabank Bénin",
+      "aliases": [
+        "Orabank",
+        "Ora Bank",
+        "Orabank Benin"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-societe-generale-benin",
+      "name": "Société Générale Bénin",
+      "aliases": [
+        "SG Bénin",
+        "SG Benin",
+        "Societe Generale",
+        "Societe Generale Benin"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://societegenerale.bj",
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-uba-benin",
+      "name": "UBA Bénin",
+      "aliases": [
+        "United Bank for Africa Bénin",
+        "United Bank for Africa Benin",
+        "UBA",
+        "UBA Benin"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-cbao-benin",
+      "name": "CBAO Bénin",
+      "aliases": [
+        "CBAO Groupe Attijariwafa Bank",
+        "CBAO",
+        "Attijariwafa Bank",
+        "CBAO Benin"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/cbao.svg",
+        "source": "https://play-lh.googleusercontent.com/cGLGc9gbiqMApeaRa1EutCzwO1g51zEvIs3aixUmPgjDsuaUoD9j_K0hqLT2JoRLTPjs2Ah4I9R7A1PLZd9-AU8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-sonibank-benin",
+      "name": "SONIBANK Bénin",
+      "aliases": [
+        "Société Nigérienne de Banque",
+        "Societe Nigerienne de Banque",
+        "SONIBANK",
+        "SONIBANK Benin"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "MoMo",
+        "MTN Bénin",
+        "MTN Benin",
+        "MTN Money"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mtn.bj",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bj-moov-money",
+      "name": "Moov Money",
+      "aliases": [
+        "Flooz",
+        "Moov Africa",
+        "Moov Africa Money",
+        "Moov Money Bénin",
+        "Moov Money Benin"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.moov-africa.bj",
+      "logo": {
+        "svg": "svg/logos/mobile-money/moov-money.svg",
+        "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bj-id-money",
+      "name": "ID Money",
+      "aliases": [
+        "International Digital Money",
+        "IDMoney"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/id-money.svg",
+        "source": "https://play-lh.googleusercontent.com/qK8u4XCKM3_jz8s_ktM-g6zChwS8lejXAYpkh90QZ6DRaySWSuMyc09lRlX3qaPSJ-z-ak5qwQ1haYnaDodVmA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bj-celtis-cash",
+      "name": "Celtis Cash",
+      "aliases": [
+        "Celtis",
+        "SBIN"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bj-coris-money",
+      "name": "Coris Money",
+      "aliases": [
+        "Coris Money Bénin",
+        "Coris Money Benin"
+      ],
+      "type": "mobile_money",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/coris-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bj-bestcash",
+      "name": "BestCash",
+      "aliases": [
+        "Best Cash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/bestcash.svg",
+        "source": "https://play-lh.googleusercontent.com/mDHEviZeapVahqoePjWlArswGph8QB4wTRxWCrtthXyV0_V724aVZrSUrzxRyf8Sn2xk9k76n8E6ejGDiVLv9g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "bj-fedapay",
+      "name": "FedaPay",
+      "aliases": [
+        "Feda Pay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-julaya",
+      "name": "Julaya",
+      "aliases": [
+        "Julaya Bénin",
+        "Julaya Benin"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-open-si",
+      "name": "Open SI",
+      "aliases": [
+        "OpenSI"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "bj-qospay",
+      "name": "QosPay",
+      "aliases": [
+        "QOS Integrated Center",
+        "QOSIC",
+        "QOS Integrated Center Bénin",
+        "QOS Integrated Center Benin"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://qosic.com",
+      "logo": {
+        "svg": "svg/logos/fintech/qospay.svg",
+        "source": "https://qosic.com/static/media/QOS_BLACK-min.2198ceb4.webp",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://qosic.com"
+      ]
+    },
+    {
+      "id": "bj-kkiapay",
+      "name": "Kkiapay",
+      "aliases": [
+        "KKiaPay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://kkiapay.me",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://kkiapay.me"
+      ]
+    },
+    {
+      "id": "bj-acfb",
+      "name": "ACFB",
+      "aliases": [
+        "Association des Caisses de Financement à la Base",
+        "Association des Caisses de Financement a la Base"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-alide",
+      "name": "ALIDE",
+      "aliases": [
+        "Association de Lutte pour la Promotion des Initiatives de Développement",
+        "Association de Lutte pour la Promotion des Initiatives de Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-comuba",
+      "name": "COMUBA",
+      "aliases": [
+        "Coopérative des Membres Unis Bethel Actions",
+        "Cooperative des Membres Unis Bethel Actions"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-coopec-ad-benin",
+      "name": "COOPEC-AD Bénin",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Assemblées de Dieu du Bénin",
+        "Cooperative d'Epargne et de Credit des Assemblees de Dieu du Benin",
+        "COOPEC-AD",
+        "COOPEC-AD Benin"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-esu-ola-otan-microfinance",
+      "name": "Esu Ola Otan Microfinance",
+      "aliases": [
+        "ESU OLA OTAN"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-fececam",
+      "name": "FECECAM",
+      "aliases": [
+        "Faîtière des Caisses d'Epargne et de Crédit Agricole Mutuel",
+        "Faitiere des Caisses d'Epargne et de Credit Agricole Mutuel",
+        "CLCAM",
+        "CAVECA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-finadev",
+      "name": "FINADEV",
+      "aliases": [
+        "Financial Développement",
+        "Financial Developpement",
+        "FINADEV SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-pebco-bethesda",
+      "name": "PEBCo-Bethesda",
+      "aliases": [
+        "Association pour la Promotion de l'Epargne Crédit à la Base Communautaire Bethesda",
+        "Association pour la Promotion de l'Epargne Credit a la Base Communautaire Bethesda",
+        "P.E.B.CO-BETHESDA",
+        "PEBCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-padme",
+      "name": "PADME",
+      "aliases": [
+        "Promotion et l'Appui au Développement des Micro-entreprises",
+        "Promotion et l'Appui au Developpement des Micro-entreprises"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-renaca-benin",
+      "name": "RENACA-Bénin",
+      "aliases": [
+        "Réseau National des Caisses Villageoises d'Epargne et de Crédit Autogérées du Bénin",
+        "Reseau National des Caisses Villageoises d'Epargne et de Credit Autogerees du Benin",
+        "RENACA",
+        "RENACA-Benin"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-sia-n-son-microfinance",
+      "name": "Sia N'Son Microfinance",
+      "aliases": [
+        "SIA N'SON"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-unacrep",
+      "name": "UNACREP",
+      "aliases": [
+        "Union Nationale des Caisses Rurales d'Epargne et de Prêt",
+        "Union Nationale des Caisses Rurales d'Epargne et de Pret"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-vital-finance-benin",
+      "name": "Vital Finance Bénin",
+      "aliases": [
+        "Vital Finance",
+        "Vital Finance Benin"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-cmmb",
+      "name": "CMMB",
+      "aliases": [
+        "Caisse du Mouvement Mutualiste Béninois",
+        "Caisse du Mouvement Mutualiste Beninois"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-financia",
+      "name": "Financia",
+      "aliases": [
+        "FINANCIA SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-iamd-microfinance",
+      "name": "IAMD-Microfinance",
+      "aliases": [
+        "Institut Africain d'Application des Méthodes de Développement en Microfinance",
+        "Institut Africain d'Application des Methodes de Developpement en Microfinance",
+        "IAMD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-benin-microfinance",
+      "name": "Bénin Microfinance",
+      "aliases": [
+        "BMF",
+        "Benin Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-le-defi",
+      "name": "Le Défi",
+      "aliases": [
+        "LE DEFI",
+        "Le Defi"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-cowec",
+      "name": "COWEC",
+      "aliases": [
+        "Coopérative Wesleyenne d'Epargne et de Crédit",
+        "Cooperative Wesleyenne d'Epargne et de Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-mdb",
+      "name": "MDB",
+      "aliases": [
+        "Mutuelle de Développement à la Base",
+        "Mutuelle de Developpement a la Base"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "bj-cesca",
+      "name": "CESCA",
+      "aliases": [
+        "Caisse d'Epargne de Solidarité et de Crédit Autogérée",
+        "Caisse d'Epargne de Solidarite et de Credit Autogeree"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    }
+  ]
+}

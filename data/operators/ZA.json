@@ -1,0 +1,1474 @@
+{
+  "country": "ZA",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.resbank.co.za/en/home/what-we-do/Prudentialregulation/sa-registered-banks-and-representative-offices",
+    "microfinance": "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+  },
+  "operators": [
+    {
+      "id": "za-absa",
+      "name": "Absa",
+      "aliases": [
+        "Absa Bank",
+        "Absa Bank Limited",
+        "ABSA",
+        "Barclays Africa"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.absa.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-african-bank",
+      "name": "African Bank",
+      "aliases": [
+        "African Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.africanbank.co.za/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-bidvest-bank",
+      "name": "Bidvest Bank",
+      "aliases": [
+        "Bidvest Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bidvestbank.co.za/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-capitec",
+      "name": "Capitec Bank",
+      "aliases": [
+        "Capitec",
+        "Capitec Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.capitecbank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/capitec-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/u_9LAaLRVeOAHuC1872PbE4cUUPPJ5k5pMeHDp-AIpgvN7CpBQ2txKm1Ldj005uPaC1-QT3iJlphu09Pp6dnx_o=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-discovery-bank",
+      "name": "Discovery Bank",
+      "aliases": [
+        "Discovery",
+        "Discovery Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.discovery.co.za/bank",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-fnb",
+      "name": "FNB",
+      "aliases": [
+        "First National Bank",
+        "FirstRand",
+        "FirstRand Bank",
+        "FirstRand Limited",
+        "RMB",
+        "Rand Merchant Bank",
+        "WesBank"
+      ],
+      "type": "bank",
+      "group": "FirstRand",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fnb.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/fnb.svg",
+        "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-investec",
+      "name": "Investec",
+      "aliases": [
+        "Investec Bank",
+        "Investec Bank Limited"
+      ],
+      "type": "bank",
+      "group": "Investec",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.investec.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-old-mutual-bank",
+      "name": "Old Mutual Bank",
+      "aliases": [
+        "OM Bank",
+        "OM Bank Limited",
+        "Old Mutual"
+      ],
+      "type": "bank",
+      "group": "Old Mutual",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.oldmutual.co.za/bank/",
+      "logo": {
+        "svg": "svg/logos/bank/old-mutual.svg",
+        "source": "https://eu-images.contentstack.com/v3/assets/blt40b62a118f9f6a08/bltacbbc9266218ea1e/692db7620172c17f17ddbf53/OM_logo.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-nedbank",
+      "name": "Nedbank",
+      "aliases": [
+        "Nedbank Limited"
+      ],
+      "type": "bank",
+      "group": "Nedbank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nedbank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/nedbank.svg",
+        "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-standard-bank",
+      "name": "Standard Bank",
+      "aliases": [
+        "The Standard Bank of South Africa",
+        "Standard Bank of South Africa",
+        "SBSA",
+        "Stanbic"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardbank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-gotyme-bank",
+      "name": "GoTyme Bank",
+      "aliases": [
+        "GoTyme",
+        "GoTyme Bank Limited",
+        "TymeBank",
+        "Tyme Bank",
+        "Tyme"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.tymebank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/gotyme-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/PZUeSfEuJIwqDUirNNp_km-PYbALWSHgdtKGG0albUyC3ZswndR55vkS5v-iioaT4KHYtJ_WbDlQSAnz-ub1ig=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf",
+        "https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/2026/15-2026.pdf"
+      ]
+    },
+    {
+      "id": "za-access-bank-south-africa",
+      "name": "Access Bank South Africa",
+      "aliases": [
+        "Access Bank",
+        "Access Bank (South Africa) Limited"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": "https://southafrica.accessbankplc.com/",
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2025/Foreign%20Controlled%201.pdf"
+      ]
+    },
+    {
+      "id": "za-albaraka-bank",
+      "name": "Albaraka Bank",
+      "aliases": [
+        "Al Baraka",
+        "Albaraka Bank Limited"
+      ],
+      "type": "bank",
+      "group": "Al Baraka",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.albaraka.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/albaraka-bank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2025/Foreign%20Controlled%201.pdf"
+      ]
+    },
+    {
+      "id": "za-hbz-bank",
+      "name": "HBZ Bank",
+      "aliases": [
+        "HBZ",
+        "Habib Bank Zurich",
+        "HBZ Bank Limited"
+      ],
+      "type": "bank",
+      "group": "Habib Bank AG Zurich",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.hbzbank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/hbz-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/91cGw-EwYq6RgJWAWz9geXyXSRITpG6GA1-NPsdomUs_c-yC2za36zbMf8v9w7F8CCyf5F-J56_BS22g8cEF6w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2025/Foreign%20Controlled%201.pdf"
+      ]
+    },
+    {
+      "id": "za-bank-of-china",
+      "name": "Bank of China Johannesburg",
+      "aliases": [
+        "Bank of China",
+        "BOC"
+      ],
+      "type": "bank",
+      "group": "Bank of China",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankofchina.com/za/en/",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-china.svg",
+        "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-bank-of-communications",
+      "name": "Bank of Communications Johannesburg",
+      "aliases": [
+        "Bank of Communications",
+        "BoCom",
+        "Bankcomm"
+      ],
+      "type": "bank",
+      "group": "Bank of Communications",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankcomm.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-bank-of-taiwan",
+      "name": "Bank of Taiwan South Africa",
+      "aliases": [
+        "Bank of Taiwan"
+      ],
+      "type": "bank",
+      "group": "Bank of Taiwan",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bot.com.tw/",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-taiwan.svg",
+        "source": "https://www.bot.com.tw/assets/images/Logo/Logo(red).png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-citibank",
+      "name": "Citibank",
+      "aliases": [
+        "Citi",
+        "Citibank N.A."
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.citigroup.com/",
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-china-construction-bank",
+      "name": "China Construction Bank Johannesburg",
+      "aliases": [
+        "China Construction Bank",
+        "CCB"
+      ],
+      "type": "bank",
+      "group": "China Construction Bank",
+      "status": "active",
+      "successor": null,
+      "website": "http://za.ccb.com/johannesburg/en/index.html",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-deutsche-bank",
+      "name": "Deutsche Bank",
+      "aliases": [
+        "Deutsche Bank AG"
+      ],
+      "type": "bank",
+      "group": "Deutsche Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.db.com/southafrica",
+      "logo": {
+        "svg": "svg/logos/bank/deutsche-bank.svg",
+        "source": "https://country.db.com/south-africa/project/images/logo/Deutsche-Bank-South-Africa.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-goldman-sachs",
+      "name": "Goldman Sachs International Bank",
+      "aliases": [
+        "Goldman Sachs"
+      ],
+      "type": "bank",
+      "group": "Goldman Sachs",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gs.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-jpmorgan",
+      "name": "JPMorgan Chase Bank",
+      "aliases": [
+        "JP Morgan",
+        "JPMorgan",
+        "J.P. Morgan"
+      ],
+      "type": "bank",
+      "group": "JPMorgan Chase",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.jpmorgan.com/",
+      "logo": {
+        "svg": "svg/logos/bank/jpmorgan-chase.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_JPMorganChase_2024.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-standard-chartered",
+      "name": "Standard Chartered Bank",
+      "aliases": [
+        "Standard Chartered",
+        "StanChart"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardchartered.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-state-bank-of-india",
+      "name": "State Bank of India",
+      "aliases": [
+        "SBI"
+      ],
+      "type": "bank",
+      "group": "State Bank of India",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.statebank.co.za/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-bank-zero",
+      "name": "Bank Zero",
+      "aliases": [
+        "Bank Zero Mutual Bank",
+        "BankZero"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankzero.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/bank-zero.svg",
+        "source": "https://play-lh.googleusercontent.com/TJP_xR9qB8ZWE0Fl0L0TWaVY2WWgpedZn7dKzwguzymnzMgDIWAG4E6naX0vPRUDdi9mjYdkXJUbtCK0Pvzl2Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Mutual%20Banks%20as%20at%20Sept%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-finbond-mutual-bank",
+      "name": "Finbond Mutual Bank",
+      "aliases": [
+        "Finbond"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.finbondmutualbank.co.za/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Mutual%20Banks%20as%20at%20Sept%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-gbs-mutual-bank",
+      "name": "GBS Mutual Bank",
+      "aliases": [
+        "GBS",
+        "Grahamstown Building Society",
+        "GBS Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gbsbank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/gbs-mutual-bank.svg",
+        "source": "https://www.gbsbank.co.za/assets/images/GBS_Logo_vsn20260707.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Mutual%20Banks%20as%20at%20Sept%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-enl-mutual-bank",
+      "name": "eNL Mutual Bank",
+      "aliases": [
+        "eNL",
+        "Ekhaya Neighbourhood",
+        "Own the Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ownthebank.co.za/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Mutual%20Banks%20as%20at%20Sept%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-ditsobotla-co-operative-bank",
+      "name": "Ditsobotla Co-operative Bank",
+      "aliases": [
+        "Ditsobotla Primary Savings and Credit Co-operative Bank",
+        "Ditsobotla"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/what-we-do/prudential-regulation/co-ops-banks/2024/Register%20of%20Co-ops%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "za-osk-kooperatiewe-bank",
+      "name": "OSK Koöperatiewe Bank",
+      "aliases": [
+        "OSK",
+        "OSK Kooperatiewe Bank",
+        "OSK Koöperatiewe Bank Beperk",
+        "OSK Co-operative Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/what-we-do/prudential-regulation/co-ops-banks/2024/Register%20of%20Co-ops%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "za-ziphakamise-co-operative-bank",
+      "name": "Ziphakamise Co-operative Bank",
+      "aliases": [
+        "Ziphakamise Savings and Credit Co-operative Bank",
+        "Ziphakamise"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/what-we-do/prudential-regulation/co-ops-banks/2024/Register%20of%20Co-ops%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "za-ksk-kooperatiewe-bank",
+      "name": "KSK Koöperatiewe Bank",
+      "aliases": [
+        "KSK",
+        "KSK Kooperatiewe Bank",
+        "KSK Koöperatiewe Bank Beperk",
+        "KSK Co-operative Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/what-we-do/prudential-regulation/co-ops-banks/2024/Register%20of%20Co-ops%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "za-gig-co-operative-bank",
+      "name": "GIG Co-operative Bank",
+      "aliases": [
+        "GIG"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gig-operative-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/uGNGT_zHtiHZo39jTI0tpEwjuWrlwCk3PZsqlQcImIyNHM9CED5WVPMQ8TrH6NtV-nk2aft4FZhZRWLPueZJ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/what-we-do/prudential-regulation/co-ops-banks/2024/Register%20of%20Co-ops%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "za-postbank",
+      "name": "Postbank",
+      "aliases": [
+        "South African Postbank",
+        "SA Postbank",
+        "Post Bank",
+        "SAPO Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.postbank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/postbank.svg",
+        "source": "https://play-lh.googleusercontent.com/x3KzBu5yoUXRaFTFzDcLD3rAkrKm94vKyQeiQhNdK2vRJ4Dg6I8riJzJPQfganBnIF4ZdnlrgtCO3rQI5HvZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://acts.co.za/news/blog/2026/03/postbank-licensing-update-2025",
+        "https://pmg.org.za/committee-question/40477/"
+      ]
+    },
+    {
+      "id": "za-tymebank",
+      "name": "TymeBank",
+      "aliases": [
+        "Tyme Bank",
+        "Tyme Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "rebranded",
+      "successor": "za-gotyme-bank",
+      "website": "https://www.tymebank.co.za/",
+      "logo": {
+        "svg": "svg/logos/bank/tymebank.svg",
+        "source": "https://play-lh.googleusercontent.com/PZUeSfEuJIwqDUirNNp_km-PYbALWSHgdtKGG0albUyC3ZswndR55vkS5v-iioaT4KHYtJ_WbDlQSAnz-ub1ig=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/2026/15-2026.pdf",
+        "https://iol.co.za/business-report/companies/2026-02-04-tymebank-evolves-into-gotyme-enhancing-digital-banking-for-south-africans/"
+      ]
+    },
+    {
+      "id": "za-grindrod-bank",
+      "name": "Grindrod Bank",
+      "aliases": [
+        "Grindrod"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "merged",
+      "successor": "za-african-bank",
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bizcommunity.com/article/back-in-business-banking-africanbanks-grindrod-integration-paves-the-way-816323a"
+      ]
+    },
+    {
+      "id": "za-ubank",
+      "name": "Ubank",
+      "aliases": [
+        "U Bank",
+        "Teba Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "merged",
+      "successor": "za-african-bank",
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://sundayworld.co.za/business/african-bank-completes-takeover-of-embattled-ubank/"
+      ]
+    },
+    {
+      "id": "za-mercantile-bank",
+      "name": "Mercantile Bank",
+      "aliases": [
+        "Mercantile"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "merged",
+      "successor": "za-capitec",
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://businesstech.co.za/news/banking/352193/capitec-completes-acquisition-of-mercantile-bank/"
+      ]
+    },
+    {
+      "id": "za-sasfin-bank",
+      "name": "Sasfin Bank",
+      "aliases": [
+        "Sasfin"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "defunct",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.gov.za/sites/default/files/gcis_document/202607/54998gon7709.pdf",
+        "https://businesstech.co.za/news/banking/866609/end-of-an-era-for-75-year-old-banking-giant-in-south-africa/"
+      ]
+    },
+    {
+      "id": "za-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MoMo",
+        "MTN Mobile Money",
+        "MTN MoMo SA"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mtn.co.za/momo",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://apps.apple.com/us/app/-/id1480151366",
+        "https://newsletter.en.creamermedia.com/article/mtn-momo-mastercard-expand-collaboration-to-advance-digital-financial-inclusion-in-south-africa-2025-11-21"
+      ]
+    },
+    {
+      "id": "za-vodapay",
+      "name": "VodaPay",
+      "aliases": [
+        "VodaPay Wallet",
+        "Vodacom VodaPay",
+        "Voda Pay"
+      ],
+      "type": "mobile_money",
+      "group": "Vodacom",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.vodapay.co.za/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/vodapay.svg",
+        "source": "https://play-lh.googleusercontent.com/6IjrFlVrFM6D5eSvGdX7f9j4_cR_HT2spZNXKLbH3fhIcidvrfcm592u8mbj7bSV5uElQxV4c2nvmRdLuzfK=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://itweb.co.za/article/bidvest-bank-joins-vodapay-wallet-ecosystem/kYbe97Xbe21qAWpG"
+      ]
+    },
+    {
+      "id": "za-telkom-pay",
+      "name": "Telkom Pay",
+      "aliases": [
+        "TelkomPay",
+        "Telkom Pay Digital Wallet"
+      ],
+      "type": "mobile_money",
+      "group": "Telkom",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.telkom.co.za/telkom-pay",
+      "logo": {
+        "svg": "svg/logos/mobile-money/telkom-pay.svg",
+        "source": "https://www.telkom.co.za/assets/images/footer/telkom-white-logo.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.telkom.co.za/telkom-pay",
+        "https://apps.apple.com/us/app/id1621457611"
+      ]
+    },
+    {
+      "id": "za-shoprite-money-market",
+      "name": "Shoprite Money Market Account",
+      "aliases": [
+        "Money Market Account",
+        "Shoprite Money",
+        "Shoprite Money Market"
+      ],
+      "type": "fintech",
+      "group": "Shoprite",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/shoprite.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoprite_(Isle_of_Man)_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.gauteng.net/whats-on-g/shoprite-money-market-account/"
+      ]
+    },
+    {
+      "id": "za-easypay-everywhere",
+      "name": "EasyPay Everywhere",
+      "aliases": [
+        "EPE",
+        "EasyPay",
+        "Lesaka",
+        "Net1 green card"
+      ],
+      "type": "fintech",
+      "group": "Lesaka",
+      "status": "active",
+      "successor": null,
+      "website": "https://lesakatech.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.businessday.co.za/bt/business-and-economy/2025-05-11-lesaka-gains-social-grant-clients/"
+      ]
+    },
+    {
+      "id": "za-mukuru",
+      "name": "Mukuru",
+      "aliases": [
+        "Mukuru Card",
+        "Mukuru Wallet"
+      ],
+      "type": "fintech",
+      "group": "Mukuru",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mukuru.com/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://apps.apple.com/app/id1515075370"
+      ]
+    },
+    {
+      "id": "za-snapscan",
+      "name": "SnapScan",
+      "aliases": [
+        "Snap Scan"
+      ],
+      "type": "fintech",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.snapscan.co.za/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://businesstech.co.za/news/banking/451246/capitec-launches-scan-to-pay-functionality-in-its-app-including-snapscan-and-zapper/"
+      ]
+    },
+    {
+      "id": "za-zapper",
+      "name": "Zapper",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zapper.com/",
+      "logo": {
+        "svg": "svg/logos/fintech/zapper.svg",
+        "source": "https://play-lh.googleusercontent.com/WidjRvkjdEysq_zYVRUJntX3EHeilIKEHUp80hs-EH77p4XCjUsWF0taqXuh98jXTBUuf-CYjl6p8dzsiQ0utw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://netcash.co.za/blog/mobile-wallet-trends-in-south-africa-whats-next-for-2026/"
+      ]
+    },
+    {
+      "id": "za-motswedi-financial-services-co-operative",
+      "name": "Motswedi Financial Services Co-operative",
+      "aliases": [
+        "Motswedi CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-boikago-savings-and-credit-co-operative",
+      "name": "Boikago Savings and Credit Co-operative",
+      "aliases": [
+        "Boikago CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-sadtu-savings-and-credit-co-operative",
+      "name": "SADTU Savings and Credit Co-operative",
+      "aliases": [
+        "SADTU CFI",
+        "SADTU SACCO",
+        "SADTU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-umnotho-financial-institute-primary-co-operative",
+      "name": "Umnotho Financial Institute Primary Co-operative",
+      "aliases": [
+        "Umnotho CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-kingdom-financial-institution-primary-co-operative",
+      "name": "Kingdom Financial Institution Primary Co-operative",
+      "aliases": [
+        "Kingdom CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-nagrik-financial-services-co-operative",
+      "name": "Nagrik Financial Services Co-operative",
+      "aliases": [
+        "Nagrik CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-ndzhakeni-south-avenue-co-operative-financial-services",
+      "name": "Ndzhakeni South Avenue Co-operative Financial Services",
+      "aliases": [
+        "Ndzhakeni CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-mutapa-financial-services-co-operative",
+      "name": "Mutapa Financial Services Co-operative",
+      "aliases": [
+        "Mutapa CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-ndlovukazi-yakwazulu-women-financial-services-co-operative",
+      "name": "Ndlovukazi YakwaZulu Women Financial Services Co-operative",
+      "aliases": [
+        "Ndlovukazi CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-people-empowerment-cfi-primary-co-operative",
+      "name": "People Empowerment CFI Primary Co-operative",
+      "aliases": [
+        "People CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-imvelo-agricultural-co-operative-financial-institution",
+      "name": "Imvelo Agricultural Co-operative Financial Institution",
+      "aliases": [
+        "Imvelo CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-sa-primary-medical-financial-co-operative",
+      "name": "SA Primary Medical Financial Co-operative",
+      "aliases": [
+        "SA CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-isikhungo-sabantu-financial-services-primary-co-operative",
+      "name": "Isikhungo Sabantu Financial Services Primary Co-operative",
+      "aliases": [
+        "Isikhungo CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-national-stokvel-association-of-south-africa-financial-primary-co-operative",
+      "name": "National Stokvel Association of South Africa Financial Primary Co-operative",
+      "aliases": [
+        "National CFI",
+        "NASASA",
+        "NASASA Financial Co-operative"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-worcester-community-savings-and-credit-co-operative",
+      "name": "Worcester Community Savings and Credit Co-operative",
+      "aliases": [
+        "Worcester CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-nehawu-savings-and-credit-co-operative",
+      "name": "NEHAWU Savings and Credit Co-operative",
+      "aliases": [
+        "NEHAWU CFI",
+        "NEHAWU SACCO",
+        "NEHAWU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-asikhulesonga-savings-and-credit-co-operative",
+      "name": "Asikhulesonga Savings and Credit Co-operative",
+      "aliases": [
+        "Asikhulesonga CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-midrand-savings-and-credit-co-operative",
+      "name": "Midrand Savings and Credit Co-operative",
+      "aliases": [
+        "Midrand CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    },
+    {
+      "id": "za-sa-innovative-financial-services-co-operative",
+      "name": "SA Innovative Financial Services Co-operative",
+      "aliases": [
+        "SA CFI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-co-operative-financial-institutions/registered-/2026/PA%20registered%20CFI%27s%20as%20at%20September%202026.pdf"
+      ]
+    }
+  ]
+}

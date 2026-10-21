@@ -1,0 +1,723 @@
+{
+  "country": "MG",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+    "mobile_money": "https://www.banky-foibe.mg/etablissement-de-monnaie-electronique",
+    "microfinance": "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+  },
+  "operators": [
+    {
+      "id": "mg-bmoi",
+      "name": "Banque Malgache de l'Océan Indien",
+      "aliases": [
+        "BMOI",
+        "BMOI Madagascar",
+        "Banque Malgache de l Ocean Indien"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.bmoinet.net",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-bni-madagascar",
+      "name": "BNI Madagascar",
+      "aliases": [
+        "BNI",
+        "Banque Nationale pour l'Industrie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bni.mg",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-mcb-madagascar",
+      "name": "MCB Madagascar",
+      "aliases": [
+        "MCB",
+        "The Mauritius Commercial Bank (Madagascar)",
+        "Mauritius Commercial Bank"
+      ],
+      "type": "bank",
+      "group": "MCB",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.mcbmadagascar.com",
+      "logo": {
+        "svg": "svg/logos/bank/mcb.svg",
+        "source": "https://mcb.mg/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-sbm-madagascar",
+      "name": "SBM Madagascar",
+      "aliases": [
+        "SBM",
+        "State Bank of Mauritius Madagascar",
+        "SBM Bank"
+      ],
+      "type": "bank",
+      "group": "SBM",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/sbm.svg",
+        "source": "https://play-lh.googleusercontent.com/FtnuQpIHLTzzyx6sDYY5e_cjQ8JtYyLkA21aJVLAoQYlmeKuTVC4jF-Rf68YtGl4I768BLVyZ8PLW457mdxR=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-bred-madagasikara",
+      "name": "BRED Madagasikara",
+      "aliases": [
+        "BRED",
+        "Société Générale Madagasikara",
+        "Societe Generale Madagasikara",
+        "SG Madagasikara",
+        "SGM",
+        "BFV-SG"
+      ],
+      "type": "bank",
+      "group": "BRED Banque Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://bred.mg/",
+      "logo": {
+        "svg": "svg/logos/bank/bred-madagasikara.svg",
+        "source": "https://play-lh.googleusercontent.com/XG1ORmkntqWj_1toVI4LXmDC8t-VZ3j5HSyyNqaZSn6YJMdW1AWBMEjMikLEmISWe9PoQQWIkSoqF0M8w_dt=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/liste-des-codes-banque",
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://newsroom.bred.fr/actualites/bred-banque-populaire-signs-an-agreement-with-societe-generale-to-acquire-the-number-one-bank-in-madagascar-c29e9-9c1c2.html"
+      ]
+    },
+    {
+      "id": "mg-boa-madagascar",
+      "name": "Bank of Africa Madagascar",
+      "aliases": [
+        "BOA",
+        "BOA Madagascar",
+        "BOA-Madagascar",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.boa.mg",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-acces-banque",
+      "name": "AccèsBanque Madagascar",
+      "aliases": [
+        "ABM",
+        "Acces Banque",
+        "AccesBanque",
+        "Access Banque Madagascar"
+      ],
+      "type": "bank",
+      "group": "Access Microfinance Holding",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.accesbanque.mg",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-bgfibank",
+      "name": "BGFIBank Madagascar",
+      "aliases": [
+        "BGFI",
+        "BGFI Bank"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-baobab",
+      "name": "Baobab Banque Madagascar",
+      "aliases": [
+        "Baobab",
+        "Microcred Banque Madagascar",
+        "Microcred",
+        "Baobab Money"
+      ],
+      "type": "bank",
+      "group": "Baobab",
+      "status": "active",
+      "successor": null,
+      "website": "https://baobab.com/mg",
+      "logo": {
+        "svg": "svg/logos/bank/baobab.svg",
+        "source": "https://play-lh.googleusercontent.com/UQBWvZSdPwBXabglp7fFLlS1BEtEoRoPJmKww0qEImQVkfiwpPGHoHG-C2vrwRObNwzndLz8lIeZJwh9Lt_b=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-banky-first",
+      "name": "Banky First",
+      "aliases": [
+        "BM Madagascar",
+        "Banque de Madagascar",
+        "BM"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-sipem-banque",
+      "name": "SIPEM Banque",
+      "aliases": [
+        "SIPEM",
+        "Société d'Investissement pour la Promotion des Entreprises à Madagascar"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.sipem.mg/",
+      "logo": {
+        "svg": "svg/logos/bank/sipem-banque.svg",
+        "source": "https://www.sipembanque.mg/wp-content/uploads/2024/07/logo-horizontal.webp",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-afg-bank",
+      "name": "AFG Bank Madagascar",
+      "aliases": [
+        "AFG Bank",
+        "AFG"
+      ],
+      "type": "bank",
+      "group": "AFG",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.afgbank.mg",
+      "logo": {
+        "svg": "svg/logos/bank/afg.svg",
+        "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque"
+      ]
+    },
+    {
+      "id": "mg-mvola",
+      "name": "MVola",
+      "aliases": [
+        "M'Vola",
+        "Mvola Banque",
+        "MVola SA",
+        "Telma Mvola",
+        "Yas Madagascar",
+        "Telma"
+      ],
+      "type": "mobile_money",
+      "group": "Axian",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mvola.mg",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mvola.svg",
+        "source": "https://www.mvola.km/wp-content/uploads/2023/12/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
+        "https://www.banky-foibe.mg/liste-des-codes-banque",
+        "https://www.yas.mg"
+      ]
+    },
+    {
+      "id": "mg-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Madagascar",
+        "OM",
+        "Orange"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.mg",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissement-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "mg-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel",
+        "AMCM",
+        "Airtel Mobile Commerce Madagascar"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.airtel.mg",
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissement-de-monnaie-electronique",
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-paositra-money",
+      "name": "Paositra Money",
+      "aliases": [
+        "Paositra",
+        "Paoma",
+        "Paositra Malagasy",
+        "E-Manda"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/paositra-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nOjKz9iQfq9K-czVKOthwOr1uAvsAizcEb_JjgYtwGmOafkjeGSTByjhl2TNWc-y3Lch23_OhG2CrMT4nym2MxI=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.lexpress.mg/2025/11/telecommunications-paositra-malagasy-se.html",
+        "https://newsmada.com/?p=64671"
+      ]
+    },
+    {
+      "id": "mg-acep",
+      "name": "ACEP Madagascar",
+      "aliases": [
+        "ACEP"
+      ],
+      "type": "microfinance",
+      "group": "ACEP",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/acep.svg",
+        "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-cecam",
+      "name": "CECAM",
+      "aliases": [
+        "Caisse d'Epargne et de Crédit Agricole Mutuels",
+        "Réseau CECAM",
+        "Reseau CECAM",
+        "UNICECAM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://unicecam.com/",
+      "logo": {
+        "svg": "svg/logos/microfinance/cecam.svg",
+        "source": "https://unicecam.com/images/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-pamf",
+      "name": "Première Agence de Microfinance",
+      "aliases": [
+        "PAMF",
+        "Premiere Agence de Microfinance"
+      ],
+      "type": "microfinance",
+      "group": "Aga Khan Agency for Microfinance",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-mutuelle-du-mandrare",
+      "name": "Mutuelle du Mandrare",
+      "aliases": [
+        "Mandrare"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-otiv-zam",
+      "name": "OTIV Alaotra Mangoro",
+      "aliases": [
+        "OTIV ZAM",
+        "Réseau OTIV Alaotra Mangoro",
+        "OTIV"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-otiv-diana",
+      "name": "OTIV de la DIANA",
+      "aliases": [
+        "OTIV DIANA",
+        "Réseau OTIV de la DIANA",
+        "OTIV"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-otiv-sava",
+      "name": "OTIV de la SAVA",
+      "aliases": [
+        "OTIV SAVA",
+        "Réseau OTIV de la SAVA",
+        "OTIV"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-smmec",
+      "name": "SMMEC",
+      "aliases": [
+        "Société Malagasy des Mutuelles d'Epargne et de Crédit",
+        "OTIVTANA",
+        "OTIV Tana",
+        "Réseau OTIVTANA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-otiv-zl",
+      "name": "OTIV Toamasina Zone Littoral",
+      "aliases": [
+        "OTIV ZL",
+        "Réseau des OTIV Toamasina Zone Littoral",
+        "OTIV Toamasina"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-madacredito",
+      "name": "MADACREDITO",
+      "aliases": [
+        "Madacredito",
+        "Mada Credito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.madacredito.mg",
+      "logo": {
+        "svg": "svg/logos/microfinance/madacredito.svg",
+        "source": "https://www.madacredito.mg/web/image/website/1/logo/MADACREDITO?unique=162f524",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-apem-paiq",
+      "name": "APEM PAIQ",
+      "aliases": [
+        "APEM",
+        "PAIQ",
+        "Société APEM PAIQ"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/apem-paiq.svg",
+        "source": "https://play-lh.googleusercontent.com/_Ia2bW1zX-G3MWwxRTVTLUzT0iD-Rt2uNkaLvN-mImNMWl5CB1a75n9XMdpJsL_yG0fLNFvuRrsaDCCTXSxB7A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-cem",
+      "name": "Caisse d'Epargne de Madagascar",
+      "aliases": [
+        "CEM",
+        "Caisse d Epargne de Madagascar"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-nim",
+      "name": "NIM",
+      "aliases": [
+        "Société NIM",
+        "NIM SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    },
+    {
+      "id": "mg-otiv-boeny",
+      "name": "OTIV Boeny Mahajanga",
+      "aliases": [
+        "OTIV BOENY",
+        "OTIV Mahajanga"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
+      ]
+    }
+  ]
+}

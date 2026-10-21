@@ -1,0 +1,1424 @@
+{
+  "country": "BI",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.brb.bi/node/119",
+    "mobile_money": "https://www.brb.bi/node/2928",
+    "microfinance": "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+  },
+  "operators": [
+    {
+      "id": "bi-bancobu",
+      "name": "BANCOBU",
+      "aliases": [
+        "Banque Commerciale du Burundi",
+        "Bancobu"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancobu.com",
+      "logo": {
+        "svg": "svg/logos/bank/bancobu.svg",
+        "source": "https://play-lh.googleusercontent.com/HQPiv_GBcXKmInftM7nE5Bdv5GTrLlKyjQ6DzGfCb9qu-xkBpbo6T4GuU0hXyfvf3S316Cc9m3dUJFsdNbpO8tg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bgf",
+      "name": "BGF",
+      "aliases": [
+        "Banque de Gestion et de Financement"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bgf.svg",
+        "source": "https://play-lh.googleusercontent.com/XXjzBNWZhG7cVPTWmX0Al3Scnf7H-vSAXWyc23KN6aTwEK7Edg95ocKT8FhSxVVdN--RWRPCrtWfmm490urKWQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bbci",
+      "name": "BBCI",
+      "aliases": [
+        "Banque Burundaise pour le Commerce et l'Investissement",
+        "BBCI Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-finbank",
+      "name": "FinBank",
+      "aliases": [
+        "Finbank Burundi",
+        "FINBANK"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.finbankburundi.com",
+      "logo": {
+        "svg": "svg/logos/bank/finbank.svg",
+        "source": "https://play-lh.googleusercontent.com/mvammOm__Yj-f_4mIWz4R51xIx0bO0bISYYiZwXRWh1rMHkW1dGGmu2q-WmfEoFL6gpaNJTxB2iEUwBmI7xOfrM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-interbank-burundi",
+      "name": "Interbank Burundi",
+      "aliases": [
+        "IBB",
+        "Interbank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.interbankbdi.bi",
+      "logo": {
+        "svg": "svg/logos/bank/interbank.svg",
+        "source": "https://play-lh.googleusercontent.com/8eHcpOQVJ4O1XaFb8ixQH3ZfAI9G0FqGm8fjY-QOCUFoKP8mrB3_I2Wv_56kp1EPWS3K0tAhXAMJC_Vu1Myi5Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-ecobank-burundi",
+      "name": "Ecobank Burundi",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.ecobank.com",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bcb",
+      "name": "BCB",
+      "aliases": [
+        "Banque de Crédit de Bujumbura"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-dtb-burundi",
+      "name": "DTB Burundi",
+      "aliases": [
+        "Diamond Trust Bank Burundi",
+        "Diamond Trust Bank",
+        "DTB",
+        "Great Lakes Bank",
+        "GLB"
+      ],
+      "type": "bank",
+      "group": "DTB",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.dtbafrica.com",
+      "logo": {
+        "svg": "svg/logos/bank/dtb.svg",
+        "source": "https://dtbafrica.com/storage/uploads/b022ae98-1973-4e4e-93e0-9ebf891f3d86/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-kcb-bank-burundi",
+      "name": "KCB Bank Burundi",
+      "aliases": [
+        "KCB Bank Burundi Limited",
+        "KCB"
+      ],
+      "type": "bank",
+      "group": "KCB",
+      "status": "active",
+      "successor": null,
+      "website": "https://bi.kcbgroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/kcb.svg",
+        "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-crdb-bank-burundi",
+      "name": "CRDB Bank Burundi",
+      "aliases": [
+        "CRDB Burundi",
+        "CRDB"
+      ],
+      "type": "bank",
+      "group": "CRDB",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.crdbbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/crdb.svg",
+        "source": "https://crdbbank.co.tz/storage/app/media/images/logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bcab",
+      "name": "BCAB",
+      "aliases": [
+        "Banque Communautaire et Agricole du Burundi"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.bcab.bi",
+      "logo": {
+        "svg": "svg/logos/bank/bcab.svg",
+        "source": "http://www.bcab.bi/images/bcab_logo-2025.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bije",
+      "name": "BIJE",
+      "aliases": [
+        "Banque d'Investissement pour les Jeunes"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.bije.bi",
+      "logo": {
+        "svg": "svg/logos/bank/bije.svg",
+        "source": "http://www.bije.bi/new_asset/img/logo_New.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bhb",
+      "name": "BHB",
+      "aliases": [
+        "Banque de l'Habitat du Burundi"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bidf",
+      "name": "BIDF",
+      "aliases": [
+        "Banque d'Investissement et de Développement pour les Femmes"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bidf.bi",
+      "logo": {
+        "svg": "svg/logos/bank/bidf.svg",
+        "source": "https://bidf.bi/wp-content/uploads/2021/04/logo-1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-bedrock-financial-bank",
+      "name": "Bedrock Financial Bank",
+      "aliases": [
+        "BFB",
+        "Bedrock"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bfb.bi",
+      "logo": {
+        "svg": "svg/logos/bank/bedrock-financial-bank.svg",
+        "source": "https://www.bfb.bi/assets/images/bfb-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119"
+      ]
+    },
+    {
+      "id": "bi-bnde",
+      "name": "BNDE",
+      "aliases": [
+        "Banque Nationale pour le Développement Économique"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bnde.svg",
+        "source": "https://play-lh.googleusercontent.com/hlGF0o5PtcpreF5hPQwBUdlOEEEH__XUpZ7NO6G5VRlQ_1AzYn4DWjDgJV79A_aVNxoisr-k5b6am-po5xH1z_Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/119",
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-mutec",
+      "name": "MUTEC",
+      "aliases": [
+        "MUTEC S.A"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/mutec.svg",
+        "source": "https://play-lh.googleusercontent.com/_f1-KzZHVuBnFVL5Os4f7A8ou1CKIO03BwFphVbUsyrEPfYTmn_2wsUqkCv-pKpn7RneAOVeiJdKrTrGRpnTvvk=s512",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-hope-fund-burundi",
+      "name": "Hope Fund Burundi",
+      "aliases": [
+        "HFB",
+        "Hope Fund"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-turame-community-finance",
+      "name": "Turame Community Finance",
+      "aliases": [
+        "TURAME",
+        "Turame"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-wise",
+      "name": "WISE",
+      "aliases": [
+        "Women's Initiative for Self-Empowerment"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-receca-inkingi",
+      "name": "RECECA-INKINGI",
+      "aliases": [
+        "Réseau Communautaire d'Epargne et de Crédit pour l'Auto développement-Inkingi Y'Iterambere",
+        "RECECA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-difo",
+      "name": "DIFO",
+      "aliases": [
+        "Development Interpeople Finance Operations"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/difo.svg",
+        "source": "https://play-lh.googleusercontent.com/H2TYuPRat1DTPo4aBA_O9T4UOilHjQKaJG4oPlA7h-rxjtUC4_8O2JYKMEFER3CwdQcN1XOBFpP9EH0Cfb7S1A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-corilac-microfinance",
+      "name": "CORILAC Microfinance",
+      "aliases": [
+        "CORILAC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-ishaka-microfinance",
+      "name": "ISHAKA Microfinance",
+      "aliases": [
+        "ISHAKA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-kazoza-finance",
+      "name": "Kazoza Finance",
+      "aliases": [
+        "KAZOZA FINANCE S.A"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-twitezimbere",
+      "name": "Twitezimbere",
+      "aliases": [
+        "TWITEZIMBERE S.A"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-sofepac",
+      "name": "SOFEPAC",
+      "aliases": [
+        "Solidarité Féminine d'Epargne et de Crédit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-umuryango-microfinance",
+      "name": "Umuryango Microfinance",
+      "aliases": [
+        "Hauge Family Microfinance",
+        "UMURYANGO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-dukuze-microfinance",
+      "name": "Dukuze Microfinance",
+      "aliases": [
+        "DUKUZE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-inyishu-microfinance",
+      "name": "Inyishu Microfinance",
+      "aliases": [
+        "INYISHU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-fadeco",
+      "name": "FADECO",
+      "aliases": [
+        "Fonds d'Appui au Développement Communautaire"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-umuco-microfinance",
+      "name": "Umuco Microfinance",
+      "aliases": [
+        "UMUCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-umubano-microfinance",
+      "name": "Umubano Microfinance",
+      "aliases": [
+        "UMUBANO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-tujane-microfinance",
+      "name": "Tujane Microfinance",
+      "aliases": [
+        "TUJANE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-burundi-lend-and-lease",
+      "name": "Burundi Lend and Lease",
+      "aliases": [
+        "BLL"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/burundi-lend-and-lease.svg",
+        "source": "https://play-lh.googleusercontent.com/p4f1Q5n55OnAaNBcTMO9QLK6D2WnubdzCZMTuXAJMLURmodn4n5O_zE-R71za0Of4Ixjy3ZtHwzSEPn_S0I-RQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-eden-microfinance",
+      "name": "Eden Microfinance",
+      "aliases": [
+        "EDEN"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-ihela-credit-union",
+      "name": "iHela Credit Union",
+      "aliases": [
+        "iHelá Credit Union",
+        "iHela",
+        "iHelá"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ihela-credit-union.svg",
+        "source": "https://play-lh.googleusercontent.com/U0IeAK62XxU-umQpc3j32_hMdNfPyDOomXFl9UMTQsyWzHu-O_5WjG15uDDcgJnG6Rsq0F668w6qNJHxX-l_K48=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-microbu",
+      "name": "MICROBU",
+      "aliases": [
+        "Microfinance Bumbatirane"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-elite-microfinance",
+      "name": "Elite Microfinance",
+      "aliases": [
+        "Elite"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-twikangure-microfinance",
+      "name": "Twikangure Microfinance",
+      "aliases": [
+        "TWIKANGURE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-isoko-microfinance",
+      "name": "ISOKO Microfinance",
+      "aliases": [
+        "Isoko"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/isoko-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/rYsc1EK6GgLN9R0hqmGWp7pC7s1iDyf49JQhI0sFWJ_c2kmy-m8S-3kR_Sp99S34bunUdnkaXw5v4-x5gBXVoA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-sopec-microfinance",
+      "name": "SOPEC Microfinance",
+      "aliases": [
+        "SOPEC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-cecf",
+      "name": "CECF",
+      "aliases": [
+        "Collectif d'Epargne et de Crédit des Fonctionnaires"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-codem-finance",
+      "name": "CODEM Finance",
+      "aliases": [
+        "CODEM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-kaze-microfinance",
+      "name": "Kaze Microfinance",
+      "aliases": [
+        "KAZE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/kaze-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/Pz1eDmFarN1c3iP0qbrdgdfIfbAw7Mw7uMwFc1KnoplKhSczs3S9XpXUxFg9lTLewMZbf7S1WTmxySoFGjFX=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-inyenyeri-microfinance",
+      "name": "Inyenyeri Microfinance",
+      "aliases": [
+        "INYENYERI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-les-champions-microfinance",
+      "name": "Les Champions Microfinance",
+      "aliases": [
+        "Champions Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-guilgal-rehoboth-burundi",
+      "name": "Guilgal-Rehoboth Burundi",
+      "aliases": [
+        "Guilgal Rehoboth"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-umurezi-microfinance",
+      "name": "Umurezi Microfinance",
+      "aliases": [
+        "UMUREZI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-coopec-fenacobu",
+      "name": "COOPEC (FENACOBU)",
+      "aliases": [
+        "FENACOBU",
+        "COOPEC",
+        "Coopératives d'Epargne et de Crédit",
+        "Fédération Nationale des Coopératives d'Epargne et de Crédit du Burundi"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/coopec-fenacobu.svg",
+        "source": "https://play-lh.googleusercontent.com/8dkdpjVIjO5uogVP8BfV3XW2camTrgjxbpXWRXC0A7pX3eE--vP8iBjQUxBy2ftsvDGXjNjFLyMb1-tim80P_A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-cecm",
+      "name": "CECM",
+      "aliases": [
+        "Caisse Coopérative d'Epargne et de Crédit Mutuel"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/cecm.svg",
+        "source": "https://play-lh.googleusercontent.com/CQUdnqAgBNO4oAPQYgtmoq8TOvTry2qFmwOEF6dDJtqZyDjo5b0w6vRG7qaD-dadsdRJNJYRHYC0GoNvWg-8lB8=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-cospec",
+      "name": "COSPEC",
+      "aliases": [
+        "Coopérative Solidarité avec les Producteurs pour l'Epargne et le Crédit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-fsts",
+      "name": "FSTS",
+      "aliases": [
+        "Fonds de Solidarité des Travailleurs de la Santé"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-fste",
+      "name": "FSTE",
+      "aliases": [
+        "Fonds de Solidarité des Travailleurs de l'Enseignement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/fste.svg",
+        "source": "https://play-lh.googleusercontent.com/ZycMy9TccMGYxePghpQ6gZRa5PsDVFGB4gJiiyArBy625ham0AcSBC6BiPJKcjEUmhbid-CJG_7kXbfi8Ne-6Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-fscj",
+      "name": "FSCJ",
+      "aliases": [
+        "Fonds de Solidarité des Cadres Judiciaires"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/fscj.svg",
+        "source": "https://play-lh.googleusercontent.com/q55QnvVazz8k_5uR1XMpkglZrA6Il6x4q6Q1COSGKCc_L2V8AsQCQMKc7rHxyGHCw8P4PqKq2yfI2l3xr1eo-g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-ucode",
+      "name": "UCODE",
+      "aliases": [
+        "Union pour la Coopération et le Développement",
+        "UCODE Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-cecadm",
+      "name": "CECADM",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit pour l'Auto-Développement des Militaires"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-socade",
+      "name": "SOCADE",
+      "aliases": [
+        "Solidarité Citoyenne pour l'Auto Développement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-mupad",
+      "name": "MUPAD",
+      "aliases": [
+        "La Mutualité des Professionnels Adventistes pour le Développement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-cecabu",
+      "name": "CECABU",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Caféiculteurs du Burundi"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-micropol",
+      "name": "MICROPOL",
+      "aliases": [
+        "Microfinance de la Police Nationale du Burundi"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
+      ]
+    },
+    {
+      "id": "bi-lumicash",
+      "name": "Lumicash",
+      "aliases": [
+        "LUMICASH S.U",
+        "Lumi Cash",
+        "Lumitel"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/lumicash.svg",
+        "source": "https://play-lh.googleusercontent.com/LvQ4mgyOxnPICuxkM101b1hY6NEtRiSpO8Tdk7hHXaSekKOS1T08hCnnhZKXiCuS5lszb02TFu_9x-0IT5_nLQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/2928"
+      ]
+    },
+    {
+      "id": "bi-ecocash",
+      "name": "EcoCash",
+      "aliases": [
+        "Eco Cash",
+        "Sasai Fintech Burundi",
+        "SASAI FINTECH BURUNDI SA"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/ecocash.svg",
+        "source": "https://play-lh.googleusercontent.com/p8KM6TJr6mODf24U8AhPlX1uofQp5dATtVOdQxUoPHEgrWCvucuEb89Q5L8An36PBSb2iaoXn2i1H1QcPwFtyA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/2928"
+      ]
+    },
+    {
+      "id": "bi-cashtel",
+      "name": "CashTel",
+      "aliases": [
+        "Cash Tel",
+        "Ellis Business Company"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/cashtel.svg",
+        "source": "https://play-lh.googleusercontent.com/4G2rG26vqdBf-CR72S7uFLda2_Ku0qAGvKqgUtcAqDfbox9D1nVhxcTpZklLI-DHPa4CTJa_lkbBVUAm2BWzyVU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/2928"
+      ]
+    },
+    {
+      "id": "bi-sama-money",
+      "name": "Sama Money",
+      "aliases": [
+        "SamaMoney"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "defunct",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.brb.bi/node/2928",
+        "https://www.brb.bi/node/2121"
+      ]
+    }
+  ]
+}

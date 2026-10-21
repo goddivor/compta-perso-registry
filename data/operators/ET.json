@@ -1,0 +1,2019 @@
+{
+  "country": "ET",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://nbe.gov.et/financial-institutions/banks/",
+    "mobile_money": "https://nbe.gov.et/payment-instrument-issuers-system-operators/",
+    "microfinance": "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+  },
+  "operators": [
+    {
+      "id": "et-siket-bank",
+      "name": "Siket Bank",
+      "aliases": [
+        "Siket Bank S.C"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://siketbank.com/",
+      "logo": {
+        "svg": "svg/logos/bank/siket-bank.svg",
+        "source": "https://siketbank.com/assets/public/images/siketbank-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-rammis-bank",
+      "name": "Rammis Bank",
+      "aliases": [
+        "Rammis Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.rammisbank.et",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-sidama-bank",
+      "name": "Sidama Bank",
+      "aliases": [
+        "Sidama Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sidamabanksc.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-omo-bank",
+      "name": "Omo Bank",
+      "aliases": [
+        "Omo Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.omobanksc.com",
+      "logo": {
+        "svg": "svg/logos/bank/omo-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/MMngJ7o-uErqQBZEJ5fmheB2B3hRlaJkVCRDCqaT9yu47_DGkdNEiurE4LN4E-raJC4FlAAtU4auAwjonijZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-gadaa-bank",
+      "name": "Gadaa Bank",
+      "aliases": [
+        "Gadaa Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gadaabank.com.et",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-amhara-bank",
+      "name": "Amhara Bank",
+      "aliases": [
+        "Amhara Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.amharabank.com.et",
+      "logo": {
+        "svg": "svg/logos/bank/amhara-bank.svg",
+        "source": "https://www.amharabank.com.et/storage/2023/03/logo-1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-tsehay-bank",
+      "name": "Tsehay Bank",
+      "aliases": [
+        "Tsehay Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.tsehaybank.com.et",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-tsedey-bank",
+      "name": "Tsedey Bank",
+      "aliases": [
+        "Tsedey Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.tsedeybank-sc.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-siinqee-bank",
+      "name": "Siinqee Bank",
+      "aliases": [
+        "Siinqee Bank S.C.",
+        "Sinqe Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.siinqeebank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-ahadu-bank",
+      "name": "Ahadu Bank",
+      "aliases": [
+        "Ahadu Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ahadubank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-hijra-bank",
+      "name": "Hijra Bank",
+      "aliases": [
+        "Hijra Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.hijra-bank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-goh-betoch-bank",
+      "name": "Goh Betoch Bank",
+      "aliases": [
+        "Goh Betoch Bank S.C.",
+        "Goh Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gohbetbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/goh-betoch-bank.svg",
+        "source": "https://www.gohbetbank.com/wp-content/uploads/2022/12/mobilelogo-1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-shabelle-bank",
+      "name": "Shabelle Bank",
+      "aliases": [
+        "Shabelle Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.shabellebank.com",
+      "logo": {
+        "svg": "svg/logos/bank/shabelle-bank.svg",
+        "source": "https://shabellebank.com/wp-content/uploads/2025/12/cropped-photo_5818918347021074843_y-2-1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-zamzam-bank",
+      "name": "ZamZam Bank",
+      "aliases": [
+        "ZamZam Bank S.C.",
+        "Zamzam Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zamzambank.com",
+      "logo": {
+        "svg": "svg/logos/bank/zamzam-bank.svg",
+        "source": "https://zamzambank.com/wp-content/uploads/2024/07/Untitled-design-2024-07-23T153756.815.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-global-bank-ethiopia",
+      "name": "Global Bank Ethiopia",
+      "aliases": [
+        "Global Bank S.C",
+        "Global Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.globalbankethiopia.com",
+      "logo": {
+        "svg": "svg/logos/bank/global-bank.svg",
+        "source": "https://www.globalbankethiopia.com/wp-content/uploads/2023/11/GlobalbankET-Primary-Logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-enat-bank",
+      "name": "Enat Bank",
+      "aliases": [
+        "Enat Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.enatbanksc.com",
+      "logo": {
+        "svg": "svg/logos/bank/enat-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/-U9rcIkhsc2u5dch-3yCO21rxuwvi6ryVI2BHVq5HThCS527oGD3cwr9JpTSm-S03xKUX1d7p9sIn0j2DwcT1w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-addis-bank",
+      "name": "Addis Bank",
+      "aliases": [
+        "Addis Bank S.C",
+        "Addis International Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.addisbanksc.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-abay-bank",
+      "name": "Abay Bank",
+      "aliases": [
+        "Abay Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.abaybank.com.et",
+      "logo": {
+        "svg": "svg/logos/bank/abay-bank.svg",
+        "source": "https://www.abaybanksc.com/wp-content/uploads/2020/08/abayBank_logo2-01-1.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-berhan-bank",
+      "name": "Berhan Bank",
+      "aliases": [
+        "Berhan Bank S.C.",
+        "Birhan Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://berhanbanksc.com",
+      "logo": {
+        "svg": "svg/logos/bank/berhan-bank.svg",
+        "source": "https://berhanbanksc.com/wp-content/uploads/2022/06/logo-berhan-bank.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-bunna-bank",
+      "name": "Bunna Bank",
+      "aliases": [
+        "Bunna Bank S.C",
+        "Bunna International Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bunnabanksc.com",
+      "logo": {
+        "svg": "svg/logos/bank/bunna-bank.svg",
+        "source": "https://bunnabanksc.com/wp-content/uploads/2023/06/logo-1-167x58.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-zemen-bank",
+      "name": "Zemen Bank",
+      "aliases": [
+        "Zemen Bank S.C."
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zemenbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/zemen-bank.svg",
+        "source": "https://zemenbank.com/wp-content/uploads/2024/10/ZB-Logo-01-1.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-oromia-bank",
+      "name": "Oromia Bank",
+      "aliases": [
+        "Oromia Bank S.C.",
+        "Oromia International Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.oromiabank.com",
+      "logo": {
+        "svg": "svg/logos/bank/oromia-bank.svg",
+        "source": "https://oromiabank.com/wp-content/uploads/2023/09/fullogoset-2color.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-anbesa-bank",
+      "name": "Anbesa Bank",
+      "aliases": [
+        "Lion International Bank",
+        "Lion Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://anbesabank.com",
+      "logo": {
+        "svg": "svg/logos/bank/anbesa-bank.svg",
+        "source": "https://anbesabank.com/wp-content/uploads/2026/01/Main-Logo-scaled.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-coopbank",
+      "name": "Coopbank",
+      "aliases": [
+        "Cooperative Bank of Oromia",
+        "Coop Bank of Oromia",
+        "CBO"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://coopbankoromia.com.et",
+      "logo": {
+        "svg": "svg/logos/bank/coopbank.svg",
+        "source": "https://coopbankoromia.com.et/wp-content/uploads/2020/11/Coopbank-Logo-Ethiopia.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-nib-bank",
+      "name": "Nib Bank",
+      "aliases": [
+        "Nib Int. Bank S.C.",
+        "Nib International Bank",
+        "NIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nibbanksc.com",
+      "logo": {
+        "svg": "svg/logos/bank/nib-bank.svg",
+        "source": "https://www.nibbanksc.com/wp-content/uploads/2022/03/LOGO-SETS-AND-STYLE-01.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-hibret-bank",
+      "name": "Hibret Bank",
+      "aliases": [
+        "Hibret Bank S.C.",
+        "United Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.hibretbank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-wegagen-bank",
+      "name": "Wegagen Bank",
+      "aliases": [
+        "Wegagen Bank S.C.",
+        "Wegagen"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wegagen.com",
+      "logo": {
+        "svg": "svg/logos/bank/wegagen-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/iVnYLOeUUnlGiiXiIT3WnTbm5AjQ9mKHcDusyD4cENBXhzMn_dGbHQVeUqWdkybL77Tr_Q1KpBH6pEBNMigaz20=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-bank-of-abyssinia",
+      "name": "Bank of Abyssinia",
+      "aliases": [
+        "BoA Ethiopia",
+        "Abyssinia Bank",
+        "BOA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankofabyssinia.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-dashen-bank",
+      "name": "Dashen Bank",
+      "aliases": [
+        "Dashen Bank S.C.",
+        "Dashen"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.dashenbanksc.com",
+      "logo": {
+        "svg": "svg/logos/bank/dashen-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lC-ao3_I1F9-mzhlpa4B_gV9h1v7WJl-x7zEZnkOMqlLl8ohrX4WxDmzT-_IzCft5UHpjYfJTUlwCwE1D3emxQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-awash-bank",
+      "name": "Awash Bank",
+      "aliases": [
+        "Awash Bank S.C.",
+        "Awash International Bank",
+        "Awash"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.awashbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/awash-bank.svg",
+        "source": "https://awashbank.com/wp-content/uploads/2022/08/Awash-bank-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-commercial-bank-of-ethiopia",
+      "name": "Commercial Bank of Ethiopia",
+      "aliases": [
+        "CBE"
+      ],
+      "type": "bank",
+      "group": "Commercial Bank of Ethiopia",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.combanketh.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-development-bank-of-ethiopia",
+      "name": "Development Bank of Ethiopia",
+      "aliases": [
+        "DBE"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.dbe.com.et",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/banks/"
+      ]
+    },
+    {
+      "id": "et-adaday-microfinance-institution",
+      "name": "Adaday Microfinance Institution",
+      "aliases": [
+        "Adaday Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-afar-microfinance-institution",
+      "name": "Afar Microfinance Institution",
+      "aliases": [
+        "Afar Microfinance Institution S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-africa-village-financial-services",
+      "name": "Africa Village Financial Services",
+      "aliases": [
+        "Africa Village Financial Services S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-aggar-microfinance",
+      "name": "Aggar Microfinance",
+      "aliases": [
+        "Aggar Microfinance S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-akufada-microfinance",
+      "name": "Akufada Microfinance",
+      "aliases": [
+        "Akufada Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-amal-microfinance",
+      "name": "Amal Microfinance",
+      "aliases": [
+        "Amal Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-amhara-credit-and-saving-institution",
+      "name": "Amhara Credit and Saving Institution",
+      "aliases": [
+        "Amhara Credit and Saving Institution S. Co.",
+        "ACSI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/amhara-credit-and-saving-institution.svg",
+        "source": "https://play-lh.googleusercontent.com/TpGkKaUIzd0_AnY7Vq85-k-cG6wF8ctHZDW-3PF8zSc0cVKoUXAj7emgJ1Y1mF_hrqSSWhAcx1tCqWX1g3gIUQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-awra-amba-microfinance",
+      "name": "Awra Amba Microfinance",
+      "aliases": [
+        "Awra Amba Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-benishangul-gumuz-microfinancing",
+      "name": "Benishangul-Gumuz Microfinancing",
+      "aliases": [
+        "Benishangul-Gumuz Microfinancing S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-bilale-microfinance",
+      "name": "Bilale Microfinance",
+      "aliases": [
+        "Bilale Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-binget-microfinance-institution",
+      "name": "Binget Microfinance Institution",
+      "aliases": [
+        "Binget Microfinance Institution S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-buusaa-gonofaa-microfinancing",
+      "name": "Buusaa Gonofaa MicroFinancing",
+      "aliases": [
+        "Buusaa Gonofaa MicroFinancing S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-debo-microfinance-institution",
+      "name": "Debo Microfinance Institution",
+      "aliases": [
+        "Debo Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-dedebit-credit-and-saving-institution",
+      "name": "Dedebit Credit and Saving Institution",
+      "aliases": [
+        "Dedebit Credit and Saving Institution S.C.",
+        "DECSI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-digaf-micro-credit-provider",
+      "name": "Digaf Micro Credit Provider",
+      "aliases": [
+        "Digaf Micro Credit Provider S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-dire-microfinance-institution",
+      "name": "Dire Microfinance Institution",
+      "aliases": [
+        "Dire Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-dynamic-microfinance",
+      "name": "Dynamic Microfinance",
+      "aliases": [
+        "Dynamic Microfinance S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-elsabi-microfinance",
+      "name": "Elsabi Microfinance",
+      "aliases": [
+        "Elsabi microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-eshet-microfinance-institution",
+      "name": "ESHET Microfinance Institution",
+      "aliases": [
+        "ESHET Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-gambella-microfinancing",
+      "name": "Gambella Microfinancing",
+      "aliases": [
+        "Gambella Microfinancing S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-gasha-micro-financing",
+      "name": "Gasha Micro Financing",
+      "aliases": [
+        "Gasha Micro Financing S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-gogiba-microfinance-institution",
+      "name": "GOGIBA Microfinance Institution",
+      "aliases": [
+        "GOGIBA Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-grand-microfinance-institution",
+      "name": "Grand Microfinance Institution",
+      "aliases": [
+        "Grand Microfinance Institution S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-harar-microfinance-institution",
+      "name": "Harar Microfinance Institution",
+      "aliases": [
+        "Harar Microfinance Institution S.Co"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-harbu-microfinancing-institution",
+      "name": "Harbu Microfinancing Institution",
+      "aliases": [
+        "Harbu Microfinancing Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-kaafi-microfinance-institution",
+      "name": "KAAFI Microfinance Institution",
+      "aliases": [
+        "KAAFI Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-kebronhill-microfinance-institution",
+      "name": "KebronHill Microfinance Institution",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-kefita-microfinance",
+      "name": "Kefita Microfinance",
+      "aliases": [
+        "kefita Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-kendil-microfinance-institution",
+      "name": "Kendil Microfinance Institution",
+      "aliases": [
+        "Kendil Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-kershi-microfinance-institution",
+      "name": "Kershi Microfinance Institution",
+      "aliases": [
+        "Kershi Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-lefayeda-credit-and-saving",
+      "name": "Lefayeda Credit and Saving",
+      "aliases": [
+        "Lefayeda Credit and Saving S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-lideta-microfinance-institution",
+      "name": "Lideta Microfinance Institution",
+      "aliases": [
+        "Lideta Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-liyu-microfinance-institution",
+      "name": "Liyu Microfinance Institution",
+      "aliases": [
+        "Liyu Microfinance Institution S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-marchiwa-microfinance",
+      "name": "Marchiwa Microfinance",
+      "aliases": [
+        "Marchiwa Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-mefthe-microfinance",
+      "name": "Mefthe Microfinance",
+      "aliases": [
+        "Mefthe Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-meklit-microfinance-institution",
+      "name": "Meklit Microfinance Institution",
+      "aliases": [
+        "Meklit Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-metemamen-microfinancing-institution",
+      "name": "Metemamen Microfinancing Institution",
+      "aliases": [
+        "Metemamen Microfinancing Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-midre-geez-microfinance-institution",
+      "name": "Midre-Geez Microfinance Institution",
+      "aliases": [
+        "Midre-Geez Microfinance Institution S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-neo-microfinance",
+      "name": "Neo Microfinance",
+      "aliases": [
+        "Neo Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-nisir-microfinance-institution",
+      "name": "Nisir Microfinance Institution",
+      "aliases": [
+        "Nisir Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-one-microfinance-institution",
+      "name": "ONE Microfinance Institution",
+      "aliases": [
+        "ONE Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-peace-micro-financing",
+      "name": "Peace Micro Financing",
+      "aliases": [
+        "Peace Micro Financing S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-rama-microfinance",
+      "name": "Rama Microfinance",
+      "aliases": [
+        "Rama Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-rays-microfinance-institution",
+      "name": "Rays Microfinance Institution",
+      "aliases": [
+        "Rays Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-sahal-microfinance-institution",
+      "name": "SAHAL Microfinance Institution",
+      "aliases": [
+        "SAHAL Microfinance Institution S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-semien-microfinance",
+      "name": "Semien Microfinance",
+      "aliases": [
+        "Semien microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-sheger-microfinance-institution",
+      "name": "Sheger Microfinance Institution",
+      "aliases": [
+        "Sheger Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-tana-microfinance-institutions",
+      "name": "Tana Microfinance Institutions",
+      "aliases": [
+        "Tana Microfinance Institutions S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-tesfa-microfinance-institution",
+      "name": "Tesfa Microfinance Institution",
+      "aliases": [
+        "Tesfa Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-tirit-microfinance-institutions",
+      "name": "Tirit Microfinance Institutions",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-torban-microfinance",
+      "name": "Torban Microfinance",
+      "aliases": [
+        "Torban Microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-vision-fund-microfinance-institution",
+      "name": "Vision Fund Microfinance Institution",
+      "aliases": [
+        "Vision Fund Microfinance Institution S.C.",
+        "VisionFund Ethiopia"
+      ],
+      "type": "microfinance",
+      "group": "VisionFund",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-wasasa-microfinance-institution",
+      "name": "Wasasa Microfinance Institution",
+      "aliases": [
+        "Wasasa Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-yegna-microfinance-institution",
+      "name": "Yegna Microfinance Institution",
+      "aliases": [
+        "Yegna Microfinance Institution S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-yemsirach-microfinance-institution",
+      "name": "Yemsirach Microfinance Institution",
+      "aliases": [
+        "Yemsirach Microfinance Institution S.C."
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-yeshewabirhan-microfinance",
+      "name": "Yeshewabirhan Microfinance",
+      "aliases": [
+        "yeshewabirhan microfinance S.C"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/financial-institutions/microfinance-institute/"
+      ]
+    },
+    {
+      "id": "et-telebirr",
+      "name": "telebirr",
+      "aliases": [
+        "Telebirr",
+        "Tele birr",
+        "Ethio telecom",
+        "Ethiotelecom"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://dev.ethiotelecom.et/telebirr/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/telebirr.svg",
+        "source": "https://play-lh.googleusercontent.com/26b3chBWWWiCR3ZWCFqrd45v3rNqa92BZyTc_7RFJkzOT2GgkDBNACjB46P5biiQLxvgIKyEQpKIAccdt4FHwg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
+      ]
+    },
+    {
+      "id": "et-kacha",
+      "name": "Kacha",
+      "aliases": [
+        "Kacha Digital Financial Services",
+        "Kacha DFS"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.kacha.et",
+      "logo": {
+        "svg": "svg/logos/mobile-money/kacha.svg",
+        "source": "https://www.kacha.et/images/kacha-brand-logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
+      ]
+    },
+    {
+      "id": "et-m-pesa-ethiopia",
+      "name": "M-PESA Ethiopia",
+      "aliases": [
+        "M-Pesa",
+        "MPesa",
+        "Safaricom Ethiopia"
+      ],
+      "type": "mobile_money",
+      "group": "Safaricom",
+      "status": "active",
+      "successor": null,
+      "website": "https://m-pesa.safaricom.et/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/m-pesa.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
+      ]
+    },
+    {
+      "id": "et-yaya-wallet",
+      "name": "YaYa Wallet",
+      "aliases": [
+        "YaYa",
+        "Yaya Payment Instrument Issuer"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.yayawallet.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/yaya-wallet.svg",
+        "source": "https://yayawallet.com/web/images/logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
+      ]
+    },
+    {
+      "id": "et-vitabirr",
+      "name": "Vitabirr",
+      "aliases": [
+        "Vitabirr Financial Services",
+        "Vita birr"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/vitabirr.svg",
+        "source": "https://play-lh.googleusercontent.com/UmLRDzhTuHqzcyHmPHd0PPqfKG42MkfRYi5-DapmLtyx6s0DkBUjFu10NCtgm0AQmiOUNu2EFwUtzJVAT22G=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
+      ]
+    },
+    {
+      "id": "et-tolopay",
+      "name": "ToloPay",
+      "aliases": [
+        "Tolo Pay",
+        "ToloPay Financial Technology"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
+      ]
+    }
+  ]
+}

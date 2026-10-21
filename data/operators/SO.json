@@ -1,0 +1,455 @@
+{
+  "country": "SO",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "none",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://centralbank.gov.so/licensed-banks/"
+  },
+  "operators": [
+    {
+      "id": "so-agro-bank",
+      "name": "Agro Bank",
+      "aliases": [
+        "Agro Bank Somalia"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.agrobank.so",
+      "logo": {
+        "svg": "svg/logos/bank/agro-bank.svg",
+        "source": "https://agrobank.so/wp-content/uploads/2022/11/agro-bank.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-amal-bank",
+      "name": "Amal Bank",
+      "aliases": [
+        "Amal Bank Somalia"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.amalbankso.so",
+      "logo": {
+        "svg": "svg/logos/bank/amal-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/ZQcM5tsdDWVz8IUBoEvZytbeW1NkzO_ggKepONFlUoP0Z4hxjhp-yj09jp36SDKHal8auokeW5j5CfR82DIayg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-amana-bank",
+      "name": "Amana Bank",
+      "aliases": [
+        "Amana Bank Somalia"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.amanabank.so",
+      "logo": {
+        "svg": "svg/logos/bank/amana-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/rWQKi92aTOXXkgQ-PGPMd47uJ978Q6s_v7MGkketIBFYcIHNCio8KYXSMuLYd-ANaZnBdnMG2B0l5ldxPqTfTA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-bushra-bank",
+      "name": "Bushra Bank",
+      "aliases": [
+        "Bushra Business Bank",
+        "BB Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bbbank.so",
+      "logo": {
+        "svg": "svg/logos/bank/bushra-bank.svg",
+        "source": "https://bbbank.so/wp-content/uploads/2024/05/Logo-main-white-01.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-bulsho-bank",
+      "name": "Bulsho Bank",
+      "aliases": [],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bulshobank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-dahabshiil-international-bank",
+      "name": "Dahabshiil International Bank",
+      "aliases": [
+        "Dahabshil Bank",
+        "Dahabshil International Bank",
+        "DIB"
+      ],
+      "type": "bank",
+      "group": "Dahabshiil",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.dahabshilbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/dahabshiil.svg",
+        "source": "https://www.dahabshilbank.com/assets/img/brand/Logo3-19.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-daryeel-bank",
+      "name": "Daryeel Bank",
+      "aliases": [],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.daryeelbank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-gib-bank",
+      "name": "GIB Bank",
+      "aliases": [
+        "GIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gibbank.so",
+      "logo": {
+        "svg": "svg/logos/bank/gib-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/x9N-oIkIN__B0cAJBJEPRGFLpi6x-7B1ZdQVyo8asJlE5Bx0s9jBybvXAVH04Pg0bH9X8ZFzxoY2wfhOW_YE=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-idman-bank",
+      "name": "Idman Bank",
+      "aliases": [
+        "Idman Community Bank",
+        "IC Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.icbank.so",
+      "logo": {
+        "svg": "svg/logos/bank/idman-bank.svg",
+        "source": "https://icbank.so/wp-content/uploads/2022/03/cropped-ICBANK-LOGO-copy.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-ibs-bank",
+      "name": "IBS Bank",
+      "aliases": [
+        "International Bank of Somalia",
+        "IBS"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ibsbank.so",
+      "logo": {
+        "svg": "svg/logos/bank/ibs-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Hq55-1071VCDvPy4hxshsthiDqoWgkzYQ0ZWbZEpo320RqeJJlaAKvqWnPh6dBKYb_2vYsIVcQ1BCPjAVjud=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-my-bank",
+      "name": "My Bank",
+      "aliases": [
+        "MyBank Somalia",
+        "MyBank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mybank.so",
+      "logo": {
+        "svg": "svg/logos/bank/my-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/GG_EmHzUzGw3fZ5XO6UfX5dfh2ornA9SQdekMvyBlYvvUJgRR7hpaRpbQd2ngfk3CX7Y4sVB7MalNDgWFcRHfQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-premier-bank",
+      "name": "Premier Bank",
+      "aliases": [
+        "Premier Bank Somalia"
+      ],
+      "type": "bank",
+      "group": "Premier Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.premierbank.so",
+      "logo": {
+        "svg": "svg/logos/bank/premier-bank.svg",
+        "source": "https://www.premierbank.so/wp-content/uploads/2020/07/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-salaam-bank",
+      "name": "Salaam Bank",
+      "aliases": [
+        "Salaam Bank Somalia",
+        "Salaam Somali Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/salaam-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/aY_L8Ub4fNN5vx3Vp9VfHlVWuwE2lUodhJdCBgLMuBQM1x-vxoFjRyHZ-sWFDGobKZoFIo5xJ91ocdy00ePn8g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-sombank",
+      "name": "Sombank",
+      "aliases": [
+        "Som Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sombank.so",
+      "logo": {
+        "svg": "svg/logos/bank/sombank.svg",
+        "source": "https://www.sombank.so/web/image/website/1/logo/Sombank?unique=ac1906e",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-ziraat-katilim-somalia",
+      "name": "Ziraat Katilim Somalia",
+      "aliases": [
+        "Zirat Bank",
+        "Ziraat Bank",
+        "Ziraat Katilim"
+      ],
+      "type": "bank",
+      "group": "Ziraat",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ziraat.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziraat_Kat%C4%B1l%C4%B1m_Bankas%C4%B1_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://centralbank.gov.so/licensed-banks/"
+      ]
+    },
+    {
+      "id": "so-evc-plus",
+      "name": "EVC Plus",
+      "aliases": [
+        "EVC",
+        "EVCPlus",
+        "Hormuud",
+        "Hormuud Telecom"
+      ],
+      "type": "mobile_money",
+      "group": "Hormuud",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/evc-plus.svg",
+        "source": "https://play-lh.googleusercontent.com/PkePH4vEqMOtDCDPR-ps1V5ALVBDBjfT5yTUb-yBJjDA1fgxoXWST_-NHIY0CIsYSvaFv_tDooWc5EOz3pa9tfs=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.voanews.com/a/africa_somalia-issues-first-license-mobile-money-service/6202644.html",
+        "https://www.brecorder.com/news/40068569",
+        "https://en.wikipedia.org/wiki/Mobile_money_in_Somalia"
+      ]
+    },
+    {
+      "id": "so-zaad",
+      "name": "Zaad",
+      "aliases": [
+        "ZAAD",
+        "Zaad Service",
+        "Telesom"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/zaad.svg",
+        "source": "https://play-lh.googleusercontent.com/eH70aocBpvIb_wZA4DcCMPTLEg-Jb9iqDnUB7Fsq0PhlEbRRxu_3mn0M0T2XPDPsWkxe5PTg1WDIOfwUJmKJfg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mobile_money_in_Somalia",
+        "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/region/sub-saharan-africa-region/reaching-half-of-the-market-women-and-mobile-money-the-example-of-telesom-in-somaliland/"
+      ]
+    },
+    {
+      "id": "so-sahal",
+      "name": "Sahal",
+      "aliases": [
+        "SAHAL",
+        "Golis",
+        "Golis Sahal"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/sahal.svg",
+        "source": "https://play-lh.googleusercontent.com/wqE25WZTUnio6DvW6ZQXeOXFh5bHuQaTecgf9-QqBG9bkEZJ8SEdRHIpk633sNyIeRSGQMNhUMWThvYtgYxkpQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mobile_money_in_Somalia",
+        "https://hiraalinstitute.org/wp-content/uploads/2019/04/English-PDF-final-2.pdf"
+      ]
+    },
+    {
+      "id": "so-edahab",
+      "name": "eDahab",
+      "aliases": [
+        "e-Dahab",
+        "E Dahab",
+        "Dahabshiil eDahab"
+      ],
+      "type": "mobile_money",
+      "group": "Dahabshiil",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/edahab.svg",
+        "source": "https://play-lh.googleusercontent.com/c56xLST0c9qk-D095ZJxBswref4fjssU06_yzsyNGW8sWg0p-aq8crI4roFMvGjlYuyxtgh_MmDcYuY3HXo9_Wo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mobile_money_in_Somalia",
+        "https://www.somtribune.net/2015/01/29/dahabshiil-group-launches-edahab-mobile-money-transfer-services-in-seven-somaliland-regions-simultaneously-video-links-pics/"
+      ]
+    },
+    {
+      "id": "so-premier-wallet",
+      "name": "Premier Wallet",
+      "aliases": [
+        "PremierWallet"
+      ],
+      "type": "fintech",
+      "group": "Premier Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/premier-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/soGlYxdpeT3ZCMylZoigqsZ4p-H2IaK0Y4EVnnM0mEemvDhKKTMZ_NRky1TtySGIbijiGVwub6y3zJ_bvQlU6g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mobile_money_in_Somalia",
+        "https://www.brecorder.com/news/40068569"
+      ]
+    }
+  ]
+}

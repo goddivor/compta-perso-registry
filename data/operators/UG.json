@@ -1,0 +1,1254 @@
+{
+  "country": "UG",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://bou.or.ug/supervision",
+    "mobile_money": "https://bou.or.ug/financial-infrastructure-and-innovation",
+    "microfinance": "https://bou.or.ug/supervision"
+  },
+  "operators": [
+    {
+      "id": "ug-absa-bank-uganda",
+      "name": "Absa Bank Uganda",
+      "aliases": [
+        "Absa Bank Uganda Limited",
+        "Absa",
+        "Barclays Bank Uganda"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-bank-of-africa-uganda",
+      "name": "Bank of Africa Uganda",
+      "aliases": [
+        "Bank of Africa Uganda Ltd",
+        "BOA Uganda",
+        "BOA"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-bank-of-baroda-uganda",
+      "name": "Bank of Baroda Uganda",
+      "aliases": [
+        "Bank of Baroda (Uganda) Limited",
+        "Bank of Baroda"
+      ],
+      "type": "bank",
+      "group": "Bank of Baroda",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-baroda.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-bank-of-india-uganda",
+      "name": "Bank of India Uganda",
+      "aliases": [
+        "Bank of India (Uganda) Limited",
+        "Bank of India",
+        "BOI"
+      ],
+      "type": "bank",
+      "group": "Bank of India",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-cairo-bank-uganda",
+      "name": "Cairo Bank Uganda",
+      "aliases": [
+        "Cairo Bank Uganda Limited",
+        "Banque du Caire Uganda"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-centenary-bank",
+      "name": "Centenary Bank",
+      "aliases": [
+        "Centenary Rural Development Bank Limited",
+        "Centenary",
+        "Cente"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/centenary-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/AWD51d8OyF8wPzU8uZglvKZgsbx7O1rLl_O_IybDqbW1PpnNgTLBh6jdIIUYWvKDnKEQdwyG7pKLnuWf7GWkz9Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-citibank-uganda",
+      "name": "Citibank Uganda",
+      "aliases": [
+        "Citibank Uganda Limited",
+        "Citi",
+        "Citibank"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-exim-bank-uganda",
+      "name": "Exim Bank Uganda",
+      "aliases": [
+        "Exim Bank (Uganda) Limited",
+        "Exim Bank"
+      ],
+      "type": "bank",
+      "group": "Exim Bank Tanzania",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-dfcu-bank",
+      "name": "dfcu Bank",
+      "aliases": [
+        "DFCU Bank Limited",
+        "DFCU"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/dfcu-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/DjyUK0ByqcJWYxWwvTYzlX4dujz2Fls7R_CnVdZ65uR3Nm2D64rwfNfob-eNagcwOGEo3LFkjdKxJ1LZX3kv5g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-dtb-uganda",
+      "name": "DTB Uganda",
+      "aliases": [
+        "Diamond Trust Bank Uganda Limited",
+        "Diamond Trust Bank",
+        "DTB"
+      ],
+      "type": "bank",
+      "group": "DTB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/dtb.svg",
+        "source": "https://dtbafrica.com/storage/uploads/b022ae98-1973-4e4e-93e0-9ebf891f3d86/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-ecobank-uganda",
+      "name": "Ecobank Uganda",
+      "aliases": [
+        "Ecobank Uganda Limited",
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-equity-bank-uganda",
+      "name": "Equity Bank Uganda",
+      "aliases": [
+        "Equity Bank Uganda Limited",
+        "Equity Bank",
+        "Equity"
+      ],
+      "type": "bank",
+      "group": "Equity",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/equity.svg",
+        "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-housing-finance-bank",
+      "name": "Housing Finance Bank",
+      "aliases": [
+        "Housing Finance Bank Limited",
+        "HFB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-kcb-bank-uganda",
+      "name": "KCB Bank Uganda",
+      "aliases": [
+        "KCB Bank Uganda Limited",
+        "KCB"
+      ],
+      "type": "bank",
+      "group": "KCB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/kcb.svg",
+        "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-ncba-bank-uganda",
+      "name": "NCBA Bank Uganda",
+      "aliases": [
+        "NCBA Bank Uganda Limited",
+        "NCBA"
+      ],
+      "type": "bank",
+      "group": "NCBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ncba.svg",
+        "source": "https://ncbagroup.com/wp-content/uploads/2024/08/ncba-logo-dark.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-i-and-m-bank-uganda",
+      "name": "I&M Bank Uganda",
+      "aliases": [
+        "I&M Bank (Uganda) Limited",
+        "I&M Bank",
+        "I and M Bank",
+        "Orient Bank"
+      ],
+      "type": "bank",
+      "group": "I&M",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/i-and-m.svg",
+        "source": "https://play-lh.googleusercontent.com/LfvJcNwaJXj9Cr5YOaDBmkX6Xfy4c37-NxkuA0F2S81vLC_n9UIBEGtAR-avvRnVlz78eWvsejyQd7pQWTfsLg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-stanbic-bank-uganda",
+      "name": "Stanbic Bank Uganda",
+      "aliases": [
+        "Stanbic Bank Uganda Limited",
+        "Stanbic Bank",
+        "Stanbic"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-standard-chartered-uganda",
+      "name": "Standard Chartered Uganda",
+      "aliases": [
+        "Standard Chartered Bank Uganda Limited",
+        "Standard Chartered",
+        "StanChart",
+        "SCB"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-tropical-bank",
+      "name": "Tropical Bank",
+      "aliases": [
+        "Tropical Bank Limited",
+        "TroBank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/tropical-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/OC6wtpMLA8rBgovvpmTtUKh9wbCtqi2sn2UWq7bcWTJuhcBa37WV6Iu2m0xizB-GMgx6bRb8cBym_F_E3vk8ag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-uba-uganda",
+      "name": "UBA Uganda",
+      "aliases": [
+        "United Bank for Africa Uganda Limited",
+        "United Bank for Africa",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-pearl-bank",
+      "name": "Pearl Bank",
+      "aliases": [
+        "Pearl Bank Uganda Ltd",
+        "Post Bank Uganda",
+        "PostBank Uganda",
+        "Post Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/pearl-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/P_HA_e668e95MQ03u--naWyQKr-EfX3AwjOiremf2b64OrMHmweeyXxnHdkEI-tqklU3t5gmj7B_0bFEhjqxD0g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-abc-capital-bank",
+      "name": "ABC Capital Bank",
+      "aliases": [
+        "ABC Capital Bank Limited",
+        "ABC Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-brac-uganda-bank",
+      "name": "BRAC Uganda Bank",
+      "aliases": [
+        "BRAC Uganda Bank Limited",
+        "BRAC"
+      ],
+      "type": "bank",
+      "group": "BRAC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/brac.svg",
+        "source": "https://play-lh.googleusercontent.com/btF1p04mwutRKGGslxJEB5q8rVK7MHrvYLVUv8SGPizBZ9X3X59rz_fbpYk_ojm4Pp0Zu7VToK5J_EcIIqWF=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-gtbank-uganda",
+      "name": "GTBank Uganda",
+      "aliases": [
+        "Guaranty Trust Bank (Uganda Limited)",
+        "Guaranty Trust Bank",
+        "GTBank",
+        "GT Bank"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-opportunity-bank-uganda",
+      "name": "Opportunity Bank Uganda",
+      "aliases": [
+        "Opportunity Bank Uganda Limited",
+        "Opportunity Bank"
+      ],
+      "type": "bank",
+      "group": "Opportunity International",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-pride-bank",
+      "name": "Pride Bank",
+      "aliases": [
+        "Pride Bank Limited",
+        "Pride Microfinance"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-salaam-bank-uganda",
+      "name": "Salaam Bank Uganda",
+      "aliases": [
+        "Salaam Bank Limited",
+        "Salaam Bank Uganda Limited",
+        "Salaam Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/salaam-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/aY_L8Ub4fNN5vx3Vp9VfHlVWuwE2lUodhJdCBgLMuBQM1x-vxoFjRyHZ-sWFDGobKZoFIo5xJ91ocdy00ePn8g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-yako-bank",
+      "name": "Yako Bank",
+      "aliases": [
+        "Yako Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-finance-trust-bank",
+      "name": "Finance Trust Bank",
+      "aliases": [
+        "Finance Trust",
+        "FTB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-finca-uganda",
+      "name": "FINCA Uganda",
+      "aliases": [
+        "FINCA"
+      ],
+      "type": "microfinance",
+      "group": "FINCA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-ugafode",
+      "name": "UGAFODE",
+      "aliases": [
+        "UGAFODE Microfinance",
+        "Ugafode"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-ebo-sacco",
+      "name": "EBO SACCO",
+      "aliases": [
+        "EBO Cooperative Savings and Credit Society Limited",
+        "EBO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ebo-sacco.svg",
+        "source": "https://play-lh.googleusercontent.com/bhcHRtmfuNbg-GekCrMDaSkmLjJ99XI5NzVMFsQaScsPqNy4PIigCe1JoIbI09V7WJW0-x0xIUXR-ibmsgm0sQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-kyazanga-kwegatta-micro-finance-sacco",
+      "name": "Kyazanga-Kwegatta Micro-Finance SACCO",
+      "aliases": [
+        "Kyazanga-Kwegatta Micro-Finance Co-operative Savings and Credit Society Limited",
+        "Kyazanga SACCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-madfa-sacco",
+      "name": "MADFA SACCO",
+      "aliases": [
+        "MADFA Co-operative Savings and Credit Society Limited",
+        "MADFA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-rubabo-peoples-sacco",
+      "name": "Rubabo Peoples SACCO",
+      "aliases": [
+        "Rubabo Peoples Cooperative Savings and Credit Society Limited",
+        "Rubabo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-sao-zirobwe-sacco",
+      "name": "SAO Zirobwe SACCO",
+      "aliases": [
+        "Share an Opportunity (SAO) Zirobwe Co-operative Savings and Credit Society Limited",
+        "Share an Opportunity Zirobwe",
+        "SAO Zirobwe"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-kihondo-tukwatanize-sacco",
+      "name": "Kihondo Tukwatanize SACCO",
+      "aliases": [
+        "Kihondo Tukwatanize Co-operative Savings and Credit Society Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-unbs-staff-sacco",
+      "name": "UNBS Staff SACCO",
+      "aliases": [
+        "Uganda National Bureau of Standards Staff Co-operative Savings and Credit Society Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-kibaya-youth-development-sacco",
+      "name": "Kibaya Youth Development SACCO",
+      "aliases": [
+        "Kibaya Youth Development Co-operative Savings and Credit Society Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-eyeeterekera-sacco",
+      "name": "Eyeeterekera SACCO",
+      "aliases": [
+        "CBS PEWOSA Nsindika Njake Eyeeterekera Savings and Credit Cooperative Society Limited",
+        "CBS PEWOSA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-mateete-sacco",
+      "name": "Mateete SACCO",
+      "aliases": [
+        "Mateete Savings and Credit Cooperative Society Limited",
+        "Mateete Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
+        "https://bou.or.ug/supervision"
+      ]
+    },
+    {
+      "id": "ug-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "MTN Mobile Money Uganda Limited",
+        "MoMo",
+        "MTN"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Uganda",
+        "Airtel Mobile Commerce Uganda Limited",
+        "Airtel"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-lycamoney",
+      "name": "Lycamoney",
+      "aliases": [
+        "Lyca Money",
+        "Lycamoney Uganda Limited",
+        "Lycamobile"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/lycamoney.svg",
+        "source": "https://play-lh.googleusercontent.com/091J6012SwezB56JCpJtanJ5HYJmnNJK--IngbEcJ5qzyemoE1ndz-GEaIArMGNUyX1FqFSLGOjzKzVu8rLM_kU=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-chipper-cash",
+      "name": "Chipper Cash",
+      "aliases": [
+        "Chipper",
+        "Chipper Technologies"
+      ],
+      "type": "fintech",
+      "group": "Chipper",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-wave",
+      "name": "Wave",
+      "aliases": [
+        "Wave Transfer Limited",
+        "Wave Uganda"
+      ],
+      "type": "fintech",
+      "group": "Wave",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/wave.svg",
+        "source": "https://play-lh.googleusercontent.com/sZ7EXDrhiNpfbybByvJWBD0trB7zEbGxGVNDROIbkgYlIB3W2onKsg2jjDtKZv8l4x1L7ZhePz0V5SNPlTd_8g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-safeboda",
+      "name": "SafeBoda",
+      "aliases": [
+        "Safe Boda",
+        "Guinness Tech (U) Ltd"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/safeboda.svg",
+        "source": "https://play-lh.googleusercontent.com/E6JhHfMvi9XsYsUKCtLjcvt9HYXkAws22VIH1Nn-ToPBZZ0NbPhADslE84CUd3UQb7Ob3jGaLYBHpb4fSycqxbw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-xente",
+      "name": "Xente",
+      "aliases": [
+        "Xente Tech Limited"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/xente.svg",
+        "source": "https://play-lh.googleusercontent.com/jkJesINW63h1ip8uSjUeBS3oAsfpS-jbnq6uN127449ZuUvgGC2jxa2hhG1YFAW93en9qpZKMUpRk0G2EU7FQck=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-ezeemoney",
+      "name": "Ezeemoney",
+      "aliases": [
+        "Ezee Money",
+        "Ezeemoney Uganda Limited"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-wendi",
+      "name": "Wendi",
+      "aliases": [
+        "Post Bank Uganda Limited (Wendi)",
+        "Wendi Wallet"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/wendi.svg",
+        "source": "https://play-lh.googleusercontent.com/FH7R-_fpx2EDYHHcM8in0ejEyKsWRDjJNjZ779PyqG9Pdx-Z8oGQcCRhBnorIsZFJbKHFfLyjReB8iPCd5fKbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-flexipay",
+      "name": "FlexiPay",
+      "aliases": [
+        "Flexi Pay",
+        "Stanbic Bank Uganda Ltd (Flexipay)",
+        "Stanbic FlexiPay"
+      ],
+      "type": "fintech",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/flexipay.svg",
+        "source": "https://play-lh.googleusercontent.com/6LzXNzw6zpv_t82G5Hz-s3xmfya73j1yg7mNyWO_h5VdH2yyPN0uFxBm5xPleWm4AAJAcMv9CBSGDZp2PxqV=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-rukapay",
+      "name": "RukaPay",
+      "aliases": [
+        "Ruka Pay",
+        "Rhino Payment Services Limited"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/rukapay.svg",
+        "source": "https://play-lh.googleusercontent.com/ZMrEnGJnxU8i7r-FFTkcHje06rvNlNMKfFXgaZWUpKB3TVLszNCkCC-29S7qZGQBomvDazjWoyZZzyUs1EyD=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    },
+    {
+      "id": "ug-pesapal-uganda",
+      "name": "Pesapal Uganda",
+      "aliases": [
+        "Pesapal",
+        "Pesapal Uganda Limited"
+      ],
+      "type": "fintech",
+      "group": "Pesapal",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/pesapal.svg",
+        "source": "https://play-lh.googleusercontent.com/-ONulqmJ_Q8DiFk720D8m8lPCXP7cWygCn-CBlElNW3e162lwBx8g3o666AMQZeeGwresCbsvbr1rrMZQ8q5uw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
+        "https://bou.or.ug/financial-infrastructure-and-innovation"
+      ]
+    }
+  ]
+}

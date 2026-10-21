@@ -1,0 +1,2031 @@
+{
+  "country": "RW",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf",
+    "mobile_money": "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf",
+    "microfinance": "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+  },
+  "operators": [
+    {
+      "id": "rw-i-and-m-bank-rwanda",
+      "name": "I&M Bank Rwanda",
+      "aliases": [
+        "I&M Bank Rwanda Plc",
+        "I&M Bank",
+        "I and M Bank"
+      ],
+      "type": "bank",
+      "group": "I&M",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/i-and-m.svg",
+        "source": "https://play-lh.googleusercontent.com/LfvJcNwaJXj9Cr5YOaDBmkX6Xfy4c37-NxkuA0F2S81vLC_n9UIBEGtAR-avvRnVlz78eWvsejyQd7pQWTfsLg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-bank-of-kigali",
+      "name": "Bank of Kigali",
+      "aliases": [
+        "Bank of Kigali Plc",
+        "BK"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-kigali.svg",
+        "source": "https://play-lh.googleusercontent.com/OaN-Ytqk_G4ba6z4M1KftjUbIG1D9IZXC2zoo64ZVQbpjtvyjLsEs3jn_9vA5SLGSPVfy7ggzUy1VWSWAYR7=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-bpr-bank-rwanda",
+      "name": "BPR Bank Rwanda",
+      "aliases": [
+        "BPR Bank Rwanda Plc",
+        "BPR",
+        "Banque Populaire du Rwanda"
+      ],
+      "type": "bank",
+      "group": "KCB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bpr-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/x5daXjfRtaE-soOrYF9RKdPtp1UHCzxA6X6-t3jvgAv3ylxfSQc3idJdGC2Cgg6_7sREDNkr6VRsQkZJdBZZUw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-gtbank-rwanda",
+      "name": "GTBank Rwanda",
+      "aliases": [
+        "GT Bank Plc",
+        "Guaranty Trust Bank",
+        "GTBank",
+        "GT Bank"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-ecobank-rwanda",
+      "name": "Ecobank Rwanda",
+      "aliases": [
+        "Eco bank Rwanda Plc",
+        "Ecobank Rwanda Plc",
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-access-bank-rwanda",
+      "name": "Access Bank Rwanda",
+      "aliases": [
+        "Access Bank Rwanda Plc",
+        "Access Bank"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-equity-bank-rwanda",
+      "name": "Equity Bank Rwanda",
+      "aliases": [
+        "Equity Bank Rwanda Plc",
+        "Equity Bank",
+        "Equity"
+      ],
+      "type": "bank",
+      "group": "Equity",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/equity.svg",
+        "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-bank-of-africa-rwanda",
+      "name": "Bank of Africa Rwanda",
+      "aliases": [
+        "BOA Rwanda Plc",
+        "BOA Rwanda",
+        "BOA",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-ncba-rwanda",
+      "name": "NCBA Rwanda",
+      "aliases": [
+        "NCBA Rwanda Plc",
+        "NCBA"
+      ],
+      "type": "bank",
+      "group": "NCBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ncba.svg",
+        "source": "https://ncbagroup.com/wp-content/uploads/2024/08/ncba-logo-dark.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-brd",
+      "name": "BRD",
+      "aliases": [
+        "Rwanda Development Bank (BRD)",
+        "Rwanda Development Bank",
+        "Banque Rwandaise de Developpement"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/brd.svg",
+        "source": "https://play-lh.googleusercontent.com/oWIyr3q3ZntDTDsNONC-cRCtA-7iWhSKyQZhXvWrzuL4Q666PL6slUg5Lfear8Uu_aCYr9vPD3x82kurKoH9fA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-zigama-css",
+      "name": "Zigama CSS",
+      "aliases": [
+        "ZIGAMA CSS",
+        "Zigama"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/zigama-css.svg",
+        "source": "https://play-lh.googleusercontent.com/qZuKFJO7gnYWE8c3fpBd1U-rquInwx9-Q0BLgUAiY_JxR3Y2kopwt-fGIRpUOjq0vuoVV5WofvMCz0Joa06p=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
+      ]
+    },
+    {
+      "id": "rw-amasezerano-community-banking",
+      "name": "Amasezerano Community Banking",
+      "aliases": [
+        "AMASEZERANO COMMUNITY BANKING PLC",
+        "Amasezerano Community Banking PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-vision-fund-rwanda",
+      "name": "Vision Fund Rwanda",
+      "aliases": [
+        "VISION FUND Rwanda PLC",
+        "Vision Fund Rwanda PLC",
+        "VisionFund Rwanda",
+        "VisionFund"
+      ],
+      "type": "microfinance",
+      "group": "VisionFund",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-sager-ganza-microfinance",
+      "name": "Sager Ganza Microfinance",
+      "aliases": [
+        "SAGER GANZA MICROFINANCE PLC",
+        "Sager Ganza Microfinance PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-copedu",
+      "name": "Copedu",
+      "aliases": [
+        "COPEDU PLC",
+        "Copedu PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/copedu.svg",
+        "source": "https://play-lh.googleusercontent.com/eg3ni_rSOtyWz2sHBYPZ9Bodr_OA2YTjWtChxBnrj-iBPCdd1P12K5_GlfLOdu2dkvPMokTqPrTDI5vAx-O8oQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-duterimbere-imf",
+      "name": "Duterimbere IMF",
+      "aliases": [
+        "DUTERIMBERE IMF PLC",
+        "Duterimbere IMF PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-letshego-rwanda",
+      "name": "Letshego Rwanda",
+      "aliases": [
+        "LETSHEGO Rwanda PLC",
+        "Letshego Rwanda PLC"
+      ],
+      "type": "microfinance",
+      "group": "Letshego",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-goshen-finance",
+      "name": "Goshen Finance",
+      "aliases": [
+        "GOSHEN FINANCE PLC",
+        "Goshen Finance PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-reseau-interdiocesain-de-microfinance-rim",
+      "name": "Reseau Interdiocesain De Microfinance (RIM)",
+      "aliases": [
+        "RESEAU INTERDIOCESAIN DE MICROFINANCE (RIM) PLC",
+        "Reseau Interdiocesain De Microfinance (RIM) PLC",
+        "RIM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-financial-safety-company-fisa-co",
+      "name": "Financial Safety Company (FISA CO)",
+      "aliases": [
+        "FINANCIAL SAFETY COMPANY (FISA CO) PLC",
+        "Financial Safety Company (FISA CO) PLC",
+        "FISA CO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-asa-international-rwanda",
+      "name": "ASA International (Rwanda)",
+      "aliases": [
+        "ASA International (Rwanda) PLC"
+      ],
+      "type": "microfinance",
+      "group": "ASA International",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-clecam-ejo-heza",
+      "name": "Clecam Ejo Heza",
+      "aliases": [
+        "CLECAM EJO HEZA PLC",
+        "Clecam Ejo Heza PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-umutanguha-finance-company",
+      "name": "Umutanguha Finance Company",
+      "aliases": [
+        "UMUTANGUHA FINANCE COMPANY PLC",
+        "Umutanguha Finance Company PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-trust-capital-kira-microfinance",
+      "name": "Trust Capital Kira Microfinance",
+      "aliases": [
+        "TRUST CAPITAL KIRA MICROFINANCE PLC",
+        "Trust Capital Kira Microfinance PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-inkunga-finance",
+      "name": "Inkunga Finance",
+      "aliases": [
+        "INKUNGA FINANCE PLC",
+        "Inkunga Finance PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-umurimo-finance",
+      "name": "Umurimo Finance",
+      "aliases": [
+        "UMURIMO FINANCE PLC",
+        "Umurimo Finance PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/umurimo-finance.svg",
+        "source": "https://play-lh.googleusercontent.com/_v-YzD_gYKDq5MUJfNl2sQt4KnGhsCzXj29kCwcIJCInluc5XRMBJv1-BAOoLz6eLzS06h44iRuhVEyKDqODpTY=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-jali-sc",
+      "name": "Jali SC",
+      "aliases": [
+        "JALI SC PLC",
+        "Jali SC PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-brac-rwanda-microfinance",
+      "name": "BRAC Rwanda Microfinance",
+      "aliases": [
+        "BRAC Rwanda Microfinance PLC"
+      ],
+      "type": "microfinance",
+      "group": "BRAC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/brac.svg",
+        "source": "https://play-lh.googleusercontent.com/I64Mlc-QDJVMdq9lppT3sWvdIMPdTya7d3_cs3ylLikC_s5JK6IVebVX-n-w7MG_urLhcf1dbaKJVAM6Of3U=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-atlantique-microfinance",
+      "name": "Atlantique Microfinance",
+      "aliases": [
+        "ATLANTIQUE MICROFINANCE PLC",
+        "Atlantique Microfinance PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ab-rwanda",
+      "name": "AB Rwanda",
+      "aliases": [
+        "AB Rwanda PLC",
+        "AB Bank Rwanda",
+        "AB Bank"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-urwego-finance",
+      "name": "Urwego Finance",
+      "aliases": [
+        "URWEGO FINANCE CBC",
+        "Urwego Finance CBC",
+        "Urwego Bank",
+        "Urwego"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-lolc-unguka-finance",
+      "name": "LOLC Unguka Finance",
+      "aliases": [
+        "LOLC UNGUKA FINANCE PLC",
+        "LOLC Unguka Finance PLC",
+        "Unguka Bank",
+        "Unguka"
+      ],
+      "type": "microfinance",
+      "group": "LOLC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-chic-finance",
+      "name": "Chic Finance",
+      "aliases": [
+        "CHIC FINANCE PLC",
+        "Chic Finance PLC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-umwalimu-sacco",
+      "name": "Umwalimu SACCO",
+      "aliases": [
+        "UMWALIMU SACCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-coopec-ubaka",
+      "name": "COOPEC Ubaka",
+      "aliases": [
+        "COOPEC UBAKA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-coopec-zamuka",
+      "name": "COOPEC Zamuka",
+      "aliases": [
+        "COOPEC ZAMUKA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-cycle-investment-cooperative-cic-sacco",
+      "name": "Cycle Investment Cooperative (CIC SACCO)",
+      "aliases": [
+        "CYCLE INVESTMENT COOPERATIVE (CIC SACCO)",
+        "CIC SACCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-coopec-ikirenga",
+      "name": "COOPEC Ikirenga",
+      "aliases": [
+        "COOPEC IKIRENGA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-mtg-ishema-sacco",
+      "name": "MTG Ishema SACCO",
+      "aliases": [
+        "MTG ISHEMA SACCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-pfunda-tea-farmers-and-workers-sacco-ptfw-sacco",
+      "name": "Pfunda Tea Farmers And Workers SACCO (PTFW SACCO)",
+      "aliases": [
+        "PFUNDA TEA FARMERS AND WORKERS SACCO (PTFW SACCO)",
+        "PTFW SACCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-comicoka",
+      "name": "COMICOKA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-sacco-tea-shagasha",
+      "name": "SACCO Tea Shagasha",
+      "aliases": [
+        "SACCO TEA SHAGASHA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-cooperative-of-progress-and-financing-cpf-ineza",
+      "name": "Cooperative Of Progress And Financing (CPF) Ineza",
+      "aliases": [
+        "COOPERATIVE OF PROGRESS AND FINANCING (CPF) INEZA",
+        "CPF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/cooperative-of-progress-and-financing-cpf-ineza.svg",
+        "source": "https://play-lh.googleusercontent.com/TM2aTRuAJWc3seXd82orViu-tc8agq8XN7tlJ23DhzEiPD0gVV3i0nX8Ak1ug-nGs-BwJSAyNxUyMJhF6xK_=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-coopec-impamba",
+      "name": "COOPEC Impamba",
+      "aliases": [
+        "COOPEC IMPAMBA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-coopec-twizigamire",
+      "name": "COOPEC Twizigamire",
+      "aliases": [
+        "COOPEC TWIZIGAMIRE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-gatare-tea-farmers-sacco",
+      "name": "Gatare Tea Farmers SACCO",
+      "aliases": [
+        "GATARE TEA FARMERS SACCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-coojad-bugesera",
+      "name": "COOJAD Bugesera",
+      "aliases": [
+        "COOJAD BUGESERA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-coopec-ingashya",
+      "name": "COOPEC Ingashya",
+      "aliases": [
+        "COOPEC INGASHYA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-amizero-sacco-gisakura",
+      "name": "Amizero SACCO Gisakura",
+      "aliases": [
+        "AMIZERO SACCO GISAKURA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-muganga-sacco",
+      "name": "Muganga SACCO",
+      "aliases": [
+        "MUGANGA SACCO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/muganga-sacco.svg",
+        "source": "https://play-lh.googleusercontent.com/wD5WPv5RJASc3xIrMzuF92ywdNXWsMTWASdmbuTMJnEei6HCzxONXNZuRdqeT2xbE9dft-FOsm65kcc7fZrt=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ikapagi",
+      "name": "IKAPAGI",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-icyerekezo-sacco-nyarugenge",
+      "name": "Icyerekezo SACCO Nyarugenge",
+      "aliases": [
+        "ICYEREKEZO SACCO NYARUGENGE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-isoko-sacco-gasabo",
+      "name": "Isoko SACCO Gasabo",
+      "aliases": [
+        "ISOKO SACCO GASABO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-isonga-sacco-kicukiro",
+      "name": "Isonga SACCO Kicukiro",
+      "aliases": [
+        "ISONGA SACCO KICUKIRO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-intwari-sacco-gicumbi",
+      "name": "Intwari SACCO Gicumbi",
+      "aliases": [
+        "INTWARI SACCO GICUMBI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-inganji-sacco-rubavu",
+      "name": "Inganji SACCO Rubavu",
+      "aliases": [
+        "INGANJI SACCO RUBAVU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-umucyo-sacco-rwamagana",
+      "name": "Umucyo SACCO Rwamagana",
+      "aliases": [
+        "UMUCYO SACCO RWAMAGANA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ishema-sacco-nyamagabe",
+      "name": "Ishema SACCO Nyamagabe",
+      "aliases": [
+        "ISHEMA SACCO NYAMAGABE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-muhabura-sacco-burera",
+      "name": "Muhabura SACCO Burera",
+      "aliases": [
+        "MUHABURA SACCO BURERA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ubumwe-sacco-gakenke",
+      "name": "Ubumwe SACCO Gakenke",
+      "aliases": [
+        "UBUMWE SACCO GAKENKE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-birunga-sacco-musanze",
+      "name": "Birunga SACCO Musanze",
+      "aliases": [
+        "BIRUNGA SACCO MUSANZE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-intsinzi-sacco-rulindo",
+      "name": "Intsinzi SACCO Rulindo",
+      "aliases": [
+        "INTSINZI SACCO RULINDO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ubudasa-sacco-bugesera",
+      "name": "Ubudasa SACCO Bugesera",
+      "aliases": [
+        "UBUDASA SACCO BUGESERA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-abahizi-sacco-ngoma",
+      "name": "Abahizi SACCO Ngoma",
+      "aliases": [
+        "ABAHIZI SACCO NGOMA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-irembo-sacco-nyagatare",
+      "name": "Irembo SACCO Nyagatare",
+      "aliases": [
+        "IREMBO SACCO NYAGATARE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ibakwe-sacco-gatsibo",
+      "name": "Ibakwe SACCO Gatsibo",
+      "aliases": [
+        "IBAKWE SACCO GATSIBO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-akagera-sacco-kayonza",
+      "name": "Akagera SACCO Kayonza",
+      "aliases": [
+        "AKAGERA SACCO KAYONZA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-intagazwa-sacco-kirehe",
+      "name": "Intagazwa SACCO Kirehe",
+      "aliases": [
+        "INTAGAZWA SACCO KIREHE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-jyambere-sacco-kamonyi",
+      "name": "Jyambere SACCO Kamonyi",
+      "aliases": [
+        "JYAMBERE SACCO KAMONYI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-kungahara-sacco-ruhango",
+      "name": "Kungahara SACCO Ruhango",
+      "aliases": [
+        "KUNGAHARA SACCO RUHANGO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ratwa-sacco-huye",
+      "name": "Ratwa SACCO Huye",
+      "aliases": [
+        "RATWA SACCO HUYE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-agaciro-sacco-muhanga",
+      "name": "Agaciro SACCO Muhanga",
+      "aliases": [
+        "AGACIRO SACCO MUHANGA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-igicumbi-sacco-nyanza",
+      "name": "Igicumbi SACCO Nyanza",
+      "aliases": [
+        "IGICUMBI SACCO NYANZA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-rugero-sacco-gisagara",
+      "name": "Rugero SACCO Gisagara",
+      "aliases": [
+        "RUGERO SACCO GISAGARA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-urumuri-sacco-nyaruguru",
+      "name": "Urumuri SACCO Nyaruguru",
+      "aliases": [
+        "URUMURI SACCO NYARUGURU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-karisimbi-sacco-nyabihu",
+      "name": "Karisimbi SACCO Nyabihu",
+      "aliases": [
+        "KARISIMBI SACCO NYABIHU"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-magirirane-sacco-ngororero",
+      "name": "Magirirane SACCO Ngororero",
+      "aliases": [
+        "MAGIRIRANE SACCO NGORORERO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-abadahigwa-sacco-rutsiro",
+      "name": "Abadahigwa SACCO Rutsiro",
+      "aliases": [
+        "ABADAHIGWA SACCO RUTSIRO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-ubwiza-sacco-karongi",
+      "name": "Ubwiza SACCO Karongi",
+      "aliases": [
+        "UBWIZA SACCO KARONGI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-indongozi-sacco-nyamasheke",
+      "name": "Indongozi SACCO Nyamasheke",
+      "aliases": [
+        "INDONGOZI SACCO NYAMASHEKE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-indatwa-sacco-rusizi",
+      "name": "Indatwa SACCO Rusizi",
+      "aliases": [
+        "INDATWA SACCO RUSIZI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
+      ]
+    },
+    {
+      "id": "rw-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "Mobile Money Rwanda Limited",
+        "MoMo",
+        "MTN"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Rwanda",
+        "Airtel Mobile Commerce Limited",
+        "Airtel"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-centrika",
+      "name": "Centrika",
+      "aliases": [
+        "Centrika Limited"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/centrika.svg",
+        "source": "https://centrika.rw/svg/centrika.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-mvend",
+      "name": "MVend",
+      "aliases": [
+        "MVEND Rwanda Limited",
+        "M-Vend"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mvend.svg",
+        "source": "https://play-lh.googleusercontent.com/ECXhLBC0C7jwqk1FlFS1H2SUo7vzJt4Yhgej9ItTYaUTvbi-12RsDKi7_oVnQI0qGYN2DCqVtDC3TQWERO4CAPg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-mobicash",
+      "name": "Mobicash",
+      "aliases": [
+        "Mobicash Limited",
+        "Mobi Cash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mobicash.svg",
+        "source": "https://play-lh.googleusercontent.com/9TEzpvhZNtxsRuJrLyRYa9KaHw1PtbxjoxUAIa5SUD-gmIMR0a6lhcI61l1adpoSaX1tP0yTTa8j_UR-lX1vRw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-flutterwave-rwanda",
+      "name": "Flutterwave Rwanda",
+      "aliases": [
+        "Flutterwave Rwanda Limited",
+        "Flutterwave"
+      ],
+      "type": "mobile_money",
+      "group": "Flutterwave",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/flutterwave.svg",
+        "source": "https://play-lh.googleusercontent.com/zWjoyiUrwmVpVz6_LiqY7Ly14t49ZLmRenMiCfAL3xaMPo_OyFPT7KaNvreXe3UsY99DyVnq8N5cWmCkzOkucQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-kayko",
+      "name": "Kayko",
+      "aliases": [
+        "KAYKO GROUP Ltd",
+        "Kayko Group"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/kayko.svg",
+        "source": "https://play-lh.googleusercontent.com/nkUsQrmm8coZlXCbfkHej7NsZ3aZvg0ubJei7_zk-4LpoYkLBFXybEu14zPasb_vhIElalR_8ydTD7Qh0_t8Lb0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-rtn",
+      "name": "RTN",
+      "aliases": [
+        "Rwanda Telecentre Network",
+        "RWANDA TELECENTRE NETWORK Ltd"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-tikmoney",
+      "name": "TikMoney",
+      "aliases": [
+        "TIKMONEY Ltd",
+        "Tik Money"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-future-dynamic-innovation",
+      "name": "Future Dynamic Innovation",
+      "aliases": [
+        "Future Dynamic Innovation Limited"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-chipper-cash",
+      "name": "Chipper Cash",
+      "aliases": [
+        "Chipper",
+        "Chipper Technologies Rwanda Limited"
+      ],
+      "type": "fintech",
+      "group": "Chipper",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    },
+    {
+      "id": "rw-nala",
+      "name": "NALA",
+      "aliases": [
+        "NALA Payments Rwanda Limited",
+        "Nala Money"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/nala.svg",
+        "source": "https://play-lh.googleusercontent.com/gGDXYFLHS0Fly3BKLCfdLUUhkguvUdga_ksyf3qg-CVF8RY5cAg08DJzXsO85SULx-yq2LXzqUpp-HK-z7Bo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+      ]
+    }
+  ]
+}

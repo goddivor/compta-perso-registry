@@ -1,0 +1,13 @@
+{
+  "countries": 54,
+  "currencies": 43,
+  "countriesWithOperators": 54,
+  "operators": {
+    "total": 3993,
+    "bank": 960,
+    "mobile_money": 293,
+    "microfinance": 2616,
+    "fintech": 124
+  },
+  "logos": 1228
+}

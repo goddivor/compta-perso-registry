@@ -1,0 +1,2195 @@
+{
+  "country": "TG",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "microfinance": "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+  },
+  "operators": [
+    {
+      "id": "tg-bank-of-africa-togo",
+      "name": "Bank of Africa Togo",
+      "aliases": [
+        "BOA Togo",
+        "BOA",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.boatogo.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-banque-atlantique-togo",
+      "name": "Banque Atlantique Togo",
+      "aliases": [
+        "Banque Atlantique",
+        "BAT"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-bia-togo",
+      "name": "BIA-Togo",
+      "aliases": [
+        "Banque Internationale pour l'Afrique au Togo",
+        "BIA Togo",
+        "BIA"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Togo"
+      ]
+    },
+    {
+      "id": "tg-bsic-togo",
+      "name": "BSIC Togo",
+      "aliases": [
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Togo",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce Togo",
+        "BSIC"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-coris-bank-international-togo",
+      "name": "Coris Bank International Togo",
+      "aliases": [
+        "CBI Togo",
+        "Coris Bank",
+        "CBI"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-ecobank-togo",
+      "name": "Ecobank Togo",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/tg/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-ib-bank-togo",
+      "name": "IB Bank Togo",
+      "aliases": [
+        "International Business Bank Togo",
+        "IB Bank",
+        "IBBank"
+      ],
+      "type": "bank",
+      "group": "IB Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ib-bank.com",
+      "logo": {
+        "svg": "svg/logos/bank/ib-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/q1IPcXgVe5TwC-Opxloqbw2THBPUsK28vYzPnOIC7KNxgOQ7UlFFIlVkYkaAy2LTmUdYQrPqtm-gVA9Mbt8qzg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-orabank-togo",
+      "name": "Orabank Togo",
+      "aliases": [
+        "Orabank",
+        "Ora Bank"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-siab",
+      "name": "SIAB",
+      "aliases": [
+        "Société Interafricaine de Banque",
+        "Societe Interafricaine de Banque",
+        "SIAB Togo"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-sunu-bank-togo",
+      "name": "Sunu Bank Togo",
+      "aliases": [
+        "SUNU Bank",
+        "Sunu Togo"
+      ],
+      "type": "bank",
+      "group": "SUNU",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sunubank.tg",
+      "logo": {
+        "svg": "svg/logos/bank/sunu.svg",
+        "source": "https://www.sunubank.tg/sites/default/files/Logo-officiel-SUNUBank.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-utb",
+      "name": "UTB",
+      "aliases": [
+        "Union Togolaise de Banque",
+        "UTB Togo"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-bdm-togo",
+      "name": "BDM Togo",
+      "aliases": [
+        "Banque de Développement du Mali",
+        "Banque de Developpement du Mali",
+        "BDM"
+      ],
+      "type": "bank",
+      "group": "BDM",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-nsia-banque-togo",
+      "name": "NSIA Banque Togo",
+      "aliases": [
+        "NSIA Banque",
+        "NSIA Bank Togo",
+        "NSIA Banque Bénin succursale du Togo",
+        "NSIA Banque Benin succursale du Togo",
+        "NSIA"
+      ],
+      "type": "bank",
+      "group": "NSIA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/nsia.svg",
+        "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-societe-generale-togo",
+      "name": "Société Générale Togo",
+      "aliases": [
+        "Société Générale Bénin succursale du Togo",
+        "Societe Generale Benin succursale du Togo",
+        "SG Togo",
+        "Societe Generale",
+        "Societe Generale Togo"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-mixx-by-yas",
+      "name": "Mixx by Yas",
+      "aliases": [
+        "T-Money",
+        "TMoney",
+        "Tmoney",
+        "Yas",
+        "Yass",
+        "Mixx",
+        "Togocom"
+      ],
+      "type": "mobile_money",
+      "group": "Yas",
+      "status": "active",
+      "successor": null,
+      "website": "https://yas.tg/mixx-by-yas/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mixx-by-yas.svg",
+        "source": "https://cdn-ilcckdn.nitrocdn.com/mJCoEvGkeejlEvJdEMQjiBVdPamvpGSY/assets/images/optimized/rev-1219e8c/yas.tg/wp-content/uploads/2024/10/jem_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+        "https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/nouvelle-marque-nouvelles-ambitions",
+        "https://yas.tg/mixx-by-yas/"
+      ]
+    },
+    {
+      "id": "tg-flooz",
+      "name": "Flooz",
+      "aliases": [
+        "Moov Money",
+        "Moov Flooz",
+        "Moov Africa Flooz",
+        "Moov Africa",
+        "Flooz Togo"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://moov-africa.tg/flooz/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/flooz.svg",
+        "source": "https://moov-africa.tg/wp-content/uploads/elementor/thumbs/2logo-moov-africa-put36aevvcwbxm9ucoog0ot5tre773bvjb8nnh8514.jpeg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+        "https://moov-africa.tg/flooz/"
+      ]
+    },
+    {
+      "id": "tg-gozem-money",
+      "name": "Gozem Money",
+      "aliases": [
+        "Gozem"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/gozem-money.svg",
+        "source": "https://play-lh.googleusercontent.com/yf-sTC78bp668CZLozRCTSww22X9qxx2DFv6x7mcYXjEB4qcj64G0gDnqVLkgVgX4GMm-zmgxpjhrwW_Dnl2nw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+        "https://techcabal.com/2025/10/14/togos-gozem-expands-into-mobile-money-with-new-fintech-platform/"
+      ]
+    },
+    {
+      "id": "tg-coris-money",
+      "name": "Coris Money",
+      "aliases": [
+        "Coris Money Togo"
+      ],
+      "type": "mobile_money",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/coris-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "tg-solimi",
+      "name": "Solimi",
+      "aliases": [
+        "Gnim",
+        "Solimi Togo",
+        "Solimi Gnim"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.solimi.co",
+      "logo": {
+        "svg": "svg/logos/fintech/solimi.svg",
+        "source": "https://play-lh.googleusercontent.com/J9B5Zu5jy7Zwi2P-Vd6jxJ9bqDWN2gmsfWaJGD7sqOsvgLfmkBB98ROsRkzy4mVwxEc7brAkeykmbMi1dsmPvA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.solimi.co",
+        "https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/solimi-lance-une-carte-prepayee",
+        "https://www.wearetech.africa/fr/fils/solutions/avec-gnim-solimi-optimise-et-popularise-le-paiement-numerique-au-togo"
+      ]
+    },
+    {
+      "id": "tg-intouch-togo",
+      "name": "InTouch Togo",
+      "aliases": [
+        "Intouch",
+        "TouchPay"
+      ],
+      "type": "fintech",
+      "group": "InTouch",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.intouchgroup.net",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-ollo-africa",
+      "name": "Ollo Africa",
+      "aliases": [
+        "Ollo"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-semoa",
+      "name": "Semoa",
+      "aliases": [
+        "Semoa Togo"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "tg-wages",
+      "name": "WAGES",
+      "aliases": [
+        "Women And Associations for Gain both Economic and Social",
+        "Women's Action to Gain Economic Security"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-ceca",
+      "name": "CECA",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Artisans",
+        "Cooperative d'Epargne et de Credit des Artisans"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ceca.svg",
+        "source": "https://play-lh.googleusercontent.com/JguA2_mT6_n0Y6f0Z1l7gVPx8LhZ3n-igzOmzV4jAmzOX3qQbFcUemTjqJX_bPBZg0ZTX5TJwffXRWx4msvtfg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-ad",
+      "name": "COOPEC AD",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Assemblées de Dieu",
+        "Cooperative d'Epargne et de Credit des Assemblees de Dieu"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-fucec-togo",
+      "name": "FUCEC-Togo",
+      "aliases": [
+        "Faîtière des Unités Coopératives d'Epargne et de Crédit du Togo",
+        "Faitiere des Unites Cooperatives d'Epargne et de Credit du Togo",
+        "FUCEC",
+        "Fucec Togo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-umecto",
+      "name": "UMECTO",
+      "aliases": [
+        "Union des Mutuelles d'Epargne et de Crédit du Togo",
+        "Union des Mutuelles d'Epargne et de Credit du Togo",
+        "U.M.E.C.TO"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-urclec",
+      "name": "URCLEC",
+      "aliases": [
+        "Union Rénovée des Caisses Locales d'Epargne et de Crédit",
+        "Union Renovee des Caisses Locales d'Epargne et de Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-u-cmecs",
+      "name": "U-CMECS",
+      "aliases": [
+        "Union des Caisses Mutuelles d'Epargne et de Crédit des Savanes",
+        "Union des Caisses Mutuelles d'Epargne et de Credit des Savanes",
+        "UCMECS"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-fececav",
+      "name": "FECECAV",
+      "aliases": [
+        "Faîtière des Entités des Caisses d'Epargne et de Crédit des Associations Villageoises",
+        "Faitiere des Entites des Caisses d'Epargne et de Credit des Associations Villageoises",
+        "CECAV"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-ucmecf-to",
+      "name": "UCMECF-TO",
+      "aliases": [
+        "Union des Caisses Mutuelles d'Epargne et de Crédit pour Femmes du Togo",
+        "Union des Caisses Mutuelles d'Epargne et de Credit pour Femmes du Togo",
+        "UCMECF"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-amupec",
+      "name": "AMUPEC",
+      "aliases": [
+        "Association Mutualiste pour la Promotion de l'Epargne et du Crédit",
+        "Association Mutualiste pour la Promotion de l'Epargne et du Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-muto",
+      "name": "MUTO",
+      "aliases": [
+        "Mutuelle Universitaire du Togo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cec-lome",
+      "name": "CEC-Lomé",
+      "aliases": [
+        "Centrale d'Epargne et de Crédit de Lomé",
+        "Centrale d'Epargne et de Credit de Lome",
+        "CEC Lome",
+        "CEC-Lome"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mgpcc-dekawowo",
+      "name": "MGPCC Dékawowo",
+      "aliases": [
+        "Mutuelle des Groupements Producteurs de Café-Cacao Dékawowo",
+        "Mutuelle des Groupements Producteurs de Cafe-Cacao Dekawowo",
+        "MGPCC",
+        "MGPCC Dekawowo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mused",
+      "name": "MUSED",
+      "aliases": [
+        "Mutuelle de Solidarité et d'Entraide pour le Développement",
+        "Mutuelle de Solidarite et d'Entraide pour le Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopectat",
+      "name": "COOPECTAT",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Travailleurs de l'Asecna du Togo",
+        "Cooperative d'Epargne et de Credit des Travailleurs de l'Asecna du Togo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-sante-ogou",
+      "name": "COOPEC Santé-Ogou",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit Santé-Ogou",
+        "Cooperative d'Epargne et de Credit Sante-Ogou",
+        "COOPEC Sante-Ogou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-togo-port",
+      "name": "COOPEC Togo Port",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit du Port Autonome de Lomé",
+        "Cooperative d'Epargne et de Credit du Port Autonome de Lome"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cecap",
+      "name": "CECAP",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit de l'Administration Publique du Togo",
+        "Cooperative d'Epargne et de Credit de l'Administration Publique du Togo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cecpf",
+      "name": "CECPF",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit pour la Promotion de la Femme",
+        "Cooperative d'Epargne et de Credit pour la Promotion de la Femme"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cetrastoc",
+      "name": "CETRASTOC",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Travailleurs de la Société Togolaise de Coton",
+        "Cooperative d'Epargne et de Credit des Travailleurs de la Societe Togolaise de Coton"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cpde-notre-dame-de-fatima",
+      "name": "CPDE Notre Dame de Fatima",
+      "aliases": [
+        "Caisse Populaire pour le Développement et d'Entraide Notre Dame de Fatima",
+        "Caisse Populaire pour le Developpement et d'Entraide Notre Dame de Fatima",
+        "CPDE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-le-papillon",
+      "name": "Le Papillon",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cecebef",
+      "name": "CECEBEF",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Employés de Banques et Etablissements Financiers",
+        "Cooperative d'Epargne et de Credit des Employes de Banques et Etablissements Financiers"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-afp",
+      "name": "AFP",
+      "aliases": [
+        "Ami Financier des Pauvres"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mucad",
+      "name": "MUCAD",
+      "aliases": [
+        "Mutuelle des Cadres pour le Développement",
+        "Mutuelle des Cadres pour le Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-ilema",
+      "name": "COOPEC-ILEMA",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit ILEMA",
+        "Cooperative d'Epargne et de Credit ILEMA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mutuelle-akwaba",
+      "name": "Mutuelle AKWABA",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit AKWABA",
+        "Mutuelle d'Epargne et de Credit AKWABA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-egae",
+      "name": "EGAE",
+      "aliases": [
+        "Encadrement pour la Gestion et l'Appui aux petites et moyennes Entreprises"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cocec",
+      "name": "COCEC",
+      "aliases": [
+        "Coopérative Chrétienne d'Epargne et de Crédit",
+        "Cooperative Chretienne d'Epargne et de Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cecpo",
+      "name": "CECPO",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit du Personnel de l'Office Togolais des Phosphates",
+        "Cooperative d'Epargne et de Credit du Personnel de l'Office Togolais des Phosphates"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mudeck",
+      "name": "MUDECK",
+      "aliases": [
+        "Mutuelle pour le Développement de l'Epargne et de Crédit KOMDEDZI",
+        "Mutuelle pour le Developpement de l'Epargne et de Credit KOMDEDZI"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-sebaders",
+      "name": "SEBADERS",
+      "aliases": [
+        "Caisse des Services d'Epargne à la Base pour le Développement",
+        "Caisse des Services d'Epargne a la Base pour le Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-ceceb",
+      "name": "CECEB",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit des Travailleurs de la Communauté Electrique du Bénin",
+        "Cooperative d'Epargne et de Credit des Travailleurs de la Communaute Electrique du Benin"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-faip-togo",
+      "name": "FAIP-Togo",
+      "aliases": [
+        "Fonds d'Assistance aux Initiatives Privées au Togo",
+        "Fonds d'Assistance aux Initiatives Privees au Togo",
+        "FAIP"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mufec",
+      "name": "MUFEC",
+      "aliases": [
+        "Mutuelle Femme Epargne Crédit",
+        "Mutuelle Femme Epargne Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cavec-lidaw",
+      "name": "CAVEC Lidaw",
+      "aliases": [
+        "Caisse Villageoise d'Epargne et de Crédit Lidaw",
+        "Caisse Villageoise d'Epargne et de Credit Lidaw",
+        "CAVEC"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cofec",
+      "name": "COFEC",
+      "aliases": [
+        "Coopérative des Femmes pour l'Epargne et le Crédit",
+        "Cooperative des Femmes pour l'Epargne et le Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coeceb",
+      "name": "COECEB",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit Eliel Bonheur",
+        "Cooperative d'Epargne et de Credit Eliel Bonheur"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cef-mf-lome",
+      "name": "CEF-MF Lomé",
+      "aliases": [
+        "Club Entraide Sans Frontière Microfinance Lomé",
+        "Club Entraide Sans Frontiere Microfinance Lome",
+        "CEF Microfinance Lome",
+        "CEF-MF Lome"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cef-mf-tchaoudjo",
+      "name": "CEF-MF Tchaoudjo",
+      "aliases": [
+        "Club Entraide Sans Frontière Microfinance Tchaoudjo",
+        "Club Entraide Sans Frontiere Microfinance Tchaoudjo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cef-mf-assoli",
+      "name": "CEF-MF Assoli",
+      "aliases": [
+        "Club Entraide Sans Frontière Microfinance Assoli",
+        "Club Entraide Sans Frontiere Microfinance Assoli"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-caisse-le-salut",
+      "name": "Caisse Le Salut",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-grace-plus",
+      "name": "COOPEC Grâce Plus",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit Grâce Plus",
+        "Cooperative d'Epargne et de Credit Grace Plus",
+        "COOPEC Grace Plus"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mutuelle-dignite-humaine",
+      "name": "Mutuelle Dignité Humaine",
+      "aliases": [
+        "Mutuelle Dignite Humaine"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cec-tso-nakle",
+      "name": "CEC TSO NAKLE",
+      "aliases": [
+        "Caisse d'Epargne et de Crédit TSO NAKLE",
+        "Caisse d'Epargne et de Credit TSO NAKLE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mutuelle-eliada",
+      "name": "Mutuelle ELIADA",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-la-fructueuse",
+      "name": "COOPEC La Fructueuse",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit La Fructueuse",
+        "Cooperative d'Epargne et de Credit La Fructueuse"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-promofinance",
+      "name": "PROMOFINANCE",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit PROMOFINANCE",
+        "Mutuelle d'Epargne et de Credit PROMOFINANCE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mutual-finance",
+      "name": "Mutual Finance",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mecpip",
+      "name": "MECPIP",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit pour la Promotion de l'Initiative Privée",
+        "Mutuelle d'Epargne et de Credit pour la Promotion de l'Initiative Privee"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mec-d",
+      "name": "MEC-D",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit de Doufelgou",
+        "Mutuelle d'Epargne et de Credit de Doufelgou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-focodev",
+      "name": "FOCODEV",
+      "aliases": [
+        "Fonds Communautaire pour le Développement",
+        "Fonds Communautaire pour le Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coecept",
+      "name": "COECEPT",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit de l'Eglise de Pentecôte du Togo",
+        "Cooperative d'Epargne et de Credit de l'Eglise de Pentecote du Togo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-case-microfinance",
+      "name": "CASE-Microfinance",
+      "aliases": [
+        "Cercle des Amis pour la Solidarité et l'Entraide Microfinance",
+        "Cercle des Amis pour la Solidarite et l'Entraide Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cec-canaan",
+      "name": "CEC CANAAN",
+      "aliases": [
+        "Caisse d'Epargne et de Crédit CANAAN",
+        "Caisse d'Epargne et de Credit CANAAN"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-meci",
+      "name": "MECI",
+      "aliases": [
+        "Mutuelle d'Epargne de Crédit et d'Investissement",
+        "Mutuelle d'Epargne de Credit et d'Investissement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/meci.svg",
+        "source": "https://play-lh.googleusercontent.com/kORXk7naMwLelqKDXI2jl-spYWz2KxQu-yaPzlK_GvQfjV_-ko4n2Yr7WY60D_J2GJ0JEQDdX6f6_3Io4Nvactg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coda",
+      "name": "CODA",
+      "aliases": [
+        "Coopérative pour le Développement des Affaires",
+        "Cooperative pour le Developpement des Affaires"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-adesem",
+      "name": "COOPEC ADESEM",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit de l'Action pour le Développement Socio-économique et Epanouissement des Ménages",
+        "Cooperative d'Epargne et de Credit de l'Action pour le Developpement Socio-economique et Epanouissement des Menages",
+        "Initiative Belgique Afrique Togo-microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-2m-microfinance",
+      "name": "2M Microfinance",
+      "aliases": [
+        "Coopérative Millénium Microfinance",
+        "Cooperative Millenium Microfinance",
+        "2M"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-asjd",
+      "name": "ASJD",
+      "aliases": [
+        "Mutuelle d'Appui et de Soutien aux Jeunes pour le Développement",
+        "Mutuelle d'Appui et de Soutien aux Jeunes pour le Developpement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mcfd-togo",
+      "name": "MCFD-Togo",
+      "aliases": [
+        "Mutuelle de Crédit pour le Financement du Développement au Togo",
+        "Mutuelle de Credit pour le Financement du Developpement au Togo",
+        "MCFD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopec-sifa",
+      "name": "COOPEC SIFA",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit pour le Soutien aux Initiatives des Femmes pour l'Autopromotion",
+        "Cooperative d'Epargne et de Credit pour le Soutien aux Initiatives des Femmes pour l'Autopromotion"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-pades-microfinance",
+      "name": "PADES-Microfinance",
+      "aliases": [
+        "Programme d'Appui pour le Développement Economique et Social",
+        "Programme d'Appui pour le Developpement Economique et Social",
+        "PADES"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-mecit",
+      "name": "MECIT",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit Islamique du Togo",
+        "Mutuelle d'Epargne et de Credit Islamique du Togo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-coopecfi",
+      "name": "COOPECFI",
+      "aliases": [
+        "Coopérative d'Epargne et de Crédit Fidélité",
+        "Cooperative d'Epargne et de Credit Fidelite"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-spec-oic",
+      "name": "SPEC-OIC",
+      "aliases": [
+        "Structure de Promotion d'Epargne et de Crédit de l'Opportunities Industrialization Center International Togo",
+        "Structure de Promotion d'Epargne et de Credit de l'Opportunities Industrialization Center International Togo"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-echoppe-togo",
+      "name": "ECHOPPE-Togo",
+      "aliases": [
+        "Echange pour l'Organisation et la Promotion des Petits Entrepreneurs au Togo",
+        "ECHOPPE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-assilassime-solidarite",
+      "name": "Assilassimé Solidarité",
+      "aliases": [
+        "Association Assilassimé Solidarité",
+        "Association Assilassime Solidarite",
+        "Assilassime",
+        "Assilassime Solidarite"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-finam-togo",
+      "name": "FINAM-Togo",
+      "aliases": [
+        "Financière Africaine de Micro-Projets au Togo",
+        "Financiere Africaine de Micro-Projets au Togo",
+        "FINAM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-sogemef",
+      "name": "SOGEMEF",
+      "aliases": [
+        "Société Générale de Micro et Méso Finance",
+        "Societe Generale de Micro et Meso Finance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-comec",
+      "name": "COMEC",
+      "aliases": [
+        "Coopérative Militaire d'Epargne et de Crédit",
+        "Cooperative Militaire d'Epargne et de Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    },
+    {
+      "id": "tg-cofina-togo",
+      "name": "COFINA Togo",
+      "aliases": [
+        "Compagnie Financière Africaine Togo",
+        "Compagnie Financiere Africaine Togo",
+        "COFINA"
+      ],
+      "type": "microfinance",
+      "group": "COFINA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
+        "https://finances.gouv.tg/liste-actualisee-a-la-date-du-09-janvier-2025-des-systemes-financiers-decentralises-sfd-communement-appeles-structures-de-microfinances/"
+      ]
+    }
+  ]
+}

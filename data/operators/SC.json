@@ -1,0 +1,338 @@
+{
+  "country": "SC",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "complete"
+  },
+  "listSources": {
+    "bank": "https://www.cbs.sc/Financial/CommercialBanks.html",
+    "mobile_money": "https://www.cbs.sc/Financial/PSP.html",
+    "microfinance": "https://www.cbs.sc/Financial/CreditUnions.html",
+    "fintech": "https://www.cbs.sc/Financial/PSP.html"
+  },
+  "operators": [
+    {
+      "id": "sc-absa",
+      "name": "Absa Bank Seychelles",
+      "aliases": [
+        "Absa",
+        "Barclays Seychelles",
+        "Absa Bank (Seychelles)"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.absa.sc",
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
+        "https://www.cbs.sc/Financial/CommercialBanks.html"
+      ]
+    },
+    {
+      "id": "sc-mcb",
+      "name": "MCB Seychelles",
+      "aliases": [
+        "MCB",
+        "Mauritius Commercial Bank (Seychelles)",
+        "Mauritius Commercial Bank"
+      ],
+      "type": "bank",
+      "group": "MCB",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.mcbseychelles.com",
+      "logo": {
+        "svg": "svg/logos/bank/mcb.svg",
+        "source": "https://mcb.mg/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
+        "https://www.cbs.sc/Financial/CommercialBanks.html"
+      ]
+    },
+    {
+      "id": "sc-bank-of-baroda",
+      "name": "Bank of Baroda",
+      "aliases": [
+        "BOB",
+        "Baroda"
+      ],
+      "type": "bank",
+      "group": "Bank of Baroda",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-baroda.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
+        "https://www.cbs.sc/Financial/CommercialBanks.html"
+      ]
+    },
+    {
+      "id": "sc-nouvobanq",
+      "name": "Nouvobanq",
+      "aliases": [
+        "SIMBC",
+        "Seychelles International Mercantile Banking Corporation",
+        "Nouvo Banq"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.nouvobanq.sc",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
+        "https://www.cbs.sc/Financial/CommercialBanks.html"
+      ]
+    },
+    {
+      "id": "sc-scb",
+      "name": "Seychelles Commercial Bank",
+      "aliases": [
+        "SCB",
+        "Seychelles Savings Bank",
+        "SSB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.scb.sc",
+      "logo": {
+        "svg": "svg/logos/bank/seychelles-commercial-bank.svg",
+        "source": "https://www.scb.sc/images/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
+        "https://www.cbs.sc/Financial/CommercialBanks.html"
+      ]
+    },
+    {
+      "id": "sc-al-salam-bank",
+      "name": "Al Salam Bank Seychelles",
+      "aliases": [
+        "Al Salam",
+        "Al Salam Bank",
+        "BMI Offshore Bank"
+      ],
+      "type": "bank",
+      "group": "Al Salam Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.alsalamseychelles.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
+        "https://www.cbs.sc/Financial/CommercialBanks.html"
+      ]
+    },
+    {
+      "id": "sc-bank-of-ceylon",
+      "name": "Bank of Ceylon",
+      "aliases": [
+        "BOC",
+        "BoC Seychelles"
+      ],
+      "type": "bank",
+      "group": "Bank of Ceylon",
+      "status": "active",
+      "successor": null,
+      "website": "http://web.boc.lk",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
+        "https://www.cbs.sc/Financial/CommercialBanks.html"
+      ]
+    },
+    {
+      "id": "sc-dbs",
+      "name": "Development Bank of Seychelles",
+      "aliases": [
+        "DBS",
+        "Development Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.dbs.sc/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=NBCI"
+      ]
+    },
+    {
+      "id": "sc-hfc",
+      "name": "Housing Finance Company",
+      "aliases": [
+        "HFC",
+        "Housing Finance Company Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.hfcl.sc/",
+      "logo": {
+        "svg": "svg/logos/bank/housing-finance.svg",
+        "source": "https://play-lh.googleusercontent.com/pHLrQFiwO7QSPYH0yg1olRBr0MnjZq5dKmuhWhbuHVDvZmkCIMbHKwuesLLFRCoEjO15j34yEAJxkY8UefOV6io=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=NBCI"
+      ]
+    },
+    {
+      "id": "sc-scu",
+      "name": "Seychelles Credit Union",
+      "aliases": [
+        "SCU",
+        "Credit Union"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.scu.sc",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=NBDTI"
+      ]
+    },
+    {
+      "id": "sc-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel",
+        "Airtel Mobile Commerce (Seychelles)",
+        "Airtel Seychelles"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP",
+        "https://www.cbs.sc/Downloads/publications/Financial%20Surveillance%20Report%202021.pdf"
+      ]
+    },
+    {
+      "id": "sc-nebula-fintech",
+      "name": "Nebula Fintech",
+      "aliases": [
+        "Nebula"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP"
+      ]
+    },
+    {
+      "id": "sc-merlin-global",
+      "name": "Merlin Global",
+      "aliases": [
+        "Merlin"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP"
+      ]
+    },
+    {
+      "id": "sc-fusepay",
+      "name": "Fusepay",
+      "aliases": [
+        "FusePay",
+        "Fuse Pay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.fusepay.app/",
+      "logo": {
+        "svg": "svg/logos/fintech/fusepay.svg",
+        "source": "https://cdn.prod.website-files.com/67e4f32d1f3c3944b17241b4/67fcf555a040fcb4564f2202_Fusepay_Logo_Seychelles_Fintech.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP"
+      ]
+    }
+  ]
+}

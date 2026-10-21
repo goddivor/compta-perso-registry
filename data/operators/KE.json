@@ -1,0 +1,1491 @@
+{
+  "country": "KE",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf",
+    "mobile_money": "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+    "microfinance": "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+  },
+  "operators": [
+    {
+      "id": "ke-absa-bank-kenya",
+      "name": "Absa Bank Kenya",
+      "aliases": [
+        "ABSA Bank Kenya PLC",
+        "Absa",
+        "Barclays Bank of Kenya"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.absabank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-access-bank-kenya",
+      "name": "Access Bank Kenya",
+      "aliases": [
+        "Access Bank (Kenya) PLC",
+        "Access Bank"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.kenya.accessbankplc.com",
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-abc-bank",
+      "name": "ABC Bank",
+      "aliases": [
+        "African Banking Corporation",
+        "African Banking Corporation Limited",
+        "ABC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.abcthebank.com",
+      "logo": {
+        "svg": "svg/logos/bank/abc-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/h3_uULEzcFqG_9gBFHitcpXdfvaDRZSAW6shuczu8h4pumQu_IVeBAhsKUCCAcDVyxlV7m8qqZUe4zkiUSNqng=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-bank-of-africa-kenya",
+      "name": "Bank of Africa Kenya",
+      "aliases": [
+        "BOA Kenya",
+        "BOA",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.boakenya.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-bank-of-baroda-kenya",
+      "name": "Bank of Baroda Kenya",
+      "aliases": [
+        "Bank of Baroda (Kenya) Limited",
+        "Bank of Baroda"
+      ],
+      "type": "bank",
+      "group": "Bank of Baroda",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankofbarodakenya.com",
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-baroda.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-bank-of-india-kenya",
+      "name": "Bank of India Kenya",
+      "aliases": [
+        "Bank of India",
+        "BOI"
+      ],
+      "type": "bank",
+      "group": "Bank of India",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bankofindia.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-citibank-kenya",
+      "name": "Citibank Kenya",
+      "aliases": [
+        "Citibank N.A Kenya",
+        "Citi",
+        "Citibank"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-cib-kenya",
+      "name": "CIB Kenya",
+      "aliases": [
+        "Commercial International Bank (CIB) Kenya Limited",
+        "Commercial International Bank",
+        "CIB",
+        "Mayfair CIB Bank"
+      ],
+      "type": "bank",
+      "group": "CIB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cibke.com",
+      "logo": {
+        "svg": "svg/logos/bank/cib.svg",
+        "source": "https://cibke.com/wp-content/uploads/2024/01/logo-white-qa.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-consolidated-bank-of-kenya",
+      "name": "Consolidated Bank of Kenya",
+      "aliases": [
+        "Consolidated Bank",
+        "Consolidated Bank of Kenya Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.consolidated-bank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-co-operative-bank-of-kenya",
+      "name": "Co-operative Bank of Kenya",
+      "aliases": [
+        "Co-op Bank",
+        "Coop Bank",
+        "Cooperative Bank of Kenya",
+        "Co-operative Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.co-opbank.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-credit-bank",
+      "name": "Credit Bank",
+      "aliases": [
+        "Credit Bank PLC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.creditbank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/credit-bank.svg",
+        "source": "https://creditbank.co.ke/storage/2023/04/New-Credit-Bank-Logo-1.png",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-development-bank-of-kenya",
+      "name": "Development Bank of Kenya",
+      "aliases": [
+        "DBK",
+        "Development Bank of Kenya Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.devbank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-dtb-kenya",
+      "name": "DTB Kenya",
+      "aliases": [
+        "Diamond Trust Bank Kenya Limited",
+        "Diamond Trust Bank",
+        "DTB"
+      ],
+      "type": "bank",
+      "group": "DTB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.dtbafrica.com",
+      "logo": {
+        "svg": "svg/logos/bank/dtb.svg",
+        "source": "https://dtbafrica.com/storage/uploads/b022ae98-1973-4e4e-93e0-9ebf891f3d86/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-dib-bank-kenya",
+      "name": "DIB Bank Kenya",
+      "aliases": [
+        "DIB Bank Kenya Limited",
+        "Dubai Islamic Bank Kenya",
+        "DIB"
+      ],
+      "type": "bank",
+      "group": "Dubai Islamic Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.dibkenya.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/dib-bank.svg",
+        "source": "https://www.dibkenya.co.ke/wp-content/themes/dib/images/DIB%20White.webp",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-ecobank-kenya",
+      "name": "Ecobank Kenya",
+      "aliases": [
+        "Ecobank Kenya Limited",
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ecobank.com",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-equity-bank-kenya",
+      "name": "Equity Bank Kenya",
+      "aliases": [
+        "Equity Bank Kenya Limited",
+        "Equity Bank",
+        "Equity"
+      ],
+      "type": "bank",
+      "group": "Equity",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.equitybankgroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/equity.svg",
+        "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-family-bank",
+      "name": "Family Bank",
+      "aliases": [
+        "Family Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.familybank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/family-bank.svg",
+        "source": "https://familybank.co.ke/family-bank/wp-content/themes/family-bank/assets/images/family-bank-40-logo.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-gtbank-kenya",
+      "name": "GTBank Kenya",
+      "aliases": [
+        "Guaranty Trust Bank (K) Ltd",
+        "Guaranty Trust Bank",
+        "GTBank",
+        "GT Bank"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gtbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-guardian-bank",
+      "name": "Guardian Bank",
+      "aliases": [
+        "Guardian Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.guardian-bank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-gulf-african-bank",
+      "name": "Gulf African Bank",
+      "aliases": [
+        "Gulf African Bank Limited",
+        "GAB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.gulfafricanbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/gulf-african-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/vKdQ6m4moy_vNhcIONrBQW2W0_eoB2f3zAqe-XErauto-SJbBXjYDRmS2tZ18eDApqriMKMnPKwTF29AE68-fl0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-habib-bank-ag-zurich-kenya",
+      "name": "Habib Bank AG Zurich Kenya",
+      "aliases": [
+        "Habib Bank A.G Zurich",
+        "Habib Bank"
+      ],
+      "type": "bank",
+      "group": "Habib Bank AG Zurich",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.habibbank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-i-and-m-bank-kenya",
+      "name": "I&M Bank Kenya",
+      "aliases": [
+        "I&M Bank Limited",
+        "I&M Bank",
+        "I and M Bank",
+        "IM Bank"
+      ],
+      "type": "bank",
+      "group": "I&M",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.imbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/i-and-m.svg",
+        "source": "https://play-lh.googleusercontent.com/LfvJcNwaJXj9Cr5YOaDBmkX6Xfy4c37-NxkuA0F2S81vLC_n9UIBEGtAR-avvRnVlz78eWvsejyQd7pQWTfsLg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-kcb-bank-kenya",
+      "name": "KCB Bank Kenya",
+      "aliases": [
+        "KCB Bank Kenya Limited",
+        "KCB",
+        "Kenya Commercial Bank"
+      ],
+      "type": "bank",
+      "group": "KCB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.kcbbankgroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/kcb.svg",
+        "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-kingdom-bank",
+      "name": "Kingdom Bank",
+      "aliases": [
+        "Kingdom Bank Limited",
+        "Jamii Bora Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.kingdombank.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-middle-east-bank-kenya",
+      "name": "Middle East Bank Kenya",
+      "aliases": [
+        "Middle East Bank (K) Limited",
+        "MEBank",
+        "Mebank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.mebkenya.com",
+      "logo": {
+        "svg": "svg/logos/bank/middle-east-bank.svg",
+        "source": "https://mebkenya.com/sites/all/themes/mebkenya/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-m-oriental-bank",
+      "name": "M-Oriental Bank",
+      "aliases": [
+        "M-Oriental Bank Limited",
+        "M Oriental Bank",
+        "Oriental Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.moriental.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-national-bank-of-kenya",
+      "name": "National Bank of Kenya",
+      "aliases": [
+        "National Bank of Kenya Limited",
+        "NBK",
+        "National Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.nationalbank.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-ncba-bank-kenya",
+      "name": "NCBA Bank Kenya",
+      "aliases": [
+        "NCBA Bank Kenya PLC",
+        "NCBA",
+        "NIC Bank",
+        "CBA"
+      ],
+      "type": "bank",
+      "group": "NCBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ncbagroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/ncba.svg",
+        "source": "https://ncbagroup.com/wp-content/uploads/2024/08/ncba-logo-dark.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-paramount-bank",
+      "name": "Paramount Bank",
+      "aliases": [
+        "Paramount Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.paramountbank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/paramount-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/kV40_JuAVJJMvyxRERhkAgrJnoK2fEqSX1wvOi7WiWau0GkLWT_o6lZb0V0UrlAqd5xk-_ftUEkISDpqtZ3-0Vo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-premier-bank-kenya",
+      "name": "Premier Bank Kenya",
+      "aliases": [
+        "Premier Bank Kenya Limited",
+        "Premier Bank"
+      ],
+      "type": "bank",
+      "group": "Premier Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.premierbank.ke",
+      "logo": {
+        "svg": "svg/logos/bank/premier-bank.svg",
+        "source": "https://www.premierbank.so/wp-content/uploads/2020/07/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-prime-bank",
+      "name": "Prime Bank",
+      "aliases": [
+        "Prime Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.primebank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/prime-bank.svg",
+        "source": "https://www.primebank.co.ke/wp-content/themes/prime-bank/images/Prime-Bank-logo-main.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-sbm-bank-kenya",
+      "name": "SBM Bank Kenya",
+      "aliases": [
+        "SBM Bank Kenya Limited",
+        "SBM Bank",
+        "SBM"
+      ],
+      "type": "bank",
+      "group": "SBM",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sbmbank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/sbm.svg",
+        "source": "https://play-lh.googleusercontent.com/FtnuQpIHLTzzyx6sDYY5e_cjQ8JtYyLkA21aJVLAoQYlmeKuTVC4jF-Rf68YtGl4I768BLVyZ8PLW457mdxR=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-sidian-bank",
+      "name": "Sidian Bank",
+      "aliases": [
+        "Sidian Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sidianbank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/sidian-bank.svg",
+        "source": "https://sidianbank.co.ke/wp-content/uploads/2023/02/Sidian-bank-Logo-1.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-spire-bank",
+      "name": "Spire Bank",
+      "aliases": [
+        "Spire Bank Ltd"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.spirebank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/spire-bank.svg",
+        "source": "http://www.spirebank.co.ke/wp-content/uploads/2016/06/spire-Logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-stanbic-bank-kenya",
+      "name": "Stanbic Bank Kenya",
+      "aliases": [
+        "Stanbic Bank Kenya Limited",
+        "Stanbic Bank",
+        "Stanbic"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.stanbicbank.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-standard-chartered-kenya",
+      "name": "Standard Chartered Kenya",
+      "aliases": [
+        "Standard Chartered Bank Kenya Limited",
+        "Standard Chartered",
+        "StanChart",
+        "SCB"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardchartered.com",
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-uba-kenya",
+      "name": "UBA Kenya",
+      "aliases": [
+        "UBA Kenya Bank Limited",
+        "United Bank for Africa",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-victoria-commercial-bank",
+      "name": "Victoria Commercial Bank",
+      "aliases": [
+        "Victoria Commercial Bank PLC",
+        "Victoria Bank",
+        "VicBank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.victoriabank.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-hfc",
+      "name": "HFC",
+      "aliases": [
+        "HFCB Limited",
+        "HF Group",
+        "Housing Finance",
+        "HFC Kenya"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.hfcb.co.ke",
+      "logo": {
+        "svg": "svg/logos/bank/hfc.svg",
+        "source": "https://www.hfcb.co.ke/images/logos/no-bg-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
+      ]
+    },
+    {
+      "id": "ke-caritas-microfinance-bank",
+      "name": "Caritas Microfinance Bank",
+      "aliases": [
+        "Caritas Microfinance Bank Limited",
+        "Caritas MFB",
+        "Caritas"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.caritas-mfb.co.ke",
+      "logo": {
+        "svg": "svg/logos/microfinance/caritas-microfinance-bank.svg",
+        "source": "https://caritas-mfb.co.ke/wp-content/uploads/2024/07/caritas_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-branch-microfinance-bank",
+      "name": "Branch Microfinance Bank",
+      "aliases": [
+        "Branch Microfinance Bank Limited",
+        "Branch",
+        "Branch MFB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://branch.co.ke/",
+      "logo": {
+        "svg": "svg/logos/microfinance/branch-microfinance-bank.svg",
+        "source": "https://d2c5ectx2y1vm9.cloudfront.net/assets/branch_logo_navy-7e548f86d075abfb2faf4d2097d5349d1da404030f5825a01f6e24d36cc60c46.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-choice-microfinance-bank",
+      "name": "Choice Microfinance Bank",
+      "aliases": [
+        "Choice Microfinance Bank Limited",
+        "Choice MFB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.choicemfb.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/choice-microfinance-bank.svg",
+        "source": "https://choice-bank.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.0wvr9_hxggsa5.png&w=640&q=75",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-umba-microfinance-bank",
+      "name": "Umba Microfinance Bank",
+      "aliases": [
+        "Umba Microfinance Bank Limited",
+        "Umba"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.umba.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/umba-microfinance-bank.svg",
+        "source": "https://www.umba.com/images/Umba-mfb-white.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-faulu-microfinance-bank",
+      "name": "Faulu Microfinance Bank",
+      "aliases": [
+        "Faulu Microfinance Bank Limited",
+        "Faulu",
+        "Faulu Kenya"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.faulukenya.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-kenya-women-microfinance-bank",
+      "name": "Kenya Women Microfinance Bank",
+      "aliases": [
+        "Kenya Women Microfinance Bank PLC",
+        "KWFT",
+        "KWFT Bank"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.kwftbank.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/kenya-women-microfinance-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/N2XrDCT4iYxei9MbUIE-9klbknek3uDMPzjQ9FIiTFq2c1_KNArkHvkOu053beJA6WYR0FxoCfA-4XWOerEJvMk=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-rafiki-microfinance-bank",
+      "name": "Rafiki Microfinance Bank",
+      "aliases": [
+        "Rafiki Microfinance Bank Limited",
+        "Rafiki"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.rafiki.co.ke",
+      "logo": {
+        "svg": "svg/logos/microfinance/rafiki-microfinance-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/fVioVfMOaedNACdp4Ba7mff0WzyE9UZRKaN3kpM-fxF8V1kQIiwcYS0qmqgFp0MkUatrLCqHpL6K7WOwEzGX=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-lolc-kenya-microfinance-bank",
+      "name": "LOLC Kenya Microfinance Bank",
+      "aliases": [
+        "Lolc Kenya Microfinance Bank PLC",
+        "LOLC Kenya",
+        "LOLC"
+      ],
+      "type": "microfinance",
+      "group": "LOLC",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.lolckenya.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-smep-microfinance-bank",
+      "name": "SMEP Microfinance Bank",
+      "aliases": [
+        "SMEP Microfinance Bank Limited",
+        "SMEP"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.smep.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-sumac-microfinance-bank",
+      "name": "Sumac Microfinance Bank",
+      "aliases": [
+        "Sumac Microfinance Bank Limited",
+        "Sumac"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sumacmicrofinancebank.co.ke",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-u-and-i-microfinance-bank",
+      "name": "U&I Microfinance Bank",
+      "aliases": [
+        "U & I Microfinance Bank Limited",
+        "U and I Microfinance Bank",
+        "UNI Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.uni-microfinance.co.ke",
+      "logo": {
+        "svg": "svg/logos/microfinance/u-and-i-microfinance-bank.svg",
+        "source": "https://uni-microfinance.co.ke/wp-content/uploads/2026/06/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-salaam-microfinance-bank",
+      "name": "Salaam Microfinance Bank",
+      "aliases": [
+        "Salaam Microfinance Bank Limited",
+        "Salaam MFB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.salaammfbank.co.ke",
+      "logo": {
+        "svg": "svg/logos/microfinance/salaam-microfinance-bank.svg",
+        "source": "https://www.salaammfbank.co.ke/wp-content/uploads/2023/10/SMB-Logo-scaled.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-on-it-microfinance-bank",
+      "name": "On It Microfinance Bank",
+      "aliases": [
+        "On It Microfinance Bank Limited",
+        "OnIt Bank",
+        "Onit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.onitbank.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-muungano-microfinance-bank",
+      "name": "Muungano Microfinance Bank",
+      "aliases": [
+        "Muungano Microfinance Bank PLC",
+        "Muungano"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/muungano-microfinance-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/P5pW1a08b07PsmMwVWeKCgD_2iV6Ryl4QIVgkDLKAS59UmSriBfAPrW-guzEzAkEQeFqJx_g2n2XcPadkH5yNA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-m-pesa",
+      "name": "M-Pesa",
+      "aliases": [
+        "MPesa",
+        "M Pesa",
+        "Safaricom",
+        "Safaricom M-Pesa",
+        "Safaricom PLC"
+      ],
+      "type": "mobile_money",
+      "group": "Safaricom",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.safaricom.co.ke/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/m-pesa.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Kenya",
+        "Airtel Money Kenya Limited",
+        "Airtel"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.airtelkenya.com/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-t-kash",
+      "name": "T-Kash",
+      "aliases": [
+        "Tkash",
+        "T Kash",
+        "Telkom Kenya",
+        "Telkom"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://telkom.co.ke/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/t-kash.svg",
+        "source": "https://play-lh.googleusercontent.com/U7fweDr-LJm4TnQbCRfVCPbeNOIueny2yqUAvz8LKO36YoxoB7vgwbCih_Ip0vhOAa_EGqcEXz5JiRhB5KR_Fg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+        "https://telkom.co.ke/"
+      ]
+    },
+    {
+      "id": "ke-sasapay",
+      "name": "SasaPay",
+      "aliases": [
+        "Sasa Pay",
+        "Viewtech Limited",
+        "Viewtech"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://sasapay.co.ke/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/sasapay.svg",
+        "source": "https://play-lh.googleusercontent.com/jlrMq4vZ5vU9YhUcqLp3qjIf2QQprUP7f0gOyG72kHmRMOjfr_8Y9FXwJoIh_i9CIimOE3ZwHkg-k_eSY5ia_Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-equitel",
+      "name": "Equitel",
+      "aliases": [
+        "Finserve Africa",
+        "Finserve Africa Limited",
+        "Finserve"
+      ],
+      "type": "mobile_money",
+      "group": "Equity",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.finserve.africa/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/equitel.svg",
+        "source": "https://finserve.africa/assets/finserve-logo-5xR7EcmM.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+        "https://paybillke.com/cbk-licensed-psps/equitel"
+      ]
+    },
+    {
+      "id": "ke-jambopay",
+      "name": "JamboPay",
+      "aliases": [
+        "Jambo Pay",
+        "Web Tribe Limited",
+        "Web Tribe"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://jambopay.com/v2",
+      "logo": {
+        "svg": "svg/logos/mobile-money/jambopay.svg",
+        "source": "https://play-lh.googleusercontent.com/1hOJAtiqJE5EcaPKsxzRhJcZHSQCLUhBwwkYgaK-foeOu1QbpMUDxxvsjPdlmmDyF21W9uB6NulmQpnBoHGj4w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-afrimoney",
+      "name": "Afrimoney",
+      "aliases": [
+        "Afri Money",
+        "Afrinet",
+        "Afrinet Global & Company Limited"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://afrinet.africa",
+      "logo": {
+        "svg": "svg/logos/mobile-money/afrimoney.svg",
+        "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+        "https://afrinet.africa"
+      ]
+    },
+    {
+      "id": "ke-cashia",
+      "name": "Cashia",
+      "aliases": [
+        "Kashia",
+        "Kashia Services Limited"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.cashia.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/cashia.svg",
+        "source": "https://play-lh.googleusercontent.com/EpuGUpK61HGj5R0PJAOqblxc8tVoWuZkaasC_lO83nN8j7UYaqwoOKfMucEzIqz3jDLDUESnvpHUrsNXmC4oeg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-whizmo",
+      "name": "Whizmo",
+      "aliases": [
+        "Whizmo Limited",
+        "Whizmo Kenya"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://ke.whizmo.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/whizmo.svg",
+        "source": "https://ke.whizmo.com/assets/img/Whizmo%20Logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-pesapal",
+      "name": "Pesapal",
+      "aliases": [
+        "Pesapal Limited",
+        "PesaPal"
+      ],
+      "type": "fintech",
+      "group": "Pesapal",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.pesapal.com",
+      "logo": {
+        "svg": "svg/logos/fintech/pesapal.svg",
+        "source": "https://play-lh.googleusercontent.com/-ONulqmJ_Q8DiFk720D8m8lPCXP7cWygCn-CBlElNW3e162lwBx8g3o666AMQZeeGwresCbsvbr1rrMZQ8q5uw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-loop",
+      "name": "Loop",
+      "aliases": [
+        "Loop Payco Limited",
+        "Loop Kenya",
+        "Loop by NCBA"
+      ],
+      "type": "fintech",
+      "group": "NCBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.loop.co.ke/",
+      "logo": {
+        "svg": "svg/logos/fintech/loop.svg",
+        "source": "https://play-lh.googleusercontent.com/GHJOZQQW7Lo_dnTrO72PT6N8wn_tEoCiohUhRMUzsXXuSAK7GIfTJyQcH8VpY5trrGQ7kDzRCGf9h_aQKXZEOw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "ke-ipay",
+      "name": "iPay",
+      "aliases": [
+        "iPay Africa",
+        "Fivespot Kenya Limited",
+        "Fivespot"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ipayafrica.com/",
+      "logo": {
+        "svg": "svg/logos/fintech/ipay.svg",
+        "source": "https://www.ipayafrica.com/sites/default/files/logo-45-percent_01.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+      ]
+    }
+  ]
+}

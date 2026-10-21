@@ -1,0 +1,158 @@
+{
+  "country": "CF",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "none",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
+    "mobile_money": "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+  },
+  "operators": [
+    {
+      "id": "cf-ecobank",
+      "name": "Ecobank Centrafrique",
+      "aliases": [
+        "Ecobank",
+        "Ecobank RCA"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
+        "https://apec-ca.org/"
+      ]
+    },
+    {
+      "id": "cf-bgfibank",
+      "name": "BGFIBank Centrafrique",
+      "aliases": [
+        "BGFI Bank RCA",
+        "BGFIBank CA",
+        "BGFI",
+        "CBCA",
+        "Commercial Bank Centrafrique"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": "https://bgfibank-ca.com/",
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
+        "https://apec-ca.org/"
+      ]
+    },
+    {
+      "id": "cf-bpmc",
+      "name": "BPMC",
+      "aliases": [
+        "Banque Populaire Maroco-Centrafricaine",
+        "Banque Populaire"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.groupebcp.com/fr/Pages/banque-populaire-maroco-centrafricaine.aspx",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
+        "https://apec-ca.org/"
+      ]
+    },
+    {
+      "id": "cf-bsic",
+      "name": "BSIC Centrafrique",
+      "aliases": [
+        "BSIC RCA",
+        "BSIC",
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": "https://bsicbank.com/centralafrica/",
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
+        "https://apec-ca.org/"
+      ]
+    },
+    {
+      "id": "cf-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Centrafrique",
+        "Orange Money RCA",
+        "OM"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
+      ]
+    },
+    {
+      "id": "cf-telecel-money",
+      "name": "Telecel Money",
+      "aliases": [
+        "Pata Biani",
+        "Telecel Centrafrique"
+      ],
+      "type": "mobile_money",
+      "group": "Telecel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/telecel-money.svg",
+        "source": "https://telecel-rca.com/wp-content/uploads/2025/01/logo_car_05_blanc_cropped-300x245.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf",
+        "https://telecelgroup.com/?p=2184"
+      ]
+    }
+  ]
+}

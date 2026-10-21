@@ -1,0 +1,1350 @@
+{
+  "country": "TZ",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "none"
+  },
+  "listSources": {
+    "bank": "https://www.bot.go.tz/BankSupervision/Institutions",
+    "microfinance": "https://www.bot.go.tz/Other/Orodha%20ya%20Watoa%20Huduma%20Ndogo%20za%20Fedha%20wa%20Daraja%20la%20Pili.pdf"
+  },
+  "operators": [
+    {
+      "id": "tz-uba-tanzania",
+      "name": "UBA Tanzania",
+      "aliases": [
+        "United Bank for Africa Tanzania Limited",
+        "United Bank for Africa",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-ecobank-tanzania",
+      "name": "Ecobank Tanzania",
+      "aliases": [
+        "Ecobank Tanzania Limited",
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-mkombozi-commercial-bank",
+      "name": "Mkombozi Commercial Bank",
+      "aliases": [
+        "Mkombozi Commercial Bank PLC",
+        "Mkombozi Bank",
+        "MKCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-canara-bank-tanzania",
+      "name": "Canara Bank Tanzania",
+      "aliases": [
+        "Canara Bank Tanzania Limited",
+        "Canara Bank"
+      ],
+      "type": "bank",
+      "group": "Canara Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-bank-of-baroda-tanzania",
+      "name": "Bank of Baroda Tanzania",
+      "aliases": [
+        "Bank of Baroda Tanzania Limited",
+        "Bank of Baroda"
+      ],
+      "type": "bank",
+      "group": "Bank of Baroda",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-baroda.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-stanbic-bank-tanzania",
+      "name": "Stanbic Bank Tanzania",
+      "aliases": [
+        "Stanbic Bank Tanzania Ltd",
+        "Stanbic Bank",
+        "Stanbic"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/stanbic-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-bank-of-africa-tanzania",
+      "name": "Bank of Africa Tanzania",
+      "aliases": [
+        "Bank of Africa Tanzania Limited",
+        "BOA Tanzania",
+        "BOA"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-africa-and-gulf-bank",
+      "name": "Africa and Gulf Bank",
+      "aliases": [
+        "Africa and Gulf Bank (Tanzania) Limited",
+        "Habib African Bank",
+        "AGB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-kcb-bank-tanzania",
+      "name": "KCB Bank Tanzania",
+      "aliases": [
+        "KCB Bank Tanzania Limited",
+        "KCB"
+      ],
+      "type": "bank",
+      "group": "KCB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/kcb.svg",
+        "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-akiba-commercial-bank",
+      "name": "Akiba Commercial Bank",
+      "aliases": [
+        "Akiba Commercial Bank PLC",
+        "ACB",
+        "Akiba Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/akiba-commercial-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/puyYCF3QIDBsgT94RyLgcithrJ5s7k4rtPBEyreqDT8VYQZEdvIUofHSrlgkH3MPTuf5C990F8vhvaDHB3FIJw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-ncba-bank-tanzania",
+      "name": "NCBA Bank Tanzania",
+      "aliases": [
+        "NCBA Bank Tanzania Limited",
+        "NCBA",
+        "NIC Bank Tanzania"
+      ],
+      "type": "bank",
+      "group": "NCBA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ncba.svg",
+        "source": "https://ncbagroup.com/wp-content/uploads/2024/08/ncba-logo-dark.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-nmb-bank",
+      "name": "NMB Bank",
+      "aliases": [
+        "NMB Bank PLC",
+        "NMB",
+        "National Microfinance Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/nmb-bank.svg",
+        "source": "https://nmbz.co.zw/nmb/sites/default/files/logo_1.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-nbc",
+      "name": "NBC",
+      "aliases": [
+        "National Bank of Commerce Limited",
+        "National Bank of Commerce",
+        "NBC Bank"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-international-commercial-bank-tanzania",
+      "name": "International Commercial Bank Tanzania",
+      "aliases": [
+        "International Commercial Bank Tanzania Ltd",
+        "ICB",
+        "ICBank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-azania-bank",
+      "name": "Azania Bank",
+      "aliases": [
+        "Azania Bank Public Limited Company",
+        "Azania Bank PLC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/azania-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Qb1UdcK-rX9V6JDcGYgIyAfvA68K0Ukwd5S62L3gWdFHmPKeTnmLtYZ4aeToMSG_u5pkOw3gViL4uclDHuA4=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-absa-bank-tanzania",
+      "name": "Absa Bank Tanzania",
+      "aliases": [
+        "Absa Bank Tanzania Limited",
+        "Absa",
+        "Barclays Bank Tanzania"
+      ],
+      "type": "bank",
+      "group": "Absa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/absa.svg",
+        "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-i-and-m-bank-tanzania",
+      "name": "I&M Bank Tanzania",
+      "aliases": [
+        "I & M Bank Tanzania Limited",
+        "I&M Bank",
+        "I and M Bank"
+      ],
+      "type": "bank",
+      "group": "I&M",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/i-and-m.svg",
+        "source": "https://play-lh.googleusercontent.com/LfvJcNwaJXj9Cr5YOaDBmkX6Xfy4c37-NxkuA0F2S81vLC_n9UIBEGtAR-avvRnVlz78eWvsejyQd7pQWTfsLg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-access-bank-tanzania",
+      "name": "Access Bank Tanzania",
+      "aliases": [
+        "Access Bank Tanzania Ltd",
+        "Access Bank",
+        "BancABC Tanzania",
+        "BancABC"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-pbz",
+      "name": "PBZ",
+      "aliases": [
+        "Peoples Bank of Zanzibar Limited",
+        "People's Bank of Zanzibar",
+        "PBZ Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/pbz.svg",
+        "source": "https://play-lh.googleusercontent.com/_eXV3tE9L9UkUhDhNOaMLdz6IiJdzJ3086Ybi-DKZOhlScRGLM_JU2V784ra3MCgGv3OBOsC6zFaiw0n4PRyxg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-citibank-tanzania",
+      "name": "Citibank Tanzania",
+      "aliases": [
+        "Citibank Tanzania Limited",
+        "Citi",
+        "Citibank"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-crdb-bank",
+      "name": "CRDB Bank",
+      "aliases": [
+        "CRDB Bank PLC",
+        "CRDB"
+      ],
+      "type": "bank",
+      "group": "CRDB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/crdb.svg",
+        "source": "https://crdbbank.co.tz/storage/app/media/images/logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-tanzania-commercial-bank",
+      "name": "Tanzania Commercial Bank",
+      "aliases": [
+        "Tanzania Commercial Bank PLC",
+        "TCB",
+        "TPB Bank",
+        "Tanzania Postal Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-dtb-tanzania",
+      "name": "DTB Tanzania",
+      "aliases": [
+        "Diamond Trust Bank Tanzania Public Limited Company",
+        "Diamond Trust Bank",
+        "DTB"
+      ],
+      "type": "bank",
+      "group": "DTB",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/dtb.svg",
+        "source": "https://dtbafrica.com/storage/uploads/b022ae98-1973-4e4e-93e0-9ebf891f3d86/logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-standard-chartered-tanzania",
+      "name": "Standard Chartered Tanzania",
+      "aliases": [
+        "Standard Chartered Bank Tanzania Ltd",
+        "Standard Chartered",
+        "StanChart",
+        "SCB"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-exim-bank-tanzania",
+      "name": "Exim Bank Tanzania",
+      "aliases": [
+        "Exim Bank Tanzania Limited",
+        "Exim Bank",
+        "Exim"
+      ],
+      "type": "bank",
+      "group": "Exim Bank Tanzania",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-letshego-faidika-bank",
+      "name": "Letshego Faidika Bank",
+      "aliases": [
+        "Letshego Faidika Bank Tanzania Limited",
+        "Letshego Bank",
+        "Letshego",
+        "Faidika"
+      ],
+      "type": "bank",
+      "group": "Letshego",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/letshego.svg",
+        "source": "https://www.letshego.com/sites/default/files/logo_0.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-amana-bank",
+      "name": "Amana Bank",
+      "aliases": [
+        "Amana Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/amana-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/rWQKi92aTOXXkgQ-PGPMd47uJ978Q6s_v7MGkketIBFYcIHNCio8KYXSMuLYd-ANaZnBdnMG2B0l5ldxPqTfTA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-equity-bank-tanzania",
+      "name": "Equity Bank Tanzania",
+      "aliases": [
+        "Equity Bank Tanzania Limited",
+        "Equity Bank",
+        "Equity"
+      ],
+      "type": "bank",
+      "group": "Equity",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/equity.svg",
+        "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-maendeleo-bank",
+      "name": "Maendeleo Bank",
+      "aliases": [
+        "Maendeleo Bank PLC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-mwalimu-commercial-bank",
+      "name": "Mwalimu Commercial Bank",
+      "aliases": [
+        "Mwalimu Commercial Bank PLC",
+        "MCB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/mwalimu-commercial-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/kAB9xzwGGse-TuM74XW6vHvVIpoUHHwNsTz8G0Hvt0tAorg7QKgaV_TGI9ucmTh-N4lTIdItmDu9_AuHAMA_8Yw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-gtbank-tanzania",
+      "name": "GTBank Tanzania",
+      "aliases": [
+        "Guaranty Trust Bank Tanzania Limited",
+        "Guaranty Trust Bank",
+        "GTBank",
+        "GT Bank"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-china-dasheng-bank",
+      "name": "China Dasheng Bank",
+      "aliases": [
+        "China Dasheng Bank Limited",
+        "CDB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-dcb-commercial-bank",
+      "name": "DCB Commercial Bank",
+      "aliases": [
+        "DCB Commercial Bank PLC",
+        "DCB",
+        "Dar es Salaam Community Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/dcb-commercial-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/GHE6u1LbyavRfMengcIgDcZ4KEvEIkos6HslWNQ3IDsr9UcRSUsDiUYFaPqtfCelzhzD43FrIeyQZWvt1jrwdA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-bank-of-india-tanzania",
+      "name": "Bank of India Tanzania",
+      "aliases": [
+        "Bank of India Tanzania Limited",
+        "Bank of India",
+        "BOI"
+      ],
+      "type": "bank",
+      "group": "Bank of India",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-mwanga-hakika-bank",
+      "name": "Mwanga Hakika Bank",
+      "aliases": [
+        "Mwanga Hakika Bank Ltd",
+        "MHB",
+        "MHB Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-tadb",
+      "name": "TADB",
+      "aliases": [
+        "Tanzania Agricultural Development Bank Limited",
+        "Tanzania Agricultural Development Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-tib-development-bank",
+      "name": "TIB Development Bank",
+      "aliases": [
+        "TIB Development Bank Limited",
+        "TIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-uchumi-commercial-bank",
+      "name": "Uchumi Commercial Bank",
+      "aliases": [
+        "Uchumi Commercial Bank Limited",
+        "UCB",
+        "Uchumi Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-co-operative-bank-tanzania",
+      "name": "Co-operative Bank Tanzania",
+      "aliases": [
+        "Co-operative Bank Tanzania Public Limited Company",
+        "Cooperative Bank Tanzania",
+        "CBT",
+        "Coop Bank Tanzania"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-mucoba-bank",
+      "name": "MUCOBA Bank",
+      "aliases": [
+        "MUCOBA Bank PLC",
+        "Mufindi Community Bank",
+        "Mucoba"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-tandahimba-community-bank",
+      "name": "Tandahimba Community Bank",
+      "aliases": [
+        "Tandahimba Community Bank Ltd",
+        "TACOBA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-finca-microfinance-bank-tanzania",
+      "name": "FINCA Microfinance Bank Tanzania",
+      "aliases": [
+        "FINCA Microfinance Bank Tanzania Limited",
+        "FINCA Tanzania",
+        "FINCA"
+      ],
+      "type": "microfinance",
+      "group": "FINCA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-visionfund-tanzania-microfinance-bank",
+      "name": "VisionFund Tanzania Microfinance Bank",
+      "aliases": [
+        "VisionFund Tanzania Microfinance Bank Limited",
+        "VisionFund Tanzania",
+        "VisionFund"
+      ],
+      "type": "microfinance",
+      "group": "VisionFund",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-selcom-microfinance-bank",
+      "name": "Selcom Microfinance Bank",
+      "aliases": [
+        "Selcom Microfinance Bank Tanzania Limited",
+        "Selcom Bank",
+        "Access Microfinance Bank Tanzania",
+        "AccessBank Tanzania"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-lolc-tanzania-microfinance-bank",
+      "name": "LOLC Tanzania Microfinance Bank",
+      "aliases": [
+        "LOLC Tanzania Microfinance Bank Limited",
+        "LOLC Tanzania",
+        "LOLC"
+      ],
+      "type": "microfinance",
+      "group": "LOLC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-radiance-microfinance-bank",
+      "name": "Radiance Microfinance Bank",
+      "aliases": [
+        "Radiance Microfinance Bank Limited",
+        "RMFB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/BankSupervision/Institutions"
+      ]
+    },
+    {
+      "id": "tz-asa-microfinance-tanzania",
+      "name": "ASA Microfinance Tanzania",
+      "aliases": [
+        "ASA Microfinance (Tanzania) Limited",
+        "ASA Tanzania",
+        "ASA"
+      ],
+      "type": "microfinance",
+      "group": "ASA International",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/asa-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/YwfQZ6NMqKebfKekh1UBfWWs3nvBtCTwxEEFzgQOZq39EZMP2mTtTt6BiqgnU1OzzFspRDTKUYFNbY57b1n4TVk=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/Other/Orodha%20ya%20Watoa%20Huduma%20Ndogo%20za%20Fedha%20wa%20Daraja%20la%20Pili.pdf"
+      ]
+    },
+    {
+      "id": "tz-bayport-financial-services-tanzania",
+      "name": "Bayport Financial Services Tanzania",
+      "aliases": [
+        "Bayport Financial Services (T) Limited",
+        "Bayport Tanzania",
+        "Bayport"
+      ],
+      "type": "microfinance",
+      "group": "Bayport",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/Other/Orodha%20ya%20Watoa%20Huduma%20Ndogo%20za%20Fedha%20wa%20Daraja%20la%20Pili.pdf"
+      ]
+    },
+    {
+      "id": "tz-brac-tanzania-finance",
+      "name": "BRAC Tanzania Finance",
+      "aliases": [
+        "BRAC Tanzania Finance Limited",
+        "BRAC Tanzania",
+        "BRAC"
+      ],
+      "type": "microfinance",
+      "group": "BRAC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/brac.svg",
+        "source": "https://play-lh.googleusercontent.com/I64Mlc-QDJVMdq9lppT3sWvdIMPdTya7d3_cs3ylLikC_s5JK6IVebVX-n-w7MG_urLhcf1dbaKJVAM6Of3U=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/Other/Orodha%20ya%20Watoa%20Huduma%20Ndogo%20za%20Fedha%20wa%20Daraja%20la%20Pili.pdf"
+      ]
+    },
+    {
+      "id": "tz-platinum-credit-tanzania",
+      "name": "Platinum Credit Tanzania",
+      "aliases": [
+        "Platinum Credit Limited",
+        "Platinum Credit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/platinum-credit.svg",
+        "source": "https://play-lh.googleusercontent.com/7pWXZdNmvF2UtS0Bxz6r_jWapbcZuYfqB_FlY8gXrZVHUag2LMpO9pez6F-AIfMxy6e3TLD3ldQyAs5GCh8qCQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/Other/Orodha%20ya%20Watoa%20Huduma%20Ndogo%20za%20Fedha%20wa%20Daraja%20la%20Pili.pdf"
+      ]
+    },
+    {
+      "id": "tz-mogo-tanzania",
+      "name": "Mogo Tanzania",
+      "aliases": [
+        "Mogo Credit Limited",
+        "Mogo"
+      ],
+      "type": "microfinance",
+      "group": "Mogo",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/mogo.svg",
+        "source": "https://play-lh.googleusercontent.com/_kcUeneN7f7RPGSJJzA-HdHt_-7TQhXgDsxLunIrr4klgN6RrDmAeyNeMQ5viiI_Arku5BZ5uTBfRed3O5Kj=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bot.go.tz/Other/Orodha%20ya%20Watoa%20Huduma%20Ndogo%20za%20Fedha%20wa%20Daraja%20la%20Pili.pdf"
+      ]
+    },
+    {
+      "id": "tz-m-pesa",
+      "name": "M-Pesa",
+      "aliases": [
+        "MPesa",
+        "M Pesa",
+        "Vodacom M-Pesa",
+        "Vodacom",
+        "M-Pesa Tanzania"
+      ],
+      "type": "mobile_money",
+      "group": "Vodacom",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/m-pesa.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://allafrica.com/stories/202602100375.html",
+        "https://thecitizen.co.tz/tanzania/business/bank-of-tanzania-now-studies-mobile-money-transfer-charges-3305192"
+      ]
+    },
+    {
+      "id": "tz-mixx-by-yas",
+      "name": "Mixx by Yas",
+      "aliases": [
+        "Mixx",
+        "Yas",
+        "Tigo Pesa",
+        "TigoPesa",
+        "Tigo"
+      ],
+      "type": "mobile_money",
+      "group": "Yas",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.yas.co.tz/",
+      "logo": {
+        "svg": "svg/logos/mobile-money/mixx-by-yas.svg",
+        "source": "https://cdn-ilcckdn.nitrocdn.com/mJCoEvGkeejlEvJdEMQjiBVdPamvpGSY/assets/images/optimized/rev-1219e8c/yas.tg/wp-content/uploads/2024/10/jem_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://allafrica.com/stories/202602100375.html",
+        "https://www.thecitizen.co.tz/tanzania/news/national/yas-tanzania-marks-100-day-milestone-with-special-iftar-in-zanzibar--4967176",
+        "https://yas.co.tz/?p=27235"
+      ]
+    },
+    {
+      "id": "tz-airtel-money",
+      "name": "Airtel Money",
+      "aliases": [
+        "Airtel Money Tanzania",
+        "Airtel"
+      ],
+      "type": "mobile_money",
+      "group": "Airtel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/airtel-money.svg",
+        "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://allafrica.com/stories/202602100375.html",
+        "https://thecitizen.co.tz/tanzania/business/bank-of-tanzania-now-studies-mobile-money-transfer-charges-3305192"
+      ]
+    },
+    {
+      "id": "tz-halopesa",
+      "name": "HaloPesa",
+      "aliases": [
+        "Halo Pesa",
+        "Halotel"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/halopesa.svg",
+        "source": "https://play-lh.googleusercontent.com/vPcTjawZCjG0EWLLqR3__0g18juPOUFYO_tb8uxA5jtbqL41BFNI3y2LEWyLWVW4r7MQ0h9YT6csjK8-nSoOxQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://allafrica.com/stories/202602100375.html",
+        "https://thecitizen.co.tz/tanzania/business/bank-of-tanzania-now-studies-mobile-money-transfer-charges-3305192"
+      ]
+    },
+    {
+      "id": "tz-t-pesa",
+      "name": "T-Pesa",
+      "aliases": [
+        "TPesa",
+        "T Pesa",
+        "TTCL",
+        "TTCL Pesa"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/t-pesa.svg",
+        "source": "https://www.ttcl.co.tz/uploads/website-images/logo/logo-2023-01-06-07-34-17-6250.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://allafrica.com/stories/202602100375.html",
+        "https://thecitizen.co.tz/tanzania/business/bank-of-tanzania-now-studies-mobile-money-transfer-charges-3305192"
+      ]
+    },
+    {
+      "id": "tz-azampesa",
+      "name": "AzamPesa",
+      "aliases": [
+        "Azam Pesa",
+        "Azampay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/azampesa.svg",
+        "source": "https://play-lh.googleusercontent.com/d0LmxEgkCYn-fYCXA1HryZ5TAAw7kDLrvzBjK7wLp53FPV8dMHcwRy9Kw6G7D_5HyvQRA4yfCLgzxyXBEe4g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://allafrica.com/stories/202602100375.html",
+        "https://thecitizen.co.tz/tanzania/business/bank-of-tanzania-now-studies-mobile-money-transfer-charges-3305192",
+        "https://apptopia.com/google-play/app/com.azampay.azampesa/about"
+      ]
+    },
+    {
+      "id": "tz-ezy-pesa",
+      "name": "Ezy Pesa",
+      "aliases": [
+        "EzyPesa",
+        "Ezypesa",
+        "Zantel"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "merged",
+      "successor": "tz-mixx-by-yas",
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://thecitizen.co.tz/tanzania/business/bank-of-tanzania-now-studies-mobile-money-transfer-charges-3305192",
+        "https://www.thecitizen.co.tz/tanzania/news/national/yas-tanzania-marks-100-day-milestone-with-special-iftar-in-zanzibar--4967176"
+      ]
+    }
+  ]
+}

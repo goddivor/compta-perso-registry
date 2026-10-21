@@ -1,0 +1,1097 @@
+{
+  "country": "GN",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf",
+    "mobile_money": "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf",
+    "microfinance": "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+  },
+  "operators": [
+    {
+      "id": "gn-access-bank-guinee",
+      "name": "Access Bank Guinée",
+      "aliases": [
+        "Access Bank",
+        "Access Bank Guinea",
+        "Access Bank Guinee"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": "https://guinea.accessbankplc.com",
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-afriland-first-bank-guinee",
+      "name": "Afriland First Bank Guinée",
+      "aliases": [
+        "Afriland",
+        "Afriland First Bank",
+        "AFBG",
+        "Afriland First Bank Guinee"
+      ],
+      "type": "bank",
+      "group": "Afriland First Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/afriland-first-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/sm0-ZU-rjt_y9rxZjbR9g9iwM7Hts8cUhMplGvlNAl367u7IvgVgPN_DHpXXQlvooZknA55y4NIuhBWfEEzDNg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-bci-guinee",
+      "name": "BCI Guinée",
+      "aliases": [
+        "BCI",
+        "Banque pour le Commerce et l'Industrie de Guinée",
+        "Banque pour le Commerce et l'Industrie",
+        "BCI Guinee"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://bci-banque.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-banque-islamique-de-guinee",
+      "name": "Banque Islamique de Guinée",
+      "aliases": [
+        "BIG",
+        "Banque Islamique de Guinee"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-banque-nationale-de-guinee",
+      "name": "Banque Nationale de Guinée",
+      "aliases": [
+        "BNG",
+        "Banque Nationale de Guinee"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-bpmg",
+      "name": "BPMG",
+      "aliases": [
+        "Banque Populaire Maroco-Guinéenne",
+        "Banque Populaire Maroco Guineenne",
+        "Banque Populaire"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bpmg.svg",
+        "source": "https://play-lh.googleusercontent.com/s-1589_0m5pu1AX0yw91yAPuhRnZIlq8bvizbsx93mI02sS3SIMr998k-BEi5BNxpotAad-ssOI6L5QTkO19qA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-bsic-guinee",
+      "name": "BSIC Guinée",
+      "aliases": [
+        "BSIC",
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce",
+        "BSIC Guinee"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bsic-guinee.com",
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-coris-bank-international-guinee",
+      "name": "Coris Bank International Guinée",
+      "aliases": [
+        "Coris Bank",
+        "Coris",
+        "Coris Bank Guinée",
+        "Coris Bank Guinee"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-diama-bank",
+      "name": "Diama Bank",
+      "aliases": [
+        "Diama Bank SA",
+        "Diama"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.diamabank.com",
+      "logo": {
+        "svg": "svg/logos/bank/diama-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/V9P4uTECB9bxN01V-OBLDBKeuiOALr3fX9VWh3khG8RJoukoU1MrbcKx1FEwQAkIF5lhSWMF9F4D23C0EkLyaA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-ecobank-guinee",
+      "name": "Ecobank Guinée",
+      "aliases": [
+        "Ecobank",
+        "Ecobank Guinee"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-fbnbank-guinee",
+      "name": "FBNBank Guinée",
+      "aliases": [
+        "FBNBank",
+        "FirstBank",
+        "First Bank",
+        "FNBBANK",
+        "FBN Bank Guinea"
+      ],
+      "type": "bank",
+      "group": "FirstBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/fbnbank.svg",
+        "source": "https://play-lh.googleusercontent.com/X8N6kEAHBE_VC5XOHEeT6lDaJ1r9hZAnn65LFqL3qZfAskniKkf81B1eSBA_Gz_fWb27IukVkwq1gb1OLTPCdg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-nsia-banque-guinee",
+      "name": "NSIA Banque Guinée",
+      "aliases": [
+        "NSIA",
+        "NSIA Kaloum",
+        "NSIA Banque",
+        "NSIA Guinee"
+      ],
+      "type": "bank",
+      "group": "NSIA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/nsia.svg",
+        "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-orabank-guinee",
+      "name": "Orabank Guinée",
+      "aliases": [
+        "Orabank",
+        "Orabank Guinee"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-sfci-bank",
+      "name": "SFCI Bank",
+      "aliases": [
+        "SFCI",
+        "Société Financière de Commerce et d'Investissement"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sfcibank.com",
+      "logo": {
+        "svg": "svg/logos/bank/sfci-bank.svg",
+        "source": "https://www.sfcibank.com/uploads/images/1669299862.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-skye-bank-guinee",
+      "name": "Skye Bank Guinée",
+      "aliases": [
+        "Skye Bank",
+        "Skye Bank Guinee SA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-societe-generale-guinee",
+      "name": "Société Générale Guinée",
+      "aliases": [
+        "SGG",
+        "Societe Generale Guinee",
+        "Société Générale",
+        "SG Guinée"
+      ],
+      "type": "bank",
+      "group": "Société Générale",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/societe-generale.svg",
+        "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-uba-guinee",
+      "name": "UBA Guinée",
+      "aliases": [
+        "UBA",
+        "United Bank for Africa",
+        "UBA Guinee"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com/guinea",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-vista-bank-guinee",
+      "name": "Vista Bank Guinée",
+      "aliases": [
+        "Vista Bank",
+        "Vista Bank Guinee SA"
+      ],
+      "type": "bank",
+      "group": "Vista",
+      "status": "active",
+      "successor": null,
+      "website": "https://vistabankgroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/vista.svg",
+        "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-vista-gui",
+      "name": "Vista Gui",
+      "aliases": [
+        "VistaGui",
+        "BICIGUI",
+        "Banque Internationale pour le Commerce et l'Industrie de la Guinée"
+      ],
+      "type": "bank",
+      "group": "Vista",
+      "status": "active",
+      "successor": null,
+      "website": "https://vistabankgroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/vista.svg",
+        "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf",
+        "https://www.financialafrik.com/2020/10/20/vista-bank-prend-le-controle-de-la-bicigui-et-de-la-biciab/"
+      ]
+    },
+    {
+      "id": "gn-bnig",
+      "name": "BNIG",
+      "aliases": [
+        "Banque Nationale d'Investissement de Guinée",
+        "Banque Nationale d'Investissement de Guinee"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
+      ]
+    },
+    {
+      "id": "gn-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Guinée",
+        "Orange Finances Mobiles Guinée",
+        "OFMG",
+        "OM"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
+      ]
+    },
+    {
+      "id": "gn-mtn-momo",
+      "name": "MTN MoMo",
+      "aliases": [
+        "MTN Mobile Money",
+        "MoMo",
+        "MTN Mobile Money Guinée"
+      ],
+      "type": "mobile_money",
+      "group": "MTN",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/mtn-momo.svg",
+        "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
+      ]
+    },
+    {
+      "id": "gn-paycard",
+      "name": "PayCard",
+      "aliases": [
+        "Pay Card",
+        "PayCard SA"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.paycard.co",
+      "logo": {
+        "svg": "svg/logos/mobile-money/paycard.svg",
+        "source": "https://play-lh.googleusercontent.com/HuWCpe0caEcjBX9DaPIOAyu7TqB9XjMELBOiDMPHlFhcIdaVcxHoMOnMnooA96e1v0FibqxDLnYpBDT2cUQ9bP0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
+      ]
+    },
+    {
+      "id": "gn-cashmoov-money",
+      "name": "CashMoov Money",
+      "aliases": [
+        "CashMoov",
+        "Cash Moov"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://cashmoov.net",
+      "logo": {
+        "svg": "svg/logos/mobile-money/cashmoov-money.svg",
+        "source": "https://cashmoov.net/SVG.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
+      ]
+    },
+    {
+      "id": "gn-microbitmoney",
+      "name": "MicrobitMoney",
+      "aliases": [
+        "Microbit Money",
+        "Microbit"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/microbitmoney.svg",
+        "source": "https://play-lh.googleusercontent.com/1_X9ufSjBWCvHgD0LJCdTtHTfQkJHLCpsUJ8AXsYWT1ZM-arj2mB-jK2-RJI43hgyHoUmnVb6xzrUydFSdjaHPs=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
+      ]
+    },
+    {
+      "id": "gn-ymo",
+      "name": "YMO",
+      "aliases": [
+        "Ymo",
+        "3A Guinée",
+        "3A Guinee"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/ymo.svg",
+        "source": "https://play-lh.googleusercontent.com/MsdGHjc-Yz1L0zwZCiymcIRmSQ1wexlvxTUfbTsd8wiRChrDKph0cEdL8NaKNlMWSbNnHgR1hnP89DCR4Ar4mg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf",
+        "https://cio-mag.com/?p=48476"
+      ]
+    },
+    {
+      "id": "gn-kulu",
+      "name": "Kulu",
+      "aliases": [
+        "Kulu Wallet",
+        "Diwalgui",
+        "Digital Wallet Guinée",
+        "Diwalgi"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/kulu.svg",
+        "source": "https://play-lh.googleusercontent.com/bafJpCyJcZfIhaJAxzdXWg0rlqcrBn5qMbIjbCOD_AcjpWSj1Wem0ZFyoDQiX6cu0f8prCMDmlK9FTDMFibA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://guineenews.org/2025/02/14/fintech-diwalgui-et-sa-plateforme-kulu-a-lassaut-du-marche-guineen/"
+      ]
+    },
+    {
+      "id": "gn-credit-rural-de-guinee",
+      "name": "Crédit Rural de Guinée",
+      "aliases": [
+        "CRG",
+        "CRG-SA",
+        "Credit Rural de Guinee"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-cafodec",
+      "name": "CAFODEC",
+      "aliases": [
+        "Centre d'Appui et de Formation pour le Développement, l'Epargne et le Crédit et l'Education Civique"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-mecrepag",
+      "name": "MECREPAG",
+      "aliases": [
+        "Mutuelle d'Epargne et de Crédit des Pêcheurs Artisanaux de Guinée"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-yete-mali",
+      "name": "Yètè Mali",
+      "aliases": [
+        "Yete Mali",
+        "Caisses Populaires d'Epargne et de Crédit de Guinée"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-finadev-guinee",
+      "name": "FINADEV Guinée",
+      "aliases": [
+        "FINADEV",
+        "Financial Développement",
+        "Finadev Guinee"
+      ],
+      "type": "microfinance",
+      "group": "FINADEV",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-gaaes-gie-nafaya",
+      "name": "GAAES-GIE Nafaya",
+      "aliases": [
+        "Nafaya",
+        "GAAES",
+        "Groupement d'Appui à l'Autopromotion Economique et Sociale"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-caidel",
+      "name": "CAIDEL",
+      "aliases": [
+        "CAIDEL-GIE",
+        "Caisse d'Appui aux Initiatives de Développement Economique et Social"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-jatropha",
+      "name": "Jatropha",
+      "aliases": [
+        "Jatropha SA",
+        "Jatropha Finances"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-rafoc",
+      "name": "RAFOC",
+      "aliases": [
+        "Réseau d'Assistance Financière aux Organisations Communautaires"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-sabou-guinee",
+      "name": "Sabou Guinée",
+      "aliases": [
+        "Sabou",
+        "Mutuelle de Crédit et d'Epargne Sabou Guinée",
+        "Sabou Guinee"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-cofina-guinee",
+      "name": "COFINA Guinée",
+      "aliases": [
+        "COFINA",
+        "Compagnie Financière Africaine",
+        "Cofina Guinee"
+      ],
+      "type": "microfinance",
+      "group": "COFINA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-muffa-guinee",
+      "name": "MUFFA Guinée",
+      "aliases": [
+        "MUFFA",
+        "Mutuelle Financière des Femmes Africaines de Guinée"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/muffa.svg",
+        "source": "https://play-lh.googleusercontent.com/kj760O4X-b3PDiAd8lvjQaR9Q8TE5vannYgxEmdjdsdKfzV4_mL-B1tYG5JbJh21gfJf32CcQ2-yHT0Hx150=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-modele-mc2",
+      "name": "Modèle MC2",
+      "aliases": [
+        "MC2",
+        "Model MC2"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/modele-mc2.svg",
+        "source": "https://play-lh.googleusercontent.com/mzwz0zcIN5avf6jEbINDU5is9blSC_yvHtJp3oDFi8-3KLcGBiVl6ewUrfwf6_IwZjHLBuFrL59s9gln2ApWrA=s512",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-fasef-bg",
+      "name": "FASEF-BG",
+      "aliases": [
+        "FASEF",
+        "Faîtière des Associations des Services Financiers de la Basse Guinée"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-credit-nafa",
+      "name": "Crédit Nafa",
+      "aliases": [
+        "Credit Nafa"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-amifa",
+      "name": "AMIFA",
+      "aliases": [
+        "AMIFA SA",
+        "Atlantic Microfinance for Africa"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-credit-kash",
+      "name": "Crédit Kash",
+      "aliases": [
+        "CKGC",
+        "Credit Kash"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/credit-kash.svg",
+        "source": "https://www.creditkash.sn/storage/2025/04/CKSN-scaled.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-wakily",
+      "name": "Wakily",
+      "aliases": [
+        "Wakily SA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-3ae",
+      "name": "3AE",
+      "aliases": [
+        "Agence Autonome d'Assistance Intégrée aux Entreprises"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-maison-guineenne-de-l-entrepreneur",
+      "name": "Maison Guinéenne de l'Entrepreneur",
+      "aliases": [
+        "MGE",
+        "Maison Guineenne de l'Entrepreneur"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    },
+    {
+      "id": "gn-tab-finance",
+      "name": "Tab Finance",
+      "aliases": [
+        "TAB Finance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
+      ]
+    }
+  ]
+}

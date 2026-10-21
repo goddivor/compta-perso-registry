@@ -1,0 +1,2026 @@
+{
+  "country": "AO",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+    "mobile_money": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+    "microfinance": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+    "fintech": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+  },
+  "operators": [
+    {
+      "id": "ao-access-bank",
+      "name": "Access Bank Angola",
+      "aliases": [
+        "Access Bank",
+        "Access"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-african-bank-of-oman",
+      "name": "African Bank of Oman",
+      "aliases": [
+        "ABO"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/african-bank-of-oman.svg",
+        "source": "https://play-lh.googleusercontent.com/LPaB8_FbW4jdG8WSObQV9pFUsMCXYYbgPNF5Y2FhIavgosdasjXUOcxiyTYOlb2oSlonI3jdaU3PeBi4ypxfKAg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bai",
+      "name": "BAI",
+      "aliases": [
+        "Banco Angolano de Investimentos"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancobai.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/bai.svg",
+        "source": "https://www.bancobai.ao/media/2684/logo-bai.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bca",
+      "name": "BCA",
+      "aliases": [
+        "Banco Comercial Angolano"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bca.co.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/bca.svg",
+        "source": "https://www.bca.co.ao/application/images/bca_logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bcga",
+      "name": "Banco Caixa Geral Angola",
+      "aliases": [
+        "BCGA",
+        "Caixa Geral Angola"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bch",
+      "name": "Banco Comercial do Huambo",
+      "aliases": [
+        "BCH"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bci",
+      "name": "BCI",
+      "aliases": [
+        "Banco de Comércio e Indústria"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bci.ao/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bcs",
+      "name": "Banco de Crédito do Sul",
+      "aliases": [
+        "BCS",
+        "Banco de Credito do Sul"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banco-de-credito-do-sul.svg",
+        "source": "https://play-lh.googleusercontent.com/YrKKoq2dl6kcKAeCXYJCeNE9TcOVLtqOGOJZSXvttjGCAojcYz46-9Lr6QW_A-jWv_wAOckk-jZQAVVw02LgQg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bda",
+      "name": "Banco de Desenvolvimento de Angola",
+      "aliases": [
+        "BDA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-banco-economico",
+      "name": "Banco Económico",
+      "aliases": [
+        "BE",
+        "Económico",
+        "Banco Economico"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancoeconomico.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/banco-economico.svg",
+        "source": "https://www.bancoeconomico.ao/media/1182/logo-particulares-white.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bfa",
+      "name": "BFA",
+      "aliases": [
+        "Banco de Fomento Angola"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bfa.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/bfa.svg",
+        "source": "https://play-lh.googleusercontent.com/020Ouy6YKtNvmaQjbMpFo46AhEBPXwRcWgfHtvKfMTCQFkncJrFLgnSWrHUuzbtr5ZxFzqUypQ1MFnDNwUON=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-banco-bic",
+      "name": "Banco BIC",
+      "aliases": [
+        "BIC"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancobic.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/banco-bic.svg",
+        "source": "https://play-lh.googleusercontent.com/NC1mbHkadfAmmEl48Xw5TrV88uH9ttZw4Lsx_Ez4qGeiMLg7DhL2R2fA8tHLPiwxRs4MMmwetb0WmI2gAka0NQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bir",
+      "name": "BIR",
+      "aliases": [
+        "Banco de Investimento Rural"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bir.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/bir.svg",
+        "source": "https://play-lh.googleusercontent.com/W8cvGoWrG2lJZYAy7hjWjbH2sjIW1IiULuItvkzR5DWaEjEMN7sxEwuWv7mqol6N3UTOKQderrPpRnCnlVkYeg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-banco-keve",
+      "name": "Banco Keve",
+      "aliases": [
+        "Keve",
+        "BKEVE"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-atlantico",
+      "name": "Banco Millennium Atlântico",
+      "aliases": [
+        "BMA",
+        "Atlântico",
+        "Millennium Atlantico",
+        "Banco Millennium Atlantico"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.atlantico.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/banco-millennium-atlantico.svg",
+        "source": "https://www.atlantico.ao/media/h10df34n/0-logo-atlanticosvg.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bni",
+      "name": "BNI",
+      "aliases": [
+        "Banco de Negócios Internacional",
+        "Banco BNI"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bank-of-china",
+      "name": "Bank of China Luanda",
+      "aliases": [
+        "Banco da China",
+        "BOCLB",
+        "Banco da China Limitada - Sucursal em Luanda"
+      ],
+      "type": "bank",
+      "group": "Bank of China",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-china.svg",
+        "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-bpc",
+      "name": "BPC",
+      "aliases": [
+        "Banco de Poupança e Crédito"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bpc.svg",
+        "source": "https://play-lh.googleusercontent.com/4MyQ_OUWdPlqtYp-EafgM8rtFREg79jM5eiyfhH_mHM-mmW52pn4k4Iwbt7NsiXY7mIsQAG3OZnQqqx1tkMF2Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-banco-sol",
+      "name": "Banco Sol",
+      "aliases": [
+        "BSOL",
+        "Sol"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancosol.ao/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-banco-valor",
+      "name": "Banco Valor",
+      "aliases": [
+        "BVB",
+        "Valor"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancovalor.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/banco-valor.svg",
+        "source": "https://www.bancovalor.ao/images/BVLogo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-standard-bank",
+      "name": "Standard Bank Angola",
+      "aliases": [
+        "SBA",
+        "Standard Bank de Angola"
+      ],
+      "type": "bank",
+      "group": "Standard Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.standardbank.co.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/standard-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-banco-yetu",
+      "name": "Banco Yetu",
+      "aliases": [
+        "YETU",
+        "Yetu"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bancoyetu.ao/",
+      "logo": {
+        "svg": "svg/logos/bank/banco-yetu.svg",
+        "source": "https://play-lh.googleusercontent.com/aAT4297Ca0LNcby_zezr2quKH8_AYzSjpLcB26FVwIV2iDypbBtUnwc6vLrrI6IzoZhLbQwxnV8Ik0GaRtPed_M=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-standard-chartered",
+      "name": "Standard Chartered Angola",
+      "aliases": [
+        "Standard Chartered"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "merged",
+      "successor": "ao-access-bank",
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_banks_in_Angola",
+        "https://thecable.ng/access-bank-completes-acquisition-of-standard-chartereds-subsidiaries-in-angola-sierra-leone"
+      ]
+    },
+    {
+      "id": "ao-unitel-pagamentos-moveis",
+      "name": "Unitel Serviços de Pagamentos Móveis",
+      "aliases": [
+        "Unitel",
+        "Unitel Servicos de Pagamentos Moveis"
+      ],
+      "type": "mobile_money",
+      "group": "Unitel",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/unitel-servicos-de-pagamentos-moveis.svg",
+        "source": "https://play-lh.googleusercontent.com/G1mBqgBE_bygzOyfsI7KuO_YVCB-0w5YS5Ed6nVcdPABX-cFb6BD7jSZttfBNGSQi6NPgV9eB6GjEDLf4ulR5w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-afrimoney",
+      "name": "Afrimoney",
+      "aliases": [
+        "Africell Mobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "Africell",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/afrimoney.svg",
+        "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+        "https://www.africell.ao/"
+      ]
+    },
+    {
+      "id": "ao-any-pay",
+      "name": "Any Pay",
+      "aliases": [
+        "AnyPay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/any-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/lbRX0_1r_rm-AXWXhiF0xZGWvIyZB4sYxtiFFaQ26EYwv7u4c728NbW-BNgNDqi_RkpxBfjqTs9tmecgto3Vm3g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-appy-pay",
+      "name": "Appy Pay",
+      "aliases": [
+        "AppyPay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/appy-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/11sy3pSb1WZcgKwY48QG4bzMcr5SRsicGgpJiaLdjx1bvw6kXjtRpoWhBV6z-uql9M3srsmgWd3Fe2gMtFs0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-conectando",
+      "name": "Conectando",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-faciangola",
+      "name": "Faciangola",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-kwattel",
+      "name": "Kwattel",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/kwattel.svg",
+        "source": "https://kwattel.com/wp-content/uploads/2024/09/kwattel-logo.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-linkedpay",
+      "name": "LinkedPay",
+      "aliases": [
+        "Linked Pay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/linkedpay.svg",
+        "source": "https://linkedpay.co.ao/wp-content/uploads/sites/24/2022/12/Logo-Light.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-now-now",
+      "name": "NOW NOW",
+      "aliases": [
+        "NowNow",
+        "Now Now Digital Payments"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/now-now.svg",
+        "source": "https://play-lh.googleusercontent.com/jMbWLsERbUWFjG90s1eECOb4iM-SWX4nlCwsW2HgmMQvbbRJLlIJtyh7dLJALLQoQKp82cCDgdBswIQJlA9Jkw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-pagaqi",
+      "name": "Pagaqi",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-pay4all",
+      "name": "Pay4All",
+      "aliases": [
+        "Pay 4 All"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/pay4all.svg",
+        "source": "https://pay4all.ao/wp-content/webp-express/webp-images/uploads/2024/08/cropped-Logo-Pay4all-150x50.png.webp",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-so-money",
+      "name": "Só Money",
+      "aliases": [
+        "SoMoney",
+        "So Money"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/so-money.svg",
+        "source": "https://play-lh.googleusercontent.com/8-cGajSswExgf_Xwkh7B_Um3_YTGfZsTIcgc_HDSGpuc5exfmLT4uVJ2FfkMar6S3jwCtfbEquIHEFsKg-h-=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-cofre-digital",
+      "name": "Cofre Digital",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-ginga-transfer",
+      "name": "Ginga Transfer",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-max-pay",
+      "name": "Max Pay",
+      "aliases": [
+        "MaxPay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-nellpay",
+      "name": "NellPay",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-real-transfer",
+      "name": "Real Transfer",
+      "aliases": [
+        "RealTransfer"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-sunpay",
+      "name": "SunPay",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-victoria-transfer",
+      "name": "Victória Transfer",
+      "aliases": [
+        "Victoria Transfer"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-a-p-p-correia",
+      "name": "A.P&P. Correia",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-avanca-na-vida",
+      "name": "Avança na Vida",
+      "aliases": [
+        "Avanca na Vida"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-crediflox",
+      "name": "Crédiflox",
+      "aliases": [
+        "Crediflox"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-credito-expresso",
+      "name": "Crédito Expresso",
+      "aliases": [
+        "Credito Expresso"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-facilcred",
+      "name": "Facilcred",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/facilcred.svg",
+        "source": "https://play-lh.googleusercontent.com/m_k5nTXCD5eMlU16zeiGYKt_Hz38pnAMDWBEQWh5Q8vA2at-DkFBEBPhxjehpQIRqcjmQ5e5mw6c6GT-eUWG=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-gingacred",
+      "name": "Gingacred",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-helpmoney",
+      "name": "Helpmoney",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-info-hojoi",
+      "name": "Info Hojoi",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-kacem",
+      "name": "Kacém",
+      "aliases": [
+        "Kacem"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-kixicredito",
+      "name": "KixiCrédito",
+      "aliases": [
+        "KixiCredito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-mbuli",
+      "name": "Mbuli",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-micro-oportunidades",
+      "name": "Micro Oportunidades",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-microcapital",
+      "name": "Microcapital",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-multicredito",
+      "name": "Multicrédito",
+      "aliases": [
+        "Multicredito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-nedcredito",
+      "name": "Nedcrédito",
+      "aliases": [
+        "Nedcredito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-nespecred",
+      "name": "Nespecred",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-nombongo-credito",
+      "name": "Nombongo Crédito",
+      "aliases": [
+        "Nombongo Credito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-novo-credito",
+      "name": "Novo Crédito",
+      "aliases": [
+        "Novo Credito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-priza-credito",
+      "name": "Priza Crédito",
+      "aliases": [
+        "Priza Credito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-rmarca",
+      "name": "Rmarca",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-somicre",
+      "name": "Somicre",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-telgoma",
+      "name": "Telgoma",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-tomacredito",
+      "name": "Tomacrédito",
+      "aliases": [
+        "Tomacredito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-wiliete-credito",
+      "name": "Wiliete Crédito",
+      "aliases": [
+        "Wiliete Credito"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-cooperativa-de-credito-futuro-seguro",
+      "name": "Cooperativa de Crédito Futuro Seguro",
+      "aliases": [
+        "Cooperativa de Credito Futuro Seguro"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-cooperativa-de-credito-wea",
+      "name": "Cooperativa de Crédito WEA",
+      "aliases": [
+        "Cooperativa de Credito WEA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-cooperativa-de-credito-crediangol",
+      "name": "Cooperativa de Crédito Crediangol",
+      "aliases": [
+        "Cooperativa de Credito Crediangol"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-cooperativa-de-credito-faje-coopera",
+      "name": "Cooperativa de Crédito FAJE – Coopera",
+      "aliases": [
+        "Cooperativa de Credito FAJE – Coopera"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-a-grande-abel",
+      "name": "A Grande Abel",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-ambingol",
+      "name": "Ambingol",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-artur-figueiredo",
+      "name": "Artur Figueiredo",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-aurora-angolana",
+      "name": "Aurora Angolana",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-buaio-kumbu",
+      "name": "Buaio Kumbu",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-cebi-consulting",
+      "name": "CEBI Consulting",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-cr-capital",
+      "name": "CR Capital",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-darling-s-queridos",
+      "name": "Darling's – Queridos",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-darmo-conexoes-servicos",
+      "name": "Darmo – Conexões & Serviços",
+      "aliases": [
+        "Darmo – Conexoes & Servicos"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-delize",
+      "name": "Delize",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-executive-post",
+      "name": "Executive Post",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-freefarma",
+      "name": "Freefarma",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-gaip-geovani-andre",
+      "name": "GAIP – Geovani André",
+      "aliases": [
+        "GAIP – Geovani Andre"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-grupo-joar",
+      "name": "Grupo Joar",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-highgarden-ango-tec",
+      "name": "Highgarden Ango Tec",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-ideal-tech",
+      "name": "Ideal Tech",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-kit-pay",
+      "name": "Kit Pay",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-kumaku-money",
+      "name": "Kumaku Money",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-lombo-cred",
+      "name": "Lombo Cred",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-lubai-business",
+      "name": "Lubai Business",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-migdangola",
+      "name": "Migdangola",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-multivalores",
+      "name": "Multivalores",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-nod-tec-servicos",
+      "name": "Nod-Tec Serviços",
+      "aliases": [
+        "Nod-Tec Servicos"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-pacheco-barroso",
+      "name": "Pacheco Barroso",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-sapicar",
+      "name": "Sapicar",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-select-services",
+      "name": "Select Services",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-silveira-investimentos",
+      "name": "Silveira Investimentos",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-unitums-sete",
+      "name": "Unitums Sete",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    },
+    {
+      "id": "ao-yotolo-omc",
+      "name": "Yotolo-OMC",
+      "aliases": [],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+      ]
+    }
+  ]
+}

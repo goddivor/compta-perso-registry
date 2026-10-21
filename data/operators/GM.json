@@ -1,0 +1,2176 @@
+{
+  "country": "GM",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "complete"
+  },
+  "listSources": {
+    "bank": "https://www.cbg.gm/list-of-licensed-banks",
+    "mobile_money": "https://www.cbg.gm/mobile-money",
+    "microfinance": "https://www.cbg.gm/list-of-licensed-microfinance-institutions",
+    "fintech": "https://www.cbg.gm/fintech"
+  },
+  "operators": [
+    {
+      "id": "gm-access-bank-gambia",
+      "name": "Access Bank Gambia",
+      "aliases": [
+        "Access Bank",
+        "Access Bank (Gambia) Ltd"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": "https://gambia.accessbankplc.com",
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-agib-bank",
+      "name": "Agib Bank",
+      "aliases": [
+        "AGIB",
+        "Agib Bank Gambia"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://www.agib.gm",
+      "logo": {
+        "svg": "svg/logos/bank/agib-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/2u9Iiyw7B6thePmVtXwwROnfQzspOfWGjGDkUzAbqh5dj-3E5Rgdzrq-ZQTe7Ko9FE2QPq6l-7JXfdpVyC_HUQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-bsic-gambia",
+      "name": "BSIC Gambia",
+      "aliases": [
+        "BSIC",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce",
+        "Banque Sahelo-Saherienne Pour L'Investissement et Commerce"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.bsicbank.com/gambia/",
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-bloom-bank-africa-gambia",
+      "name": "Bloom Bank Africa Gambia",
+      "aliases": [
+        "Bloom Bank",
+        "Bloom Bank Africa",
+        "Bloom Bank Africa (Gambia) Ltd"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://bloombankafrica.com",
+      "logo": {
+        "svg": "svg/logos/bank/bloom-bank-africa.svg",
+        "source": "https://bloombankafrica.com/assets/55efbb96367fe0d2f417854c3b5a19110fd5411c-C85geNzK.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-ecobank-gambia",
+      "name": "Ecobank Gambia",
+      "aliases": [
+        "Ecobank",
+        "Ecobank (Gambia) Ltd"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ecobank.com/gm/personal-banking/countries",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-first-bank-gambia",
+      "name": "First Bank Gambia",
+      "aliases": [
+        "FirstBank",
+        "First Bank",
+        "FBN"
+      ],
+      "type": "bank",
+      "group": "FirstBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-gtbank-gambia",
+      "name": "GTBank Gambia",
+      "aliases": [
+        "GTBank",
+        "GTB",
+        "Guaranty Trust Bank",
+        "Guaranty Trust Bank (Gambia) Ltd"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": "http://www.gtbankgambia.com",
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-mega-bank-gambia",
+      "name": "Mega Bank Gambia",
+      "aliases": [
+        "Mega Bank",
+        "Mega Bank (Gambia) Ltd"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "http://megabankgambia.gm",
+      "logo": {
+        "svg": "svg/logos/bank/mega-bank.svg",
+        "source": "https://megabankgambia.gm/wp-content/uploads/2023/04/megabank-logo.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-trust-bank-gambia",
+      "name": "Trust Bank Gambia",
+      "aliases": [
+        "Trust Bank",
+        "TBL",
+        "Trust Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://trustbankgambia.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-vista-bank-gambia",
+      "name": "Vista Bank Gambia",
+      "aliases": [
+        "Vista Bank",
+        "Vista Bank (Gambia) Ltd"
+      ],
+      "type": "bank",
+      "group": "Vista",
+      "status": "active",
+      "successor": null,
+      "website": "https://vistabankgroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/vista.svg",
+        "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-zenith-bank-gambia",
+      "name": "Zenith Bank Gambia",
+      "aliases": [
+        "Zenith Bank",
+        "Zenith"
+      ],
+      "type": "bank",
+      "group": "Zenith",
+      "status": "active",
+      "successor": null,
+      "website": "http://zenithbank.gm",
+      "logo": {
+        "svg": "svg/logos/bank/zenith.svg",
+        "source": "https://play-lh.googleusercontent.com/RIcMVbshRar85KSNG8-JuIEzLffjIAsjxxVXJ0msQeVDJ7RH_8qxsxGDfsI1rt21N545mKZz27I4FFAhAj7eJMc=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-banks"
+      ]
+    },
+    {
+      "id": "gm-afrimoney",
+      "name": "Afrimoney",
+      "aliases": [
+        "Afrimobile Money",
+        "Africell Money",
+        "Afri Money"
+      ],
+      "type": "mobile_money",
+      "group": "Africell",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/afrimoney.svg",
+        "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/mobile-money",
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-qmoney",
+      "name": "QMoney",
+      "aliases": [
+        "Q Money",
+        "QMoney Financial Services",
+        "Qcell Money"
+      ],
+      "type": "mobile_money",
+      "group": "Qcell",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/qmoney.svg",
+        "source": "https://www.qcell.sl/themes/demo/assets/img/IMAGES/logo.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/mobile-money",
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-wave",
+      "name": "Wave",
+      "aliases": [
+        "Wave Transfer",
+        "Wave Mobile Money",
+        "Wave Gambia"
+      ],
+      "type": "mobile_money",
+      "group": "Wave",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/wave.svg",
+        "source": "https://www.wave.com/img/nav-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-comcash",
+      "name": "Comcash",
+      "aliases": [
+        "ComCash",
+        "Comium Cash",
+        "Comcach"
+      ],
+      "type": "mobile_money",
+      "group": "Comium",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/comcash.svg",
+        "source": "https://www.comium.gm/assets/img/logo-rd.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-yonna-wallet",
+      "name": "Yonna Wallet",
+      "aliases": [
+        "Yonna"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-aps-wallet",
+      "name": "APS Wallet",
+      "aliases": [
+        "Aps Wallet",
+        "APS"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/aps-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/Ap_G8y-IRjrkAMzJdiBNKuGGAJuZJ7zL4kbQcI5fA6Lah5WNWhBLz-rdf_xAfqazJkzZJzIacDPEoPtlWEAaJXk=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-s-pay",
+      "name": "S-Pay",
+      "aliases": [
+        "SPay",
+        "S Pay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/s-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/dgQ9BfF4QrIKS5v2CAugglPsfhY-A4-gdKYsYKq1nVW2Q0vg_rN58zKlfKnCDJWms6ydcTlxuXPkBs8MY2kyJw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-kashma",
+      "name": "Kashma",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-i-pay",
+      "name": "I-Pay",
+      "aliases": [
+        "IPay",
+        "I Pay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/i-pay.svg",
+        "source": "https://play-lh.googleusercontent.com/Jx_deyRWSs90TRnrtI4e9rdxE6X0hUC5a8VdhwAaY7ZeDuXTQ-0eUxxy6M-PICzkI5hBuwHxCSj9L1xxshyPyg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-nafa-wallet",
+      "name": "Nafa Wallet",
+      "aliases": [
+        "Nafa"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/nafa-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/bOD_D-kJSrxBxEodh9mAkCb3hdIlMr9Rmx7H8ijDdFobJNLYcU1ryF1DPplRThDMLU2upfAwiIWNJUPV3rQq=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-jula-wallet",
+      "name": "Jula Wallet",
+      "aliases": [
+        "Jula"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/jula-wallet.svg",
+        "source": "https://play-lh.googleusercontent.com/2QJTYdX1AG5-VjYpMmR8W9xQZE1ZajIC3SY6LGXYttFsZLuwwfaUTcZjNARqQ3SCa4DNs86XVJh-2USLLittsg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-modem-pay",
+      "name": "Modem Pay",
+      "aliases": [
+        "ModemPay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-afropay",
+      "name": "Afropay",
+      "aliases": [
+        "Afro Pay",
+        "AfroPay"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/afropay.svg",
+        "source": "https://play-lh.googleusercontent.com/puEOeVWi2Kv2ITySiSOx2FY0OjLvCF7vsaDiHB-HR4HiWb5eUD51anFpcmxQG1jlFN44MSkcWWoen-NP-g1auw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-sunu-pessa",
+      "name": "Sunu Pessa",
+      "aliases": [
+        "Sunu Pesa",
+        "SunuPessa"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-taybull-soft",
+      "name": "Taybull Soft",
+      "aliases": [
+        "Taybull"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/taybull-soft.svg",
+        "source": "https://play-lh.googleusercontent.com/ynsHUB14RCSxsBa0CNXY-9WmENoJGwCzkD7lvY-_gfNVsTfHvbzY2yPs3d1OFs_e9K06nbr5bICDWmZD5QT_CQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/fintech"
+      ]
+    },
+    {
+      "id": "gm-aps-islamic-microfinance",
+      "name": "APS Islamic Microfinance",
+      "aliases": [
+        "APS",
+        "APS Islamic Microfinance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-bayba-financial-services",
+      "name": "Bayba Financial Services",
+      "aliases": [
+        "Bayba",
+        "Bayba Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kolomoni-microfinance",
+      "name": "Kolomoni Microfinance",
+      "aliases": [
+        "Kolomoni"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-naccug",
+      "name": "NACCUG",
+      "aliases": [
+        "National Association of Cooperative Credit Unions of The Gambia",
+        "National Association of Corporative Credit Union of The Gambia"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-reliance-financial-services",
+      "name": "Reliance Financial Services",
+      "aliases": [
+        "Reliance",
+        "RFS",
+        "Reliance Financial Services Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/reliance-financial-services.svg",
+        "source": "https://play-lh.googleusercontent.com/SCJzldH-9D9Ds1zZbP1qt6dkoZ-feAANN_4-wNnhfP2_59gMS_eMKn9SToQJq1YbGXiNckx1G7triruLveVDCQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-salam-financial-services",
+      "name": "Salam Financial Services",
+      "aliases": [
+        "Salam",
+        "Salam Financial Services Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-yonna-islamic-microfinance",
+      "name": "Yonna Islamic Microfinance",
+      "aliases": [
+        "Yonna",
+        "Yonna Islamic Microfinance Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-ahlulai-visaca",
+      "name": "Ahlulai VISACA",
+      "aliases": [
+        "Ahlulai Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-albreda-visaca",
+      "name": "Albreda VISACA",
+      "aliases": [
+        "Albreda Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-bakadagi-visaca",
+      "name": "Bakadagi VISACA",
+      "aliases": [
+        "Bakadagi Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-bantanto-visaca",
+      "name": "Bantanto VISACA",
+      "aliases": [
+        "Bantanto Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-batabut-visaca",
+      "name": "Batabut VISACA",
+      "aliases": [
+        "Batabut Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-berending-visaca",
+      "name": "Berending VISACA",
+      "aliases": [
+        "Berending Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-boiram-visaca",
+      "name": "Boiram VISACA",
+      "aliases": [
+        "Boiram Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-brufut-visaca",
+      "name": "Brufut VISACA",
+      "aliases": [
+        "Brufut Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-burong-visaca",
+      "name": "Burong VISACA",
+      "aliases": [
+        "Burong Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-busumbala-visaca",
+      "name": "Busumbala VISACA",
+      "aliases": [
+        "Busumbala Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-bwiam-visaca",
+      "name": "Bwiam VISACA",
+      "aliases": [
+        "Bwiam Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-chamen-nianija-visaca",
+      "name": "Chamen Nianija VISACA",
+      "aliases": [
+        "Chamen Nianija Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-chamoi-bunda-visaca",
+      "name": "Chamoi Bunda VISACA",
+      "aliases": [
+        "Chamoi Bunda Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-chamoi-tumana-visaca",
+      "name": "Chamoi Tumana VISACA",
+      "aliases": [
+        "Chamoi Tumana Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-dankunku-visaca",
+      "name": "Dankunku VISACA",
+      "aliases": [
+        "Dankunku Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-darsilami-visaca",
+      "name": "Darsilami VISACA",
+      "aliases": [
+        "Darsilami Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-demfai-visaca",
+      "name": "Demfai VISACA",
+      "aliases": [
+        "Demfai Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-diabugu-visaca",
+      "name": "Diabugu VISACA",
+      "aliases": [
+        "Diabugu Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-dumbuto-visaca",
+      "name": "Dumbuto VISACA",
+      "aliases": [
+        "Dumbuto Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-faraba-bantang-visaca",
+      "name": "Faraba Bantang VISACA",
+      "aliases": [
+        "Faraba Bantang Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-fass-njaga-choi-visaca",
+      "name": "Fass Njaga Choi VISACA",
+      "aliases": [
+        "Fass Njaga Choi Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-fulladu-darsilameh-visaca",
+      "name": "Fulladu Darsilameh VISACA",
+      "aliases": [
+        "Fulladu Darsilameh Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-galleh-mandah-visaca",
+      "name": "Galleh Mandah VISACA",
+      "aliases": [
+        "Galleh Mandah Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-gunjur-visaca",
+      "name": "Gunjur VISACA",
+      "aliases": [
+        "Gunjur Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-illiasa-visaca",
+      "name": "Illiasa VISACA",
+      "aliases": [
+        "Illiasa Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-jappineh-visaca",
+      "name": "Jappineh VISACA",
+      "aliases": [
+        "Jappineh Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-jareng-visaca",
+      "name": "Jareng VISACA",
+      "aliases": [
+        "Jareng Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-jarumeh-koto-visaca",
+      "name": "Jarumeh Koto VISACA",
+      "aliases": [
+        "Jarumeh Koto Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-jiffarong-visaca",
+      "name": "Jiffarong VISACA",
+      "aliases": [
+        "Jiffarong Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kabekel-visaca",
+      "name": "Kabekel VISACA",
+      "aliases": [
+        "Kabekel Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-karantaba-visaca",
+      "name": "Karantaba VISACA",
+      "aliases": [
+        "Karantaba Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kartong-visaca",
+      "name": "Kartong VISACA",
+      "aliases": [
+        "Kartong Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kass-wollof-visaca",
+      "name": "Kass Wollof VISACA",
+      "aliases": [
+        "Kass Wollof Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kataba-mandinka-visaca",
+      "name": "Kataba Mandinka VISACA",
+      "aliases": [
+        "Kataba Mandinka Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kataba-omar-visaca",
+      "name": "Kataba Omar VISACA",
+      "aliases": [
+        "Kataba Omar Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kaur-visaca",
+      "name": "Kaur VISACA",
+      "aliases": [
+        "Kaur Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kayai-visaca",
+      "name": "Kayai VISACA",
+      "aliases": [
+        "Kayai Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-keneba-visaca",
+      "name": "Keneba VISACA",
+      "aliases": [
+        "Keneba Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kerewan-visaca",
+      "name": "Kerewan VISACA",
+      "aliases": [
+        "Kerewan Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kuloro-visaca",
+      "name": "Kuloro VISACA",
+      "aliases": [
+        "Kuloro Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kundang-visaca",
+      "name": "Kundang VISACA",
+      "aliases": [
+        "Kundang Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-kunting-visaca",
+      "name": "Kunting VISACA",
+      "aliases": [
+        "Kunting Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-madiana-visaca",
+      "name": "Madiana VISACA",
+      "aliases": [
+        "Madiana Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-madina-sancha-visaca",
+      "name": "Madina Sancha VISACA",
+      "aliases": [
+        "Madina Sancha Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-mamutfana-visaca",
+      "name": "Mamutfana VISACA",
+      "aliases": [
+        "Mamutfana Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-mandinaring-visaca",
+      "name": "Mandinaring VISACA",
+      "aliases": [
+        "Mandinaring Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-nema-visaca",
+      "name": "Nema VISACA",
+      "aliases": [
+        "Nema Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-njaba-kunda-visaca",
+      "name": "Njaba Kunda VISACA",
+      "aliases": [
+        "Njaba Kunda Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-njawara-visaca",
+      "name": "Njawara VISACA",
+      "aliases": [
+        "Njawara Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-njobeng-visaca",
+      "name": "Njobeng VISACA",
+      "aliases": [
+        "Njobeng Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-nyofelleh-visaca",
+      "name": "Nyofelleh VISACA",
+      "aliases": [
+        "Nyofelleh Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-pacharr-visaca",
+      "name": "Pacharr VISACA",
+      "aliases": [
+        "Pacharr Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-panchang-visaca",
+      "name": "Panchang VISACA",
+      "aliases": [
+        "Panchang Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-sambang-visaca",
+      "name": "Sambang VISACA",
+      "aliases": [
+        "Sambang Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-sami-madina-visaca",
+      "name": "Sami Madina VISACA",
+      "aliases": [
+        "Sami Madina Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-sankuley-kunda-visaca",
+      "name": "Sankuley Kunda VISACA",
+      "aliases": [
+        "Sankuley Kunda Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-siffoe-visaca",
+      "name": "Siffoe VISACA",
+      "aliases": [
+        "Siffoe Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-somita-visaca",
+      "name": "Somita VISACA",
+      "aliases": [
+        "Somita Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-suduwol-visaca",
+      "name": "Suduwol VISACA",
+      "aliases": [
+        "Suduwol Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-sukuta-visaca",
+      "name": "Sukuta VISACA",
+      "aliases": [
+        "Sukuta Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-sutukonding-visaca",
+      "name": "Sutukonding VISACA",
+      "aliases": [
+        "Sutukonding Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-tabanani-fulladu-visaca",
+      "name": "Tabanani Fulladu VISACA",
+      "aliases": [
+        "Tabanani Fulladu Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-tambana-visaca",
+      "name": "Tambana VISACA",
+      "aliases": [
+        "Tambana Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-touba-kuta-visaca",
+      "name": "Touba Kuta VISACA",
+      "aliases": [
+        "Touba Kuta Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-tuba-demba-sama-visaca",
+      "name": "Tuba Demba Sama VISACA",
+      "aliases": [
+        "Tuba Demba Sama Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-tujereng-visaca",
+      "name": "Tujereng VISACA",
+      "aliases": [
+        "Tujereng Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-wallalan-visaca",
+      "name": "Wallalan VISACA",
+      "aliases": [
+        "Wallalan Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    },
+    {
+      "id": "gm-wassu-visaca",
+      "name": "Wassu VISACA",
+      "aliases": [
+        "Wassu Village Savings and Credit Association"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.cbg.gm/list-of-licensed-microfinance-institutions"
+      ]
+    }
+  ]
+}

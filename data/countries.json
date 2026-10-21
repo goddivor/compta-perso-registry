@@ -1,0 +1,1210 @@
+{
+  "sources": {
+    "generatedAt": "2026-10-21",
+    "cldr": "48.2.0",
+    "flagIcons": "7.6.0"
+  },
+  "countries": [
+    {
+      "iso2": "DZ",
+      "iso3": "DZA",
+      "numeric": "012",
+      "name": {
+        "en": "Algeria",
+        "fr": "Algérie"
+      },
+      "region": "north",
+      "flag": {
+        "emoji": "🇩🇿",
+        "svg": "svg/flags/4x3/dz.svg",
+        "svgSquare": "svg/flags/1x1/dz.svg"
+      },
+      "officialLanguages": [
+        "ar",
+        "fr"
+      ],
+      "currencies": [
+        "DZD"
+      ]
+    },
+    {
+      "iso2": "AO",
+      "iso3": "AGO",
+      "numeric": "024",
+      "name": {
+        "en": "Angola",
+        "fr": "Angola"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇦🇴",
+        "svg": "svg/flags/4x3/ao.svg",
+        "svgSquare": "svg/flags/1x1/ao.svg"
+      },
+      "officialLanguages": [
+        "pt"
+      ],
+      "currencies": [
+        "AOA"
+      ]
+    },
+    {
+      "iso2": "BJ",
+      "iso3": "BEN",
+      "numeric": "204",
+      "name": {
+        "en": "Benin",
+        "fr": "Bénin"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇧🇯",
+        "svg": "svg/flags/4x3/bj.svg",
+        "svgSquare": "svg/flags/1x1/bj.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "BW",
+      "iso3": "BWA",
+      "numeric": "072",
+      "name": {
+        "en": "Botswana",
+        "fr": "Botswana"
+      },
+      "region": "southern",
+      "flag": {
+        "emoji": "🇧🇼",
+        "svg": "svg/flags/4x3/bw.svg",
+        "svgSquare": "svg/flags/1x1/bw.svg"
+      },
+      "officialLanguages": [
+        "en",
+        "tn"
+      ],
+      "currencies": [
+        "BWP"
+      ]
+    },
+    {
+      "iso2": "BF",
+      "iso3": "BFA",
+      "numeric": "854",
+      "name": {
+        "en": "Burkina Faso",
+        "fr": "Burkina Faso"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇧🇫",
+        "svg": "svg/flags/4x3/bf.svg",
+        "svgSquare": "svg/flags/1x1/bf.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "BI",
+      "iso3": "BDI",
+      "numeric": "108",
+      "name": {
+        "en": "Burundi",
+        "fr": "Burundi"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇧🇮",
+        "svg": "svg/flags/4x3/bi.svg",
+        "svgSquare": "svg/flags/1x1/bi.svg"
+      },
+      "officialLanguages": [
+        "rn",
+        "fr",
+        "en"
+      ],
+      "currencies": [
+        "BIF"
+      ]
+    },
+    {
+      "iso2": "CM",
+      "iso3": "CMR",
+      "numeric": "120",
+      "name": {
+        "en": "Cameroon",
+        "fr": "Cameroun"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇨🇲",
+        "svg": "svg/flags/4x3/cm.svg",
+        "svgSquare": "svg/flags/1x1/cm.svg"
+      },
+      "officialLanguages": [
+        "fr",
+        "en"
+      ],
+      "currencies": [
+        "XAF"
+      ]
+    },
+    {
+      "iso2": "CV",
+      "iso3": "CPV",
+      "numeric": "132",
+      "name": {
+        "en": "Cape Verde",
+        "fr": "Cap-Vert"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇨🇻",
+        "svg": "svg/flags/4x3/cv.svg",
+        "svgSquare": "svg/flags/1x1/cv.svg"
+      },
+      "officialLanguages": [
+        "pt"
+      ],
+      "currencies": [
+        "CVE"
+      ]
+    },
+    {
+      "iso2": "CF",
+      "iso3": "CAF",
+      "numeric": "140",
+      "name": {
+        "en": "Central African Republic",
+        "fr": "République centrafricaine"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇨🇫",
+        "svg": "svg/flags/4x3/cf.svg",
+        "svgSquare": "svg/flags/1x1/cf.svg"
+      },
+      "officialLanguages": [
+        "sg",
+        "fr"
+      ],
+      "currencies": [
+        "XAF"
+      ]
+    },
+    {
+      "iso2": "TD",
+      "iso3": "TCD",
+      "numeric": "148",
+      "name": {
+        "en": "Chad",
+        "fr": "Tchad"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇹🇩",
+        "svg": "svg/flags/4x3/td.svg",
+        "svgSquare": "svg/flags/1x1/td.svg"
+      },
+      "officialLanguages": [
+        "ar",
+        "fr"
+      ],
+      "currencies": [
+        "XAF"
+      ]
+    },
+    {
+      "iso2": "KM",
+      "iso3": "COM",
+      "numeric": "174",
+      "name": {
+        "en": "Comoros",
+        "fr": "Comores"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇰🇲",
+        "svg": "svg/flags/4x3/km.svg",
+        "svgSquare": "svg/flags/1x1/km.svg"
+      },
+      "officialLanguages": [
+        "ar",
+        "zdj",
+        "wni",
+        "fr"
+      ],
+      "currencies": [
+        "KMF"
+      ]
+    },
+    {
+      "iso2": "CG",
+      "iso3": "COG",
+      "numeric": "178",
+      "name": {
+        "en": "Congo - Brazzaville",
+        "fr": "Congo-Brazzaville"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇨🇬",
+        "svg": "svg/flags/4x3/cg.svg",
+        "svgSquare": "svg/flags/1x1/cg.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XAF"
+      ]
+    },
+    {
+      "iso2": "CD",
+      "iso3": "COD",
+      "numeric": "180",
+      "name": {
+        "en": "Congo - Kinshasa",
+        "fr": "Congo-Kinshasa"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇨🇩",
+        "svg": "svg/flags/4x3/cd.svg",
+        "svgSquare": "svg/flags/1x1/cd.svg"
+      },
+      "officialLanguages": [
+        "fr",
+        "sw",
+        "lua",
+        "ln",
+        "kg"
+      ],
+      "currencies": [
+        "CDF"
+      ]
+    },
+    {
+      "iso2": "CI",
+      "iso3": "CIV",
+      "numeric": "384",
+      "name": {
+        "en": "Côte d’Ivoire",
+        "fr": "Côte d’Ivoire"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇨🇮",
+        "svg": "svg/flags/4x3/ci.svg",
+        "svgSquare": "svg/flags/1x1/ci.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "DJ",
+      "iso3": "DJI",
+      "numeric": "262",
+      "name": {
+        "en": "Djibouti",
+        "fr": "Djibouti"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇩🇯",
+        "svg": "svg/flags/4x3/dj.svg",
+        "svgSquare": "svg/flags/1x1/dj.svg"
+      },
+      "officialLanguages": [
+        "fr",
+        "ar"
+      ],
+      "currencies": [
+        "DJF"
+      ]
+    },
+    {
+      "iso2": "EG",
+      "iso3": "EGY",
+      "numeric": "818",
+      "name": {
+        "en": "Egypt",
+        "fr": "Égypte"
+      },
+      "region": "north",
+      "flag": {
+        "emoji": "🇪🇬",
+        "svg": "svg/flags/4x3/eg.svg",
+        "svgSquare": "svg/flags/1x1/eg.svg"
+      },
+      "officialLanguages": [
+        "ar"
+      ],
+      "currencies": [
+        "EGP"
+      ]
+    },
+    {
+      "iso2": "GQ",
+      "iso3": "GNQ",
+      "numeric": "226",
+      "name": {
+        "en": "Equatorial Guinea",
+        "fr": "Guinée équatoriale"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇬🇶",
+        "svg": "svg/flags/4x3/gq.svg",
+        "svgSquare": "svg/flags/1x1/gq.svg"
+      },
+      "officialLanguages": [
+        "es",
+        "fr",
+        "pt"
+      ],
+      "currencies": [
+        "XAF"
+      ]
+    },
+    {
+      "iso2": "ER",
+      "iso3": "ERI",
+      "numeric": "232",
+      "name": {
+        "en": "Eritrea",
+        "fr": "Érythrée"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇪🇷",
+        "svg": "svg/flags/4x3/er.svg",
+        "svgSquare": "svg/flags/1x1/er.svg"
+      },
+      "officialLanguages": [
+        "ti",
+        "en",
+        "ar"
+      ],
+      "currencies": [
+        "ERN"
+      ]
+    },
+    {
+      "iso2": "SZ",
+      "iso3": "SWZ",
+      "numeric": "748",
+      "name": {
+        "en": "Eswatini",
+        "fr": "Eswatini"
+      },
+      "region": "southern",
+      "flag": {
+        "emoji": "🇸🇿",
+        "svg": "svg/flags/4x3/sz.svg",
+        "svgSquare": "svg/flags/1x1/sz.svg"
+      },
+      "officialLanguages": [
+        "en",
+        "ss"
+      ],
+      "currencies": [
+        "SZL"
+      ]
+    },
+    {
+      "iso2": "ET",
+      "iso3": "ETH",
+      "numeric": "231",
+      "name": {
+        "en": "Ethiopia",
+        "fr": "Éthiopie"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇪🇹",
+        "svg": "svg/flags/4x3/et.svg",
+        "svgSquare": "svg/flags/1x1/et.svg"
+      },
+      "officialLanguages": [
+        "am"
+      ],
+      "currencies": [
+        "ETB"
+      ]
+    },
+    {
+      "iso2": "GA",
+      "iso3": "GAB",
+      "numeric": "266",
+      "name": {
+        "en": "Gabon",
+        "fr": "Gabon"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇬🇦",
+        "svg": "svg/flags/4x3/ga.svg",
+        "svgSquare": "svg/flags/1x1/ga.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XAF"
+      ]
+    },
+    {
+      "iso2": "GM",
+      "iso3": "GMB",
+      "numeric": "270",
+      "name": {
+        "en": "Gambia",
+        "fr": "Gambie"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇬🇲",
+        "svg": "svg/flags/4x3/gm.svg",
+        "svgSquare": "svg/flags/1x1/gm.svg"
+      },
+      "officialLanguages": [
+        "en"
+      ],
+      "currencies": [
+        "GMD"
+      ]
+    },
+    {
+      "iso2": "GH",
+      "iso3": "GHA",
+      "numeric": "288",
+      "name": {
+        "en": "Ghana",
+        "fr": "Ghana"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇬🇭",
+        "svg": "svg/flags/4x3/gh.svg",
+        "svgSquare": "svg/flags/1x1/gh.svg"
+      },
+      "officialLanguages": [
+        "ak",
+        "en",
+        "ee",
+        "gaa"
+      ],
+      "currencies": [
+        "GHS"
+      ]
+    },
+    {
+      "iso2": "GN",
+      "iso3": "GIN",
+      "numeric": "324",
+      "name": {
+        "en": "Guinea",
+        "fr": "Guinée"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇬🇳",
+        "svg": "svg/flags/4x3/gn.svg",
+        "svgSquare": "svg/flags/1x1/gn.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "GNF"
+      ]
+    },
+    {
+      "iso2": "GW",
+      "iso3": "GNB",
+      "numeric": "624",
+      "name": {
+        "en": "Guinea-Bissau",
+        "fr": "Guinée-Bissau"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇬🇼",
+        "svg": "svg/flags/4x3/gw.svg",
+        "svgSquare": "svg/flags/1x1/gw.svg"
+      },
+      "officialLanguages": [
+        "pt"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "KE",
+      "iso3": "KEN",
+      "numeric": "404",
+      "name": {
+        "en": "Kenya",
+        "fr": "Kenya"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇰🇪",
+        "svg": "svg/flags/4x3/ke.svg",
+        "svgSquare": "svg/flags/1x1/ke.svg"
+      },
+      "officialLanguages": [
+        "sw",
+        "en"
+      ],
+      "currencies": [
+        "KES"
+      ]
+    },
+    {
+      "iso2": "LS",
+      "iso3": "LSO",
+      "numeric": "426",
+      "name": {
+        "en": "Lesotho",
+        "fr": "Lesotho"
+      },
+      "region": "southern",
+      "flag": {
+        "emoji": "🇱🇸",
+        "svg": "svg/flags/4x3/ls.svg",
+        "svgSquare": "svg/flags/1x1/ls.svg"
+      },
+      "officialLanguages": [
+        "st",
+        "en"
+      ],
+      "currencies": [
+        "ZAR",
+        "LSL"
+      ]
+    },
+    {
+      "iso2": "LR",
+      "iso3": "LBR",
+      "numeric": "430",
+      "name": {
+        "en": "Liberia",
+        "fr": "Liberia"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇱🇷",
+        "svg": "svg/flags/4x3/lr.svg",
+        "svgSquare": "svg/flags/1x1/lr.svg"
+      },
+      "officialLanguages": [
+        "en"
+      ],
+      "currencies": [
+        "LRD"
+      ]
+    },
+    {
+      "iso2": "LY",
+      "iso3": "LBY",
+      "numeric": "434",
+      "name": {
+        "en": "Libya",
+        "fr": "Libye"
+      },
+      "region": "north",
+      "flag": {
+        "emoji": "🇱🇾",
+        "svg": "svg/flags/4x3/ly.svg",
+        "svgSquare": "svg/flags/1x1/ly.svg"
+      },
+      "officialLanguages": [
+        "ar"
+      ],
+      "currencies": [
+        "LYD"
+      ]
+    },
+    {
+      "iso2": "MG",
+      "iso3": "MDG",
+      "numeric": "450",
+      "name": {
+        "en": "Madagascar",
+        "fr": "Madagascar"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇲🇬",
+        "svg": "svg/flags/4x3/mg.svg",
+        "svgSquare": "svg/flags/1x1/mg.svg"
+      },
+      "officialLanguages": [
+        "mg",
+        "fr",
+        "en"
+      ],
+      "currencies": [
+        "MGA"
+      ]
+    },
+    {
+      "iso2": "MW",
+      "iso3": "MWI",
+      "numeric": "454",
+      "name": {
+        "en": "Malawi",
+        "fr": "Malawi"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇲🇼",
+        "svg": "svg/flags/4x3/mw.svg",
+        "svgSquare": "svg/flags/1x1/mw.svg"
+      },
+      "officialLanguages": [
+        "en",
+        "ny"
+      ],
+      "currencies": [
+        "MWK"
+      ]
+    },
+    {
+      "iso2": "ML",
+      "iso3": "MLI",
+      "numeric": "466",
+      "name": {
+        "en": "Mali",
+        "fr": "Mali"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇲🇱",
+        "svg": "svg/flags/4x3/ml.svg",
+        "svgSquare": "svg/flags/1x1/ml.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "MR",
+      "iso3": "MRT",
+      "numeric": "478",
+      "name": {
+        "en": "Mauritania",
+        "fr": "Mauritanie"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇲🇷",
+        "svg": "svg/flags/4x3/mr.svg",
+        "svgSquare": "svg/flags/1x1/mr.svg"
+      },
+      "officialLanguages": [
+        "ar"
+      ],
+      "currencies": [
+        "MRU"
+      ]
+    },
+    {
+      "iso2": "MU",
+      "iso3": "MUS",
+      "numeric": "480",
+      "name": {
+        "en": "Mauritius",
+        "fr": "Maurice"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇲🇺",
+        "svg": "svg/flags/4x3/mu.svg",
+        "svgSquare": "svg/flags/1x1/mu.svg"
+      },
+      "officialLanguages": [
+        "fr",
+        "en"
+      ],
+      "currencies": [
+        "MUR"
+      ]
+    },
+    {
+      "iso2": "MA",
+      "iso3": "MAR",
+      "numeric": "504",
+      "name": {
+        "en": "Morocco",
+        "fr": "Maroc"
+      },
+      "region": "north",
+      "flag": {
+        "emoji": "🇲🇦",
+        "svg": "svg/flags/4x3/ma.svg",
+        "svgSquare": "svg/flags/1x1/ma.svg"
+      },
+      "officialLanguages": [
+        "ar",
+        "fr",
+        "tzm"
+      ],
+      "currencies": [
+        "MAD"
+      ]
+    },
+    {
+      "iso2": "MZ",
+      "iso3": "MOZ",
+      "numeric": "508",
+      "name": {
+        "en": "Mozambique",
+        "fr": "Mozambique"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇲🇿",
+        "svg": "svg/flags/4x3/mz.svg",
+        "svgSquare": "svg/flags/1x1/mz.svg"
+      },
+      "officialLanguages": [
+        "pt"
+      ],
+      "currencies": [
+        "MZN"
+      ]
+    },
+    {
+      "iso2": "NA",
+      "iso3": "NAM",
+      "numeric": "516",
+      "name": {
+        "en": "Namibia",
+        "fr": "Namibie"
+      },
+      "region": "southern",
+      "flag": {
+        "emoji": "🇳🇦",
+        "svg": "svg/flags/4x3/na.svg",
+        "svgSquare": "svg/flags/1x1/na.svg"
+      },
+      "officialLanguages": [
+        "en"
+      ],
+      "currencies": [
+        "NAD",
+        "ZAR"
+      ]
+    },
+    {
+      "iso2": "NE",
+      "iso3": "NER",
+      "numeric": "562",
+      "name": {
+        "en": "Niger",
+        "fr": "Niger"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇳🇪",
+        "svg": "svg/flags/4x3/ne.svg",
+        "svgSquare": "svg/flags/1x1/ne.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "NG",
+      "iso3": "NGA",
+      "numeric": "566",
+      "name": {
+        "en": "Nigeria",
+        "fr": "Nigeria"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇳🇬",
+        "svg": "svg/flags/4x3/ng.svg",
+        "svgSquare": "svg/flags/1x1/ng.svg"
+      },
+      "officialLanguages": [
+        "en",
+        "yo"
+      ],
+      "currencies": [
+        "NGN"
+      ]
+    },
+    {
+      "iso2": "RW",
+      "iso3": "RWA",
+      "numeric": "646",
+      "name": {
+        "en": "Rwanda",
+        "fr": "Rwanda"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇷🇼",
+        "svg": "svg/flags/4x3/rw.svg",
+        "svgSquare": "svg/flags/1x1/rw.svg"
+      },
+      "officialLanguages": [
+        "rw",
+        "en",
+        "fr"
+      ],
+      "currencies": [
+        "RWF"
+      ]
+    },
+    {
+      "iso2": "ST",
+      "iso3": "STP",
+      "numeric": "678",
+      "name": {
+        "en": "São Tomé & Príncipe",
+        "fr": "Sao Tomé-et-Principe"
+      },
+      "region": "central",
+      "flag": {
+        "emoji": "🇸🇹",
+        "svg": "svg/flags/4x3/st.svg",
+        "svgSquare": "svg/flags/1x1/st.svg"
+      },
+      "officialLanguages": [
+        "pt"
+      ],
+      "currencies": [
+        "STN"
+      ]
+    },
+    {
+      "iso2": "SN",
+      "iso3": "SEN",
+      "numeric": "686",
+      "name": {
+        "en": "Senegal",
+        "fr": "Sénégal"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇸🇳",
+        "svg": "svg/flags/4x3/sn.svg",
+        "svgSquare": "svg/flags/1x1/sn.svg"
+      },
+      "officialLanguages": [
+        "wo",
+        "fr",
+        "ff",
+        "srr",
+        "dyo",
+        "sav",
+        "mfv",
+        "bjt",
+        "snf",
+        "knf",
+        "bsc",
+        "mey-Latn",
+        "tnr"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "SC",
+      "iso3": "SYC",
+      "numeric": "690",
+      "name": {
+        "en": "Seychelles",
+        "fr": "Seychelles"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇸🇨",
+        "svg": "svg/flags/4x3/sc.svg",
+        "svgSquare": "svg/flags/1x1/sc.svg"
+      },
+      "officialLanguages": [
+        "fr",
+        "en"
+      ],
+      "currencies": [
+        "SCR"
+      ]
+    },
+    {
+      "iso2": "SL",
+      "iso3": "SLE",
+      "numeric": "694",
+      "name": {
+        "en": "Sierra Leone",
+        "fr": "Sierra Leone"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇸🇱",
+        "svg": "svg/flags/4x3/sl.svg",
+        "svgSquare": "svg/flags/1x1/sl.svg"
+      },
+      "officialLanguages": [
+        "en"
+      ],
+      "currencies": [
+        "SLE"
+      ]
+    },
+    {
+      "iso2": "SO",
+      "iso3": "SOM",
+      "numeric": "706",
+      "name": {
+        "en": "Somalia",
+        "fr": "Somalie"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇸🇴",
+        "svg": "svg/flags/4x3/so.svg",
+        "svgSquare": "svg/flags/1x1/so.svg"
+      },
+      "officialLanguages": [
+        "so",
+        "ar"
+      ],
+      "currencies": [
+        "SOS"
+      ]
+    },
+    {
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "numeric": "710",
+      "name": {
+        "en": "South Africa",
+        "fr": "Afrique du Sud"
+      },
+      "region": "southern",
+      "flag": {
+        "emoji": "🇿🇦",
+        "svg": "svg/flags/4x3/za.svg",
+        "svgSquare": "svg/flags/1x1/za.svg"
+      },
+      "officialLanguages": [
+        "en",
+        "zu",
+        "xh",
+        "af",
+        "nso",
+        "tn",
+        "st",
+        "ts",
+        "ss",
+        "ve",
+        "nr"
+      ],
+      "currencies": [
+        "ZAR"
+      ]
+    },
+    {
+      "iso2": "SS",
+      "iso3": "SSD",
+      "numeric": "728",
+      "name": {
+        "en": "South Sudan",
+        "fr": "Soudan du Sud"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇸🇸",
+        "svg": "svg/flags/4x3/ss.svg",
+        "svgSquare": "svg/flags/1x1/ss.svg"
+      },
+      "officialLanguages": [
+        "en"
+      ],
+      "currencies": [
+        "SSP"
+      ]
+    },
+    {
+      "iso2": "SD",
+      "iso3": "SDN",
+      "numeric": "729",
+      "name": {
+        "en": "Sudan",
+        "fr": "Soudan"
+      },
+      "region": "north",
+      "flag": {
+        "emoji": "🇸🇩",
+        "svg": "svg/flags/4x3/sd.svg",
+        "svgSquare": "svg/flags/1x1/sd.svg"
+      },
+      "officialLanguages": [
+        "ar",
+        "en"
+      ],
+      "currencies": [
+        "SDG"
+      ]
+    },
+    {
+      "iso2": "TZ",
+      "iso3": "TZA",
+      "numeric": "834",
+      "name": {
+        "en": "Tanzania",
+        "fr": "Tanzanie"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇹🇿",
+        "svg": "svg/flags/4x3/tz.svg",
+        "svgSquare": "svg/flags/1x1/tz.svg"
+      },
+      "officialLanguages": [
+        "sw",
+        "en"
+      ],
+      "currencies": [
+        "TZS"
+      ]
+    },
+    {
+      "iso2": "TG",
+      "iso3": "TGO",
+      "numeric": "768",
+      "name": {
+        "en": "Togo",
+        "fr": "Togo"
+      },
+      "region": "west",
+      "flag": {
+        "emoji": "🇹🇬",
+        "svg": "svg/flags/4x3/tg.svg",
+        "svgSquare": "svg/flags/1x1/tg.svg"
+      },
+      "officialLanguages": [
+        "fr"
+      ],
+      "currencies": [
+        "XOF"
+      ]
+    },
+    {
+      "iso2": "TN",
+      "iso3": "TUN",
+      "numeric": "788",
+      "name": {
+        "en": "Tunisia",
+        "fr": "Tunisie"
+      },
+      "region": "north",
+      "flag": {
+        "emoji": "🇹🇳",
+        "svg": "svg/flags/4x3/tn.svg",
+        "svgSquare": "svg/flags/1x1/tn.svg"
+      },
+      "officialLanguages": [
+        "ar",
+        "fr"
+      ],
+      "currencies": [
+        "TND"
+      ]
+    },
+    {
+      "iso2": "UG",
+      "iso3": "UGA",
+      "numeric": "800",
+      "name": {
+        "en": "Uganda",
+        "fr": "Ouganda"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇺🇬",
+        "svg": "svg/flags/4x3/ug.svg",
+        "svgSquare": "svg/flags/1x1/ug.svg"
+      },
+      "officialLanguages": [
+        "sw",
+        "en"
+      ],
+      "currencies": [
+        "UGX"
+      ]
+    },
+    {
+      "iso2": "ZM",
+      "iso3": "ZMB",
+      "numeric": "894",
+      "name": {
+        "en": "Zambia",
+        "fr": "Zambie"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇿🇲",
+        "svg": "svg/flags/4x3/zm.svg",
+        "svgSquare": "svg/flags/1x1/zm.svg"
+      },
+      "officialLanguages": [
+        "en"
+      ],
+      "currencies": [
+        "ZMW"
+      ]
+    },
+    {
+      "iso2": "ZW",
+      "iso3": "ZWE",
+      "numeric": "716",
+      "name": {
+        "en": "Zimbabwe",
+        "fr": "Zimbabwe"
+      },
+      "region": "east",
+      "flag": {
+        "emoji": "🇿🇼",
+        "svg": "svg/flags/4x3/zw.svg",
+        "svgSquare": "svg/flags/1x1/zw.svg"
+      },
+      "officialLanguages": [
+        "sn",
+        "en",
+        "nd"
+      ],
+      "currencies": [
+        "ZWG",
+        "USD"
+      ]
+    }
+  ]
+}

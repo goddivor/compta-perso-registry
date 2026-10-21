@@ -1,0 +1,894 @@
+{
+  "country": "ML",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "partial",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf",
+    "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
+    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf"
+  },
+  "operators": [
+    {
+      "id": "ml-afg-bank-mali",
+      "name": "AFG Bank Mali",
+      "aliases": [
+        "AFG Bank",
+        "AFG Bank ML"
+      ],
+      "type": "bank",
+      "group": "AFG",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/afg.svg",
+        "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-bank-of-africa-mali",
+      "name": "Bank of Africa Mali",
+      "aliases": [
+        "BOA Mali",
+        "BOA",
+        "Bank of Africa"
+      ],
+      "type": "bank",
+      "group": "Bank of Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-of-africa.svg",
+        "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-banque-atlantique-mali",
+      "name": "Banque Atlantique Mali",
+      "aliases": [
+        "Banque Atlantique"
+      ],
+      "type": "bank",
+      "group": "Banque Centrale Populaire",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banqueatlantique.net",
+      "logo": {
+        "svg": "svg/logos/bank/banque-atlantique.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-banque-commerciale-du-sahel",
+      "name": "Banque Commerciale du Sahel",
+      "aliases": [
+        "BCS"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-commerciale-du-sahel.svg",
+        "source": "https://play-lh.googleusercontent.com/Paa1HFJuU6L3p0o4IueqivCR5d_NfrErujOwB9Fiv6iZTOjFwxpQSb0n-I5fSQGT7vi9ifPWojveIf6dRXss=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-banque-de-developpement-du-mali",
+      "name": "Banque de Développement du Mali",
+      "aliases": [
+        "BDM",
+        "BDM-SA",
+        "Banque de Developpement du Mali"
+      ],
+      "type": "bank",
+      "group": "BDM",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-banque-internationale-pour-le-mali",
+      "name": "Banque Internationale pour le Mali",
+      "aliases": [
+        "BIM",
+        "BIM SA"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-banque-malienne-de-solidarite",
+      "name": "Banque Malienne de Solidarité",
+      "aliases": [
+        "BMS",
+        "BMS-SA",
+        "Banque Malienne de Solidarite"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-malienne-de-solidarite.svg",
+        "source": "https://play-lh.googleusercontent.com/_upXv3iXJBfZc_sattmI6T79r-nu95wB3JQc8xkWX7n15axE9R_Bgiz1FnD4jd3Z6FwM5rvTPITntQkWPcuAOWM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-banque-nationale-de-developpement-agricole",
+      "name": "Banque Nationale de Développement Agricole",
+      "aliases": [
+        "BNDA",
+        "Banque Nationale de Developpement Agricole"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/banque-nationale-de-developpement-agricole.svg",
+        "source": "https://play-lh.googleusercontent.com/xTJ9jrAbV--6OTqZBp1mZJ-LhASdXF8lnJyjJQWXamX0Dgk-hxABVuOROdJnMgbUa-CfjZKZ_EYQlq9-yLmw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-bci-mali",
+      "name": "BCI Mali",
+      "aliases": [
+        "Banque pour le Commerce et l'Industrie du Mali",
+        "BCI",
+        "BICIM"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-bsic-mali",
+      "name": "BSIC Mali",
+      "aliases": [
+        "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Mali",
+        "Banque Sahelo-Saharienne pour l'Investissement et le Commerce Mali",
+        "BSIC"
+      ],
+      "type": "bank",
+      "group": "BSIC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bsic.svg",
+        "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-coris-bank-international-mali",
+      "name": "Coris Bank International Mali",
+      "aliases": [
+        "Coris Bank",
+        "CBI Mali",
+        "CBI"
+      ],
+      "type": "bank",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/coris.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-ecobank-mali",
+      "name": "Ecobank Mali",
+      "aliases": [
+        "Ecobank"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": "https://ecobank.com/ml/personal-banking",
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-uba-mali",
+      "name": "UBA Mali",
+      "aliases": [
+        "United Bank for Africa Mali",
+        "UBA"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-orabank-mali",
+      "name": "Orabank Mali",
+      "aliases": [
+        "Orabank",
+        "Orabank Côte d’Ivoire succursale du Mali",
+        "Orabank Cote d’Ivoire succursale du Mali"
+      ],
+      "type": "bank",
+      "group": "Oragroup",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orabank.net",
+      "logo": {
+        "svg": "svg/logos/bank/orabank.svg",
+        "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
+        "method": "redrawn",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Mali",
+        "Orange Finances Mobiles Mali",
+        "OM",
+        "Orange"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-sama-money",
+      "name": "Sama Money",
+      "aliases": [
+        "Sama Money Mali",
+        "Sama"
+      ],
+      "type": "mobile_money",
+      "group": "Sama Money",
+      "status": "active",
+      "successor": null,
+      "website": "https://sama.money",
+      "logo": {
+        "svg": "svg/logos/mobile-money/sama-money.svg",
+        "source": "https://sama.money/_astro/logo_sama_money_sombre.lz7lq_CM_Z1ek07O.webp",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf",
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-moov-money",
+      "name": "Moov Money",
+      "aliases": [
+        "Moov Africa Malitel",
+        "Malitel",
+        "Sotelma",
+        "Moov Africa",
+        "Moov Money Mali"
+      ],
+      "type": "mobile_money",
+      "group": "Moov Africa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/moov-money.svg",
+        "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-wave",
+      "name": "Wave",
+      "aliases": [
+        "Wave Mali",
+        "Wave Mobile Money"
+      ],
+      "type": "mobile_money",
+      "group": "Wave",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wave.com",
+      "logo": {
+        "svg": "svg/logos/mobile-money/wave.svg",
+        "source": "https://www.wave.com/img/nav-logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-wizall",
+      "name": "Wizall",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/wizall.svg",
+        "source": "https://play-lh.googleusercontent.com/hUXTCUlz9v7X4VEVWgQO05rdCPVnbkH588NTTgr3mN12jYt_tQVgMyBCS4kEfzrX1NgPowYzfwx7EFymE-E-lQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-zelia",
+      "name": "Zelia",
+      "aliases": [
+        "Zelia Gold"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/zelia.svg",
+        "source": "https://play-lh.googleusercontent.com/9LILSRdu0TE89mW-hzpY9OOA5bRg1Mffg6__RztC5zbOAWbijEXY_tJKQoaEpK6wqede8368Q08OY8N0xVHo=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-coris-money",
+      "name": "Coris Money",
+      "aliases": [
+        "Coris Money Mali"
+      ],
+      "type": "mobile_money",
+      "group": "Coris",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/coris-money.svg",
+        "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-t-lia",
+      "name": "T-Lia",
+      "aliases": [
+        "TLia",
+        "T Lia"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-optima",
+      "name": "Optima",
+      "aliases": [],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/optima.svg",
+        "source": "https://play-lh.googleusercontent.com/f9C55kQDuFKfh1RRSXOZiXXm-v4n0LSK9dsnc0xuT5cH9AS0pgjQM5Y8dEKzJQ3Vcc5Jf2sX31i_89ANkNJr5W4=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
+      ]
+    },
+    {
+      "id": "ml-intouch-mali",
+      "name": "InTouch Mali",
+      "aliases": [
+        "Intouch",
+        "TouchPay"
+      ],
+      "type": "fintech",
+      "group": "InTouch",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.intouchgroup.net",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-cauridor",
+      "name": "Cauridor",
+      "aliases": [],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bceao.int/sites/default/files/inline-files/5%20-%20Liste%20Mali_2026.pdf",
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+      ]
+    },
+    {
+      "id": "ml-kafo-jiginew",
+      "name": "Kafo Jiginew",
+      "aliases": [
+        "Union Kafo Jiginew"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.kafojiginew.org",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-cofina-mali",
+      "name": "Cofina Mali",
+      "aliases": [
+        "Compagnie Financière Africaine Mali",
+        "Compagnie Financiere Africaine Mali",
+        "COFINA"
+      ],
+      "type": "microfinance",
+      "group": "COFINA",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-baobab-mali",
+      "name": "Baobab Mali",
+      "aliases": [
+        "BAOBAB"
+      ],
+      "type": "microfinance",
+      "group": "Baobab",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-amifa-mali",
+      "name": "AMIFA Mali",
+      "aliases": [
+        "Atlantic Microfinance for Africa",
+        "AMIFA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-nyesigiso",
+      "name": "Nyèsigiso",
+      "aliases": [
+        "Union Nyesigiso",
+        "Nyesigiso"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-soro-yiriwaso",
+      "name": "Soro Yiriwaso",
+      "aliases": [
+        "Association Soro Yiriwaso"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-rmcr",
+      "name": "RMCR",
+      "aliases": [
+        "Réseau de Micro-institutions de Croissance et de Revenus",
+        "Reseau de Micro-institutions de Croissance et de Revenus"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-credit-kash-mali",
+      "name": "Crédit Kash Mali",
+      "aliases": [
+        "CREDITKASH MALI",
+        "Credit Kash",
+        "Credit Kash Mali"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/credit-kash.svg",
+        "source": "https://www.creditkash.sn/storage/2025/04/CKSN-scaled.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-caece-jigiseme",
+      "name": "CAECE Jigiseme",
+      "aliases": [
+        "Union CAECE Jigiseme",
+        "CAECE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-cveca-on-segou",
+      "name": "CVECA ON Ségou",
+      "aliases": [
+        "Association CVECA ON Ségou",
+        "Association CVECA ON Segou",
+        "CVECA",
+        "CVECA ON Segou"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-kondo-jigima",
+      "name": "Kondo Jigima",
+      "aliases": [
+        "Union Kondo Jigima"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-sinisigi",
+      "name": "Sinisigi",
+      "aliases": [
+        "Association CVECA Kita Bafoulabé Sinisigi",
+        "Association CVECA Kita Bafoulabe Sinisigi"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-ancar-finances-mali",
+      "name": "Ançar Finances Mali",
+      "aliases": [
+        "AFIM",
+        "Association Ançar Finances Mali",
+        "Association Ancar Finances Mali",
+        "Ancar Finances",
+        "Ancar Finances Mali"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    },
+    {
+      "id": "ml-benso-jamanun",
+      "name": "Benso Jamanun",
+      "aliases": [
+        "Association Benso Jamanun"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20MALI_2024_2.pdf",
+        "https://cb-umoa.org/index.php/en/institutions-regulated-wamu-banking-commission"
+      ]
+    }
+  ]
+}

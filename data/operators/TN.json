@@ -1,0 +1,1009 @@
+{
+  "country": "TN",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+    "microfinance": "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+  },
+  "operators": [
+    {
+      "id": "tn-stb",
+      "name": "STB",
+      "aliases": [
+        "Société Tunisienne de Banque",
+        "Societe Tunisienne de Banque",
+        "STB Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.stb.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/stb.svg",
+        "source": "https://play-lh.googleusercontent.com/jBrtn34iCrQAwlbFLRHiEQ-sEL2REhpa9f9hvwa315BcojOJ_SW5-dHY5ooRqDymvGWUBW-lFjBget71oeUxrQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-bna",
+      "name": "BNA",
+      "aliases": [
+        "Banque Nationale Agricole",
+        "BNA Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bna.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/bna.svg",
+        "source": "https://play-lh.googleusercontent.com/O525lFFuiisvR6ZGVZNK_Fu_wVmxEvXp9-7Wr0AYPeoAZaVMnuM45WzEOK0Hrw47AXAhc7cQZdpusKcePwNgKA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-bh-bank",
+      "name": "BH Bank",
+      "aliases": [
+        "Banque de l'Habitat",
+        "BH"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bh.com.tn",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-bfpme",
+      "name": "BFPME",
+      "aliases": [
+        "Banque de Financement des Petites et Moyennes Entreprises"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bfpme.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/bfpme.svg",
+        "source": "https://www.bfpme.com.tn/images/uploads/2024/08/logo_top2-2.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0"
+      ]
+    },
+    {
+      "id": "tn-bts",
+      "name": "BTS",
+      "aliases": [
+        "Banque Tunisienne de Solidarité",
+        "Banque Tunisienne de Solidarite",
+        "BTS Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bts.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/bts.svg",
+        "source": "https://www.bts.com.tn/images/logo.jpg",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-bte",
+      "name": "BTE",
+      "aliases": [
+        "Banque de Tunisie et des Emirats",
+        "Banque de Tunisie et des Émirats"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bte.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/bte.svg",
+        "source": "https://play-lh.googleusercontent.com/69EmfLLHb9mG7jyW2KGFSCOxSYiE-e_OdyJ7gInNqeCbLq1iuCD0gWHesi39Yr8bvGeDWtGM07_gD779lAnK=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-btl",
+      "name": "BTL",
+      "aliases": [
+        "Banque Tuniso-Libyenne",
+        "Banque Tuniso Libyenne"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.btl.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/btl.svg",
+        "source": "https://play-lh.googleusercontent.com/B9wfAUnNEPfCDaJAz86JJhW2n-hxUcVSBFNYRs8bIJtXyqFtXGcGovm9tt0DRl-ti4rqk7ZA8XwwPEczcxbENQ=s512",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-tsb",
+      "name": "Tunisian Saudi Bank",
+      "aliases": [
+        "TSB",
+        "STUSID Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.stusidbank.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/tunisian-saudi-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/1BSYgkiGDjvr-s-tC8U0vMiQKnI2D8mwfj7AgVPWuU10Z8raIKoRNngcPC4pOr1YotHYCDgmyrPy4xRyGd01Qj4=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-banque-zitouna",
+      "name": "Banque Zitouna",
+      "aliases": [
+        "Zitouna",
+        "BZ"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.banquezitouna.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-al-baraka",
+      "name": "Al Baraka Bank Tunisie",
+      "aliases": [
+        "Al Baraka Bank",
+        "Albaraka Tunisie"
+      ],
+      "type": "bank",
+      "group": "Al Baraka",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.albarakabank.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/al-baraka.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-wifak-bank",
+      "name": "Wifak Bank",
+      "aliases": [
+        "Al Wifak International Bank",
+        "WIB",
+        "Wifak International Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.wifakbank.com",
+      "logo": {
+        "svg": "svg/logos/bank/wifak-bank.svg",
+        "source": "https://www.wifakbank.com/build/assets/logo.0db6c6d8.webp",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-amen-bank",
+      "name": "Amen Bank",
+      "aliases": [
+        "AB",
+        "Amen"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.amenbank.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/amen-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/x72cxitewrG-e8cxDIYLKL6Ti39eTq7IWZ4XMCwn-YsoNHbA_jUTZGIn95UcImI5oBKq78SMB5FVxDmrutJfIQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-attijari-bank",
+      "name": "Attijari Bank",
+      "aliases": [
+        "Attijari Bank Tunisie",
+        "Attijariwafa"
+      ],
+      "type": "bank",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.attijaribank.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/attijari-bank.svg",
+        "source": "https://www.attijaribank.com.tn/sites/default/files/Logo_attijari_0.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-atb",
+      "name": "ATB",
+      "aliases": [
+        "Arab Tunisian Bank"
+      ],
+      "type": "bank",
+      "group": "Arab Bank",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.atb.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/atb.svg",
+        "source": "https://play-lh.googleusercontent.com/8mE_s3ihyff-Dz3eXAkJHMR4uIkn64PzUIWQUd8upx4Pxebiowg5et2RS4JfcRglruKA-sUZ9gIxnDe3J53s=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-bank-abc",
+      "name": "Bank ABC Tunisie",
+      "aliases": [
+        "Arab Banking Corporation",
+        "ABC",
+        "Bank ABC"
+      ],
+      "type": "bank",
+      "group": "Bank ABC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bank-abc.svg",
+        "source": "https://play-lh.googleusercontent.com/lD_fzc9mOn-eCQ54OuTRIDzM1e2Km_X_v7z_pzdgsXkjUsm889fyHJY_Ar6KcMcqoYNLEV_uiwJ5nUOQbdHbmg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-biat",
+      "name": "BIAT",
+      "aliases": [
+        "Banque Internationale Arabe de Tunisie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.biat.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/biat.svg",
+        "source": "https://play-lh.googleusercontent.com/XznIcTr_7aO4j3c5VvQCWlL-KP-HCcS5h3PeAESnZtKuop95GtqpVRqjZImxv97cBlC2swR7CYIPX-oc45jArg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-bt",
+      "name": "Banque de Tunisie",
+      "aliases": [
+        "BT"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bt.com.tn",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-btk",
+      "name": "BTK",
+      "aliases": [
+        "Banque Tuniso-Koweïtienne",
+        "Banque Tuniso Koweitienne",
+        "BTK Bank"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.btknet.com",
+      "logo": {
+        "svg": "svg/logos/bank/btk.svg",
+        "source": "https://play-lh.googleusercontent.com/IUe7H1gh7nh2qswvMo6AOia5-hJ8ndJFXle1ihai3ljMZ8PL70QIv_QnfI9qoLBhj8g3GZjszcPWDDzQHE1T=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-citibank",
+      "name": "Citibank Tunisie",
+      "aliases": [
+        "Citi Bank",
+        "Citi",
+        "Citibank"
+      ],
+      "type": "bank",
+      "group": "Citi",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/citi.svg",
+        "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-qnb",
+      "name": "QNB Tunisia",
+      "aliases": [
+        "Qatar National Bank Tunis",
+        "QNB",
+        "QNB Tunis"
+      ],
+      "type": "bank",
+      "group": "QNB",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.qnb.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/qnb.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-ubci",
+      "name": "UBCI",
+      "aliases": [
+        "Union Bancaire pour le Commerce et l'Industrie"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubcinet.net",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-uib",
+      "name": "UIB",
+      "aliases": [
+        "Union Internationale de Banques"
+      ],
+      "type": "bank",
+      "group": "Société Générale",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.uib.com.tn",
+      "logo": {
+        "svg": "svg/logos/bank/uib.svg",
+        "source": "https://play-lh.googleusercontent.com/73BP6mTm2BfowGPyiMI5XhT4-K2mTHwwkFleb0TW5kH9jcizZs1dRA4NukzNrZd_ojYfE5uMJy78f0Be9s_arw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-alubaf",
+      "name": "ALUBAF International Bank",
+      "aliases": [
+        "ALUBAF"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/apercu-general-1",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-naib",
+      "name": "North Africa International Bank",
+      "aliases": [
+        "NAIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/apercu-general-1",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-tib",
+      "name": "Tunis International Bank",
+      "aliases": [
+        "TIB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/apercu-general-1",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-tfbank",
+      "name": "Tunisian Foreign Bank",
+      "aliases": [
+        "TFBank",
+        "TFB"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/apercu-general-1"
+      ]
+    },
+    {
+      "id": "tn-bft",
+      "name": "Banque Franco Tunisienne",
+      "aliases": [
+        "BFT"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "defunct",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
+        "https://managers.tn/2022/03/01/la-bft-ferme-ses-portes-apres-143-ans-dexistence-voici-ce-quil-faut-en-savoir"
+      ]
+    },
+    {
+      "id": "tn-asad",
+      "name": "ASAD",
+      "aliases": [
+        "Association de soutien à l'auto-développement"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-taysir",
+      "name": "Taysir Microfinance",
+      "aliases": [
+        "Taysir"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/taysir-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/Vl6yGnIjT3zQoTytrqSw-Fn3_h82_wWyc0NqxmHvSDw89YNpp6P32C9qxSCL_LoKG5YdrkMF4XCEO5CMDzUR=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-cfe",
+      "name": "Centre Financier aux Entrepreneurs",
+      "aliases": [
+        "CFE",
+        "CFE Tunisie"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/centre-financier-aux-entrepreneurs.svg",
+        "source": "https://play-lh.googleusercontent.com/LNM6-i57Ehq0xVLiWoGr4DqryrUo_ltyYvlHX6BUA4CPDo5tN_WoVvQ0h1_x6BPOJlD1gfYL63cP0oo48Aum6OA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-enda-tamweel",
+      "name": "Enda Tamweel",
+      "aliases": [
+        "ENDA",
+        "Enda Tunisie",
+        "Enda"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.endatamweel.tn",
+      "logo": {
+        "svg": "svg/logos/microfinance/enda-tamweel.svg",
+        "source": "https://play-lh.googleusercontent.com/kYa6Wva_NNFsnTDdWaFVPWgREMXJE_LTLc-gKb04EZW30BeG9fD7Qnh4zrDa21uZXMA0NzbR6oq2MMEIJyTuDQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-zitouna-tamkeen",
+      "name": "Zitouna Tamkeen",
+      "aliases": [
+        "Tamkeen"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zitounatamkeen.com",
+      "logo": {
+        "svg": "svg/logos/microfinance/zitouna-tamkeen.svg",
+        "source": "https://zitounatamkeen.com/wp-content/themes/hypress/assets/zitouna.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-baobab",
+      "name": "Microcred Baobab",
+      "aliases": [
+        "Baobab Tunisie",
+        "Microcred Tunisie",
+        "Baobab"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-advans",
+      "name": "Advans Tunisie",
+      "aliases": [
+        "Advans"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/advans.svg",
+        "source": "https://www.advanscotedivoire.com/wp-content/uploads/sites/8/2024/04/Logo-Advans-couleurs.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-el-amel",
+      "name": "El Amel de Microfinance",
+      "aliases": [
+        "El Amel",
+        "Amel Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
+      ]
+    },
+    {
+      "id": "tn-kashy",
+      "name": "Kashy",
+      "aliases": [
+        "Viamobile"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/kashy.svg",
+        "source": "https://play-lh.googleusercontent.com/pTtXnbOlZa8LXuvgdkvNb00J34wEPpDOHcEnBQiJYPV8zN5OQUBezMlosM0iO_KX5pLIbml45uvH-5MyUy1LQqI=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
+      ]
+    },
+    {
+      "id": "tn-izi",
+      "name": "IZI",
+      "aliases": [
+        "Zitouna Paiement",
+        "Zitouna Pay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/izi.svg",
+        "source": "https://play-lh.googleusercontent.com/gWkW4Acbu101YAS2N_G4I278QKPNniK3Ge6jvYG-ZWv6esQuivW7B1u6Z5bGAEeqqLny4PkRsIi7D7Dv1R008w=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
+      ]
+    },
+    {
+      "id": "tn-enda-tao",
+      "name": "Enda Tao",
+      "aliases": [
+        "Enda Cash"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/enda-tao.svg",
+        "source": "https://play-lh.googleusercontent.com/kYa6Wva_NNFsnTDdWaFVPWgREMXJE_LTLc-gKb04EZW30BeG9fD7Qnh4zrDa21uZXMA0NzbR6oq2MMEIJyTuDQ=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
+      ]
+    },
+    {
+      "id": "tn-wafacash",
+      "name": "Wafacash Tunisie",
+      "aliases": [
+        "Wafacash",
+        "Wafa Cash"
+      ],
+      "type": "mobile_money",
+      "group": "Attijariwafa",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/wafacash.svg",
+        "source": "https://www.wafacash.com/sites/default/files/styles/webp/public/2025-04/Logo_Wafacash_MarocB.png.webp?itok=AQgKJayv",
+        "method": "vectorized",
+        "background": "dark"
+      },
+      "sources": [
+        "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
+      ]
+    },
+    {
+      "id": "tn-payvago",
+      "name": "PayvaGo",
+      "aliases": [
+        "Payvago"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/payvago.svg",
+        "source": "https://play-lh.googleusercontent.com/g_JMYnPNVOWaLSj0-qb06cWkbuaOcKvbE_GlVdExLm4pLBpXKJbh8GKMPo63_mgJCcVPUuPlTvKDAJOpsOV47g=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
+      ]
+    },
+    {
+      "id": "tn-firstpay",
+      "name": "FirstPay",
+      "aliases": [
+        "First Pay"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/firstpay.svg",
+        "source": "https://play-lh.googleusercontent.com/I-zO3e0W5VxZU0Jez5Y4aErcIBLV2Doup76sXJHA69oei0x3ngRMhCCrVQ0GBqNpH32KMVU5l1-_ajNLCsR82Q=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html",
+        "https://www.leconomistemaghrebin.com/2024/08/10/la-societe-firstpay-agreee-etablissement-de-paiement-resident/"
+      ]
+    },
+    {
+      "id": "tn-walletii",
+      "name": "walletii",
+      "aliases": [
+        "Walletii by Ooredoo",
+        "OFT Tunisie",
+        "Ooredoo Fintech"
+      ],
+      "type": "mobile_money",
+      "group": "Ooredoo",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/walletii.svg",
+        "source": "https://play-lh.googleusercontent.com/rjOLRKTzgTY8wwNb9jPtFyK2lqTWmgT1jPIowHFz5VIAQXhgnF5z96EKRgrEq9tXdajcuEcwwwnFfi5y5nYO=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html",
+        "https://africanmanager.com/oft-tunisie-obtient-lagrement-definitif-de-la-bct-en-tant-quetablissement-de-paiement/"
+      ]
+    },
+    {
+      "id": "tn-e-dinar",
+      "name": "e-Dinar",
+      "aliases": [
+        "La Poste Tunisienne",
+        "Poste Tunisienne",
+        "D17",
+        "DigiPostBank",
+        "e-Dinar Wallet",
+        "ONP",
+        "Office National des Postes"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.webdo.tn/fr/actualite/national/la-poste-tunisienne-lance-le-wallet-e-dinar-gratuit-pour-ces-services/379737/",
+        "https://www.lapresse.tn/2026/05/02/tunisie-voici-la-liste-des-banques-integrees-a-la-plateforme-des-cheques/"
+      ]
+    },
+    {
+      "id": "tn-flouci",
+      "name": "Flouci",
+      "aliases": [
+        "Kaoun"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.flouci.com",
+      "logo": {
+        "svg": "svg/logos/fintech/flouci.svg",
+        "source": "https://play-lh.googleusercontent.com/7mMIDBQ-DsWB5GZluLfTwMXROjPTiJDS1LyQDPKRS8G20dW3LD8GGTU68FZ1hhbwM7-5jqe5QNMiDjQrIoDV=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.forbesmiddleeast.com/lists/30-under-30-2024/nebras-jemel-anis-kallel/",
+        "https://managers.tn/2025/03/15/flouci-parmi-les-50-meilleures-fintechs-de-la-region-mena-selon-forbes"
+      ]
+    }
+  ]
+}

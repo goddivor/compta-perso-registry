@@ -1,0 +1,2276 @@
+{
+  "country": "SL",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "partial",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf",
+    "microfinance": "https://bsl.gov.sl/Directory_of_Financial_Institutions.html"
+  },
+  "operators": [
+    {
+      "id": "sl-sierra-leone-commercial-bank",
+      "name": "Sierra Leone Commercial Bank",
+      "aliases": [
+        "SLCB",
+        "Sierra Leone Commercial Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.slcb.com",
+      "logo": {
+        "svg": "svg/logos/bank/sierra-leone-commercial-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/tiqWL27IBenBh6_DiZB0gSR9n1lebvOXEjUPOCitQap6bXHGGrK-fF-TkcPKdirOOzEuo9QzHG-ZrcqZFZB-ngM=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-rokel-commercial-bank",
+      "name": "Rokel Commercial Bank",
+      "aliases": [
+        "RCB",
+        "Rokel Bank",
+        "Rokel Commercial Bank (SL) Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.rokelbank.sl",
+      "logo": {
+        "svg": "svg/logos/bank/rokel-commercial-bank.svg",
+        "source": "https://www.rokelbank.sl/web/image/website/1/logo/Rokel%20Bank%20SL?unique=133e687",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-standard-chartered-sierra-leone",
+      "name": "Standard Chartered Sierra Leone",
+      "aliases": [
+        "Standard Chartered",
+        "SCB",
+        "Standard Chartered Bank (SL) Limited"
+      ],
+      "type": "bank",
+      "group": "Standard Chartered",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sc.com/sl",
+      "logo": {
+        "svg": "svg/logos/bank/standard-chartered.svg",
+        "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-union-trust-bank",
+      "name": "Union Trust Bank",
+      "aliases": [
+        "UTB",
+        "Union Trust Bank Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.utb.sl",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-gtbank-sierra-leone",
+      "name": "GTBank Sierra Leone",
+      "aliases": [
+        "GTBank",
+        "GTB",
+        "Guaranty Trust Bank",
+        "Guaranty Trust Bank (SL) Limited",
+        "GTCO"
+      ],
+      "type": "bank",
+      "group": "GTCO",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gtbank.svg",
+        "source": "https://www.gtbank.com/",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-vista-bank-sierra-leone",
+      "name": "Vista Bank Sierra Leone",
+      "aliases": [
+        "Vista Bank",
+        "Vista Bank (SL) Limited"
+      ],
+      "type": "bank",
+      "group": "Vista",
+      "status": "active",
+      "successor": null,
+      "website": "https://vistabankgroup.com",
+      "logo": {
+        "svg": "svg/logos/bank/vista.svg",
+        "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-first-bank-sierra-leone",
+      "name": "First Bank Sierra Leone",
+      "aliases": [
+        "FirstBank",
+        "First Bank",
+        "First Bank (SL) Limited",
+        "FBN"
+      ],
+      "type": "bank",
+      "group": "FirstBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-ecobank-sierra-leone",
+      "name": "Ecobank Sierra Leone",
+      "aliases": [
+        "Ecobank",
+        "Ecobank (SL) Limited"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-access-bank-sierra-leone",
+      "name": "Access Bank Sierra Leone",
+      "aliases": [
+        "Access Bank",
+        "Access Bank (SL) Limited"
+      ],
+      "type": "bank",
+      "group": "Access",
+      "status": "active",
+      "successor": null,
+      "website": "https://sierraleone.accessbankplc.com",
+      "logo": {
+        "svg": "svg/logos/bank/access.svg",
+        "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-uba-sierra-leone",
+      "name": "UBA Sierra Leone",
+      "aliases": [
+        "UBA",
+        "United Bank for Africa",
+        "United Bank for Africa (SL) Limited"
+      ],
+      "type": "bank",
+      "group": "UBA",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.ubagroup.com/sierraleone",
+      "logo": {
+        "svg": "svg/logos/bank/uba.svg",
+        "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-skye-bank-sierra-leone",
+      "name": "Skye Bank Sierra Leone",
+      "aliases": [
+        "Skye Bank",
+        "Skye Bank (SL) Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.skyebanksl.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-zenith-bank-sierra-leone",
+      "name": "Zenith Bank Sierra Leone",
+      "aliases": [
+        "Zenith Bank",
+        "Zenith",
+        "Zenith Bank (SL) Limited"
+      ],
+      "type": "bank",
+      "group": "Zenith",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.zenithbank.com.sl",
+      "logo": {
+        "svg": "svg/logos/bank/zenith.svg",
+        "source": "https://play-lh.googleusercontent.com/RIcMVbshRar85KSNG8-JuIEzLffjIAsjxxVXJ0msQeVDJ7RH_8qxsxGDfsI1rt21N545mKZz27I4FFAhAj7eJMc=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-bloom-bank-africa-sierra-leone",
+      "name": "Bloom Bank Africa Sierra Leone",
+      "aliases": [
+        "Bloom Bank",
+        "Bloom Bank Africa",
+        "Bloom Bank Africa (SL) Limited"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://sl.bloombankafrica.com",
+      "logo": {
+        "svg": "svg/logos/bank/bloom-bank-africa.svg",
+        "source": "https://bloombankafrica.com/assets/55efbb96367fe0d2f417854c3b5a19110fd5411c-C85geNzK.png",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-commerce-and-mortgage-bank",
+      "name": "Commerce & Mortgage Bank",
+      "aliases": [
+        "CMB",
+        "Commerce and Mortgage Bank",
+        "Commerce & Mortgage Bank (SL) Plc"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/commerce-and-mortgage-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Be82S0cJho-Fk-CnEkUOyziKiVM82Ri67ejWHDt7ABaPQWKw5XUEeyQgD-kdtBOgmdCRAHdwzlFKIe6vCkQ7qRs=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
+      ]
+    },
+    {
+      "id": "sl-orange-money",
+      "name": "Orange Money",
+      "aliases": [
+        "Orange Money Sierra Leone",
+        "OM"
+      ],
+      "type": "mobile_money",
+      "group": "Orange",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.orange.sl",
+      "logo": {
+        "svg": "svg/logos/mobile-money/orange-money.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.theigc.org/blogs/how-sierra-leone-can-join-west-africas-mobile-money-revolution",
+        "https://www.orange.sl"
+      ]
+    },
+    {
+      "id": "sl-afrimoney",
+      "name": "Afrimoney",
+      "aliases": [
+        "Africell Money",
+        "Afri Money",
+        "Africell"
+      ],
+      "type": "mobile_money",
+      "group": "Africell",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.africell.sl",
+      "logo": {
+        "svg": "svg/logos/mobile-money/afrimoney.svg",
+        "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.osiris.sn/sierra-leone-apres-orange-africell-lance-une-carte-prepayee-adossee-au-mobile.html",
+        "https://support.taptapsend.com/hc/en-gb/articles/48667692706067-Sierra-Leone"
+      ]
+    },
+    {
+      "id": "sl-qmoney",
+      "name": "QMoney",
+      "aliases": [
+        "Q Money",
+        "Qcell Money",
+        "QM Salone"
+      ],
+      "type": "mobile_money",
+      "group": "Qcell",
+      "status": "active",
+      "successor": null,
+      "website": "https://www.qcell.sl",
+      "logo": {
+        "svg": "svg/logos/mobile-money/qmoney.svg",
+        "source": "https://www.qcell.sl/themes/demo/assets/img/IMAGES/logo.jpg",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.qcell.sl/mobile-app",
+        "https://support.taptapsend.com/hc/en-gb/articles/48667692706067-Sierra-Leone"
+      ]
+    },
+    {
+      "id": "sl-vult",
+      "name": "Vult",
+      "aliases": [
+        "Vult Wallet",
+        "Metro Cable Vult"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/fintech/vult.svg",
+        "source": "https://play-lh.googleusercontent.com/NWuk2I3NNRtZfbKqFra3jRH1_WC7Wa03QaoPNPINYvwqCPF9nTncK_Erf0OW17wPkIy8m4bNzVGoczQpc54I2Q=s512",
+        "method": "vectorized",
+        "background": "light"
+      },
+      "sources": [
+        "https://ibsintelligence.com/ibsi-news/velmie-powers-sierra-leones-first-digital-financial-super-app-vult",
+        "https://fintech.global/2024/05/24/sierra-leones-metro-cable-and-velmie-team-up-for-vult-a-revolutionary-digital-wallet/"
+      ]
+    },
+    {
+      "id": "sl-ecobank-microfinance",
+      "name": "Ecobank Microfinance",
+      "aliases": [
+        "Ecobank Microfinance Limited",
+        "EMSL"
+      ],
+      "type": "microfinance",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ecobank.svg",
+        "source": "https://play-lh.googleusercontent.com/-jg_Y5kEUF06Z2ODj0DU69nvWOEZyEkw0pouGCqsmwiowjLFD5QR3VIe6qu-QwPY8WVpQZgXIIBHDp2pwNF5bw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
+      ]
+    },
+    {
+      "id": "sl-bank-for-innovation-and-partnership-microfinance",
+      "name": "Bank for Innovation and Partnership Microfinance",
+      "aliases": [
+        "BIP",
+        "BIP Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/bank-for-innovation-and-partnership-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/ZEP6OWpJ4WSOHlr5RxZMzcd0Qi9sxEuMPl8o_2LeCoDcTjlqahN_gJHMdjpXCgjzlWHN4jTp7-M1Dy8m2WAMML0=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
+      ]
+    },
+    {
+      "id": "sl-lapo-sierra-leone",
+      "name": "LAPO Sierra Leone",
+      "aliases": [
+        "LAPO",
+        "Lift Above Poverty Organisation",
+        "Lift Above Poverty Organisation (SL) Ltd"
+      ],
+      "type": "microfinance",
+      "group": "LAPO",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/lapo.svg",
+        "source": "https://play-lh.googleusercontent.com/Ucr5LJRzKiUqmRxnD3nHoeG18bQ6wYQ6ccXLThn_3BZHTXGhjdnx8c4imQ_zt3GVd0yo0SMH9rkBx04oFV5e5A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
+      ]
+    },
+    {
+      "id": "sl-a-call-to-business",
+      "name": "A Call To Business",
+      "aliases": [
+        "ACTB",
+        "actb",
+        "A Call To Business (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
+      ]
+    },
+    {
+      "id": "sl-salone-microfinance-trust",
+      "name": "Salone Microfinance Trust",
+      "aliases": [
+        "SMT",
+        "Salone Microfinance Trust (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/salone-microfinance-trust.svg",
+        "source": "https://play-lh.googleusercontent.com/E94Hti740rnFpjyDn6qvxnrqa-qegR4K0pX36XCVuzCrh9ZluHYOFjRA5bZ9mOY4X3_Zj0YdQnTqFvFD3-SiL6A=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
+      ]
+    },
+    {
+      "id": "sl-apex-bank",
+      "name": "Apex Bank",
+      "aliases": [
+        "Apex Bank Sierra Leone",
+        "Apex Bank SL"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-marampa-masimera-community-bank",
+      "name": "Marampa-Masimera Community Bank",
+      "aliases": [
+        "Marampa-Masimera CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-yoni-community-bank",
+      "name": "Yoni Community Bank",
+      "aliases": [
+        "Yoni CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-segbwema-community-bank",
+      "name": "Segbwema Community Bank",
+      "aliases": [
+        "Segbwema CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-mattru-community-bank",
+      "name": "Mattru Community Bank",
+      "aliases": [
+        "Mattru CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-zimmi-community-bank",
+      "name": "Zimmi Community Bank",
+      "aliases": [
+        "Zimmi CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-kabala-community-bank",
+      "name": "Kabala Community Bank",
+      "aliases": [
+        "Kabala CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-nimiyama-community-bank",
+      "name": "Nimiyama Community Bank",
+      "aliases": [
+        "Nimiyama CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-sandor-community-bank",
+      "name": "Sandor Community Bank",
+      "aliases": [
+        "Sandor CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-pendembu-community-bank",
+      "name": "Pendembu Community Bank",
+      "aliases": [
+        "Pendembu CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-nimikoro-community-bank",
+      "name": "Nimikoro Community Bank",
+      "aliases": [
+        "Nimikoro CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-tongo-field-community-bank",
+      "name": "Tongo Field Community Bank",
+      "aliases": [
+        "Tongo Field CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-koindu-community-bank",
+      "name": "Koindu Community Bank",
+      "aliases": [
+        "Koindu CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-simbaru-community-bank",
+      "name": "Simbaru Community Bank",
+      "aliases": [
+        "Simbaru CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-taiama-community-bank",
+      "name": "Taiama Community Bank",
+      "aliases": [
+        "Taiama CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-sumbuya-community-bank",
+      "name": "Sumbuya Community Bank",
+      "aliases": [
+        "Sumbuya CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-madina-community-bank",
+      "name": "Madina Community Bank",
+      "aliases": [
+        "Madina CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-kamakwie-community-bank",
+      "name": "Kamakwie Community Bank",
+      "aliases": [
+        "Kamakwie CB"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/Apex%20Bank%20Community%20Banks.pdf"
+      ]
+    },
+    {
+      "id": "sl-brac-microfinance-sierra-leone",
+      "name": "BRAC Microfinance Sierra Leone",
+      "aliases": [
+        "BRAC",
+        "BRAC Microfinance (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": "BRAC",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/brac.svg",
+        "source": "https://play-lh.googleusercontent.com/I64Mlc-QDJVMdq9lppT3sWvdIMPdTya7d3_cs3ylLikC_s5JK6IVebVX-n-w7MG_urLhcf1dbaKJVAM6Of3U=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-grassroots-gender-empowerment-movement-microfinance",
+      "name": "Grassroots Gender Empowerment Movement Microfinance",
+      "aliases": [
+        "GGEM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-capitol-finance-company",
+      "name": "Capitol Finance Company",
+      "aliases": [
+        "Capitol Finance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-asa-microfinance-sierra-leone",
+      "name": "ASA Microfinance Sierra Leone",
+      "aliases": [
+        "ASA",
+        "ASA Microfinance (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": "ASA International",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/asa-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/YwfQZ6NMqKebfKekh1UBfWWs3nvBtCTwxEEFzgQOZq39EZMP2mTtTt6BiqgnU1OzzFspRDTKUYFNbY57b1n4TVk=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-africredit",
+      "name": "AfriCredit",
+      "aliases": [
+        "AfriCredit (SL) Limited",
+        "Africredit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-empire-solution",
+      "name": "Empire Solution",
+      "aliases": [
+        "Empire Solution (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-grassroot-mfi",
+      "name": "Grassroot MFI",
+      "aliases": [
+        "Grassroot MFI Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-edunations-microfinance",
+      "name": "Edunations Microfinance",
+      "aliases": [
+        "Edunations"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-trust-microfinance-and-title-loans",
+      "name": "Trust Microfinance & Title Loans",
+      "aliases": [
+        "Trust Microfinance and Title Loans"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-social-aid-volunteers-microfinance",
+      "name": "Social Aid Volunteers Microfinance",
+      "aliases": [
+        "SAV Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-wintays-finance",
+      "name": "Wintays Finance",
+      "aliases": [
+        "Wintays"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-win-trust-investment-and-general-services",
+      "name": "Win Trust Investment and General Services",
+      "aliases": [
+        "Win Trust"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-zahlanfx",
+      "name": "ZAHLANFX",
+      "aliases": [
+        "Zahlan FX",
+        "ZAHLANFX Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-gracemon-investment-company",
+      "name": "Gracemon Investment Company",
+      "aliases": [
+        "Gracemon"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-payee-day-loan-company",
+      "name": "Payee Day Loan Company",
+      "aliases": [
+        "Payee Day"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-munafa",
+      "name": "Munafa",
+      "aliases": [
+        "Munafa Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-quick-and-reliable-microfinance",
+      "name": "Quick and Reliable Microfinance",
+      "aliases": [
+        "Quick & Reliable Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-link-financial-services",
+      "name": "Link Financial Services",
+      "aliases": [
+        "Link Financial"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-emmanuel-salaries-solutions",
+      "name": "Emmanuel Salaries Solutions",
+      "aliases": [
+        "Emmanuel Salaries"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-harvest-microfinance",
+      "name": "Harvest Microfinance",
+      "aliases": [
+        "HaMFI",
+        "Harvest Microfinance (HaMFI) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-development-initiative-programme-microfinance",
+      "name": "Development Initiative Programme Microfinance",
+      "aliases": [
+        "DIProM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-women-in-action-microfinance",
+      "name": "Women In Action Microfinance",
+      "aliases": [
+        "WIA Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-goshen-micro-finance-market",
+      "name": "Goshen Micro Finance Market",
+      "aliases": [
+        "Goshen Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-watu-sierra-leone",
+      "name": "Watu Sierra Leone",
+      "aliases": [
+        "WATU",
+        "Watu Credit",
+        "WATU (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": "Watu",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-sirius-microfinance",
+      "name": "Sirius Microfinance",
+      "aliases": [
+        "Sirius"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-angel-capitalist-finance-corporation",
+      "name": "Angel Capitalist Finance Corporation",
+      "aliases": [
+        "Angel Capitalist"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-mopada-microfinance",
+      "name": "Mopada Microfinance",
+      "aliases": [
+        "Mopada"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-global-osusu-savings-and-credit-association",
+      "name": "Global Osusu Savings and Credit Association",
+      "aliases": [
+        "Global Osusu"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-em-and-em-co",
+      "name": "EM & EM CO",
+      "aliases": [
+        "EM and EM CO",
+        "EM&EM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-imperi-trust",
+      "name": "Imperi Trust",
+      "aliases": [
+        "Imperi Trust SL Ltd"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-green-circle-global-company",
+      "name": "Green Circle Global Company",
+      "aliases": [
+        "Green Circle"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-trus-sl",
+      "name": "Trus-SL",
+      "aliases": [
+        "Trus SL",
+        "TrusSL"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-airvantage-technology",
+      "name": "Airvantage Technology",
+      "aliases": [
+        "Airvantage"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-rablatulai-microfinance",
+      "name": "Rablatulai Microfinance",
+      "aliases": [
+        "Rablatulai"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-maham-microfinance-company",
+      "name": "Maham Microfinance Company",
+      "aliases": [
+        "Maham Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-oya-micro-credit-company",
+      "name": "Oya Micro-Credit Company",
+      "aliases": [
+        "Oya Microcredit",
+        "Oya"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-canaan-land-microfinance",
+      "name": "Canaan Land Microfinance",
+      "aliases": [
+        "Canaan Land"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/canaan-land-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/CH939Mc5ru8BRsCC78xEqilA4vXAyg1EkANe4CIsluh1Qcgj0GLe6f_Hqr2Ms2fXRhkL0sbUkGiKQWcaTHN8Bw=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-association-of-rural-development",
+      "name": "Association of Rural Development",
+      "aliases": [
+        "ARD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-richa-faith-microfinance",
+      "name": "Richa Faith Microfinance",
+      "aliases": [
+        "Richa Faith"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-betteh-life-microcredit-and-investments",
+      "name": "Betteh Life Microcredit and Investments",
+      "aliases": [
+        "Betteh Life"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-ascend-solutions",
+      "name": "Ascend Solutions",
+      "aliases": [
+        "Ascend Solutions (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-gsa-enterprises",
+      "name": "GSA Enterprises",
+      "aliases": [
+        "GSA Enterprises (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-ceda-microfinance",
+      "name": "CEDA Microfinance",
+      "aliases": [
+        "CEDA"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/ceda-microfinance.svg",
+        "source": "https://play-lh.googleusercontent.com/ue0tiGReTYdL6RKsLoIjS35BfZIxIrokdMQ5nRSB2xH4L48S3PgGoDpMsoRT9BlfStu5_0E05G2ZxgxOg0Rpbac=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-action-for-rural-development",
+      "name": "Action for Rural Development",
+      "aliases": [
+        "AFRD"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-code-salone-microfinance-company",
+      "name": "Code Salone Microfinance Company",
+      "aliases": [
+        "Code Salone"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-royal-microfinance",
+      "name": "Royal Microfinance",
+      "aliases": [
+        "Royal Microfinance Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-loans-and-savings-management",
+      "name": "Loans and Savings Management",
+      "aliases": [
+        "LSM"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/loans-and-savings-management.svg",
+        "source": "https://play-lh.googleusercontent.com/mmMBTI-8UI04QAgueILd6OuqdkCNyBA7VUO20mJqJXwiQZ20Nqq8vfzCMcNVWFVcNWic4rttaoTVjwoVzOGZyA=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-h-and-s-microfinance",
+      "name": "H&S Microfinance",
+      "aliases": [
+        "H and S Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-txt-africa",
+      "name": "TXT Africa",
+      "aliases": [
+        "TXT Africa (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-fech-it-global",
+      "name": "Fech-IT Global",
+      "aliases": [
+        "Fech IT Global"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-progressive-microfinance",
+      "name": "Progressive Microfinance",
+      "aliases": [
+        "Progressive Microfinance SL Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-tinada",
+      "name": "Tinada",
+      "aliases": [
+        "Tinada (SL) Limited"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-capital-one-microfinance",
+      "name": "Capital One Microfinance",
+      "aliases": [
+        "Capital One"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-ram-kamara-microfinance",
+      "name": "Ram Kamara Microfinance",
+      "aliases": [
+        "Ram Kamara"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-staion-microfinance",
+      "name": "Staion Microfinance",
+      "aliases": [
+        "Station Microfinance"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-jem-microcredit-solutions",
+      "name": "JEM Microcredit Solutions",
+      "aliases": [
+        "JEM Microcredit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-bluesky-financials",
+      "name": "Bluesky Financials",
+      "aliases": [
+        "Bluesky",
+        "Blue Sky Financials"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-prime-financial-investment-company",
+      "name": "Prime Financial Investment Company",
+      "aliases": [
+        "Prime Financial"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-interface-funding-solutions",
+      "name": "Interface Funding Solutions",
+      "aliases": [
+        "Interface Funding"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-aziza-financial-and-commercial-enterprise",
+      "name": "Aziza Financial and Commercial Enterprise",
+      "aliases": [
+        "Aziza"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/microfinance/aziza-financial-and-commercial-enterprise.svg",
+        "source": "https://play-lh.googleusercontent.com/S2A5upaSmUcZRZUWDWvYIQy1YXUFjJdR_sf6D81Mrm-_tW2rtO7YgAUvCMLbxtcLI5Ea-iEBfnlX1WiTijAaNSc=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-grace-anointing-rural-development",
+      "name": "Grace Anointing Rural Development",
+      "aliases": [
+        "Grace Anointing"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-jit-capital-microfinance",
+      "name": "JIT Capital Microfinance",
+      "aliases": [
+        "JIT Capital"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-community-initiative-for-development-and-empowerment",
+      "name": "Community Initiative for Development and Empowerment",
+      "aliases": [
+        "CIDE"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    },
+    {
+      "id": "sl-help-one-help-all-microfinance",
+      "name": "Help One Help All Microfinance",
+      "aliases": [
+        "HOHA",
+        "Help One Help All"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://bsl.gov.sl/CREDIT-ONLY.pdf"
+      ]
+    }
+  ]
+}

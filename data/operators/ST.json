@@ -1,0 +1,213 @@
+{
+  "country": "ST",
+  "verifiedAt": "2026-10-20",
+  "coverage": {
+    "bank": "complete",
+    "mobile_money": "complete",
+    "microfinance": "complete",
+    "fintech": "partial"
+  },
+  "listSources": {
+    "bank": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN",
+    "mobile_money": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP",
+    "microfinance": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=MIC",
+    "fintech": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP"
+  },
+  "operators": [
+    {
+      "id": "st-afriland-first-bank",
+      "name": "Afriland First Bank STP",
+      "aliases": [
+        "Afriland",
+        "Afriland First Bank São Tomé e Príncipe"
+      ],
+      "type": "bank",
+      "group": "Afriland First Group",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
+      ]
+    },
+    {
+      "id": "st-bistp",
+      "name": "BISTP",
+      "aliases": [
+        "Banco Internacional de São Tomé e Príncipe"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bistp.st/",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
+      ]
+    },
+    {
+      "id": "st-ecobank",
+      "name": "Ecobank STP",
+      "aliases": [
+        "Ecobank",
+        "Ecobank São Tomé e Príncipe"
+      ],
+      "type": "bank",
+      "group": "Ecobank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/ecobank.svg",
+        "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
+      ]
+    },
+    {
+      "id": "st-bgfibank",
+      "name": "BGFIBank STP",
+      "aliases": [
+        "BGFI",
+        "BGFI Bank STP"
+      ],
+      "type": "bank",
+      "group": "BGFIBank",
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/bgfibank.svg",
+        "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
+      ]
+    },
+    {
+      "id": "st-gti-bank",
+      "name": "GTI Bank",
+      "aliases": [
+        "GTI Bank SARL"
+      ],
+      "type": "bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/bank/gti-bank.svg",
+        "source": "https://play-lh.googleusercontent.com/Dh67fVI7AB7ztiTnPptaRWLO-5jeaX0ymvh28XUcb3wyCgT-YUiJVZEwga8otPcQBMDWildLbENMeISq9-gCJPs=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
+      ]
+    },
+    {
+      "id": "st-credial",
+      "name": "Credial",
+      "aliases": [
+        "Credial Lda"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=MIC"
+      ]
+    },
+    {
+      "id": "st-fast-credit",
+      "name": "Fast-Credit",
+      "aliases": [
+        "Fast Credit",
+        "FastCredit"
+      ],
+      "type": "microfinance",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=MIC"
+      ]
+    },
+    {
+      "id": "st-dobra-digital",
+      "name": "Dobra Digital",
+      "aliases": [
+        "Golfintech",
+        "GolFinTech"
+      ],
+      "type": "mobile_money",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": "svg/logos/mobile-money/dobra-digital.svg",
+        "source": "https://play-lh.googleusercontent.com/6pHej8Rk6kwi57zhWlNb-8O3EYbbmPrMmpnq5YKT6BhO7gidjJHTgqCXbFVGQWuBe62qb8IiQX5Oo15xS6kkU4Y=s512",
+        "method": "vectorized",
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP",
+        "https://forbesafricalusofona.com/?p=33033"
+      ]
+    },
+    {
+      "id": "st-mbulutransfer",
+      "name": "Mbulutransfer",
+      "aliases": [
+        "Mbulu Transfer"
+      ],
+      "type": "fintech",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": null,
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP"
+      ]
+    }
+  ]
+}
