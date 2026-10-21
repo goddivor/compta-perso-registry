@@ -1336,7 +1336,10 @@
       "sign": {
         "text": "F CFA",
         "svg": "svg/currencies/XOF.svg",
-        "font": "Poppins Bold"
+        "svgColor": "svg/currencies/XOF-color.svg",
+        "font": null,
+        "emblem": "BCEAO sawfish (Akan gold weight)",
+        "source": "https://www.bceao.int/sites/default/files/2023-07/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Juin%202023.pdf"
       },
       "countries": [
         "BF",

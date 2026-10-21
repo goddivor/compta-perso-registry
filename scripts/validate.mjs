@@ -27,6 +27,8 @@ for (const c of countries) {
 }
 for (const cur of currencies) {
   if (!cur.sign?.svg || !existsSync(join(ROOT, cur.sign.svg))) fail(cur.code, `missing sign svg`)
+  if (cur.sign?.svgColor && !existsSync(join(ROOT, cur.sign.svgColor))) fail(cur.code, `missing colour sign svg`)
+  if (cur.sign?.emblem && !cur.sign.source) fail(cur.code, `emblem sign without a source`)
 }
 
 const ids = new Map()

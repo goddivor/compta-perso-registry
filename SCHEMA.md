@@ -7,7 +7,7 @@ Four layers, built in order. Every file is UTF-8 JSON, 2-space indent, keys in t
 | 1 | Countries, currencies, flags | `data/countries.json`, `data/currencies.json`, `svg/flags/{4x3,1x1}/<iso2>.svg` | `scripts/build-countries.mjs` from CLDR + flag-icons — **never hand-edit** |
 | 2 | Financial operators per country | `data/operators/<ISO2>.json` | research, hand-curated, every entry sourced |
 | 3 | Operator logos | `svg/logos/<type>/<brand>.svg` (one file per brand, shared across countries) | `scripts/logos/*` — official SVG first, then vectorized raster, every logo visually reviewed |
-| 4 | Currency signs | `svg/currencies/<CODE>.svg` | drawn from the CLDR local symbol |
+| 4 | Currency signs | `svg/currencies/<CODE>.svg` (+ `<CODE>-color.svg` for emblems) | drawn from the CLDR local symbol, or the issuer's emblem (`art/currency-emblems/`) |
 
 ## Country (`data/countries.json` → `countries[]`)
 
@@ -34,10 +34,16 @@ Four layers, built in order. Every file is UTF-8 JSON, 2-space indent, keys in t
   "symbol": "F CFA", "narrowSymbol": null,
   "localSymbols": { "TG": "F CFA", "SN": "F CFA" },
   "decimals": 0, "cashDecimals": null,
-  "sign": { "svg": null, "note": "…" },
+  "sign": { "text": "F CFA", "svg": "svg/currencies/XOF.svg", "svgColor": "svg/currencies/XOF-color.svg",
+            "font": null, "emblem": "BCEAO sawfish (Akan gold weight)", "source": "https://…" },
   "countries": ["BF", "BJ", "CI", "GW", "ML", "NE", "SN", "TG"]
 }
 ```
+
+`sign.text` is what amounts show; `sign.svg` is the currency's icon, one colour (`currentColor`). Most
+signs outline `text` in `sign.font`. When the issuer has an emblem used as the currency's symbol (XOF:
+the BCEAO sawfish on every coin and note), `sign.svg` is that emblem, `sign.svgColor` its official
+colours, `font` is null and `source` is the issuer's vector document it was extracted from.
 
 Display rule for the app: `localSymbols[country] ?? narrowSymbol ?? symbol`. Amounts are rounded to
 `decimals`. There is **no conversion** between currencies anywhere.

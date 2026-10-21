@@ -34,11 +34,30 @@ const LATIN = /^[\p{Script=Latin}\p{Sc}\s.]+$/u
 const pickSign = (c) =>
   [c.narrowSymbol, ...Object.values(c.localSymbols), c.symbol].filter((s) => s && LATIN.test(s)).sort((a, b) => a.length - b.length)[0] ?? c.code
 
+// Currencies whose issuer has an emblem used as the currency's symbol: the sign is that emblem, not the
+// typographic symbol (which stays in `text` for amounts). Art lives in art/currency-emblems/, extracted
+// from the issuer's own vector documents: <CODE>.svg one-colour (currentColor), <CODE>-color.svg official colours.
+const EMBLEMS = {
+  XOF: {
+    name: 'BCEAO sawfish (Akan gold weight)',
+    source: 'https://www.bceao.int/sites/default/files/2023-07/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20Juin%202023.pdf',
+  },
+}
+
 const path = join(ROOT, 'data/currencies.json')
 const doc = JSON.parse(readFileSync(path, 'utf8'))
 mkdirSync(join(ROOT, 'svg/currencies'), { recursive: true })
 for (const c of doc.currencies) {
   const text = pickSign(c)
+  const emblem = EMBLEMS[c.code]
+  if (emblem) {
+    for (const suffix of ['', '-color']) {
+      const raw = readFileSync(join(ROOT, `art/currency-emblems/${c.code}${suffix}.svg`), 'utf8')
+      writeFileSync(join(ROOT, `svg/currencies/${c.code}${suffix}.svg`), optimize(raw, { multipass: true, plugins: ['preset-default'] }).data + '\n')
+    }
+    c.sign = { text, svg: `svg/currencies/${c.code}.svg`, svgColor: `svg/currencies/${c.code}-color.svg`, font: null, emblem: emblem.name, source: emblem.source }
+    continue
+  }
   const draw = text.replace(/[\u00A0\u202F]/g, ' ') // CLDR uses (narrow) no-break spaces
   // First font that has every glyph wins: Poppins (the app font), else Noto Sans — never both in one sign.
   let f = null, o = null
@@ -55,4 +74,4 @@ for (const c of doc.currencies) {
   c.sign = { text, svg: `svg/currencies/${c.code}.svg`, font: f.name }
 }
 writeFileSync(path, JSON.stringify(doc, null, 2) + '\n')
-console.log(`OK — ${doc.currencies.length} currency signs (${doc.currencies.filter((c) => c.sign.font.startsWith('Noto')).map((c) => c.code).join(', ')} in Noto Sans)`)
+console.log(`OK — ${doc.currencies.length} currency signs (${doc.currencies.filter((c) => c.sign.font?.startsWith('Noto')).map((c) => c.code).join(', ')} in Noto Sans)`)

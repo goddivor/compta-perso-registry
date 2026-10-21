@@ -23,7 +23,8 @@ the Compta Perso app and served through jsDelivr; usable by any app that needs t
 - **43 currencies** — names, plural forms, decimals and the symbol as written locally (`F CFA`, `₦`,
   `GH₵`, `Ksh`…), never converted into one another
 - **Flags as SVG** — every country in 4:3 and square, from flag-icons
-- **Currency signs as SVG** — each local symbol outlined into paths, tintable with `currentColor`
+- **Currency signs as SVG** — each local symbol outlined into paths, tintable with `currentColor`; the
+  West African CFA franc carries the BCEAO sawfish, extracted from the central bank's own vector art
 - **~4,000 operators** — banks, mobile money, microfinance and fintech, every entry carrying the URL of
   the official list or page it comes from, with old names as searchable aliases
 - **Operator logos as SVG only** — official SVG first, otherwise vectorized, every logo reviewed by eye;
@@ -84,11 +85,13 @@ npm run logos:apply
 | `data/operators/<ISO2>.json` | operators of one country, hand-curated and sourced |
 | `svg/flags/{4x3,1x1}/` | country flags |
 | `svg/currencies/` | currency signs |
+| `art/currency-emblems/` | issuer emblems used as currency signs (source art) |
 | `svg/logos/<type>/` | operator logos, one file per brand |
 | `SCHEMA.md` | the contract for every file |
 
 ## 📜 License
 
 Data and scripts: MIT. Flags come from flag-icons (MIT). Currency signs are outlined from Poppins and
-Noto Sans (SIL Open Font License 1.1, both in `fonts/`). Operator logos are trademarks of their owners,
+Noto Sans (SIL Open Font License 1.1, both in `fonts/`). The XOF sign is the emblem of the BCEAO,
+included only to identify the currency. Operator logos are trademarks of their owners,
 included only to identify them; an owner may ask for removal.
