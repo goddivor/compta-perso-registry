@@ -1959,9 +1959,9 @@
       "successor": null,
       "website": "https://www.cofinacotedivoire.com",
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cofina.svg",
+        "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
+        "method": "official-svg",
         "background": null
       },
       "sources": [

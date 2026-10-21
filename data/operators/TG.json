@@ -73,9 +73,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/bank/bia-tg.svg",
+        "source": "https://www.biat.tg/images/2023/logobiat.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -209,9 +209,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/bank/siab.svg",
+        "source": "https://siabtogo.com/wp-content/uploads/2024/10/Logo_siab_-1.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -253,9 +253,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/bank/utb.svg",
+        "source": "https://play-lh.googleusercontent.com/cJdvX2zQPp0Ugq5DzASS4bnuTjO_lHWjdkX3cxS0qUhb0DZDMKTVQz2rSeBNgZ498ifN8dyfEJa4mieeL5Gj9Q=s512",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -276,9 +276,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/bank/bdm-tg.svg",
+        "source": "https://www.bdm-sa.com/wp-content/uploads/2026/01/Logo-BDM-120x76-px-v.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -472,9 +472,9 @@
       "successor": null,
       "website": "https://www.intouchgroup.net",
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/fintech/intouch.svg",
+        "source": "https://cdn.prod.website-files.com/66d04fe65aaef00487a98d54/678a7c8ebf55cf1a40a8b923_LOGO-HORIZONTAL_TP-p-1080.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -494,9 +494,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/fintech/ollo-africa.svg",
+        "source": "https://www.imaginedemain.tg/wp-content/uploads/2025/09/68c40705edf9c_IMG-20250912-WA0029.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -516,9 +516,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/fintech/semoa.svg",
+        "source": "https://www.semoa-group.com/assets/semoa-logo-BTnHkkDF.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -539,9 +539,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/wages.svg",
+        "source": "https://wages.tg/wp-content/uploads/2026/03/logo-WAGES-removebg.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -585,9 +585,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coopec-ad-tg.svg",
+        "source": "https://coopecadtogo.com/wp-content/uploads/2023/09/Logo400.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -610,9 +610,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/fucec.svg",
+        "source": "https://www.fucec-togo.com/media/media-mhn2o8ln-f79922da-1511cb/variants/medium",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -634,9 +634,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/umecto.svg",
+        "source": "https://umecto.tg/wp-content/uploads/2022/05/LOGO-umecto-4.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -657,9 +657,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/urclec.svg",
+        "source": "https://urclectogo.com/wp-content/uploads/2021/10/cropped-logo-urclec-1-1-180x180.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -681,9 +681,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/u-cmecs.svg",
+        "source": "https://www.facebook.com/profile.php?id=61560307919391",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -705,9 +705,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/fececav.svg",
+        "source": "https://fececav.com/wp-content/uploads/2022/06/logo-fececav-e1525290860766.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -729,9 +729,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/ucmecf-to.svg",
+        "source": "https://www.facebook.com/ucmecfto/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -752,9 +752,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/amupec.svg",
+        "source": "https://www.goafricaonline.com/uploads/media/company_square/0001/12/5925c65076a75-logo-amupec-togo.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -774,9 +774,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/muto.svg",
+        "source": "https://tg.linkedin.com/company/mutuelle-universitaire-du-togo",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -824,9 +824,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mgpcc-dekawowo.svg",
+        "source": "https://mgpcc-dekawowo.com/wp-content/uploads/2024/08/cropped-logo-mgpcc_icone-removebg-preview.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -847,9 +847,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mused.svg",
+        "source": "https://www.goafricaonline.com/uploads/media/company_square/0001/02/58131b7509b8e-logo-mused-togo.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -870,9 +870,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coopectat.svg",
+        "source": "https://raw.githubusercontent.com/walter1960/coopectat-core-banking-web/HEAD/public/copectat_logo.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -917,9 +917,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coopec-togo-port.svg",
+        "source": "https://coopecport.tg/wp-content/uploads/2026/08/coopecport-logo.webp",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -940,9 +940,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cecap.svg",
+        "source": "https://www.cecap.tg/assets/img/logo_entete.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -963,9 +963,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cecpf.svg",
+        "source": "https://www.facebook.com/people/CECPF-Microfinance/100067451209443/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1121,9 +1121,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coopec-ilema.svg",
+        "source": "https://www.ilematogo.com/storage/site/KNDLQPKZhNSK23Mk1i9TCQy3WMMn7Mb1BF6fGp51.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1144,9 +1144,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mutuelle-akwaba.svg",
+        "source": "https://mutuelleakwaba.org/wp-content/uploads/2026/08/WhatsApp-Image-2025-03-19-at-16.49.26.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1166,9 +1166,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/egae.svg",
+        "source": "https://www.facebook.com/people/EGAE-Microfinance/61554750026617/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1189,9 +1189,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cocec.svg",
+        "source": "https://www.cocectogo.org/assets/images/Logo.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1258,9 +1258,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/sebaders.svg",
+        "source": "https://www.facebook.com/p/Sebaders-microfinance-100064493450561/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1423,9 +1423,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cef-mf-lome.svg",
+        "source": "https://fnfi.tg/medias/2019/05/cef-mf.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1446,9 +1446,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cef-mf-tchaoudjo.svg",
+        "source": "https://fnfi.tg/medias/2019/05/cef-mf.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1469,9 +1469,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cef-mf-assoli.svg",
+        "source": "https://fnfi.tg/medias/2019/05/cef-mf.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1489,9 +1489,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/caisse-le-salut.svg",
+        "source": "https://www.facebook.com/MicrofinanceCaisselesalut/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1513,9 +1513,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coopec-grace-plus.svg",
+        "source": "https://www.goafricaonline.com/uploads/media/default/0007/33/693317ecc3a78-logo-g-2.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1535,9 +1535,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mutuelle-dignite-humaine.svg",
+        "source": "https://www.dignite-humaine.com/assets/images/logo/logo-1.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1578,9 +1578,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mutuelle-eliada.svg",
+        "source": "https://tg.linkedin.com/company/mutuelle-eliada",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1601,9 +1601,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coopec-la-fructueuse.svg",
+        "source": "https://www.coopec.la-fructueuse.com/wp-content/uploads/2026/08/logo.webp",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1624,9 +1624,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/promofinance.svg",
+        "source": "https://www.promofinance.tg/wp-content/uploads/2024/03/LOGO-PRPOPRE-DE-PROMOFINANCE.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1644,9 +1644,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mutual-finance.svg",
+        "source": "https://mutualfinance.org/wp-content/uploads/2025/08/cropped-WhatsApp-Image-2025-06-05-a-15.25.04_f8cc1d02.jpg",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1667,9 +1667,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mecpip.svg",
+        "source": "https://mecpip.net/wp-content/uploads/2022/11/logo-mecpip-HD-PNG_vrai.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1736,9 +1736,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coecept.svg",
+        "source": "https://coecept.net/wp-content/uploads/2021/11/Logo_coecept-ok-1.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1759,9 +1759,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/case-microfinance.svg",
+        "source": "https://www.facebook.com/p/CASE-Microfinance-100064661396451/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1782,9 +1782,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cec-canaan.svg",
+        "source": "https://www.facebook.com/people/Caisse-d%C3%A9pargne-et-de-cr%C3%A9dit-Canaan/100081503198497/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1828,9 +1828,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coda.svg",
+        "source": "https://www.codatogo.com/wp-content/uploads/2026/10/logo-1.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1876,9 +1876,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/2m-microfinance.svg",
+        "source": "https://www.facebook.com/profile.php?id=100092522328682",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1899,9 +1899,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/asjd.svg",
+        "source": "https://www.asjd.tg/web/images/logo-a.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1923,9 +1923,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mcfd.svg",
+        "source": "https://www.facebook.com/mcdftogo/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1946,9 +1946,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/coopec-sifa.svg",
+        "source": "http://coopecsifa.tg/wp-content/uploads/2021/11/logo.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1970,9 +1970,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/pades-microfinance.svg",
+        "source": "https://www.padesmicrofinance.org/wp-content/uploads/2024/02/LOGO-PADES-Microfinance.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -1993,9 +1993,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/mecit.svg",
+        "source": "https://www.facebook.com/mecitofficiel/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -2062,9 +2062,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/echoppe.svg",
+        "source": "https://www.facebook.com/echoppetogo/",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -2087,9 +2087,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/assilassime-solidarite.svg",
+        "source": "https://www.assilassime.org/wp-content/uploads/2021/02/logo2-1.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -2111,9 +2111,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/finam-tg.svg",
+        "source": "https://finam.tg/storage/uploads/1757434944_logo_.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -2134,9 +2134,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/sogemef.svg",
+        "source": "https://sogemef.com/wp-content/uploads/2021/05/sogemef.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -2157,9 +2157,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/comec.svg",
+        "source": "https://comec.tg/images/200/21795752/COMEC_logo200X210-dJvPwTOQniCpSqFILDO8CA.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -2181,9 +2181,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cofina.svg",
+        "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
+        "method": "official-svg",
         "background": null
       },
       "sources": [

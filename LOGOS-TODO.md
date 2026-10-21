@@ -36,7 +36,7 @@ Each brand needs an SVG: find the official one, or redraw it (`logo.method: "red
 | e-Dinar | TN | 1 | — |
 | Ezy Pesa | TZ | 1 | — |
 
-## Banks — 364/630 brands have a logo
+## Banks — 368/630 brands have a logo
 
 | Brand | Countries | Operators | Lead |
 |---|---|---|---|
@@ -177,7 +177,7 @@ Each brand needs an SVG: find the official one, or redraw it (`logo.method: "red
 | Banque Patronus | MU | 1 | play:com.dlink.patronus |
 | FDH Bank | MW | 1 | play:com.edgetech.edgemobile.fdh |
 | National Bank of Malawi | MW | 1 | — |
-| NBS Bank | MW | 1 | candidate rejected |
+| NBS Bank | MW | 1 | site:img |
 | BCI | MZ | 1 | — |
 | Banco Letshego | MZ | 1 | play:com.letshego.dasdigital |
 | Banque Agricole du Niger | NE | 1 | — |
@@ -251,10 +251,6 @@ Each brand needs an SVG: find the official one, or redraw it (`logo.method: "red
 | BISTP | ST | 1 | site:img |
 | Eswatini Bank | SZ | 1 | play:com.mfs.fbmvisa.swazibank.ui |
 | Banque de l'Habitat du Tchad | TD | 1 | — |
-| BIA-Togo | TG | 1 | — |
-| SIAB | TG | 1 | — |
-| UTB | TG | 1 | play:uk.co.utbank.nivo |
-| BDM Togo | TG | 1 | — |
 | BH Bank | TN | 1 | — |
 | Banque Zitouna | TN | 1 | — |
 | UBCI | TN | 1 | play:com.ubci.obdx |
@@ -279,7 +275,7 @@ Each brand needs an SVG: find the official one, or redraw it (`logo.method: "red
 | Tandahimba Community Bank | TZ | 1 | — |
 | Cairo Bank Uganda | UG | 1 | commons:Cairo Bank Uganda Logo (2020).png |
 | Housing Finance Bank | UG | 1 | play:com.elmahousingfinanceug |
-| ABC Capital Bank | UG | 1 | candidate rejected |
+| ABC Capital Bank | UG | 1 | play:ke.com.bankingly.KE_ABCBank |
 | Pride Bank | UG | 1 | — |
 | Yako Bank | UG | 1 | — |
 | Finance Trust Bank | UG | 1 | play:com.elmaUFT |
@@ -307,14 +303,13 @@ Each brand needs an SVG: find the official one, or redraw it (`logo.method: "red
 | AFC Land & Development Bank | ZW | 1 | — |
 | Infrastructure Development Bank of Zimbabwe | ZW | 1 | — |
 
-## Fintech — 59/109 brands have a logo
+## Fintech — 62/109 brands have a logo
 
 | Brand | Countries | Operators | Lead |
 |---|---|---|---|
 | Mukuru | BW LS MZ ZA ZM | 5 | play:com.mukuru.customer.android |
-| InTouch Burkina | BF GW ML TG | 4 | candidate rejected |
 | Julaya | BJ CI SN | 3 | — |
-| Djamo | CI SN | 2 | candidate rejected |
+| Djamo | CI SN | 2 | site:img |
 | Dunya Digital Payment | CI SN | 2 | play:com.dunyatvnews.androidtv |
 | Chipper Cash | RW UG | 2 | play:com.chippercash |
 | Cofre Digital | AO | 1 | — |
@@ -327,14 +322,14 @@ Each brand needs an SVG: find the official one, or redraw it (`logo.method: "red
 | Kerry Payments | BF | 1 | play:com.kerry.mykerry.android |
 | FedaPay | BJ | 1 | — |
 | Open SI | BJ | 1 | — |
-| Kkiapay | BJ | 1 | candidate rejected |
+| Kkiapay | BJ | 1 | site:img |
 | CinetPay | CI | 1 | — |
 | Firstcom Global Payments | CI | 1 | — |
 | PayMeTrust | CI | 1 | — |
 | Connekt4 | CI | 1 | — |
 | MAXPAY | CV | 1 | play:com.nidge.maxpay |
 | Pagali | CV | 1 | play:cv.isone.pagali |
-| valU | EG | 1 | candidate rejected |
+| valU | EG | 1 | play:com.efgh.customer |
 | PalmPay | GH | 1 | play:com.palmpay.nile |
 | Yonna Wallet | GM | 1 | play:com.yonnaforex.android |
 | Kashma | GM | 1 | play:com.cayor.kashma_customer_app |
@@ -353,15 +348,13 @@ Each brand needs an SVG: find the official one, or redraw it (`logo.method: "red
 | Versus Finances Tech | SN | 1 | — |
 | Wafacash West Africa | SN | 1 | — |
 | Mbulutransfer | ST | 1 | — |
-| Ollo Africa | TG | 1 | play:com.ollo.ollo |
-| Semoa | TG | 1 | play:com.semoa.authenticator |
 | Ezeemoney | UG | 1 | play:com.ciihuy.ezeemoneytracker |
-| EasyPay Everywhere | ZA | 1 | candidate rejected |
-| SnapScan | ZA | 1 | candidate rejected |
+| EasyPay Everywhere | ZA | 1 | site:img |
+| SnapScan | ZA | 1 | site:img |
 | Samafrica Online | ZM | 1 | — |
 | Spargris | ZM | 1 | — |
 | JUMO | ZM | 1 | commons:Logo JUMO.svg |
 
-## Microfinance — 242/2553 brands have a logo
+## Microfinance — 290/2555 brands have a logo
 
-2311 microfinance brands without a logo (list omitted; see candidates.json).
+2265 microfinance brands without a logo (list omitted; see candidates.json).

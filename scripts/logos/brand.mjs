@@ -45,7 +45,8 @@ export function brandKey(op, iso2) {
 // Same name or acronym, DIFFERENT institutions per country (found by scripts/logos/audit-brands.mjs):
 // never share a logo across countries — the key gets the country code.
 export const PER_COUNTRY = new Set(['bank:bci', 'bank:bia', 'bank:bni', 'bank:bdm', 'bank:trust-bank', 'bank:fidelity-bank',
-  'bank:international-commercial-bank', 'bank:al-salam-bank', 'bank:first-atlantic-bank'])
+  'bank:international-commercial-bank', 'bank:al-salam-bank', 'bank:first-atlantic-bank',
+  'microfinance:coopec-ad', 'microfinance:finam'])
 export const brandKeyOf = (op, iso2) => {
   const key = `${op.type === 'mobile_money' ? 'mm' : op.type}:${brandKey(op, iso2)}`
   return PER_COUNTRY.has(key) && iso2 ? `${key}-${iso2.toLowerCase()}` : key

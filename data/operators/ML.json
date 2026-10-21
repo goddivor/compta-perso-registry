@@ -536,9 +536,9 @@
       "successor": null,
       "website": "https://www.intouchgroup.net",
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/fintech/intouch.svg",
+        "source": "https://cdn.prod.website-files.com/66d04fe65aaef00487a98d54/678a7c8ebf55cf1a40a8b923_LOGO-HORIZONTAL_TP-p-1080.png",
+        "method": "vectorized",
         "background": null
       },
       "sources": [
@@ -602,9 +602,9 @@
       "successor": null,
       "website": null,
       "logo": {
-        "svg": null,
-        "source": null,
-        "method": null,
+        "svg": "svg/logos/microfinance/cofina.svg",
+        "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
+        "method": "official-svg",
         "background": null
       },
       "sources": [
