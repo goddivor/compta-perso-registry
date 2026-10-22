@@ -12,8 +12,9 @@
     "setup": "python3 -m venv .cache/venv && .cache/venv/bin/pip install -q fonttools==4.67.0 && cargo install vtracer@0.6.5 --locked --root .cache/vtracer",
     "build:countries": "node scripts/build-countries.mjs",
     "build:signs": "node scripts/build-signs.mjs",
+    "build:presence": "node scripts/build-presence.mjs",
     "validate": "node scripts/validate.mjs",
-    "build": "node scripts/build-countries.mjs && node scripts/build-signs.mjs && node scripts/validate.mjs",
+    "build": "node scripts/build-countries.mjs && node scripts/build-signs.mjs && node scripts/build-presence.mjs && node scripts/validate.mjs",
     "logos:find": "node scripts/logos/find.mjs && node scripts/logos/play.mjs && node scripts/logos/commons.mjs",
     "logos:process": "node scripts/logos/process.mjs",
     "logos:apply": "node scripts/logos/apply.mjs && node scripts/validate.mjs"

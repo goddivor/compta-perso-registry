@@ -63,6 +63,7 @@ Display rule for the app: `localSymbols[country] ?? narrowSymbol ?? symbol`. Amo
       "aliases": ["Tmoney", "TMoney", "Yas Money"],
       "type": "mobile_money",
       "group": "Yas",
+      "presence": 3,
       "status": "active",
       "successor": null,
       "website": "https://…",
@@ -81,6 +82,13 @@ Display rule for the app: `localSymbols[country] ?? narrowSymbol ?? symbol`. Amo
   - `fintech` — wallets, neobanks, prepaid-card issuers not covered above.
 - `aliases` — every spelling a user may type (old names, abbreviations, accents removed). Search
   matches `name` and `aliases`, case- and accent-insensitive.
+- `presence` (generated): the number of countries in which the operator's brand exists, an integer of at
+  least 1, so the app can list widespread brands first. Never edit it by hand; `npm run build` rewrites it
+  through `scripts/build-presence.mjs`. Operators form one brand when they share a brand key
+  (`scripts/logos/brand.mjs`), an identical logo file of the same family, or a `group` among banks, among
+  microfinance institutions, or among mobile money services. A fintech joins its group only when it
+  carries the group's name. Names listed in `PER_COUNTRY` and defunct operators never join a brand.
+  `presence` counts the distinct countries of the brand's non-defunct operators, plus the operator's own.
 - `status` ∈ `active | rebranded | merged | defunct`; `successor` = the `id` that replaced it.
 - `coverage` per type: `complete` (whole official list), `partial`, or `none`.
 - `sources` — at least one URL per operator (regulator list, official site, reputable press).

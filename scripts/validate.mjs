@@ -57,6 +57,7 @@ for (const file of files) {
     if (!TYPES.has(op.type)) fail(at, `type ${op.type}`)
     else counts[op.type]++
     if (!STATUSES.has(op.status)) fail(at, `status ${op.status}`)
+    if (!Number.isInteger(op.presence) || op.presence < 1) fail(at, 'presence must be an integer ≥ 1 (run npm run build)')
     if (op.website && !URL_RE.test(op.website)) fail(at, 'website is not a URL')
     if (!op.sources?.length || !op.sources.every((u) => URL_RE.test(u))) fail(at, 'needs at least one source URL')
     if (op.logo?.svg) {
