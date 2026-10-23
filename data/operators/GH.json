@@ -5,13 +5,15 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial",
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://www.bog.gov.gh/supervision-regulation/registered-institutions/banks/",
     "mobile_money": "https://www.bog.gov.gh/fintech-innovation/approved-institutions/",
     "microfinance": "https://www.bog.gov.gh/supervision-regulation/ofisd/list-of-ofis/community-banks/",
-    "fintech": "https://www.bog.gov.gh/fintech-innovation/approved-institutions/"
+    "wallet": "https://www.bog.gov.gh/fintech-innovation/approved-institutions/",
+    "money_transfer": "https://www.bog.gov.gh/fintech-innovation/approved-institutions/"
   },
   "operators": [
     {
@@ -757,14 +759,14 @@
         "Chipper",
         "Critical Ideas"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": "https://www.chippercash.com",
       "logo": {
-        "svg": "svg/logos/fintech/chipper-cash.svg",
+        "svg": "svg/logos/wallet/chipper-cash.svg",
         "source": "https://cdn.prod.website-files.com/63c81b0c3ad929013f062d70/63c81b0c3ad929a04e062dde_chipper-logo-white.svg",
         "method": "official-svg",
         "background": "dark"
@@ -781,7 +783,7 @@
         "Palm Pay",
         "Transsnet Payments Ghana"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -795,7 +797,8 @@
       },
       "sources": [
         "https://www.bog.gov.gh/fintech-innovation/approved-institutions/",
-        "https://www.palmpay.co"
+        "https://www.palmpay.co",
+        "https://findevgateway.org/news/palmpay-launch-mobile-wallet-app-africa-visa"
       ]
     },
     {
@@ -804,21 +807,22 @@
       "aliases": [
         "Hubtel LTD"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.hubtel.com",
       "logo": {
-        "svg": "svg/logos/fintech/hubtel.svg",
+        "svg": "svg/logos/wallet/hubtel.svg",
         "source": "https://hubtel.com/_nuxt/hubtel-primary-logo.DE_lS_hk.svg",
         "method": "official-svg",
         "background": null
       },
       "sources": [
         "https://www.bog.gov.gh/fintech-innovation/approved-institutions/",
-        "https://www.hubtel.com"
+        "https://www.hubtel.com",
+        "https://hubtel.com/consumer"
       ]
     },
     {
@@ -828,21 +832,22 @@
         "Expresspay Ghana",
         "Express Pay"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.expresspaygh.com",
       "logo": {
-        "svg": "svg/logos/fintech/expresspay.svg",
+        "svg": "svg/logos/wallet/expresspay.svg",
         "source": "https://play-lh.googleusercontent.com/-zInq4eJp5MpN_7piewPGtrYeU9f7AhSEvB_LI3X-FibsDjLhskMj-Zr87LilYLwbIflbhBb-k3eFmyG4tT3=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bog.gov.gh/fintech-innovation/approved-institutions/",
-        "https://www.expresspaygh.com"
+        "https://www.expresspaygh.com",
+        "https://apps.apple.com/app/id755749885"
       ]
     },
     {
@@ -851,14 +856,14 @@
       "aliases": [
         "SEVN Ghana"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.kowri.app",
       "logo": {
-        "svg": "svg/logos/fintech/kowri.svg",
+        "svg": "svg/logos/wallet/kowri.svg",
         "source": "https://play-lh.googleusercontent.com/FhhOz_21bBbXA2qYnbfS8hmDhSSXB7l8ZPGWiS9ai_qfYghLGHXWsr9TBCW102li5VS2nJ7KyGkYt9vJLflR=s512",
         "method": "vectorized",
         "background": null
@@ -875,21 +880,22 @@
         "Ezi Pay",
         "AI Technologies"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.ezipay.africa/gh/",
       "logo": {
-        "svg": "svg/logos/fintech/ezipay.svg",
+        "svg": "svg/logos/wallet/ezipay.svg",
         "source": "https://play-lh.googleusercontent.com/yHPyQFcqKOBYd_4pXiZerpvUY499OuSAilkRnNJekz6xGYv5y8SDJEUSeXnH113zCER_1l9N4fZtCcgxQJDRKw=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bog.gov.gh/fintech-innovation/approved-institutions/",
-        "https://www.ezipay.africa/gh/"
+        "https://www.ezipay.africa/gh/",
+        "https://apps.apple.com/us/app/-/id1293754400"
       ]
     },
     {
@@ -899,14 +905,14 @@
         "Pay Angel",
         "Payinc Ghana"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.payangel.com",
       "logo": {
-        "svg": "svg/logos/fintech/payangel.svg",
+        "svg": "svg/logos/money-transfer/payangel.svg",
         "source": "https://payangel.com/wp-content/uploads/2026/02/PayAngel-Main-logo.svg",
         "method": "official-svg",
         "background": "light"

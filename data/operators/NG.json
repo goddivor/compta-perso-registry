@@ -5,7 +5,9 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial",
+    "investment": "partial",
+    "digital_bank": "partial"
   },
   "listSources": {
     "bank": "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -19551,14 +19553,14 @@
         "Chipper",
         "ChipperCash"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": "https://www.chippercash.com",
       "logo": {
-        "svg": "svg/logos/fintech/chipper-cash.svg",
+        "svg": "svg/logos/wallet/chipper-cash.svg",
         "source": "https://cdn.prod.website-files.com/63c81b0c3ad929013f062d70/63c81b0c3ad929a04e062dde_chipper-logo-white.svg",
         "method": "official-svg",
         "background": "dark"
@@ -19575,14 +19577,14 @@
         "Piggy Vest",
         "Piggybank.ng"
       ],
-      "type": "fintech",
+      "type": "investment",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.piggyvest.com",
       "logo": {
-        "svg": "svg/logos/fintech/piggyvest.svg",
+        "svg": "svg/logos/investment/piggyvest.svg",
         "source": "https://storage.googleapis.com/piggyvestwebsite/piggywebsite2020/logo_08e6965627/logo_08e6965627.svg",
         "method": "official-svg",
         "background": "light"
@@ -19597,14 +19599,14 @@
       "aliases": [
         "Cowry Wise"
       ],
-      "type": "fintech",
+      "type": "investment",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://cowrywise.com",
       "logo": {
-        "svg": "svg/logos/fintech/cowrywise.svg",
+        "svg": "svg/logos/investment/cowrywise.svg",
         "source": "https://cowrywise.com",
         "method": "official-svg",
         "background": null
@@ -19620,14 +19622,14 @@
         "Grey Finance",
         "Grey.co"
       ],
-      "type": "fintech",
+      "type": "digital_bank",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://grey.co",
       "logo": {
-        "svg": "svg/logos/fintech/grey.svg",
+        "svg": "svg/logos/digital-bank/grey.svg",
         "source": "https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
         "method": "official-svg",
         "background": "dark"

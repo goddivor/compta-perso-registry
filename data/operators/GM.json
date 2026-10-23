@@ -5,13 +5,13 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "complete"
+    "wallet": "complete"
   },
   "listSources": {
     "bank": "https://www.cbg.gm/list-of-licensed-banks",
     "mobile_money": "https://www.cbg.gm/mobile-money",
     "microfinance": "https://www.cbg.gm/list-of-licensed-microfinance-institutions",
-    "fintech": "https://www.cbg.gm/fintech"
+    "wallet": "https://www.cbg.gm/fintech"
   },
   "operators": [
     {
@@ -377,7 +377,7 @@
       "aliases": [
         "Yonna"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -390,7 +390,8 @@
         "background": null
       },
       "sources": [
-        "https://www.cbg.gm/fintech"
+        "https://www.cbg.gm/fintech",
+        "https://mwm.ai/de/apps/yonna-wallet/6459883610"
       ]
     },
     {
@@ -400,20 +401,21 @@
         "Aps Wallet",
         "APS"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/aps-wallet.svg",
+        "svg": "svg/logos/wallet/aps-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/Ap_G8y-IRjrkAMzJdiBNKuGGAJuZJ7zL4kbQcI5fA6Lah5WNWhBLz-rdf_xAfqazJkzZJzIacDPEoPtlWEAaJXk=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.cbg.gm/fintech"
+        "https://www.cbg.gm/fintech",
+        "https://www.my-gambia.com/mymagazine/aps-launches-online-wallet/"
       ]
     },
     {
@@ -423,14 +425,14 @@
         "SPay",
         "S Pay"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/s-pay.svg",
+        "svg": "svg/logos/wallet/s-pay.svg",
         "source": "https://play-lh.googleusercontent.com/dgQ9BfF4QrIKS5v2CAugglPsfhY-A4-gdKYsYKq1nVW2Q0vg_rN58zKlfKnCDJWms6ydcTlxuXPkBs8MY2kyJw=s512",
         "method": "vectorized",
         "background": null
@@ -443,7 +445,7 @@
       "id": "gm-kashma",
       "name": "Kashma",
       "aliases": [],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -456,7 +458,8 @@
         "background": null
       },
       "sources": [
-        "https://www.cbg.gm/fintech"
+        "https://www.cbg.gm/fintech",
+        "https://apps.apple.com/us/app/kashma/id1661363754"
       ]
     },
     {
@@ -466,14 +469,14 @@
         "IPay",
         "I Pay"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/i-pay.svg",
+        "svg": "svg/logos/wallet/i-pay.svg",
         "source": "https://play-lh.googleusercontent.com/Jx_deyRWSs90TRnrtI4e9rdxE6X0hUC5a8VdhwAaY7ZeDuXTQ-0eUxxy6M-PICzkI5hBuwHxCSj9L1xxshyPyg=s512",
         "method": "vectorized",
         "background": null
@@ -488,20 +491,21 @@
       "aliases": [
         "Nafa"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/nafa-wallet.svg",
+        "svg": "svg/logos/wallet/nafa-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/bOD_D-kJSrxBxEodh9mAkCb3hdIlMr9Rmx7H8ijDdFobJNLYcU1ryF1DPplRThDMLU2upfAwiIWNJUPV3rQq=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.cbg.gm/fintech"
+        "https://www.cbg.gm/fintech",
+        "https://www.africa-press.net/gambia/?p=28177"
       ]
     },
     {
@@ -510,14 +514,14 @@
       "aliases": [
         "Jula"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/jula-wallet.svg",
+        "svg": "svg/logos/wallet/jula-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/2QJTYdX1AG5-VjYpMmR8W9xQZE1ZajIC3SY6LGXYttFsZLuwwfaUTcZjNARqQ3SCa4DNs86XVJh-2USLLittsg=s512",
         "method": "vectorized",
         "background": null
@@ -532,7 +536,8 @@
       "aliases": [
         "ModemPay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -545,7 +550,8 @@
         "background": null
       },
       "sources": [
-        "https://www.cbg.gm/fintech"
+        "https://www.cbg.gm/fintech",
+        "https://vc4a.com/ventures/modem-pay-limited"
       ]
     },
     {
@@ -555,14 +561,14 @@
         "Afro Pay",
         "AfroPay"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/afropay.svg",
+        "svg": "svg/logos/wallet/afropay.svg",
         "source": "https://play-lh.googleusercontent.com/puEOeVWi2Kv2ITySiSOx2FY0OjLvCF7vsaDiHB-HR4HiWb5eUD51anFpcmxQG1jlFN44MSkcWWoen-NP-g1auw=s512",
         "method": "vectorized",
         "background": null
@@ -578,7 +584,7 @@
         "Sunu Pesa",
         "SunuPessa"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -600,14 +606,14 @@
       "aliases": [
         "Taybull"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/taybull-soft.svg",
+        "svg": "svg/logos/wallet/taybull-soft.svg",
         "source": "https://play-lh.googleusercontent.com/ynsHUB14RCSxsBa0CNXY-9WmENoJGwCzkD7lvY-_gfNVsTfHvbzY2yPs3d1OFs_e9K06nbr5bICDWmZD5QT_CQ=s512",
         "method": "vectorized",
         "background": null

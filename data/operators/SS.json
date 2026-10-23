@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "complete",
     "mobile_money": "partial",
-    "microfinance": "none",
-    "fintech": "none"
+    "microfinance": "none"
   },
   "listSources": {
     "bank": "https://boss.gov.ss/list-of-banks/"

@@ -5,12 +5,12 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "partial",
-    "fintech": "partial"
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
     "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
-    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "wallet": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
     "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BENIN_2024_2.pdf"
   },
   "operators": [
@@ -508,7 +508,8 @@
       "aliases": [
         "Feda Pay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -522,7 +523,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://docs.fedapay.com/introduction/en/fedapay-en"
       ]
     },
     {
@@ -532,7 +534,8 @@
         "Julaya Bénin",
         "Julaya Benin"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 3,
       "status": "active",
@@ -546,7 +549,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.wearetech.africa/fr/fils/solutions/cote-d-ivoire-julaya-une-solution-fintech-qui-centralise-plusieurs-moyens-de-paiement"
       ]
     },
     {
@@ -555,7 +559,8 @@
       "aliases": [
         "OpenSI"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -569,7 +574,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/1%20-%20Liste%20B%C3%A9nin_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://cio-mag.com/au-benin-kkiapay-se-positionne-comme-le-premier-agregateur-de-paiement/"
       ]
     },
     {
@@ -581,21 +587,23 @@
         "QOS Integrated Center Bénin",
         "QOS Integrated Center Benin"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://qosic.com",
       "logo": {
-        "svg": "svg/logos/fintech/qospay.svg",
+        "svg": "svg/logos/wallet/qospay.svg",
         "source": "https://qosic.com/static/media/QOS_BLACK-min.2198ceb4.webp",
         "method": "vectorized",
         "background": "light"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
-        "https://qosic.com"
+        "https://qosic.com",
+        "https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/"
       ]
     },
     {
@@ -604,7 +612,8 @@
       "aliases": [
         "KKiaPay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -617,7 +626,8 @@
         "background": null
       },
       "sources": [
-        "https://kkiapay.me"
+        "https://kkiapay.me",
+        "https://docs.kkiapay.me/v1/accueil/kkiapay"
       ]
     },
     {

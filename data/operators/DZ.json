@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "complete",
     "mobile_money": "complete",
-    "microfinance": "complete",
-    "fintech": "partial"
+    "microfinance": "complete"
   },
   "listSources": {
     "bank": "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/"
@@ -540,21 +539,22 @@
         "Eddahabia",
         "Poste"
       ],
-      "type": "fintech",
+      "type": "bank",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/algerie-poste.svg",
+        "svg": "svg/logos/bank/algerie-poste.svg",
         "source": "https://play-lh.googleusercontent.com/2abr63Zw3vuxvLQQvndDtY8b8Mhv7h_uL_Ke8mGnJ1AgI8URV1MDxavBg13MaRxysQ7bNpUiR06ZaeUMREjD=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://en.wikipedia.org/wiki/Alg%C3%A9rie_Poste",
-        "https://algerie-eco.com/2020/12/22/algerie-poste-lancement-du-service-recharge-mobil-sur-baridimob/"
+        "https://algerie-eco.com/2020/12/22/algerie-poste-lancement-du-service-recharge-mobil-sur-baridimob/",
+        "https://www.algerie360.com/algerie-poste-quelles-sont-conditions-pour-transferer-de-largent-via-lapplication-baridimob/"
       ]
     }
   ]

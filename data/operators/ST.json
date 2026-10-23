@@ -5,13 +5,13 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN",
     "mobile_money": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP",
     "microfinance": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=MIC",
-    "fintech": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP"
+    "money_transfer": "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP"
   },
   "operators": [
     {
@@ -202,7 +202,7 @@
       "aliases": [
         "Mbulu Transfer"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",

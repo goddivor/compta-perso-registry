@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "partial",
     "mobile_money": "none",
-    "microfinance": "partial",
-    "fintech": "none"
+    "microfinance": "partial"
   },
   "listSources": {},
   "operators": [

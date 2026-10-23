@@ -4,10 +4,23 @@
   "countriesWithOperators": 54,
   "operators": {
     "total": 3993,
-    "bank": 960,
-    "mobile_money": 293,
-    "microfinance": 2616,
-    "fintech": 124
+    "bank": 962,
+    "microfinance": 2621,
+    "mobile_money": 294,
+    "digital_bank": 7,
+    "wallet": 81,
+    "money_transfer": 25,
+    "investment": 3
+  },
+  "international": {
+    "total": 0,
+    "bank": 0,
+    "microfinance": 0,
+    "mobile_money": 0,
+    "digital_bank": 0,
+    "wallet": 0,
+    "money_transfer": 0,
+    "investment": 0
   },
   "logos": 1293
 }

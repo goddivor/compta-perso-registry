@@ -5,12 +5,14 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "partial",
-    "fintech": "partial"
+    "money_transfer": "partial",
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
     "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
-    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "money_transfer": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "wallet": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
     "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf"
   },
   "operators": [
@@ -532,21 +534,22 @@
         "Niger Transfert d'Argent",
         "NITA Transfert"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "NITA",
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/nita.svg",
+        "svg": "svg/logos/money-transfer/nita.svg",
         "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://apps.apple.com/ne/app/mynita-transfert/id6469616721"
       ]
     },
     {
@@ -556,7 +559,7 @@
         "Al-Izza Transfert d'Argent International",
         "Al Izza"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -580,21 +583,22 @@
         "Amana Transfert d'Argent et Finance",
         "Amana"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/amana-transfert.svg",
+        "svg": "svg/logos/money-transfer/amana-transfert.svg",
         "source": "https://play-lh.googleusercontent.com/VXDu6FNrz0TrAR0VZ-txL1oKfUTTgfUTB8Rl6VgPTA83PSiW458bo7FECzaiPQIg7LFbg8dsEDT22R2iDfxFrSM=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://connectionivoirienne.net/2024/04/25/interdiction-damana-transfert-dargent-et-finance-la-population-invitee-a-sabstenir-deffectuer-toute-transaction/"
       ]
     },
     {
@@ -606,7 +610,7 @@
         "Afuwa",
         "BNIF"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -630,7 +634,8 @@
         "iFutur",
         "i-Futur"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -644,7 +649,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.findevgateway.org/case-study/2025/07/i-futur-fintech-is-redefining-digital-payment-in-niger"
       ]
     },
     {

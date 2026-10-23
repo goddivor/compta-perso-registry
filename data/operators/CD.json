@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "complete",
     "mobile_money": "complete",
-    "microfinance": "complete",
-    "fintech": "none"
+    "microfinance": "complete"
   },
   "listSources": {
     "bank": "https://www.bcc.cd/intermediaires-financiers/banques-agreees",

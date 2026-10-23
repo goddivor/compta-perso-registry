@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "partial",
     "mobile_money": "partial",
-    "microfinance": "partial",
-    "fintech": "none"
+    "microfinance": "partial"
   },
   "listSources": {
     "bank": "https://www.apecgabon.com/etablissements-membres/",

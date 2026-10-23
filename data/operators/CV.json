@@ -5,11 +5,13 @@
     "bank": "complete",
     "mobile_money": "none",
     "microfinance": "partial",
-    "fintech": "partial"
+    "money_transfer": "partial",
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx",
-    "fintech": "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+    "money_transfer": "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx",
+    "wallet": "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
   },
   "operators": [
     {
@@ -236,7 +238,7 @@
         "MaxPay",
         "MAXPAY Instituição de Pagamentos"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -249,7 +251,8 @@
         "background": null
       },
       "sources": [
-        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
+        "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx",
+        "https://www.moneygram.com/r/cv/en"
       ]
     },
     {
@@ -258,7 +261,7 @@
       "aliases": [
         "Pagali Wallet"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",

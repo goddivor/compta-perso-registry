@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "partial",
-    "fintech": "partial"
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
@@ -378,7 +378,7 @@
         "Mukuru Bureau de Change",
         "Mukuru Wallet"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "Mukuru",
       "presence": 5,
       "status": "active",
@@ -391,7 +391,8 @@
         "background": null
       },
       "sources": [
-        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
+        "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
+        "https://fintech.global/2025/09/19/mukuru-and-moneygram-join-forces-on-cross-border-payments/"
       ]
     },
     {

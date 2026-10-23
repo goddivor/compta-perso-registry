@@ -5,12 +5,16 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "partial",
-    "fintech": "partial"
+    "digital_bank": "partial",
+    "money_transfer": "partial",
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
     "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
-    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "digital_bank": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "money_transfer": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "wallet": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
     "microfinance": "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf"
   },
   "operators": [
@@ -1000,7 +1004,7 @@
         "Djamo Sénégal",
         "Djamo Senegal"
       ],
-      "type": "fintech",
+      "type": "digital_bank",
       "group": "Djamo",
       "presence": 2,
       "status": "active",
@@ -1014,7 +1018,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.djamo.com/fr-sn"
       ]
     },
     {
@@ -1023,42 +1028,45 @@
       "aliases": [
         "AFA"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/african-financial-agent.svg",
+        "svg": "svg/logos/money-transfer/african-financial-agent.svg",
         "source": "https://play-lh.googleusercontent.com/R0otM_mR_51LOagjTQm9duv-yY9UvhoPEkxHrego9FPECHjbC7cjZJTPLsNM0CVtBOb8Qe04-XE_h7cFWwY5=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://concoursn.com/?p=235011"
       ]
     },
     {
       "id": "sn-bictorys",
       "name": "Bictorys",
       "aliases": [],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/bictorys.svg",
+        "svg": "svg/logos/wallet/bictorys.svg",
         "source": "https://play-lh.googleusercontent.com/4TO0-TCZKap8lVal_s9Rpjd66RE6S29WQSSkIrrJYuqbGRxi8jtTZoJgJql8g_8pdS7UgTsrWibSRU3H8kQLdxE=s512",
         "method": "vectorized",
         "background": "light"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://cartdna.com/en/shopify-payment-methods/bictorys"
       ]
     },
     {
@@ -1067,7 +1075,7 @@
       "aliases": [
         "CoPay"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1081,7 +1089,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.cb-umoa.org/sites/default/files/Liste%20EP%20ET%20EME%20S%C3%A9n%C3%A9gal_2026.pdf"
       ]
     },
     {
@@ -1090,7 +1099,8 @@
       "aliases": [
         "Dunya"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 2,
       "status": "active",
@@ -1104,7 +1114,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.osiris.sn/paydunya-et-intouch-ouvrent-une-nouvelle-ere-les-premieres-fintechs.html"
       ]
     },
     {
@@ -1114,21 +1125,23 @@
         "Flutterwave",
         "Flutterwave Senegal"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "Flutterwave",
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/flutterwave.svg",
+        "svg": "svg/logos/wallet/flutterwave.svg",
         "source": "https://play-lh.googleusercontent.com/zWjoyiUrwmVpVz6_LiqY7Ly14t49ZLmRenMiCfAL3xaMPo_OyFPT7KaNvreXe3UsY99DyVnq8N5cWmCkzOkucQ=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.financialafrik.com/2025/07/11/flutterwave-decroche-une-licence-complete-au-senegal/"
       ]
     },
     {
@@ -1138,7 +1151,8 @@
         "Julaya Sénégal",
         "Julaya Senegal"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "Julaya",
       "presence": 3,
       "status": "active",
@@ -1152,7 +1166,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.financialafrik.com/2022/09/28/entretien-avec-olivier-houben-country-manager-de-julaya-au-senegal/"
       ]
     },
     {
@@ -1161,7 +1176,7 @@
       "aliases": [
         "Mikaty SN"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1175,28 +1190,30 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.mikaty.com"
       ]
     },
     {
       "id": "sn-samir-money",
       "name": "Samir Money",
       "aliases": [],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/samir-money.svg",
+        "svg": "svg/logos/wallet/samir-money.svg",
         "source": "https://play-lh.googleusercontent.com/L82Fb64leaqPG33gSNEDGV1Aux4Pel4tAKuxDvgtkfNAOMKjW3-y-cboUmO1nRl6L5ISZiiPXoYV7u0Sq0fJXKQ=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://apps.apple.com/app/id6740030422"
       ]
     },
     {
@@ -1205,7 +1222,7 @@
       "aliases": [
         "SESA"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1219,7 +1236,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.cb-umoa.org/sites/default/files/Liste%20EP%20ET%20EME%20S%C3%A9n%C3%A9gal_2026.pdf"
       ]
     },
     {
@@ -1228,7 +1246,7 @@
       "aliases": [
         "Versus Fintech"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1242,7 +1260,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.cb-umoa.org/sites/default/files/Liste%20EP%20ET%20EME%20S%C3%A9n%C3%A9gal_2026.pdf"
       ]
     },
     {
@@ -1251,7 +1270,7 @@
       "aliases": [
         "Wafacash"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "Attijariwafa",
       "presence": 1,
       "status": "active",
@@ -1265,21 +1284,23 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://au-senegal.com/wafacash-senegal,5671.html"
       ]
     },
     {
       "id": "sn-paydunya",
       "name": "PayDunya",
       "aliases": [],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://paydunya.com",
       "logo": {
-        "svg": "svg/logos/fintech/paydunya.svg",
+        "svg": "svg/logos/wallet/paydunya.svg",
         "source": "https://paydunya.com/refont/images/logo/blue_logo.png",
         "method": "vectorized",
         "background": null

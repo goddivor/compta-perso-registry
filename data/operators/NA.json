@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "partial",
     "microfinance": "none",
-    "fintech": "partial"
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -267,20 +267,21 @@
         "e-Wallet",
         "FNB e-Wallet"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "FirstRand",
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.fnbnamibia.com.na/",
       "logo": {
-        "svg": "svg/logos/fintech/fnb-ewallet.svg",
+        "svg": "svg/logos/wallet/fnb-ewallet.svg",
         "source": "https://www.fnbnamibia.com.na/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959767000",
         "method": "official-svg",
         "background": null
       },
       "sources": [
-        "https://www.namibian.com.na/e-money-interoperability-is-coming/"
+        "https://www.namibian.com.na/e-money-interoperability-is-coming/",
+        "https://www.fnbnamibia.com.na/eWallet/"
       ]
     },
     {
@@ -291,20 +292,21 @@
         "Easy Wallet",
         "easy-Wallet"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "Capricorn",
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.bankwindhoek.com.na/",
       "logo": {
-        "svg": "svg/logos/fintech/bank-windhoek-easywallet.svg",
+        "svg": "svg/logos/wallet/bank-windhoek-easywallet.svg",
         "source": "https://www.bankwindhoek.com.na/_catalogs/masterpage/BWHK/images/SiteLogo.png",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://namibiansun.com/news/bank-windhoek-launches-easywallet"
+        "https://namibiansun.com/news/bank-windhoek-launches-easywallet",
+        "https://www.bankwindhoek.com.na/Pages/News/Bank-Windhoek-pioneers-Wallet-to-Wallet-instant-payment-transfers.aspx"
       ]
     },
     {
@@ -315,20 +317,21 @@
         "Blue Wallet",
         "blue Wallet"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "Standard Bank",
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.standardbank.com.na/",
       "logo": {
-        "svg": "svg/logos/fintech/standard-bank.svg",
+        "svg": "svg/logos/wallet/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.namibian.com.na/e-money-interoperability-is-coming/"
+        "https://www.namibian.com.na/e-money-interoperability-is-coming/",
+        "https://neweralive.na/?p=169370"
       ]
     },
     {
@@ -339,20 +342,21 @@
         "NamPost Savings Bank",
         "Nampost SmartCard"
       ],
-      "type": "fintech",
+      "type": "bank",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.nampost.com.na/",
       "logo": {
-        "svg": "svg/logos/fintech/nampost.svg",
+        "svg": "svg/logos/bank/nampost.svg",
         "source": "https://play-lh.googleusercontent.com/kgfpdHTFDW0E1Jj7lmPh6nL8jhurEE4g2uVPTAHmba8sMr1WMGLkiCLtr3wxuh8jDkQ3pmAJ2eBylLAoMddr97Q=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.bon.com.na/Bank/National-Payment-System/National-Payment-System-Participants.aspx"
+        "https://www.bon.com.na/Bank/National-Payment-System/National-Payment-System-Participants.aspx",
+        "https://www.nampost.com.na/about-financial-services"
       ]
     }
   ]
