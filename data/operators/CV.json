@@ -55,7 +55,8 @@
         "svg": "svg/logos/bank/banco-caboverdiano-de-negocios.svg",
         "source": "https://bcn.cv/pt_PT/wp-content/uploads/2020/04/LogoBCN_White.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "842bdd46a16de1ca24b60a9718288abe39ffec3edcf7c0e6313735bf3ef4b985"
       },
       "sources": [
         "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
@@ -78,7 +79,8 @@
         "svg": "svg/logos/bank/banco-comercial-do-atlantico.svg",
         "source": "https://bca-cv.s3.eu-west-1.amazonaws.com/website/logo-footer.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "f7ebcdee8661defbaa42ca0deb65a16b56f3ec3e4f38ebb7e50d9c13b5283067"
       },
       "sources": [
         "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
@@ -101,7 +103,8 @@
         "svg": "svg/logos/bank/bfi-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Dl3YRFD2a2KJT7xjtAbIP96ImICAv-RiAoviSkVg9cXSadjbKT-r0NOn3P22S0iT4d4yNHznv7D16BB7gH167w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "33965b7c85bf62d7a1c4fe5880cbd1cbba7a7d766e856f985b848f6f6101e77f"
       },
       "sources": [
         "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
@@ -125,7 +128,8 @@
         "svg": "svg/logos/bank/caixa-economica-de-cabo-verde.svg",
         "source": "https://cecv.s3-eu-west-1.amazonaws.com/caixa-net-org/caixa_logo_white.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "d46235148acfd09a914588dfbe24a99663cacdc6cad1f944a15c6869c632aa5a"
       },
       "sources": [
         "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
@@ -151,7 +155,8 @@
         "svg": "svg/logos/bank/caixa-geral-de-depositos.svg",
         "source": "https://play-lh.googleusercontent.com/ECRQrTLac2f4c3F2lEezL1F21tqRcrDS8G5SelmGgG3sKFUY8TjWIa_V6r1Me7EFqiO7zV2oI6jnVY9YGUaNMg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1a2c761fd64a6c4db51f5022f07c1651776de6434fa97f20c9e5784a36ca8096"
       },
       "sources": [
         "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"
@@ -174,7 +179,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bcv.cv/pt/Supervisao/Institui%C3%A7%C3%B5es%20Financeiras%20Supervisionadas/Enderecos%20dos%20Bancos/Paginas/EnderecosFAQs.aspx"

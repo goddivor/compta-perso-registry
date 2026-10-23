@@ -30,7 +30,8 @@
         "svg": "svg/logos/bank/al-barid-bank.svg",
         "source": "https://www.albaridbank.ma/themes/baridbank/assets/img/logo-footer.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "95b5ac1e55b09c663b4b6546a7df079bf751320ddfc2b78ba91d9e4e20547411"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -53,7 +54,8 @@
         "svg": "svg/logos/bank/arab-bank.svg",
         "source": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "e574a4a1e7ddef0f1f2c7435d3a20f2f394f53aac6001edc0e06eaa1a4c85dff"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -77,7 +79,8 @@
         "svg": "svg/logos/bank/attijariwafa.svg",
         "source": "https://play-lh.googleusercontent.com/Q8Jw-WaLslrWjwmEpBSo7a2sMvhfQm-biyO99xf_AaXSO-Bv907UZ85Zw-IMiXB5bFA_Nl7eu0sHAtSRvA8Ok3I=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "882be182d95db26c7f8162fa2acf603dcd737d39933b9de59ca9e79cdc78cb97"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -99,7 +102,8 @@
         "svg": "svg/logos/bank/banco-sabadell.svg",
         "source": "https://play-lh.googleusercontent.com/JCwxCOePzkv2fe8PuthutadKGRuuLMlDQAY3HxMipQlBW1HazP2efrMnjn_H_OPe9cjyouHvtsvZwp3_ypTEdcU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "32d2a2f0496f1802ab089cb01915ac66ef47da4c137fcc768d82c2e36f8aced2"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -156,7 +160,8 @@
         "svg": "svg/logos/bank/banque-populaire.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Banque_Populaire_2018_logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "62e82cb1804ee4a6ac95fe4453ff7861fdc243084775445bc29cb0b20ff1b493"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -182,7 +187,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -204,7 +210,8 @@
         "svg": "svg/logos/bank/bmci.svg",
         "source": "https://play-lh.googleusercontent.com/f9oKHPR_4vBbDmQq1xR3wxHaEWO1vx7x1C-j6HXdLK1flBqJw6LLvV0bVpi6VSapsvdiM6XaITsPYsRCxQJOyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "be5989b23b845ce7ad24b732d9e11dd1f5d5833aea8308d17390c3f496307cc8"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -228,7 +235,8 @@
         "svg": "svg/logos/bank/caixabank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_CaixaBank.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "a2d96d698bcd598c0c200ed6a36f7c9e6c416161f6ad5f2a356ef3833206baf7"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -250,7 +258,8 @@
         "svg": "svg/logos/bank/cdg-capital.svg",
         "source": "https://play-lh.googleusercontent.com/kyX07WMTDWOsEG50zW-xY9xlPVi-CjWSGLA6BD4bmXoKbto9rB27tgnffaYv9n0oW6mZafyCvzQzveHqEM3E4A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "87796d85f885e3c620227d1c985e2d9d2b396f49a36460bbde87339df284f60b"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -273,7 +282,8 @@
         "svg": "svg/logos/bank/cfg-bank.svg",
         "source": "https://www.cfgbank.com/wp-content/themes/cfg/assets/img/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "9a5fb61b1eab89070efb101981b7c44abece9d9b1b25ee70d4f98aa652406df5"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -296,7 +306,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -437,7 +448,8 @@
         "svg": "svg/logos/bank/saham.svg",
         "source": "https://www.sahambank.com/wp-content/themes/newbank/assets/img/saham-bank-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "a45496af6dfc750d72c1c8b8c53efde44e4abed69fca1215996af73d5b6a1205"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
@@ -505,7 +517,8 @@
         "svg": "svg/logos/bank/arreda.svg",
         "source": "https://play-lh.googleusercontent.com/17KG49TMH73dmCtPoSqboELZd3vbtFh2gLiuhFPcZpiXtF---twUkEUHo8BH1KMETRlcL9mfHiuP8Yjeth-Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d27391bb74d50067f26b51621da3940ab6d2b88f7a0a87de0b42f54fab2fd252"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -549,7 +562,8 @@
         "svg": "svg/logos/bank/bank-al-karam.svg",
         "source": "https://play-lh.googleusercontent.com/TMU5Qhf1Q0KyVst8m-pw75n_XcUfQx1dzyLsaerTMsfDD-FhJeAkzUEz4TLWTepMRxcGs_cz2dmsoN5hT2PlA9k=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2cb45246522112f20f79f1224b16d722977ea6389f5be7deef7e3c71ccb4789b"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -571,7 +585,8 @@
         "svg": "svg/logos/bank/bank-assafa.svg",
         "source": "https://play-lh.googleusercontent.com/WXZZDb0tPHMc18-smLn89prE049F4ClUQi3FEuvmwgDAapnIgVQNptfCOIu7j9MwAaXfiAxm-LyehBV-R7Mf1Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a20d66935b56100ac16bfe44556a028225124ef51d2b30da26c39455224f4a9d"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -593,7 +608,8 @@
         "svg": "svg/logos/bank/dar-al-amane.svg",
         "source": "https://play-lh.googleusercontent.com/dLISQUL9i_bTXDEZYOaIzIujb5Y1TjD8L7lR7nvae2ZKeeL9zauPSNKuXcreStOoaINrvXLXJZH5MAz6nr9izQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fd2f1e63be5e1e7ac874570ab8d4af5553e4c3c50e104d36fe01fdcd53b6d094"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -637,7 +653,8 @@
         "svg": "svg/logos/bank/umnia-bank.svg",
         "source": "https://play-lh.googleusercontent.com/574wQlcGtOjUpgX4mMfryJWg-Bkh7sp-jxuzMDltb_UXdhrUpm7KXElJhLIqnTXyKSKnAHPCfIPmQwT4u6GGLfI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c10e6a25c2abd958384316a4a3455c2e119649e92a7260d4d9f2119727f9d92c"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -684,7 +701,8 @@
         "svg": "svg/logos/microfinance/al-amana-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/H6LOBm68F_tZMtyuGPpNzIZtkWhMlc8OWKP20X7oe0AikrXNIJiuJI_CHXQFE-qVD0OL7SfIKi9Or6A4ev1pJQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4fc8772273376ea5420f23bf67d37e5ed63a9051687f61cb4b300098c6b1e528"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -797,7 +815,8 @@
         "svg": "svg/logos/microfinance/brj-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/4wlvjGsLx8mt0Wp293H1QQT7VtvnA2qB2uJGOZUUD1NkceRlEW51GfGjqkFR69cyVEi0ROBi0KAs2-W6jZUZYA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "66811b2964cfecd2a73c431affad52a7b56f9d05b879b03b40a072ac08cc9db6"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -911,7 +930,8 @@
         "svg": "svg/logos/mobile-money/barid-cash.svg",
         "source": "https://play-lh.googleusercontent.com/S96568C3sj748bgr8WbDsrsDDOZzuWlW5HB6LNQJswpKTSdbByEWhZcFKsmCsqoEJ5SyAE2HvFCnEQZLxFFFug=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a32341d79c1e1640ee923530adc8a74328438f89e9ab41317d883b6ed6791cae"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -934,7 +954,8 @@
         "svg": "svg/logos/mobile-money/cash-plus.svg",
         "source": "https://cdn.prod.website-files.com/6218cd1560a71e2f136765f7/625ebfc1317e32955b15ae9f_cashplus-icon-webclip.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "819cfd38f179fba0fb0ff18e60ad42e6ff32c56b037c6b0883fc00a7550684e1"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -956,7 +977,8 @@
         "svg": "svg/logos/mobile-money/damane-cash.svg",
         "source": "https://damanecash.ma/wp-content/themes/bmce-cash/front/app/assets/images/logo--header.png",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "a5440ceb2eeb4f33afc67f457686d055af70fe86831ac8e2a707616361c36f4e"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
@@ -979,7 +1001,8 @@
         "svg": "svg/logos/mobile-money/lana-cash.svg",
         "source": "https://lanacash.ma/wp-content/uploads/2026/10/bLOGO-3-copie-2-3.webp",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4dca6daa74747a81e2f3e73e6528e5e058e3978967890ec93b145e4a2905be82"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -1024,7 +1047,8 @@
         "svg": "svg/logos/mobile-money/maymouna-services-financiers.svg",
         "source": "https://play-lh.googleusercontent.com/m84AVxvGhKV_7tAOidb9Uj7rjZcaXh-Wb3uoFH578hg2L64QAMAceBRfCEBHDfs0t6CDWF2i3QUltJvdhGO4=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "90f20354be78b0cd16fbab84af9177cec48be90e022335dda1a6e34a0c3ef0d4"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
@@ -1048,7 +1072,8 @@
         "svg": "svg/logos/mobile-money/mt-cash.svg",
         "source": "https://www.mtcash.ma/wp-content/uploads/2020/04/MTCASHLOGO.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "41f3f7a3cec5a0822aaaa55bba3d03e87a1a3d713e782e95454df5bded01740d"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
@@ -1071,7 +1096,8 @@
         "svg": "svg/logos/mobile-money/naps.svg",
         "source": "https://naps.ma/wp-content/uploads/2024/06/NAPS-LOGO.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8969b1163f9aadf34cdbc45536285fb4f0708edbaab631fcac8a16e88b861183"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -1094,7 +1120,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -1116,7 +1143,8 @@
         "svg": "svg/logos/mobile-money/wafacash.svg",
         "source": "https://www.wafacash.com/sites/default/files/styles/webp/public/2025-04/Logo_Wafacash_MarocB.png.webp?itok=AQgKJayv",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "d47f769675d6c274590d8b6d3a799923add5ba923ce1b310a4803bfa29c6d651"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"
@@ -1140,7 +1168,8 @@
         "svg": "svg/logos/mobile-money/inwi-money.svg",
         "source": "https://play-lh.googleusercontent.com/DDoL0CVLVkwBlbGx052cdLap3MIjMHdwOLXEQ-cOJTMP0K_3VzHT3gHHkzAz-0JnxX6MTW2E70WkJZDPox0ri1w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c3bf273976d81acb836821240b8b77c02afa495eda902966fa6451d671da7764"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",
@@ -1186,7 +1215,8 @@
         "svg": "svg/logos/mobile-money/chari-money.svg",
         "source": "https://www.chari.ma/_next/image?url=%2Fimages%2Flogo.png&w=256&q=75",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4520dd3410cbabc23895d54982952fbe724270bdb6ce50772acc83fb24b69b6f"
       },
       "sources": [
         "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf"

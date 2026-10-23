@@ -53,7 +53,8 @@
         "svg": "svg/logos/bank/banque-mauritanienne-de-l-investissement.svg",
         "source": "https://bmi.mr/wp-content/uploads/2023/08/logo-bmi-1-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "771a3583a36ea257cbc8a094084d806cee2f3bbbec42d6ef5b9e9c06c20aaffa"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -78,7 +79,8 @@
         "svg": "svg/logos/bank/bfi-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Dl3YRFD2a2KJT7xjtAbIP96ImICAv-RiAoviSkVg9cXSadjbKT-r0NOn3P22S0iT4d4yNHznv7D16BB7gH167w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "33965b7c85bf62d7a1c4fe5880cbd1cbba7a7d766e856f985b848f6f6101e77f"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -103,7 +105,8 @@
         "svg": "svg/logos/bank/qnb.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "1355ab8edd76ae3c5595110e4ca00c82da06326e39c11ae4fe2255750d85cdd4"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania"
@@ -196,7 +199,8 @@
         "svg": "svg/logos/bank/attijari-bank.svg",
         "source": "https://www.attijaribank.com.tn/sites/default/files/Logo_attijari_0.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a4900890d0b821cac7f97e5f8fa4e3691324edee04c4b4d0867d5f05c97ac2ed"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -220,7 +224,8 @@
         "svg": "svg/logos/bank/chinguitty-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Y8Zn3aWvljKGMGmRl7GC1C2dMfOdwB6x4UJzc-P-92hnXo5Ye3rYMgwOFnVZc4aGu6lg609XWvZZD-RvCpMfgKM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "972645df572396c2cc12b6302e92c8f57a7d333d66df0994e7fc978715e238d9"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -245,7 +250,8 @@
         "svg": "svg/logos/bank/societe-generale.svg",
         "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "b68478e933c4aacda2f775cf30543698ad601e120ca7fc0c6d8567e75ca58365"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -269,7 +275,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -293,7 +300,8 @@
         "svg": "svg/logos/bank/banque-el-amana.svg",
         "source": "https://bea.mr/wp-content/uploads/2017/07/BANQUEelAMANA_internet_horiz_BLEU.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c24fd43c8ccad3b8ebc916eb071e0302c28bae34b61a3e383cdd725619401ce9"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -317,7 +325,8 @@
         "svg": "svg/logos/bank/bamis.svg",
         "source": "https://play-lh.googleusercontent.com/0oNUPW35Dy8gvNjD1mN6ziqvWM7lpbSATuZqkosMgjqasqqI0lAwBLH4cxRRyosAZBW0MYDvhumY1FL3zpu5Vw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ee0a8101105e2c311f4b18954d01e4d00782f4ea5853df0a7dd0a95212ae6a39"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -387,7 +396,8 @@
         "svg": "svg/logos/bank/bmci.svg",
         "source": "https://play-lh.googleusercontent.com/f9oKHPR_4vBbDmQq1xR3wxHaEWO1vx7x1C-j6HXdLK1flBqJw6LLvV0bVpi6VSapsvdiM6XaITsPYsRCxQJOyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "be5989b23b845ce7ad24b732d9e11dd1f5d5833aea8308d17390c3f496307cc8"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Mauritania",
@@ -457,7 +467,8 @@
         "svg": "svg/logos/mobile-money/bankily.svg",
         "source": "https://www.bankily.mr/wp-content/uploads/2019/09/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "522783dd9ba8ee2505ae35a1f23c089fc3bad95485d9a5176a340d3707c602b3"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf",
@@ -480,7 +491,8 @@
         "svg": "svg/logos/mobile-money/masrvi.svg",
         "source": "https://masrvi.mr/masrvi/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bc756208574986ebb6ecf2673be4013f3fa2a8805568ec24fae1081361158f55"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf",
@@ -503,7 +515,8 @@
         "svg": "svg/logos/mobile-money/sedad.svg",
         "source": "https://play-lh.googleusercontent.com/PfhAtHpe2mgoyrijcfLixN8RBRT1CSBu9befUtSIY7ALCbuZisdwJ2tMmRWb2st6XrNJaz2ghw5Y-Wfc8oVLow=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f7c68133fc2b71f207c6a178bab5c80fb5c76bf0a4db8e377aa99c02e91dc8f7"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
@@ -526,7 +539,8 @@
         "svg": "svg/logos/mobile-money/bimbank.svg",
         "source": "https://play-lh.googleusercontent.com/jJtst8KyiTuBmY5KJM8gKi5OGZHEFofCA56HIdwJJQyceZGld5HhOlCO43f8qtV0wy17zjmnAygPHrFU2C86=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6ea2ce88ca6c7ea84da63f322533495fc6d668e8fd5e09978da9490fd32af90b"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
@@ -549,7 +563,8 @@
         "svg": "svg/logos/mobile-money/bci-pay.svg",
         "source": "https://play-lh.googleusercontent.com/zDTzdjZJRG9CEYi3sr8RvKq9vuk34X0Sljc8pqonT7d1V6Q2-9edSN-EJULBXLt5oGwx7WOu1wn7i62BGGeerQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5434244d75cb13577c210a003dff16828452401675902ed5075ac2f2ed76341c"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
@@ -571,7 +586,8 @@
         "svg": "svg/logos/mobile-money/click.svg",
         "source": "https://play-lh.googleusercontent.com/zvvxCdDElma8WODUfmlezVnc7SqtOiwQ56XrX29r-ZGB6Wq-784F3u2C3aT7kdPsOemT4VUkHpe2xLEP7amyTn0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f1ce4daa280dd405082b7b6b7b38b738ba3450773b7503d684676e1112659b77"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
@@ -591,7 +607,8 @@
         "svg": "svg/logos/mobile-money/amanty.svg",
         "source": "https://play-lh.googleusercontent.com/X3ZoyV4QscR7e-qa_ViqTG9C4nCwFOQdFebq_oi4vFCg9nOhfSL_6ceY5mRzj0v2bOaCbJ1RZRX2zDaZQhRZ-Rg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5fc118d48bf010638754dabce59315fdb7dec6db5a248f743514eb80d22f918d"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
@@ -614,7 +631,8 @@
         "svg": "svg/logos/mobile-money/bamis-digital.svg",
         "source": "https://play-lh.googleusercontent.com/0oNUPW35Dy8gvNjD1mN6ziqvWM7lpbSATuZqkosMgjqasqqI0lAwBLH4cxRRyosAZBW0MYDvhumY1FL3zpu5Vw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ee0a8101105e2c311f4b18954d01e4d00782f4ea5853df0a7dd0a95212ae6a39"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-08/Rapport%20annuel%20de%20la%20BCM%202025.pdf"
@@ -703,7 +721,8 @@
         "svg": "svg/logos/microfinance/afma.svg",
         "source": "https://play-lh.googleusercontent.com/lhQwt4oEvjUtUipoTM2jkI40Gu6-SeU1zZQ4jMG5zxFz_Xv6v6w_uZEzr6Kyqokz10CfHrwPn9CbNermJtT1Iw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "92cc9f809819dde07758544fa67f220bd6ad220fa41d83daf5bf66859aee830a"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
@@ -815,7 +834,8 @@
         "svg": "svg/logos/microfinance/capec.svg",
         "source": "https://play-lh.googleusercontent.com/3WASJqY1v6_P7_cgzae3l7wWpJPAP99cnshcjwGvLzNydlopur7fVb0hMX1erP0f2z7DynivSfswHd_mkMuu=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5afaa296feb1782f33dfe3aff07267e8242fec766b7c5c46e09da6d6d21c4373"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
@@ -906,7 +926,8 @@
         "svg": "svg/logos/microfinance/ibdaa.svg",
         "source": "https://play-lh.googleusercontent.com/uUTllIZE9yZh0LJLqJNMVhhWpeyHOBSO_0v7vr0DMu7YEHzm4_vHXKdgsQgBEAlY9nKeI3SHZoTnfRjVJnTj=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "60b1c2a17856e73383eb69dd83906c90e478931fe4875566a147937cf7dc9051"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"
@@ -974,7 +995,8 @@
         "svg": "svg/logos/microfinance/tadhamoune-pour-la-microfinance-islamique.svg",
         "source": "https://play-lh.googleusercontent.com/R4UcA_d76iXtbLulGjg0iNfJWcMqlTn5lYe5Zqis0H-6CLb8QvddIyhwwW48uZIOEL8JF7ff2welOYGxS23AIeU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e08993be0efd590677ee128496829937a5ba44880dde3a738b03a45fc2986ef5"
       },
       "sources": [
         "https://bo.bcm.mr/sites/default/files/2026-07/imf_agrees_mauritanie%202026.pdf"

@@ -33,7 +33,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -57,7 +58,8 @@
         "svg": "svg/logos/bank/alpha-morgan-bank.svg",
         "source": "https://play-lh.googleusercontent.com/4K7XsUKoo0SFWy2dHNc5uk8vguXMxm_XGk7gOXeZOqCKwaWMFSBbqBF0Zr3CY4GcgvTXNNhVQMyAioZYmtK4gA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fb5e2b41989fb45c16d4422131a206360cbe04360c8adeae18b464d82f76fc23"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -82,7 +84,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -106,7 +109,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -156,7 +160,8 @@
         "svg": "svg/logos/bank/firstbank.svg",
         "source": "https://play-lh.googleusercontent.com/U9gK9xrI1JB2BaK8UzrM2OQqNIlMmpkq0pKCYwh95GH7vva3m4qaKHhRW5LME8Ji-k-YnojaU_GV_09YP111CuE=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6aa6ee5d543d35bc93b5d61a21416fdbd136bc9e3c7a41004381ff487b981450"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html"
@@ -179,7 +184,8 @@
         "svg": "svg/logos/bank/fcmb.svg",
         "source": "https://play-lh.googleusercontent.com/Zlbj1X9HNAv-MMD17NwYt6nMtCc8FPCR0y_P1XlY-TAMhpgb8mGzsVwi600uLlMS0kycq2lxhi0cjhUQnDmaSxo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f35a041c2f046574d81fec20e588bb91ac8827cf4ac07d8a605db90e0cb78c35"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -203,7 +209,8 @@
         "svg": "svg/logos/bank/globus-bank.svg",
         "source": "https://www.globusbank.com/Images/Globus%20Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "13c57620b1a8a6b5974ba3bb0d7aaf6162b782c2bf39a56c12718d2b90597298"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -230,7 +237,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -254,7 +262,8 @@
         "svg": "svg/logos/bank/keystone-bank.svg",
         "source": "https://play-lh.googleusercontent.com/XxBPs-HHOAK4GyVmjsNpRFB2JdT5TOwcRF86Jw7PJSHGAZCs2aF7V6c2-x6fiA8LUlFBwUmZxcrcFg-5bd993lI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "97eb0cce8316ab88ab512583c05e469a6f7f6eac5d14c7eb8912ad278515e62c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -280,7 +289,8 @@
         "svg": "svg/logos/bank/nova-bank.svg",
         "source": "https://www.novabank.ng/wp-content/uploads/2025/03/logo-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3e1d0501d7597e5cbdd48ceef9d178e19b32cab2416bbf5a858bc1008828f066"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -303,7 +313,8 @@
         "svg": "svg/logos/bank/optimus-bank.svg",
         "source": "https://play-lh.googleusercontent.com/wjTbh9vMNrI8O6HfvnxbOOIsYelZ4HCtWTIG04c64y7TbZahWk5gylkm4VC_A00zscyWYjSDOD2rZtfUqqO8ig=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "07459bfee0d718ed9feeb46a242f89399a0a61972dc6e2998c44b0c5de7a8e22"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -327,7 +338,8 @@
         "svg": "svg/logos/bank/parallex-bank.svg",
         "source": "https://play-lh.googleusercontent.com/TTlNNelZGCTiWDNJObilPnttQtv72uM7ZYNdi55pOeCIi3N9SOIOSLsvrqtchGvIH3BxRkkdXkxwWZCBRwCQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "57a127821ee861938ba9d9747596d15fa0fa806c387b3cd649706d19f217bccb"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -352,7 +364,8 @@
         "svg": "svg/logos/bank/polaris-bank.svg",
         "source": "https://play-lh.googleusercontent.com/pfucu54_GaG3Quh5cujutoF-MVlI27NLhHCVnlEdlSrtQZbxdCmb999w-gwbFI9eRtDlpZRPWxpqz8j0mHAsqck=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "21bf5eecb178477a5a27cada2c7e6f9b642f103213ecef336304ba3972ed05a8"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -376,7 +389,8 @@
         "svg": "svg/logos/bank/premiumtrust-bank.svg",
         "source": "https://www.premiumtrustbank.com/_next/static/media/logo-premiumtrustbank.a98b0a68.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "2d15eda37cab896f16df8a6df674ad6a8f6aadee7e8ab5b27679f35336c1cfc6"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -400,7 +414,8 @@
         "svg": "svg/logos/bank/providus-bank.svg",
         "source": "https://play-lh.googleusercontent.com/QjEem2qHp8wPig8wAkfVZVGTKD4yJ7MizsoTXzHgavEyUW46fzDqerZP_OC_D9FPKVtEpxU1R-ZgCrELKpqoitw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6543f98f971f7b500332b00ba5f00d024cbef075ad67e86a0af2b71ce826dd83"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -449,7 +464,8 @@
         "svg": "svg/logos/bank/stanbic-ibtc-bank.svg",
         "source": "https://play-lh.googleusercontent.com/ADBxbMFVgq65XJr5LkURhgFZQY92xEfDVGptwxYB8LODYNUulN5kOLHyH---_4U3D9FwEpxoRdghj-UqYqE9Bg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "48a9b29fd9656f7f28f9433e653d8234adeea4771bc009e35155ccf50cb4c567"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -474,7 +490,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -498,7 +515,8 @@
         "svg": "svg/logos/bank/sterling-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Xo-4WS2Ek0DS18fYkPF7MkkKgwAW-kJKgtxzoYaQFgTPKBkvO9ZQr00tH2ThAUT3NHPXMXiE9xYaIsByWdsQsA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3565d585037395d44dd71b82e46f3725e26aa92252e14b1ac721c61dd469c4e1"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -522,7 +540,8 @@
         "svg": "svg/logos/bank/suntrust-bank.svg",
         "source": "https://play-lh.googleusercontent.com/2B_X30t6_XxxgYJ4UOP0_swVVNQDQun44vHCgLgDXZaIjgKhbV8ze_pFU_C8zJRPiYcpUbFv61IjYxtk4Y_y=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9898cd7561360b81b397ff602343179c7fbea5d0663b67da9c4a3a0bc481d677"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -546,7 +565,8 @@
         "svg": "svg/logos/bank/tatum-bank.svg",
         "source": "https://play-lh.googleusercontent.com/B10HlmRxPPVt87dcgU19PZTl0ZfH8q_zoLKSJg6igm-zSGLQV_wjGzGBMz3Haj8CBv8bwoA19vV43QbIZL0NPA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e5041d5ddf2a8b813c5d85094fcb0cb3afb2c43a09210c042642a15017cc12fc"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -621,7 +641,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -670,7 +691,8 @@
         "svg": "svg/logos/bank/wema-bank.svg",
         "source": "https://www.wemabank.com/wema.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "ebe9efabc93923df4fa37b4d83f5c545598bfa93fa79a5193393a73aec7f1d00"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -694,7 +716,8 @@
         "svg": "svg/logos/bank/zenith.svg",
         "source": "https://play-lh.googleusercontent.com/RIcMVbshRar85KSNG8-JuIEzLffjIAsjxxVXJ0msQeVDJ7RH_8qxsxGDfsI1rt21N545mKZz27I4FFAhAj7eJMc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f12f74bd49e336a8dd4bbaadd6eaddd3cd6591e6708a1a7b529d90ed4c585a99"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-DM.html",
@@ -718,7 +741,8 @@
         "svg": "svg/logos/bank/coronation-merchant-bank.svg",
         "source": "https://www.coronationmb.com/wp-content/uploads/2019/05/new-coronation-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "b1e91dfc9b7b620873dc059a5923504ed3ba6176613e67aaec50ea8869660d7e"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MB.html",
@@ -742,7 +766,8 @@
         "svg": "svg/logos/bank/fsdh-merchant-bank.svg",
         "source": "https://play-lh.googleusercontent.com/KACki3Cb6bGl-6toxxhwrfYs8_LmLIX37YcDgGgUNifs5QakTMl_gcbK4cTIiBroJlh9rjYdu3aXmq-TsDT-Pg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fb81507f023e0ad144106deb38f2b152bd3100acfa22f16dceb5877b18e2fad3"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MB.html",
@@ -766,7 +791,8 @@
         "svg": "svg/logos/bank/greenwich-merchant-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Qa7qloLoNN_MmFxK2GsUn4MKjuNd8SPwz7RdlZEgjSOD9__zyj49OV7naicRv5r9OO5kjbpMANDOBsRfAmr0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c3f87ea7c9c089563f789e3429af09d052da9f966ef095da90069193f4a54edc"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MB.html",
@@ -814,7 +840,8 @@
         "svg": "svg/logos/bank/rand-merchant-bank.svg",
         "source": "https://play-lh.googleusercontent.com/I5xHfwoVXWP-InVV8fGXr_V4XtuueKT3Vr1TOAEgqbJXf9ZJGQJs2QJOWc1KjHavPjS9MurD2PVdLRNmdJfm=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "eada6ca1030679563c0ed04a8eebb8ce9a0fbb11ab986624263d69262fa47b24"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MB.html",
@@ -840,7 +867,8 @@
         "svg": "svg/logos/bank/the-alternative-bank.svg",
         "source": "https://play-lh.googleusercontent.com/pBbR4YGMZ5DrSKCjHV9IzM5KnZql2wZAb3LSznPTU6IpuB6h1po6tMJFuXyuCcWnFWItPxEW63XPTtBnTxF-GQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2b5ca63db6aabfb668afbd9a07603220ccea8076bf34ed70598737ce75562aeb"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-NI.html",
@@ -864,7 +892,8 @@
         "svg": "svg/logos/bank/jaiz-bank.svg",
         "source": "https://play-lh.googleusercontent.com/UhLXNwUetKKsMSyMM_GOQdOMmyw2jI-N3T4tC5S4i22FMCy-yM_EXEMXFYdyn8pE4N92lPIQIChtl4xZHRr4jQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3069b614900b5f9c18657fdebd15ad72ca48aea518f529714535aa937c9f96c8"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-NI.html",
@@ -912,7 +941,8 @@
         "svg": "svg/logos/bank/summit-bank.svg",
         "source": "https://summitbankng.com/_next/static/media/logo.ad2ce937.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "6af9973a7b696521dbaf620a1441835af06c82eafece2ef58f38e7cf52ec46e7"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-NI.html",
@@ -937,7 +967,8 @@
         "svg": "svg/logos/bank/tajbank.svg",
         "source": "https://play-lh.googleusercontent.com/Faho9es_lZ2iF5RILaGUlPzdhC9YyObgejpNxKDf3oXbEuhFhVYJFd5KuexbqB-fVsWW8RtV50LL8YmVRmcV=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "49f4380bcdee64d5c0709482c2b0b64eb2796a0eb862785bc8ed8b36df5b9a6f"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-NI.html",
@@ -963,7 +994,8 @@
         "svg": "svg/logos/mobile-money/9psb.svg",
         "source": "https://9psb.com.ng/wp-content/uploads/2024/10/9PSB-NEW-logo-GREEN.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b9f1f21da25d6660db37a1808953f9707bb27235f448ef8a60e05764934176dd"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-PSB.html",
@@ -989,7 +1021,8 @@
         "svg": "svg/logos/mobile-money/hopepsb.svg",
         "source": "https://hopepsbank.com/assets/logo-C5YLvw3_.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "8412e62df41ef65f84657f72372366dc2860b31477ddb40b24fccccd94afd08c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-PSB.html",
@@ -1015,7 +1048,8 @@
         "svg": "svg/logos/mobile-money/momo-psb.svg",
         "source": "https://momo.mtn.com/wp-content/uploads/sites/15/2022/07/Group-360.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "036d74325d7cc30ce74928b7717354343f81131f4d6f8734fc16b8bfc62c397a"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-PSB.html",
@@ -1040,7 +1074,8 @@
         "svg": "svg/logos/mobile-money/moneymaster-psb.svg",
         "source": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_180,h_180/https://moneymasterpsb.com/wp-content/uploads/2022/04/cropped-MMPSB-Favicon-180x180.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9d6c65bb76995702f7d932daaf4259cf06147531b9e874c075d9a795f40ecea0"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-PSB.html",
@@ -1067,7 +1102,8 @@
         "svg": "svg/logos/mobile-money/smartcash-psb.svg",
         "source": "https://play-lh.googleusercontent.com/OImzbs8ase20b317vVW5GJ3luWx8OmgyvNSY7ZuEwn2hHftkg2-HT4RpXbfprN9A_5cTi_fJyDiiy-HYqj2u8jc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5863d622d1c9c60445313b29c33a359f2515e208483900bfa87386f7cd9544ff"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-PSB.html",
@@ -1094,7 +1130,8 @@
         "svg": "svg/logos/mobile-money/pocket.svg",
         "source": "https://pocketapp.com/assets/pocketapp-logo.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "c4442491ba620d3700bd4e2f9e83af54037fee2becbb34e69e152b722f0cfb2a"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1145,7 +1182,8 @@
         "svg": "svg/logos/mobile-money/pocketmoni.svg",
         "source": "https://www.etranzact.com/img/eTranzact%20Logo.47578ea7.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "29e9ff7b6e07762a9c6fb452c6ff99b75e1060b44d55d757d7d9963b84b5cb23"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1171,7 +1209,8 @@
         "svg": "svg/logos/mobile-money/fortis-mobile-money.svg",
         "source": "https://play-lh.googleusercontent.com/HbnW5QERTlLB3BltNSba8A4XWjrCZGKPrwqlIGSodJ-_JKdupVkYz9fIDF4Pm8jJKYfXu44hRZXe71avFD3y=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1c0d87dafe04e5934114bb39bf3ed677e9cc15b7c1e85587f1c36f3cdbf483a0"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1197,7 +1236,8 @@
         "svg": "svg/logos/mobile-money/fets-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/uQd4W1LIaPPDgvB_AJmULH-rkPr-N0xQy1kgJ2WOcnZ1Mlrbz2-KPQvTZsqy2_gb2-xXt4tjDqwXeEB_9Hnj=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b155e0f3d6871958fcdf31c226bbe79f73c2a6f5e1220837c1f08b547d149dcf"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1221,7 +1261,8 @@
         "svg": "svg/logos/mobile-money/hedonmark.svg",
         "source": "https://www.hedonmark.com/images/hedonmark.logo.jpeg",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "547e3b666d2f8ec809419cd0350318820bf2bb2eb90f3e235970f330189052c8"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html"
@@ -1245,7 +1286,8 @@
         "svg": "svg/logos/mobile-money/kongapay.svg",
         "source": "https://www.kongapay.com/_next/static/media/logo-white.acde0775.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "91c67a51e87caa15547d148a7759d6737f44b4adc7d5fe96f9f92300730276cd"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1268,7 +1310,8 @@
         "svg": "svg/logos/mobile-money/mkudi.svg",
         "source": "https://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:60,h:60,m",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5e8fd673a66e02a15dadd2dcb9610b83393051a3c737c407dc2083adf13285bf"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1293,7 +1336,8 @@
         "svg": "svg/logos/mobile-money/nownow.svg",
         "source": "https://nownow.ng/wp-content/uploads/2022/10/NowNow-Logo-1.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "e1b25d743edb62b632298f9f23211b98c3926844f7e3b7b8154d4233c68b8c7c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1317,7 +1361,8 @@
         "svg": "svg/logos/mobile-money/paga.svg",
         "source": "https://framerusercontent.com/images/A4sIYAftMOui9peI9v5jM9DUAM.png?width=324&height=96",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "922331c8afcc91ccdd04d23ea3b2c392626f1f1903ac597e95bbc5a3828a6077"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1341,7 +1386,8 @@
         "svg": "svg/logos/mobile-money/palmpay.svg",
         "source": "https://play-lh.googleusercontent.com/pT-RdPoKxq_JRizBJsS99SgrtF9qeQ4Oq3gyhl4TSmK6w7GI_7x2OC9pQOSGo52b1yWBOugQv4w27QDA8mhzZg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "11dccafabe384fca473c1bbfbc18ef143c1480725027b5e4cb89e7f53af80549"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1391,7 +1437,8 @@
         "svg": "svg/logos/mobile-money/teasy-mobile.svg",
         "source": "https://teasymobile.com/teasypaylogo2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1a2bc1e280e860985c301389375ff179e407ba72f120a3868db872dd1c83c4e4"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1414,7 +1461,8 @@
         "svg": "svg/logos/mobile-money/visual-ict.svg",
         "source": "https://www.visualict.com/images/logo/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "26928952630cfb9f7a8c137cd406d07e9d3c0ae68ec570684b001fae9aff8285"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1440,7 +1488,8 @@
         "svg": "svg/logos/mobile-money/vtnetwork.svg",
         "source": "https://play-lh.googleusercontent.com/CFZJ42gXrbaqXNOiIb1Zgo1WM5jpZptx4Tp7ny7lcAZ9buJZliQQd641OTUb7b-F-FwMmHxnUV-3Vs0yJxAAaA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a32122151004d28d42498efdff83cb9dbc3223464e7ace6cb00e841a98098ab6"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html",
@@ -1464,7 +1513,8 @@
         "svg": "svg/logos/mobile-money/xpress-mts.svg",
         "source": "https://xpressmts.com/images/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "71a877cce4aee5cec54f0f68913ad14365b927bdc781bf696c2889c73c7b3105"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MMO.html"
@@ -1719,7 +1769,8 @@
         "svg": "svg/logos/microfinance/accion-microfinance-bank.svg",
         "source": "https://framerusercontent.com/images/FmIx8T5fNkEQ0nOTvW0W8CNoLUI.png?width=3860&height=2520",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9821ffb703dfdf72a54a5afadbffbe100fa5e7f48630ef9ef8d7c92241200322"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -1971,7 +2022,8 @@
         "svg": "svg/logos/microfinance/afemai-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/sA1CaayYkSS5UDUxiH0tm0VqciPag0vWMlZC7Kbp1rIgL5KfeUcH1--WJyY21gTLb638jlZIXpq6j5NxSuMowg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6dd830d83b21d4ca3378cdd43f510a7a5aaa94642fcd8e3b06daa747d4d7bdff"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -2154,7 +2206,8 @@
         "svg": "svg/logos/microfinance/akalabo-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/HcqVGHhxMv96kpeWmsi-jPYmNsC8wY7LfJPipD4WY9PpT_56lx1LryRJCW0e3HtpjI1hhMWTvejZkiF9ERWBDms=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d04be149db12362406bd01a64e3f1a2a5622b556002ec13682723f4ff8350e35"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -2405,7 +2458,8 @@
         "svg": "svg/logos/microfinance/alert-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/iHYHVf99sjnqP0hNjrVnAYqCNoc0y7xRV1EZ1HDvQfbb7XrhJb_H8Y_-5w2LFpydjGLbbOpdZPbFFhh759mltw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "275b8596125722d8dd27b0c11940c1164af0ff967ec8dc670b0c2a9f8d56fced"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -2518,7 +2572,8 @@
         "svg": "svg/logos/microfinance/alpha-kapital-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/yxC_nLYA4C7b_iI5OKqvf26fuzUOx0RuwXT_ow1_KaATiklikzvXA1Xi9OgUTSq9E-2MYtfr00kiDEboxDvAT3A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3061dcc9d801cb0a64011cdbf0b163b970c3c2cef42bf2efebaf662ed881bc68"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -2563,7 +2618,8 @@
         "svg": "svg/logos/microfinance/amac-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/5HTiD3t_L9NTHlzReeNYTzXdGmV7xh0ha_dig98c0lFsVZ2aAeVDJJEGvRupTlZqhHkJcmYY3ZWORQsngZQpG00=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f1896fa7809c4c30b9cbc89281a697a49ba7e9401a033180b859dcea857c0232"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -2953,7 +3009,8 @@
         "svg": "svg/logos/microfinance/aspire-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/4ahHj5U1HvBcncMLVBVKgIn_ze6iS_QujWgup4JLis6UpxWEsJszys3bUEDgCK-9iFxcvik7oN8aNcoUSxreMnc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e7392185f0397a4cf7a51def31383518d597eead2095b3c948a75869137d9a97"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -3343,7 +3400,8 @@
         "svg": "svg/logos/microfinance/babcock-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/HJ-qwuum80SZ0nHidYRtqwGYdIisba1K_jqfp8SQLrAXlQU39VANG2Efab_ng8mASaCsfijdj3WwfRK1ogflOfY=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "037b2c1685726802d3f79185952df3d06cf2a93e1b56d640f33c127bd96c6772"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -3434,7 +3492,8 @@
         "svg": "svg/logos/microfinance/balera-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/X8d_d466EjWI1Y7Fib0xJpmVZDs1BjwXc8whfqVzHYurYHsifqXYXaenZ1ReehV9vVa5S0cTypEiuIqxP8-vCw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "62284fe7ca4064e66b19e05efa6f6f40fb7343225fed16ab8b99cae27c511459"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -3848,7 +3907,8 @@
         "svg": "svg/logos/microfinance/berachah-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/IsJSCh722_MjYTbqVqltceoUFWhJMRCaCGgqDHv_PW-g3IBWPBsB8tMlzTGd4kj9dKVDIFyhrWrNUYtCwH6X=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "895ca02e3192a11df387a1f0254efb60f0faac6569d93b01582467262f28e9de"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -4351,7 +4411,8 @@
         "svg": "svg/logos/microfinance/borstal-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/bcgVDIC5uXnfYn5d2cHwfycJbIVKJbGytHWtCMiVNobWDuXISZNVV_xrVJO28EoXgELVMBu9ggymP0UKJBklV4w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "62c3628314a37373829838ed9bf545f3144445e1c608ffff3ed81511ac564560"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -4466,7 +4527,8 @@
         "svg": "svg/logos/microfinance/brightway-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/tB1E9BgjInaCQAtwcSSIMfDl7huOBW7XlAq5su0Fxsjk-At-Zm-Z-dJlSGFJ7MjkOGLuupnooVfGNZ6OgT4QLA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "91538a0a316c79a5702a0c184d58cc065b904b9703675abf6b4113ff1d21262e"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -4650,7 +4712,8 @@
         "svg": "svg/logos/microfinance/bway-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/MHOGNN-jfrWqN_L4fcCEQICI3abnJ8p-8_HpE2ImOk9y97DvLXlM8sgC-pwERxwzWBbIyCr3dVjvUPb4ePXwMg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "60a407162369d58d43d01af4519502d81994e4733705261b669c1356bda729f0"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -4744,7 +4807,8 @@
         "svg": "svg/logos/microfinance/carbon.svg",
         "source": "https://cdn.prod.website-files.com/6453bf08503f6d73d5ffe98e/6a048610a0dd907c9ee9bb14_Carbon%20Business%20logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "870f8fd088cd4e1302b5e20fe21b61375f7844ec4c3295db679e390d46a6286b"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -4929,7 +4993,8 @@
         "svg": "svg/logos/microfinance/cedar-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Fw1nUUAn39bCBbR7jpLmFyytVWko2dEBIcbGZzSDrpgbBCSvSVIm0jw2KAnEaKbmTojq23rDKSWa0VI2KOUx=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2e34cf7bce41f595e76024943c2da8909e4368d1d168466b2703c1412f17816f"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5068,7 +5133,8 @@
         "svg": "svg/logos/microfinance/chevron-employee-operative-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/JdycRyS0_WkFKjNzmHE7GCi56lLLjLEuiYG7CYecFrtVbCT2DCvYbFZsKdD31QWXaarWjSyZuXezwrbFAs74CvE=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18d481b70bfd5fb59eab97e14e03ef631ae12f070a6d81191cf2fd51797e3b51"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5320,7 +5386,8 @@
         "svg": "svg/logos/microfinance/cloverleaf-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/O8TWQ2_8E7Ugvz3HkV5s-98IzULeDZjn319Z0VTDxtoGPP960DJ9nwnALKl4tyULExzcNLWNMe3vky4KvEnA30k=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2b33d9276f4e4db3c6b2e8a35b0e9d3492620d7a6b11f3f1ecf962f3d829dd03"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5366,7 +5433,8 @@
         "svg": "svg/logos/microfinance/coastline-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/IWSVEwVqjQdTcd3xLZhlBtfLuJKlkAfRiXJjjNQaNfc97ovjrnkot-sLtG9x3ooPCTpW-dh_Dp6V4v_WSZg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "aa050f6fd5098b44fadd709cd3f059d7f7eceda6bbbae084a1bfe786080bc0cc"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5412,7 +5480,8 @@
         "svg": "svg/logos/microfinance/confidence-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/IaTZGc0oG0NdoQ9IPoQWPX6I3C0FWPR2A-E4EJVXUY_kSHvepWAGzVdqAbAYg9PRVTf9PODVKkefK8eOTsZJg_0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d049083d5e883eab34ce3dbc66843e340ffb1c0eca25182cd373fd207c93aa00"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5687,7 +5756,8 @@
         "svg": "svg/logos/microfinance/dabtikir-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/UBuGYowRknwlFtKzzbz8hOalf8YnWgDh6JYsQ4O-rfDYPMRGZLalObhPDbC2KIKDFb4MA0m-GiVcLSUPA56OwQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2eb9714182585ce1fdbf6bade397103e46415626306cd2f6ff601e0761f57514"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5801,7 +5871,8 @@
         "svg": "svg/logos/microfinance/davenport-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Ynhg138JG3jkCqvuGpIR9xHjuv6_-8WTXSR1Spi9oibZIsMWYD8xP_m4w51C8tMH4Iq1G4m4-ll9Amba3Mv9=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7dddf78f335683714a893e3e7c2ec2e0c221118bdeea219023573db961248087"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5824,7 +5895,8 @@
         "svg": "svg/logos/microfinance/davodani-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Y4zTjXk6QsUvrOR63ERgsGfteZovX4uvCXa-2pL1N54IhiyVA2b-Axvm9iVBpTb2EQNxwzceXSOEgkYjeiCMqMY=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ea408302758f3d1ae7572e1e4b1b4e9e25ab2fc1963fd370967ee3be2f4c30c1"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5870,7 +5942,8 @@
         "svg": "svg/logos/microfinance/daylight-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/AZeWS4-3hUShq-yJ4F0j62vAXsNWrgJJRv7cnLUpMetPAZDKKY5GN-DJKvvbg04K9kBl8i2CJikzVP-xe8WDMg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "415d3c6195ab8ff68594d244a32f1933d251ca9e1159c5028a07a0a919dce79b"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -5916,7 +5989,8 @@
         "svg": "svg/logos/microfinance/destiny-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Ju6ssivQfjzyE9gwV9qisr5RskHyqqNDI5LYmL1JXvG0RyLr_2l2BBKhGkC5KpXHJA26DVPENEY_gijf9duDHFY=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8d5f650577770c81acb4eb19e39cae904208adcdba82cfa667c664222995fd0c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -6031,7 +6105,8 @@
         "svg": "svg/logos/microfinance/dsc-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/vUBcc0egbEq1niNTjKGSHjirbva9y85AVPsVQD7Ggf5f1xZ_rNHPpF2V3SiuwaUhOtqpgx_lG_g50ns0OKLn5w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2f8764e71fc6715b734726aa9db64bf8757189b9e68caa4a06652c2a2c902319"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -6307,7 +6382,8 @@
         "svg": "svg/logos/microfinance/edfin-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/xi9HyPJ3-kFJqnY7_cR0XggOEtbnoyoER1qqQ7Wu3Ti2KMzPMnGedh9F9To18V_n5njfxO6F3gucU-R1gOV_dA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "485b3eb6225204ad470e92e72a8d2799b9e4b52b71a6f6cef5707024e5b5096c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -6490,7 +6566,8 @@
         "svg": "svg/logos/microfinance/ek-reliable-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/8Rsv8WRJTquAnb4Ff8te-P59o_GLpxk_LgpQgtVdLLsd6__POHRNTjpmyiaBybTZoctPRpDbJBq8k0b6jnWaDw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "836f16d9fbfb04fd9f58caa25d4bf25d02aa500022b0cb6b868a897ff1b916e6"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -6513,7 +6590,8 @@
         "svg": "svg/logos/microfinance/ekimogun-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/AKVPT3InZynNfRXTJap0vh_22T7lCGWi06_KWevg-Sds66vCQaB2QbYWGaJaSPAmSyuIzc693dP1GCSfKBFToFc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ba8ed479b4b4d8f68998fbe7331f2708674d4e4faa4d6ca41cd9b68da4173ebb"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -6536,7 +6614,8 @@
         "svg": "svg/logos/microfinance/ekondo-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lftfRz9A9dPBMqS1YMl7HOIMEbLLzoFMTKqmSgv-mU58bDPBfacOvuUwR0CkmXNMqEwX0ByDdKDEl5vkDKIxHw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f7ead18bc2a06abb58f4d8ecae466ff98404de052b01a07980af8d8f50c2db58"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -6582,7 +6661,8 @@
         "svg": "svg/logos/microfinance/ellington-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/SV2yNovQS4Xw53y3GlUMn-liNcBf738NLHygzBtE3IWg5BR-1wCNYlsyfxvPC1rMCBsTRikNTrrYi8W9xNbtgw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8f9847ab23ee6c33965aeec56ae8e64b0cbae7f18adb6f4aeb5471fd44160b3b"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -6929,7 +7009,8 @@
         "svg": "svg/logos/microfinance/fairmoney.svg",
         "source": "https://play-lh.googleusercontent.com/Hf2OGzogx5o1QvxJo9BTfXyzpvu0SMRArwyTILJ3OFpLff8_xYxHebPFdCV9XN2Jq_atqlzQobQP19p7rD0nmQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "277112d22a7f2b51dd05b54cbfc6f8b807fe7f2adca5ec6579fd1735b9826fc6"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -7114,7 +7195,8 @@
         "svg": "svg/logos/microfinance/ffs-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Fj1jchWp5FRNw8Mg9yZeUdOY2MJstyiXGVsuJnk4P0lHnrbrMwYA9gLJ9EzkvFy7VpxMGroAfCtqb_Ek9Jf7CQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4d5d83bbb29c98c9a9d65b3fae591b9237dcb7eb2ff7428def631b287d644841"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -7253,7 +7335,8 @@
         "svg": "svg/logos/microfinance/firmus-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Cw51b89Wgb0yrQpD-CwVIV2JG25_F4Dzvx7GSULdc7PEd0zRI5iptfN11d7bqSN6wDh5JikmE8VbL9VMOLSImg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5a60f2340b7255578af187eaa5a540d2738f97c9975df152a5e34af2b36e0892"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -7299,7 +7382,8 @@
         "svg": "svg/logos/microfinance/first-heritage-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/PuCf6d5pJOutyTJKTvBnxUbeWl0zW5APKImlN-IAQHzaMbD758juJSoNLh2IB4O3_JGSQpLpIvTmavumxtivAw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6a2785fb9adc20b5af5c2fd013a35220ab34594880f695383fbe4c3c5b11d712"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -7391,7 +7475,8 @@
         "svg": "svg/logos/microfinance/first-royal-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/bbiXD2ePFJ-ifEPtit2BecXhwX9LJPaggMDkvllyjuLTPoxxkeFthwlFZ_jXLKJ_X_AgnveA5Iwncqj9rChA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3d70c37680b1dc2ff3d4629b0d7d7e22bf828371c093dca7aa4cf4bf3662645d"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -7413,7 +7498,8 @@
         "svg": "svg/logos/microfinance/flexi-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/YFyzdIJu2c9JWpRvNohFeI77F1SP6qIA6s9XlgvzX9hZl8VOfUrD2KGRhFjNP0RvyrDpmmse8h34ml-kNAsA8A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8726e6d4f3703b68d07edda233d8e1af631798d9904c126bc30582850d3f40fb"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -7573,7 +7659,8 @@
         "svg": "svg/logos/microfinance/fullrange-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/jhWHNiwwynEW0w05WR8O5xqwvBWinXIMaBIvx0j83TCQbbgeNqaFCHZcf2K8WAyfKH1s4DLOGwtbdGGUvAeWHA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ffc0b039548541ef3f6873fb528c85f5501c50e19a9262ba692ae1666fb21901"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -7986,7 +8073,8 @@
         "svg": "svg/logos/microfinance/glory-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Llw6RTb3xNoei1bfSOIn36ebke0Y-2Yq7SW2z4M2oJ-OPW_bXP1Elddq8Clzezv_pCEAND_1wP2AUBXLTXTd=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "36f737bc860c94f98431572e8f7a63708c0be34551649cc48fc61e432deafbf9"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -8192,7 +8280,8 @@
         "svg": "svg/logos/microfinance/gowans-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/p3m-H1POj4SpyKnlsqhU_gPZS1er_ExJiC_pF1YQtkA354vDyKxIL3V5GMSo2dDclPdz129ryaC0p5KzMmEAuw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3d06054af39ba435c6b4db13b4fe1b2d62db6b772fb160e0e4ee2a75d0966f92"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -8880,7 +8969,8 @@
         "svg": "svg/logos/microfinance/ibu-aje-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/nGJIUx_oNNMvp_k0WFElGZ2Bh6j96U1hMLjiHWMHSk3aJbxYE-Z0r1ULUBqAKEyme96RkV6pRZi9Ouqb65qtsA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7814b8c5757c44e77c2d504be56b0df18c5c090ab64226bec49b5f0fc29411ce"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9064,7 +9154,8 @@
         "svg": "svg/logos/microfinance/ihiala-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/4bhLmnwUcEdGi4t3mUzZzNkCTdPA-dA051SCvR8bSQVuGmL7qAXXmJPtNWMemH9UKjBRgGQ8NoKlrgMqp6OayPg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "360fbe9adbeb95e6e1792eeb514bface78763de2afc592d59fc4bfbaf71f554c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9179,7 +9270,8 @@
         "svg": "svg/logos/microfinance/ikire-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/59Vuvf102N9TUfuNRgvZE46JE82UiCvoPRRWSkfKZibIwNOgldBDXaVUMx657nFkBAWFufEAGn3TnQy-buqVWQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9101958bb844a4a7eccd1b19de3de40953560bde0d56495fc3c384950e96dc92"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9294,7 +9386,8 @@
         "svg": "svg/logos/microfinance/ile-oluji-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/A94oW8d5_A-smSGRmgvjG2M3t63KjvXHUTudDJ3kgNvZNpKzmNtJh8Jc3muXS-QQszDRiCN5Nub1ZSTVtho=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bd95cdf7d6678e20f2d038564915b2976b3695b9a5ede0897c8c50903b5a1c98"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9569,7 +9662,8 @@
         "svg": "svg/logos/microfinance/imsu-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/d6AHP2B2-u1CvFNhQJywWnEKzkrLTkdrTMkEq1LBtebBTnyzVjKs39KHtFdHWx0gj5daWeBZf98pf6aNrhrcFg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7e11dd7b5a10f637aa946653c917942cd80f1192d618afad155d44899c5cfbf0"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9614,7 +9708,8 @@
         "svg": "svg/logos/microfinance/indulge-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/QZvnollO_RCeG8LzdSHvrF9_aGkq7MXCeHRi8f9KN1JD1fKUYsQx6PkxwY5KfEF9S-F0L5S1yMsoHH8UyAQN=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "73c953fb4091e85487ec30f0bc5b9dc55c32ad911d5c89f6e72bb1ea06c535ab"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9706,7 +9801,8 @@
         "svg": "svg/logos/microfinance/iperu-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/z8mUnwMXYv93is0Pw9w36jIWGegbQKAs6WOvmMWdK9pRJbVaPWLP7FhK_CFr39DpA6Qo8ULQNwRQlmbb09XBpQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "964c5a36fe72df339859acb29a173f542d0e2dc24a87bc637e6dcc1db7e1827a"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9889,7 +9985,8 @@
         "svg": "svg/logos/microfinance/isua-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/VB9ayzrlRk8YOVFy2I7JkIZrcPXv7xAWAT__zLenhJIdz0tag6-lHUaCacsurhvmXFyyD18BjTqJmv_EQz6tqLA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4dc8d7b19c3c427c3a60a94f19528ab3452fb00b334231f657b26c2352302a5f"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -9912,7 +10009,8 @@
         "svg": "svg/logos/microfinance/isuofia-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/VJM-G_pBeHt1qpsMkdA1azmHu1WcQP_nxdcOREXEvkWGVr5Cd5Qq7vsjMlJvcBmiw-fOL0Ipv--LscrhMfi7pQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "767e94b4cc045efb07394aa8382306894751bff221b1ffb215f710d623d93255"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -10256,7 +10354,8 @@
         "svg": "svg/logos/microfinance/kaizen-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/ApDAwU1zmU74egYGUwXVAhD9swff1C8-JvznhkF4Wdjv0sDX3a0eFIXzZ2iec-MHKSeB8ABDJxK581aUHc_9=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "27f2b4ae8dc19e43c4659ee312358a4032adbed6300c1aae6130cd8403d8dba7"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -10394,7 +10493,8 @@
         "svg": "svg/logos/microfinance/kayvee-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/5gmd_JoSDxBISpvIbbd4bPPbqCfoVH7h4rTazVBlC4yBB98fdoAGIQ4IJMgmjF-civ41wWOGbbYn1uKw0_-MSw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "eaf3ae08ac3b14f2d966042863b363b908ac75a2fe95eb6ebe912b0d2f5ad16f"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -10438,7 +10538,8 @@
         "svg": "svg/logos/microfinance/kcmb-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/WCF6a_8gSWZa8Au8qAcSq1y6dSK7nasS3T5BtdbJXX8L-Dpo27IWNcMnaweiXXYVAlRLMiGduLZWvpHK-OqOyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2be615d667eaf52a67f91aac3b0f65211f0745565fecc2737027c12b84215f8c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -10506,7 +10607,8 @@
         "svg": "svg/logos/microfinance/kingdom-college-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/pJCWf-31m_ggFGSa4n2y75GvYYz307edHmz6ybjqzR8VyC5GlnNYXSBUu4XqcdxKkoT9h2W1gb61-vycyh9T=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a8a56c5493de899d68b374bac1e901e3c059a9d979026af857609eacc7f3b2c7"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -10620,7 +10722,8 @@
         "svg": "svg/logos/microfinance/koins-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/-dyQKQIB9FYXiskepwrOiEn3JOulpX7ViLdC0S76YGeLmD6JhL9ybRAVrp_m-4PZYgcAc7xPi5HvVDzku_U-Bw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "dad641070f1362fdb33e866125457db44011304d7daed6d60c4d083bdc698797"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -10643,7 +10746,8 @@
         "svg": "svg/logos/microfinance/kolisa-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Dc_evVNzS5nGmwNIBgV-PeV6ufWq7Mga5HOx8PNX2amjjDhDz1N3rnYTaHeQIPF_4CS6QFjJbWKu21HiXYv7bw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2d2029335dbdd6e93152d600b83666eb32e9f466b9a8c1d7d5082a40833fcc6b"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -10738,7 +10842,8 @@
         "svg": "svg/logos/microfinance/kuda.svg",
         "source": "https://play-lh.googleusercontent.com/itHwXR2V4El4sE1Zd0a32MIIdx7YFmikjkqh72wl_R4Nl5pUTvYjQHrnUWVZ-KxKWzx0NvwPCwDHHTmLlxM_=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "333ec7e1bf124157776b2d1cfa89d1b7747d1706fe336eb17b5a033c4895fefb"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -10923,7 +11028,8 @@
         "svg": "svg/logos/microfinance/kwasu-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/jxja88MSPucrtHNdMuqhv3ibCWX7sc_35qbu_O7rdnz5JpjiAz3tviEizE3-8PIrqmnNESnsitqT9dZZ3myWaA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "80e50dd265a981e723bff9a3ee2e7cc7bff413af685e8d98b0c1e31ac15323cf"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -11063,7 +11169,8 @@
         "svg": "svg/logos/microfinance/lavender-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/_s1dBc8D-l1QtMSAbR9mnSp1ExpvA_9OHwP-e5lzla2vE7lXhmfq0hYditOo-Q49RF_i_slHLkEWYw_B7OqDqQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4f975d7862a45d661d1529cf101be5d04bf69462d2c9d08b83d4d955b0dbc305"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -11086,7 +11193,8 @@
         "svg": "svg/logos/microfinance/lawyers-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/hWNZ6ISxLucgVwNHqmNoNo3X32_yKXCd1PWvZNODffCctExyvvioXmZoCGviUequsVItYuGhN-nVpPUq-oza=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "63ff1d2715fa78eebcac4470c2ccce6ca53b0e359306ad912b54d7d760df6c7c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -11178,7 +11286,8 @@
         "svg": "svg/logos/microfinance/legend-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/3njkb2W6HcpPVltHrx9o0bqpO-R-edbA3QBsn1u7E0zRNLaY26aN-ZwVValZMC6mYkPqEv0Ahul8kZxSjADbi6U=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "04c5f024e72385966cf534cc86bcd3f1ae90a8c7658749e6ca8d99c57a442a1a"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -11272,7 +11381,8 @@
         "svg": "svg/logos/microfinance/light-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/KE9QpXuNEw34M9ojOo7_w7LdOKxDrFV8aHQdJpTFe7r3J9ICn4QXqKmA_w65NGSREOo57cFtblJqxh6o7ZKnhA=s512",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "4d77c6ac10ca42b879ded71741099c5828aeab174fbb0ef0af88628e71322c01"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -11295,7 +11405,8 @@
         "svg": "svg/logos/microfinance/lightway-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/0V9lYn0dtHayzxolBUeojLcr4dmkkv7V4fO3o_Yjl_trJcWdrnBqDYYwpgI2lIm-mSNmamvfuun_jxlrdMUUvg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "05cb547ea6b56becb2930cb6f22e8ca105fd11c282f93ec4ae982a092cb59bc9"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -11868,7 +11979,8 @@
         "svg": "svg/logos/microfinance/megapraise-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/dkF_VdYv97h9ZnyR3AVEU9TI1iTzto4rTbWqhxF4gVWapAJykd9cKKlnuFCy4STZHm-6msnw0vhBUxlUmQpw6A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "176c366ee078279526662a32022525d2f2e77ba48de43127f858d0a4a96d38c4"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -11960,7 +12072,8 @@
         "svg": "svg/logos/microfinance/mgbidi-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/JLMiYzdrBpV0otDZ93W0SEUj08AzRdM5Z-tdGP8_sl-qyep-FJItGmUTTAirjZHYsaeiOMEpDl4oQ-VjHvOmQQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5baea6049c05339a76998d05e52e23f73fb44b8a9c6976f0e1789594066d9fb3"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -12121,7 +12234,8 @@
         "svg": "svg/logos/microfinance/model-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/7oPwsiTKjWNWxLn4ehAfCXU1-bmO49LTmY3-eJ78ju6ueaK0s3u-mjhhPoAF6v0n6eKKGbK3Ntkf1ZdWtBg5fw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "90699085f9432f52649fcb8d5cee29f4547efc9e66e32a80e110587652d852e5"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -12260,7 +12374,8 @@
         "svg": "svg/logos/microfinance/moniepoint.svg",
         "source": "https://play-lh.googleusercontent.com/C4UyX-tcqsmK4QluCFDJkT2tfn5EfJKdM78Mm3utBrKJpxgPQIZqrLpbJfOjzP_RkKcnNBKh0IJdvNGsrQUEizA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e7e8bdcd02069397d2c6828cbd2135dfe35b9744f57c4d5019f8f60dac41dc48"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -12537,7 +12652,8 @@
         "svg": "svg/logos/microfinance/nasarawa-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/a_Z1kvQXAdE-cLhd2EHSgDP642hvCMNWKnxjyAuRcKB0DEyeIC1r2qNp1e_L8pLpulKbkvEImRKG9WrsRYFKiAE=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3e47df60ce13cb4f4c5e63fdfbace952aedbbec78f484cd354c0fdd41ebfc160"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -12743,7 +12859,8 @@
         "svg": "svg/logos/microfinance/nexton-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/7hnJqadHfvPCddZeg75GwjmGEtDNHQyRcU_Nrdu6oNlrLrQjHijbA15s8cwJTUSnb20BAgxBGTAAf91ALfUC=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "62131466102a7f8d7ef56f2387427f8fd15051547e125573237d842f17263a74"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13042,7 +13159,8 @@
         "svg": "svg/logos/microfinance/noun-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/bKdnezSxZp8UX7iy6uYqcJp_CofiTLGngOSGAqfHAlUn4no9g9VRaF88KODt9ZWfqopaLB6aZkfytBrafoiTfHw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "09854a8c99174310cd7b793dfe09363b914f6f4ebcc6474a71e37f4d5ba2d3eb"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13088,7 +13206,8 @@
         "svg": "svg/logos/microfinance/novus-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/yGH8m8T7oNzQ5fuh1Wa9BproUjkuDAPZtUeXSiolyCXFisbsm5V-RMSUaI9cPukJmrY4IBEtM_sLwUzLVPtSbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9272b79b386b9ab2611fa4a370fad60f532b9889d55b01cc95686f585c6a58c7"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13111,7 +13230,8 @@
         "svg": "svg/logos/microfinance/npf-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/BNg_PEV52ZjyiGDk41RwJrxD--djGRWDOxXaLw1wx0VW8P56bSjOEW_GOgQybH37t2l_ke0wzlfUXzBz2J0K0w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b3dd3387eeaa4c7da4305f4a2e78006a3bb70128b25e3e108bd0ea6e9ec9cbb1"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -13225,7 +13345,8 @@
         "svg": "svg/logos/microfinance/nuggets-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/ujP7B7e1COeEhX6_352aG-4btdPxg1l0Z81phyCTl6VZEt-VnjXJE3zApZ-OVb__gIekABjjP5kyJFzwYoy_Zg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9900c8f8c01ff51af846e69de8ab98606fc7b6e0e5e59d40f83d8cf23713f2ac"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13316,7 +13437,8 @@
         "svg": "svg/logos/microfinance/nwannegadi-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/deIlNU8BdQ2htnp4W0kYbqfFl_zb6iB14hXZGRAOXWtdpCbDaIVsMIy-f676JdXaM5AomaJCamnxl-rwyqDy2g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f978e70320e9570a718a123ce2996fde0b917a55c9e7701e2e55ce6f74ff29d0"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13339,7 +13461,8 @@
         "svg": "svg/logos/microfinance/oakland-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Rd3xFXWsJQbz3ePSSIP4YP313YjUL8r49ZRg-JDQARhqXuy8-5xqSnoVh2zqBBUVorhm9zEnClLfVzj1saVfKjc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1d4ce57cd951f314f07b5f3f4767958449fbe2d06c72536b1a5e3bc58eb6d28b"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13476,7 +13599,8 @@
         "svg": "svg/logos/microfinance/obollo-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/8v2cYFblbaLLva-iGM9ZFqsHAk4sMJUGgEPYLV6PTNW3obSnqWLVgBZXjhht_BQtYI7ZXyGjF_MO2OJ6i1Yn5oo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "09cbc996a6381e4d0a06b5d4543ef8378cf10a1d85c22eec4dc5963e2337a0a0"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13499,7 +13623,8 @@
         "svg": "svg/logos/microfinance/oche-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/NgqUH1vVr4vA-R9J1um6ogBzRx1VFzKyUax4lVGW7XbIVjYUn5pfiNLveeweePv3I2r3KvabFWdk71296IGx=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7b755163345c7dbe337fa8d4243d2c4d8deeebaff01e1d6f62064bf7002e4ee8"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -13774,7 +13899,8 @@
         "svg": "svg/logos/microfinance/ohha-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/mvPKmgSvyWGyON_pbZTQz7IknxhecJTtCXqdRkzd-vmnK63cXNc6HpkomS1FPed3330Z-Ol3WU5yyJ7h9rCfBw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6d65be4508b18e9c11de601ec3821305aa4a267a7a7aeb29e2f889d79a4a235d"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14003,7 +14129,8 @@
         "svg": "svg/logos/microfinance/okuku-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/mzKrqZ8Tkqzyg1NpjxTEWvZdM8usS3ibrz-1CJpZxm3fGjgGhADs-qaMKoyGi9eHz2YYy9CJIAtapdE3xNHRpA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "51d9244c5d412d8d82984ede803d12e0b701e455c5077945d36837f0f7071a69"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14095,7 +14222,8 @@
         "svg": "svg/logos/microfinance/olive-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/1EtbFyjTA9jt510NbT-FH6szZ764ZGC--_gh2ZZFr4gGw-kPXmnGyGIM1pmmQe4IJ7skm1ws65OaV00mlbhPoy8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "24776fa0005302f8d2143026a5b7d4ec776ed127b68cffb8cfcee36cc3c0ba54"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14118,7 +14246,8 @@
         "svg": "svg/logos/microfinance/olomu-aperan-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/vsydsHvItDxK4d_PAxKt-R_jaWYtUEXMt9gvtUS8qZ4S-TII10PmO0Wncahe6YvF9BeNB9HCjzDEyyyS28Qjgg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "29e2c50dc732541d24b1122a6ad6a531441a6396bcf570f0b9307a1e775004a7"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14187,7 +14316,8 @@
         "svg": "svg/logos/microfinance/oluchukwu-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/QBLGL6WOE69bgt7OJIlyTD8LN3mBL2YDxTkgtwygOHZ-AoUZLN9HaXIHa_wo5VUWvKOa9YkMF4xIyYEfXuucnII=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f25c6aa98c992463c3bc40280de4eb822d82be7579a26f1b2d337913cc3bf034"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14233,7 +14363,8 @@
         "svg": "svg/logos/microfinance/omiye-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/JhyEHexXsJSFniyWfbwJrZ30LpsJPBpMxUjRpKrzaS-dbMS8m-x7oYPScU-oLwf4_UhBjdv3sWB5BFSpOsC_=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "41a5b959579b71a5f34ede3d99bd0180232fd83dc8417c2f7db7143caed632c8"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14329,7 +14460,8 @@
         "svg": "svg/logos/microfinance/opay.svg",
         "source": "https://gstatic.opayweb.com/website-ng/img/opay-logo.684aa98.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "59d9dd5fbf56bba00d9c274cb46387fb43659baf0a633ed0ebc0b4d5a12739c7"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -14376,7 +14508,8 @@
         "svg": "svg/logos/microfinance/oraukwu-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/FNkHj3pyjG1hV5JosFv8ID9tvDBM5EJNDMjDzIaQa9J_lUDPBt4cPFjb0jWJyvyBPRHLratUaKQSG2F7hovC=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5867dfafc07d513af3c2c3fbdd0df393c59341fe0f6efbe22426d9a54a9a5451"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14605,7 +14738,8 @@
         "svg": "svg/logos/microfinance/ospoly-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/JVGLvyYfyg-tt4k25z7fklx_qXVFakQUI54tLiTYoqSQiU9R17fnQoII_ZuMsuitgfq9sbyNSsKgD_lmIClimQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "772fee20f1881cbafba4a807aec520cd092aec52e22360e3d29a6f0003dbfc53"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14720,7 +14854,8 @@
         "svg": "svg/logos/microfinance/oyan-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/RcPZPwIyJM1URKCCkp393bbxFsGN0Fid--Rdk5jumOXt8a1BZPSz61Qc1KJGZohBjvyBBY4oXzc0n2nvbRNj=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "23bc77ab024eedefe51a26faba994a0462dc6f2b1cfd514430f2d543229013bd"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14743,7 +14878,8 @@
         "svg": "svg/logos/microfinance/oye-versity-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/U_ZV9D5kF9YD3RFXuZu3nz8S35R2cd2bOOjGWaY8W6Fskd3hocWbpDC69vzyLFxVZy5RucOpaTMkOHjAGKm0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "42a5dadded77d00e57f9429c3abbf6cd5eca7cc3c29d14ec65e0fb8da3912a11"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -14880,7 +15016,8 @@
         "svg": "svg/logos/microfinance/parkway-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/InbF2mlLZIGKaxEy6w6YRGDM2phTZCRbw1754d75rSy1iXR1x6OXVdJjZKJJKmPEX1MSh0_xIY-GgLQKpMeqJQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f8b143954aea6e6fbee923674193feb7720549fe6a9281de53f00321ca76cafd"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -15041,7 +15178,8 @@
         "svg": "svg/logos/microfinance/pennywise-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/RWq6mcjymTrZ1kfBo7llZNuC54W02l4FeehLvr-LhDLXtYxg8GOBT3fGX0eSz-xZYADYkS_WxxY2FnvYtH7OVWY=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "de4468de84e5d752bef56795781ad8fb4997e5b7e441350667d11dde4a5d0dc6"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -15064,7 +15202,8 @@
         "svg": "svg/logos/microfinance/pentecost-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/aM6UzEMvQJwROTfpDq06MtprD72Yr96fsaXGYZ1KJgF_vGmCnICUBR3-p1LBHp6Djm6Ml8H7WFmycOFwZgTuJw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8b2ff7afdfd0e5064b6da6da3ae48924de41a34d536ccba66cb241f4994f1af6"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -15270,7 +15409,8 @@
         "svg": "svg/logos/microfinance/polybadan-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/w4MiXfQVUi2JbkbU2TnpAQirOcgEGii1uRlEtHwfx_7bRob9DGGHjPJW-82y-pjXyrgYh06k4CThD3xocXmG=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6c95638df37ae25321c4c7c33df37d226f7849435024450b6371fbd153fd334c"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -15408,7 +15548,8 @@
         "svg": "svg/logos/microfinance/pristine-divitis-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/ptdyyGLyYCIfvS-kYXfhI7JjiO1jsfdnEpkasys4DKuYKs6cPlF8nTSAdeEdQV2eQLTJUaCYiIwy2c1OyBzf=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ee732db1410c604fa6c1d2a418583cd7cd7ab3cdcc80101308a082f0342f0bc3"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -15546,7 +15687,8 @@
         "svg": "svg/logos/microfinance/qube-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/-SDEan233b8twAjnsh0aiUVnvG2xoGvJZlti1X1RuR6ISwqCOEwMCZpN5mkcByoDOf47naGvBwyIfWU2OhriLhI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bef6627969a672d501218b2f978000257b75787aa9bc92b7753f74813a67c0f5"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -15801,7 +15943,8 @@
         "svg": "svg/logos/microfinance/renmoney.svg",
         "source": "https://framerusercontent.com/images/yDGvK9Yf288wkyR8U743ibF0.svg?width=792&height=254",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "9c925170b2e092c027b48dcf1a4a6b876e7e4fc6601e33d0e3f256d02b632c4a"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -15870,7 +16013,8 @@
         "svg": "svg/logos/microfinance/richway-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/_bkB9wXfFfrhWhiFRKB4ewpubUJJ0kpTB3Jy3lJ_5l_5QcVItpMSwEVVuqxAQsVRTf5EeCpoOCEdsooiBAH2uDA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e53cad1be40ded8c6aad8a492127d76bf6b810cc45e180f9f8d7abf8f39d90ec"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -15985,7 +16129,8 @@
         "svg": "svg/logos/microfinance/riverside-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Ilk7aaqfJiVVWccvZZrYKzifg1bMknUwUhbUl62S7fB184KqlYfFlTk16qARauNkU5JYLWAEHwUwrBsgwdYu9A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7a88eec97698f75a2dbfddf5ffdb546bed41168a7f021c91f5b8083efb5dda40"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -16031,7 +16176,8 @@
         "svg": "svg/logos/microfinance/royal-blue-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/JjYOpamJdbsFdc1eWoyASossopIJXQtUfXWgwLL5QTfYORkRXQkMcUitprN7FWb6zrkXbR6V-85evExguQRk5w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b38f9173a6b2930b74e317052462eee4c0b1fef46e5a093a608a01b0c6930647"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -16146,7 +16292,8 @@
         "svg": "svg/logos/microfinance/rubies-mfb.svg",
         "source": "https://play-lh.googleusercontent.com/-yqkOmuIIWr0c7HcUVh9w2sAC_qv17p2ncR7pr0IMYNzHzIzkL4WfTNG75xBcGDg1AzLHjHk32fjNTX-e9ik=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d3b71913e2764d6f4228f32779a550ca0260c370fb60193368ba25d0626cc693"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -16285,7 +16432,8 @@
         "svg": "svg/logos/microfinance/safe-haven-mfb.svg",
         "source": "https://play-lh.googleusercontent.com/i5GYdU08dEt9MBPYoNwUtGzmkOU5rxZzxEa4K6T_B7r673IePcZFAVntwszEjDzv-uZ8BfHJ68KtRpw1O0gfsg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "34bd6c8291f9c6c216376703a1e76d7b1f63c1edd83a072cc3920808123059e6"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -16309,7 +16457,8 @@
         "svg": "svg/logos/microfinance/safeline-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/slJoXkiej6sdEP1r-GTaPevZN77WzbvymBfVsVzvVAaO3BpPaghbU21P3ExbzfHxjrdTDzexhSTbyySdO_mn=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f0286329090ba72ba8fc5ba526fb5fe5d3e72e97c1de16f267ef2ff05a8b43fd"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -16332,7 +16481,8 @@
         "svg": "svg/logos/microfinance/sagamu-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/_KRXr0gTnllpHH7JJo2RzxdORn3AB8kj7PJlc1t55WgA-5DMRQ_-fTZAvbCQv5oLHNE1r8nT0VA_ttJyooTv_A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c71277cc8a8b4d3ce94bd3c62bbbc9249579d64e39bf882b34bcb2ce7dce0768"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -16378,7 +16528,8 @@
         "svg": "svg/logos/microfinance/sapida-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/iM0CIRdISU0WoJDxo9U1uMhenmKGah-cHXN_Smu02ifR8HHYxY-5nUyTA7yKeDHuF1qEbgO1MsvMLQour6I0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "33cb6a7d4f21829adfe19e143220f47ed44529be3f41131c045e768878ff3e38"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -16470,7 +16621,8 @@
         "svg": "svg/logos/microfinance/seap-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/9wo4BQpf6Ss8y-xYPdHgVm5dp-qixyOhMVCWSur-tTZqQPsj0Mpp14p1X9i-qFI84Nrd4y4kV2MaRZzhwXqqBhg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9bb581defaa436660506b7e2db79e10c6c3ee940d81f651c1dda8235c59ae45a"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -16584,7 +16736,8 @@
         "svg": "svg/logos/microfinance/shield-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/K5ig5r1oqBUgcX4Bj_RI7JAksprYsvPiY4DpahuIMgHDN5HEBfwfnvcNCTiDg1aYvFxhyur-ZXcPpwG6QCsHeQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8f680ddec24c75ff51b91696a0245c6ccb3d87e657c46765f0327b2d812aaedd"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -16905,7 +17058,8 @@
         "svg": "svg/logos/microfinance/sparkle.svg",
         "source": "https://play-lh.googleusercontent.com/2KCdQtXyDFDqizsCRCYHohsgcQIeym_rnlHehXf3PRAI_U9KnKa4gvayuDKT1vluJTCxnZC-GtLt96sfsKRpRGQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fad6ebad0df127e60dc7ab32178e989c34cbbe7f2f879268d4c2f87ed9a03f55"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -16975,7 +17129,8 @@
         "svg": "svg/logos/microfinance/springville-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/E2sr_Xme3E0lciqU4DgKBcpJwI4jrpCOAATG6SqpEjLm17tEy0KHhHcywoI567eplcyjqzHIijBlVAFOCiI_hQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c607903a63716f4f22ad281e98d9a9421966ded235b05dc591b2d9d5c97a9b34"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -17159,7 +17314,8 @@
         "svg": "svg/logos/microfinance/sunbeam-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Y7sYcwLkz6qVEBMCJ0-XslkV_OMaJ4I9o4edi2R-DNjarAjaYUsgh9Rwy44loAJ3NgN6TYQAko5VQabQPMOOjA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8a437d7e1fc81e67498b1aaf3757406336fe155435c2fe0ff52769f13624b8ca"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -17386,7 +17542,8 @@
         "svg": "svg/logos/microfinance/teerus-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/qN3tpxjPXMGG6jVsOV-QVuETD0t55lhRFikDcN3OIkkejaWZa0D0mcEU94LQ8axPyUlh6npwadkOafbHb9wTjQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ac473fcaa4935b77a1011e2b888c06baae213c1aa431b8db97129544536d1082"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -17614,7 +17771,8 @@
         "svg": "svg/logos/microfinance/transpay-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/PQXNyM7MBom9uCWnXZAuDZuyzzEMhlW57k5N1ph7i0SKrms-umdTtUD-kEr9SsiFoJoiGatOBCGrF7zPWgcr=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0b3eddce91f94f01253ca9bcadf8a5665c4d335d40a127ea51b8483b4a1119d2"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -17637,7 +17795,8 @@
         "svg": "svg/logos/microfinance/treasures-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/CzmVmlvtl9-X08CEZqOBxpfo9RCLmjLVYw17_hjAuj3-ge-T4gA6bR8j_SJTQZGYdInspJGWAmS64IvjBWXjT0M=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "454c5253c1f0a0008421cc50f5ab96d8a3161683919ad9974ec7cf39d711d0ba"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -17933,7 +18092,8 @@
         "svg": "svg/logos/microfinance/uforo-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/5m7CR35uSFpK2XpL6uWevXJxxcO2nAoTFKJTyrQF1CErOqoO6fhZFBKCd-7HVu5q5G9bwq-KPO9uu-PFtQE7FQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4d2d3b15d98e512984d5f78d7975c34731641b900b873654c2500a0cbae9dacf"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18001,7 +18161,8 @@
         "svg": "svg/logos/microfinance/uhuru-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/3LmNOsL1OVy8G5i2b7zU6Upqo39GYyKzHeeTFsWjtzsUedv8xfsR10Wcv0UyMb_oc-0VD0nGWjqo8xnhIFusgg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7142b1a25a96e607825b3a4c36a0fcfa3720146659753169053657e72c76bf5a"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18070,7 +18231,8 @@
         "svg": "svg/logos/microfinance/ultimate-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/ROnpB8y2M_mmQqDtzHRoI5R4WwJJWsSeUOTak0_B9utQXOi67eIlZucP6GtLvOCcT5aXKaNtLX5oEhN05m6FwQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "657dd1aaaf147fe19b11a4977eb706e4bc6c7c56240cdf1099ccaf55bb0bd5d5"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18093,7 +18255,8 @@
         "svg": "svg/logos/microfinance/ultraviolet-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/w8pU18_LOF6FtLCXdurUEQn_lsyPOcDzIRuvnx6fPwKnUpqIHbVLPQNsnPHoSq4SoVRMq1o2vSINErkYFjW4lA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "84c19a2c47c6b638bd7c8041f3b27ec667bde60614ebb8b6ca0b48e5f4951bbd"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18185,7 +18348,8 @@
         "svg": "svg/logos/microfinance/umuchukwu-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/yd21WTOyVr7Ls6OXBnGbVnujXj-0CNWl4j0VAENtLpRvnDhM8ffAp6VVobnhocVT_h92GweRt4mvXiCQZ9j6PQ8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "edcf3802684958f1db0cb44201282939689748244baefd98b5275662224ebb13"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18231,7 +18395,8 @@
         "svg": "svg/logos/microfinance/umunri-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/NajOD9zlPTovOl4P9LBkcRfE7xq3g1G-oUMiRR2eFVThF6_NC4ZkLg5RBwOCVZZQ-iCxCDelbB6ksTdOnt29mTs=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "77333a84173d64a7ab9053c09839f34b0cf04f3acd63c0fb29a247fff26d7b41"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18438,7 +18603,8 @@
         "svg": "svg/logos/microfinance/unilag-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/ylA19AdCvEe7q-gIn6-cCBu1L0oBQ6ATXHGeFyqGNGQe2IW1C6OVMw7n4feb3NtTmrFUUHWQehIwxRVR0M74PdU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8e4e5c021f221ce043b2b0a169dc07d17460035967202924cdfa85ad64ce9004"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18735,7 +18901,8 @@
         "svg": "svg/logos/microfinance/uvuru-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/1KN8l47RsFJ_T4XL9b2apCu-c4q3axn1nPepF_8B3AuFsAlAxHyizjVlgC6-LmUQmF6ZckYjQkP_s-boa4X1XQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3f23ecae3d43c8a96b6cae527341287a15ae148e22074ab6a88f703e5f253d16"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html"
@@ -18828,7 +18995,8 @@
         "svg": "svg/logos/microfinance/vfd-microfinance-bank.svg",
         "source": "https://vbank.ng/wp-content/uploads/2024/06/VFD-MFB-Full-Logo-1536x560-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "831bdc7789f3fe9e749a72e8ae1d7be42059d481590d57e63a2c50d1138e0810"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-MF.html",
@@ -19539,7 +19707,8 @@
         "svg": "svg/logos/microfinance/mintyn.svg",
         "source": "https://play-lh.googleusercontent.com/RUVQDkiD4OkgDz8NutvVKxa-OgoevV_M5tnmf7wXfchHBcTAiUwA0jrIpLvAPyuHYnsiQ1aax3B-JrU6cdJLfxo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9c553d96934859cb18ebfa36bc61bfa6820994bb1a2fbe9b8c25257de3f051e3"
       },
       "sources": [
         "https://www.cbn.gov.ng/Supervision/Inst-NI.html",
@@ -19563,7 +19732,8 @@
         "svg": "svg/logos/wallet/chipper-cash.svg",
         "source": "https://cdn.prod.website-files.com/63c81b0c3ad929013f062d70/63c81b0c3ad929a04e062dde_chipper-logo-white.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "00ac46146bb99c4733e79c485927f98ac9fb8d8737b387b06e6e3abd168e514c"
       },
       "sources": [
         "https://www.chippercash.com",
@@ -19587,7 +19757,8 @@
         "svg": "svg/logos/investment/piggyvest.svg",
         "source": "https://storage.googleapis.com/piggyvestwebsite/piggywebsite2020/logo_08e6965627/logo_08e6965627.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "c2912304bd1eef70fb13470908447d0427b90845a9fbc9866eeeb8aa89ad030e"
       },
       "sources": [
         "https://www.piggyvest.com"
@@ -19609,7 +19780,8 @@
         "svg": "svg/logos/investment/cowrywise.svg",
         "source": "https://cowrywise.com",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "d7c0b0229ce3945d179212a37183d82664d6aeb7a3956ddf326f08a1f17ec87d"
       },
       "sources": [
         "https://cowrywise.com"
@@ -19632,7 +19804,8 @@
         "svg": "svg/logos/digital-bank/grey.svg",
         "source": "https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "65a9ae97540e465144d1128fbf49ad8147d554ca0c6e04136aebf135ff03fd2e"
       },
       "sources": [
         "https://grey.co"

@@ -31,7 +31,8 @@
         "svg": "svg/logos/bank/absa.svg",
         "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5cd8df6a9195374ae64346bee50330b288654e5d04019c06af79c291155d53fb"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -55,7 +56,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -79,7 +81,8 @@
         "svg": "svg/logos/bank/bank-of-baroda.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89d45e55e2d81aacdbaeb4a202693cc6dffa4e71f8fe2cae6b61aadde4122c1b"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -102,7 +105,8 @@
         "svg": "svg/logos/bank/bank-gaborone.svg",
         "source": "https://www.bankgaborone.co.bw/_catalogs/masterpage/BG/images/SiteLogo.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "55e3bf2b063d7e799231ee81f4aa99fb6b4a79980edda2d4dc63ed15fffba2a1"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -125,7 +129,8 @@
         "svg": "svg/logos/bank/bbs-bank.svg",
         "source": "https://www.bbs.co.bw/sites/default/files/bbs-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "85ee64cb6d8290adecbf045a81ca77700aded9a41497ac5083aae68fdf038525"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -148,7 +153,8 @@
         "svg": "svg/logos/bank/first-capital-bank.svg",
         "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "ce60cfc24d82605f163164dd91263f53efb996d346a2837cae561e21eacb6474"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -173,7 +179,8 @@
         "svg": "svg/logos/bank/fnb.svg",
         "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "5d761abad68794eda0e3bc16d2ef63bd84662247b2ad38da7aa1c2a763c11b2f"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -197,7 +204,8 @@
         "svg": "svg/logos/bank/stanbic-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -222,7 +230,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -244,7 +253,8 @@
         "svg": "svg/logos/bank/botswana-savings-bank.svg",
         "source": "https://play-lh.googleusercontent.com/xTt-kqsqYnBipnMaNZ_54Qw4SH4csJcaXUs2TgH6fyq8FjQxdT22reiEzTwWLBWsZP_3PCF7_3ON-oZ-W4xz9A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d176f8a302e5fc895a4c32ee82eb3e80dc9adf31220d99d968eb296afb98cfc6"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -267,7 +277,8 @@
         "svg": "svg/logos/bank/national-development-bank.svg",
         "source": "https://www.ndb.bw/wp-content/uploads/2025/09/site-logo-3.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "61baccec4c36f8842bc4ea65bdab0411d4be6fba5ea1d8f8098f1132d5607ff9"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -290,7 +301,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf"
@@ -315,7 +327,8 @@
         "svg": "svg/logos/mobile-money/myzaka.svg",
         "source": "https://mascom.bw/wp-content/uploads/2026/10/Mascom_Always-you_Borderless-Logo_Full-Colour.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0d2a63c6d633f6e6041098ea85d07d28f5771f8344322b169828d2d2051b1e33"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
@@ -339,7 +352,8 @@
         "svg": "svg/logos/mobile-money/smega.svg",
         "source": "https://btc.bw/wp-content/uploads/2020/08/btc-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5f1551e055949f22a09867a10e471cbffd01f80878342eb07821523160943d1a"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",
@@ -364,7 +378,8 @@
         "svg": "svg/logos/mobile-money/poso-money.svg",
         "source": "https://botswanapost.post/sites/default/files/logo%20%281%29.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "81dee10eab52c7debe788bd6034436b0dbed3007a24098474bcfb9fb028c9257"
       },
       "sources": [
         "https://bankofbotswana.bw/sites/default/files/Directory%20of%20Financial%20Institutions%20as%20at%20end%20of%202025.pdf",

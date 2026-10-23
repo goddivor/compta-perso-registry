@@ -27,7 +27,8 @@
         "svg": "svg/logos/bank/national-union-bank.svg",
         "source": "https://play-lh.googleusercontent.com/n1Rz4ccHuNweStDJ2IVYWE_s4JNZR6skwIx6aczJZY5byGe9q3cngthQBt-bcamkda6SoK1Fv0sDdzFS4BSO=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e9747508fc7408a387223c1b09f679f40e2105f11fc059fcfaf2fb65448112c2"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -93,7 +94,8 @@
         "svg": "svg/logos/bank/daman-islamic-bank.svg",
         "source": "https://dib.ly/dib_content/uploads/2023/06/dibank-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "50dde1df1457faf4cfb5b6a2acfbe0c056be6efb2c4887a44cfeb4f99956807b"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -138,7 +140,8 @@
         "svg": "svg/logos/bank/arab-islamic-investment-bank.svg",
         "source": "https://www.aiib.ly/wp-content/uploads/2024/09/aiib-1.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "5b103e750bb1ab565c3ecab657c4b9364465a7f2ef027ed1edd19cafe25e93c8"
       },
       "sources": [
         "https://cbl.gov.ly/banks/"
@@ -183,7 +186,8 @@
         "svg": "svg/logos/bank/national-commercial-bank.svg",
         "source": "https://www.ncb.ly/assets/images/logo-footer.webp",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "14074c10ddaf385bf725a84da9503752a209db5e7dedc23923ccfb899dbfe95f"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -205,7 +209,8 @@
         "svg": "svg/logos/bank/wahda-bank.svg",
         "source": "https://play-lh.googleusercontent.com/RDd9F99zdblxVunDyGVawixY-iGwA_URHHNa_tv1TFxI4YCNfxBalwz7ENY4kJWLB3v1KosAWK7XxetqWISlvuw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "851f3d83e4db90c3422a310fb7b6c902c235b4a31f86a0859c4922380faab6d9"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -250,7 +255,8 @@
         "svg": "svg/logos/bank/bank-of-commerce-and-development.svg",
         "source": "https://play-lh.googleusercontent.com/z1xJT_Km6_CpAwgCTk7nEZh8gH2ruRtY4B090duSVmJ_N4moWK4ndJqT3fA8qvjSHwRRLd9cv7Dfak1-TW35EA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "67e95b6ee4543df0f0b07d87570ac56d8612762e2435770947c62cf9870b06d2"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -272,7 +278,8 @@
         "svg": "svg/logos/bank/north-africa-bank.svg",
         "source": "https://play-lh.googleusercontent.com/hvQ-wy-38HhRtk-zw3ZQ88Qc5xG436wt94gTe5s2AdtN5_jsJ304o5wIKUhZt6s1ExW0EbwgPHq9kovhAGre5FM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ed67e5334f4f0c44edc5cd994f91d29d534f0173927dc75d7efde2d6dd8d3a24"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -408,7 +415,8 @@
         "svg": "svg/logos/bank/united-bank-for-commerce-and-investment.svg",
         "source": "https://www.ubci-libya.com/images/Logo.kl4qjs692y.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "753655a57f31c5ab12679546bbf5fa51d6d97e8fb4034815bc73a8c07751c19a"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -431,7 +439,8 @@
         "svg": "svg/logos/bank/assaray-trade-and-investment-bank.svg",
         "source": "https://atib.ly/documents/33593/0/Logo+%281%29.svg/784e427c-b1f5-1703-7742-05266caab2ef?version=1.0&t=1754471542579",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "c15e8b00de07815c9d4f212957e7537ba7e201536e01ad10beefaf7ebac7390a"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -475,7 +484,8 @@
         "svg": "svg/logos/bank/nuran-bank.svg",
         "source": "https://nub.ly/uploads/2021/10/nub-logo-dark.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "36e7f9d4a663363ce0ab74ca39d7395063a08270e0ba9bca9d56cd16b6bc26ec"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -563,7 +573,8 @@
         "svg": "svg/logos/bank/yaqeen-bank.svg",
         "source": "https://yaqeenbank.ly/hysgge/2025/11/logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "b973cde5d534ded369fcfce69d8290596292970564a6de577a3e1eece9541a1e"
       },
       "sources": [
         "https://cbl.gov.ly/en/banks/"
@@ -609,7 +620,8 @@
         "svg": "svg/logos/mobile-money/sadad.svg",
         "source": "https://play-lh.googleusercontent.com/KzLJCXv4TkJSkF3sSCqWGMp4s0gREeFXVS-lk2yb3Qsp-Yz-XffMc9aFXAhYZmAKlpgG_FliN94lowd16Uc8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2c030b2157189443f2d6685eeda73b143415c17a74862c9708fd77578853c2b4"
       },
       "sources": [
         "https://cbl.gov.ly/en/electronic-payment/",
@@ -632,7 +644,8 @@
         "svg": "svg/logos/mobile-money/international-union.svg",
         "source": "http://www.unionintlco.com/img/logo-default.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3133ef93cbe2245dd09047d490c569d49a11f5c40bb8a176751062f9ce5c1772"
       },
       "sources": [
         "https://cbl.gov.ly/en/electronic-payment/"
@@ -654,7 +667,8 @@
         "svg": "svg/logos/mobile-money/meza-financial-services.svg",
         "source": "https://emezafinancialservices.com/pics/logo.png",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "166b8df5d6dd81ab84e32b3eb0586ffdfb2423bcca9e89f01d967eaea8869d8c"
       },
       "sources": [
         "https://cbl.gov.ly/en/electronic-payment/"
@@ -678,7 +692,8 @@
         "svg": "svg/logos/mobile-money/gpay.svg",
         "source": "https://play-lh.googleusercontent.com/sPd7qWUl6G668p70BPqxN6OYqEYpCakoWgpKOuHodT6bM_6nJCJFlIJEKALNyq6f15MLlgB9GUsJDCJTyISP5w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4218189b099dfbc87ba7b43e14fb9e55792b453cc48f6936079066a65eb61747"
       },
       "sources": [
         "https://cbl.gov.ly/en/electronic-payment/",
@@ -702,7 +717,8 @@
         "svg": "svg/logos/mobile-money/fawry.svg",
         "source": "https://play-lh.googleusercontent.com/PkMr6QNi5qt2gi-ZloS0CPv_AMF-PdO0aVcwI2kbP1PlJb_h3oY3_NlOGqKIfEirjsuPWwaUtFZ8usudu-HJOA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0791fc734c262a123c2ca343b33829430c17a29307c3b254098f45759b3862d5"
       },
       "sources": [
         "https://cbl.gov.ly/en/electronic-payment/"
@@ -748,7 +764,8 @@
         "svg": "svg/logos/mobile-money/runpay.svg",
         "source": "https://play-lh.googleusercontent.com/bYF3AYF162k2A7Co-kNgfbCPgp34v1T1QN8U4fOjDUu49vmGMTVwyOgufzKWNsBtwsTI4OFHlWtHUXxuQXWR8YI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ff5962cd211dc5a1d6edb7b880603f524c55ce15a4b384e5dc5b1f7e0ff2640a"
       },
       "sources": [
         "https://cbl.gov.ly/en/electronic-payment/"

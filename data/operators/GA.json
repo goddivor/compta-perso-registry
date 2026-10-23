@@ -28,7 +28,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.apecgabon.com/etablissements-membres/",
@@ -54,7 +55,8 @@
         "svg": "svg/logos/bank/afg-bank.svg",
         "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4dc7793aa26d8a417e98e123251d9046da1c2a0123f51e7bce3ebb0621794b71"
       },
       "sources": [
         "https://www.apecgabon.com/etablissements-membres/",
@@ -77,7 +79,8 @@
         "svg": "svg/logos/bank/ugb.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/UGB_logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "e79a451eaf8dbbc0d01623bbc2a24f49e47434d41cbfd6e8c5ef13f16d56585b"
       },
       "sources": [
         "https://www.apecgabon.com/etablissements-membres/",
@@ -101,7 +104,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.apecgabon.com/etablissements-membres/",
@@ -126,7 +130,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://www.apecgabon.com/etablissements-membres/",
@@ -149,7 +154,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.apecgabon.com/etablissements-membres/",
@@ -173,7 +179,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.apecgabon.com/etablissements-membres/",
@@ -221,7 +228,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://echosdeleco.com/articles/banques-le-gabon-nouveau-marche-de-conquete"
@@ -243,7 +251,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf",
@@ -269,7 +278,8 @@
         "svg": "svg/logos/mobile-money/moov-money.svg",
         "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f013a28dd519ab73a6f4d95f3b47d86c46494e9c4951dce0de92d9f8f8a6dccd"
       },
       "sources": [
         "https://www.gabonreview.com/moov-africa-gabon-telecom-lance-le-transfert-dargent-international-avec-moov-money/",
@@ -293,7 +303,8 @@
         "svg": "svg/logos/mobile-money/clikpay-money.svg",
         "source": "https://play-lh.googleusercontent.com/AI7AVsiIkOxeIZ54LoS4gpR9uedyqjwrBLZYUsYvQV8qeBlMhC7SfqnAj5K0NaVT6bnX6dEbglxkgKZYcxA9LmI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1edb88e875241ab35ebfff873e18efe6fa91e570441bec544e0ec6ff707bfb20"
       },
       "sources": [
         "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf",
@@ -317,7 +328,8 @@
         "svg": "svg/logos/mobile-money/bgfimobile.svg",
         "source": "https://bgfibankgabon.bgfi.com/assets/images/logo-bgfi.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7efc249d98d0c7ebdae87c23de66272e8e77a00b96c129e418e1fbec03e024ac"
       },
       "sources": [
         "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
@@ -363,7 +375,8 @@
         "svg": "svg/logos/microfinance/cofina.svg",
         "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "497829dffe013e335509bd504940ba2597c292428bb2c53cb8812c81a5a5920c"
       },
       "sources": [
         "https://findevgateway.org/sites/default/files/publications/2023/2023-Diagnostic-Gabon-Final.pdf"

@@ -29,7 +29,8 @@
         "svg": "svg/logos/bank/fnb.svg",
         "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "5d761abad68794eda0e3bc16d2ef63bd84662247b2ad38da7aa1c2a763c11b2f"
       },
       "sources": [
         "https://www.centralbank.org.sz/bank-supervision/"
@@ -52,7 +53,8 @@
         "svg": "svg/logos/bank/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.centralbank.org.sz/bank-supervision/"
@@ -75,7 +77,8 @@
         "svg": "svg/logos/bank/nedbank.svg",
         "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "131fb7682f7db40c5cf35b9bc0c6689a2f98f1c7f669c436b08ae1355b1616cd"
       },
       "sources": [
         "https://www.centralbank.org.sz/bank-supervision/"
@@ -124,7 +127,8 @@
         "svg": "svg/logos/bank/sbs-bank.svg",
         "source": "https://www.sbs.co.sz/wp-content/uploads/2022/02/Artboard-123-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2dabd17839e454eeebf2473f893f832e3217efe1cde280615182d68f5e405f52"
       },
       "sources": [
         "https://www.centralbank.org.sz/bank-supervision/",
@@ -149,7 +153,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://techcabal.com/2025/11/13/how-a-small-country-is-tackling-big-payments-challenges/",
@@ -174,7 +179,8 @@
         "svg": "svg/logos/mobile-money/e-mali.svg",
         "source": "https://eswatinimobile.co.sz/wp-content/uploads/2025/02/ESM-Logo-Icon-32px-x-32px.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "e0c9fdfb6872439c255348bddd6d71a1762ca64bc0ce707316f1ee853e84f138"
       },
       "sources": [
         "https://www.eswatiniobserver.com/e-mali-expands-digital-payments-eswatini/"
@@ -197,7 +203,8 @@
         "svg": "svg/logos/mobile-money/instacash.svg",
         "source": "https://www.instacash.co.sz/logo/INSTACASH_LOGO.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "dd3dc8b74d07e441f53505aa4244ff9f963155f20e2387399c2a97dcd0dd6799"
       },
       "sources": [
         "https://techcabal.com/2025/11/13/how-a-small-country-is-tackling-big-payments-challenges/",

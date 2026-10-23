@@ -30,7 +30,8 @@
         "svg": "svg/logos/bank/banco-da-africa-ocidental.svg",
         "source": "https://play-lh.googleusercontent.com/K1n5l5OsAOc5FOLPrMT0MTZjlFlj-Z6rlYzjXsVTBst-68Do64Ux9H8XeL9AguVRkinbr3QrvBgXCebqcJ_8FA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c8632d6380f40123aeec26eb9ccb53fb4e31e8a56e0a094a7e6d4f3727e33f8a"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
@@ -53,7 +54,8 @@
         "svg": "svg/logos/bank/banco-da-uniao.svg",
         "source": "https://play-lh.googleusercontent.com/helGBPfyigLDsuDvf2esUDfgjH2L9xJMmkmS7LmjX5aVxkeLh5bLwoQ6taKC9bVLSr0fbxBjDfiknFncyFA_=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9377d60596eaaeaaf004cbe9abe350164d0928e054beae7bbeb902d27d9d5fe4"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
@@ -79,7 +81,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
@@ -104,7 +107,8 @@
         "svg": "svg/logos/bank/banque-atlantique.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "057657133f39142c74f348b314f075b27fbbafdbaff598af07c906073f3bdc96"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
@@ -130,7 +134,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
@@ -155,7 +160,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf"
@@ -180,7 +186,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf",
@@ -207,7 +214,8 @@
         "svg": "svg/logos/mobile-money/telecel-cash.svg",
         "source": "https://telecel.com.gh/icons/icon-48x48.png?v=a3b267ceb2db2a81c1dc75f0ef2b1aaf",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d2be6c41f58ff7663c2d2e3b8264ca4ebed50f9885272b54fba2138e339534a0"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
@@ -236,7 +244,8 @@
         "svg": "svg/logos/wallet/intouch.svg",
         "source": "https://cdn.prod.website-files.com/66d04fe65aaef00487a98d54/678a7c8ebf55cf1a40a8b923_LOGO-HORIZONTAL_TP-p-1080.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e1c822a95358f3eb3bb18592cc30d53d7e1161c4002ea64f3d5149edef30ed16"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf",

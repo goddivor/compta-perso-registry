@@ -30,7 +30,8 @@
         "svg": "svg/logos/bank/stb.svg",
         "source": "https://play-lh.googleusercontent.com/jBrtn34iCrQAwlbFLRHiEQ-sEL2REhpa9f9hvwa315BcojOJ_SW5-dHY5ooRqDymvGWUBW-lFjBget71oeUxrQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "356eb6ae84e3ea64ff68fee562c1c8713b4c486de22eff353ddb3b43dacedb07"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -54,7 +55,8 @@
         "svg": "svg/logos/bank/bna.svg",
         "source": "https://play-lh.googleusercontent.com/O525lFFuiisvR6ZGVZNK_Fu_wVmxEvXp9-7Wr0AYPeoAZaVMnuM45WzEOK0Hrw47AXAhc7cQZdpusKcePwNgKA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9baba68cfa6187f8f9c8f3b39dfc88985e5fe165456f46c9eaaf55e64301dbb4"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -101,7 +103,8 @@
         "svg": "svg/logos/bank/bfpme.svg",
         "source": "https://www.bfpme.com.tn/images/uploads/2024/08/logo_top2-2.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "0f2c53bc41818b193278aa7b23561c4b63edb74c13ee349c986bd4a613909439"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0"
@@ -125,7 +128,8 @@
         "svg": "svg/logos/bank/bts.svg",
         "source": "https://www.bts.com.tn/images/logo.jpg",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "6c897ab025d2cf5ed7b57f5dfe879cb32b190c412d5bfd614cad29894d837c0c"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -149,7 +153,8 @@
         "svg": "svg/logos/bank/bte.svg",
         "source": "https://play-lh.googleusercontent.com/69EmfLLHb9mG7jyW2KGFSCOxSYiE-e_OdyJ7gInNqeCbLq1iuCD0gWHesi39Yr8bvGeDWtGM07_gD779lAnK=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a5fc50b5e4c4ac1a7c549c010e6df86a035b7b6af78a8611b4f3751fae74b6a4"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -173,7 +178,8 @@
         "svg": "svg/logos/bank/btl.svg",
         "source": "https://play-lh.googleusercontent.com/B9wfAUnNEPfCDaJAz86JJhW2n-hxUcVSBFNYRs8bIJtXyqFtXGcGovm9tt0DRl-ti4rqk7ZA8XwwPEczcxbENQ=s512",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "430efa55c5cfe0561ff20cb33bdfb596ecb97ea139998396390102a2bba940e2"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -197,7 +203,8 @@
         "svg": "svg/logos/bank/tunisian-saudi-bank.svg",
         "source": "https://play-lh.googleusercontent.com/1BSYgkiGDjvr-s-tC8U0vMiQKnI2D8mwfj7AgVPWuU10Z8raIKoRNngcPC4pOr1YotHYCDgmyrPy4xRyGd01Qj4=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b0e2e4a338801b397a239d06cb8d00298694b859637e5b6c98c09e6ebf42cbf7"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -245,7 +252,8 @@
         "svg": "svg/logos/bank/al-baraka.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "00c66bcce47a7027d259c132e8a815ef6caaf4378708b4cb817337ab27fe6032"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -270,7 +278,8 @@
         "svg": "svg/logos/bank/wifak-bank.svg",
         "source": "https://www.wifakbank.com/build/assets/logo.0db6c6d8.webp",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f80d58f23d5096d7f4dde5b7029cf2010f3c3dc7f39e8ff46dc2062f4eb8f554"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -294,7 +303,8 @@
         "svg": "svg/logos/bank/amen-bank.svg",
         "source": "https://play-lh.googleusercontent.com/x72cxitewrG-e8cxDIYLKL6Ti39eTq7IWZ4XMCwn-YsoNHbA_jUTZGIn95UcImI5oBKq78SMB5FVxDmrutJfIQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bc9ec10b4c42997a029316de786b208eb138d14205ba80da64669195883d58b3"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -318,7 +328,8 @@
         "svg": "svg/logos/bank/attijari-bank.svg",
         "source": "https://www.attijaribank.com.tn/sites/default/files/Logo_attijari_0.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a4900890d0b821cac7f97e5f8fa4e3691324edee04c4b4d0867d5f05c97ac2ed"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -341,7 +352,8 @@
         "svg": "svg/logos/bank/atb.svg",
         "source": "https://play-lh.googleusercontent.com/8mE_s3ihyff-Dz3eXAkJHMR4uIkn64PzUIWQUd8upx4Pxebiowg5et2RS4JfcRglruKA-sUZ9gIxnDe3J53s=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "079ae99666fc1460f5090148db9b6faae1fe4ace5755582ffa7b9d343b0f012e"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -366,7 +378,8 @@
         "svg": "svg/logos/bank/bank-abc.svg",
         "source": "https://play-lh.googleusercontent.com/lD_fzc9mOn-eCQ54OuTRIDzM1e2Km_X_v7z_pzdgsXkjUsm889fyHJY_Ar6KcMcqoYNLEV_uiwJ5nUOQbdHbmg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "afb009a892579c20220e138a91030391187c64507e9e154fb3b7ff9245b76a78"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -389,7 +402,8 @@
         "svg": "svg/logos/bank/biat.svg",
         "source": "https://play-lh.googleusercontent.com/XznIcTr_7aO4j3c5VvQCWlL-KP-HCcS5h3PeAESnZtKuop95GtqpVRqjZImxv97cBlC2swR7CYIPX-oc45jArg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "25a1a2152ef072df55a930bceae1ba52511cf57fdfe572f07c47fb4c0aa1b979"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -437,7 +451,8 @@
         "svg": "svg/logos/bank/btk.svg",
         "source": "https://play-lh.googleusercontent.com/IUe7H1gh7nh2qswvMo6AOia5-hJ8ndJFXle1ihai3ljMZ8PL70QIv_QnfI9qoLBhj8g3GZjszcPWDDzQHE1T=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e33dbefc2027602ceaeef6cc557b4b008dfb043d231e33548a456c2bad41e1af"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -462,7 +477,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -487,7 +503,8 @@
         "svg": "svg/logos/bank/qnb.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "1355ab8edd76ae3c5595110e4ca00c82da06326e39c11ae4fe2255750d85cdd4"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -533,7 +550,8 @@
         "svg": "svg/logos/bank/uib.svg",
         "source": "https://play-lh.googleusercontent.com/73BP6mTm2BfowGPyiMI5XhT4-K2mTHwwkFleb0TW5kH9jcizZs1dRA4NukzNrZd_ojYfE5uMJy78f0Be9s_arw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6e689ce77eaf579ee4f970922415ec66ed150175d546f74568eda1209f82f8ad"
       },
       "sources": [
         "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -693,7 +711,8 @@
         "svg": "svg/logos/microfinance/taysir-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/Vl6yGnIjT3zQoTytrqSw-Fn3_h82_wWyc0NqxmHvSDw89YNpp6P32C9qxSCL_LoKG5YdrkMF4XCEO5CMDzUR=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b342c0cc8124697d06036438fe4aed340ac1163209955fa4e12be5d4c14dde28"
       },
       "sources": [
         "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
@@ -716,7 +735,8 @@
         "svg": "svg/logos/microfinance/centre-financier-aux-entrepreneurs.svg",
         "source": "https://play-lh.googleusercontent.com/LNM6-i57Ehq0xVLiWoGr4DqryrUo_ltyYvlHX6BUA4CPDo5tN_WoVvQ0h1_x6BPOJlD1gfYL63cP0oo48Aum6OA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d0481f496025543e5a23f6511a14c153e0ccd65afbe5c2244f7ac4417b154582"
       },
       "sources": [
         "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
@@ -740,7 +760,8 @@
         "svg": "svg/logos/microfinance/enda-tamweel.svg",
         "source": "https://play-lh.googleusercontent.com/kYa6Wva_NNFsnTDdWaFVPWgREMXJE_LTLc-gKb04EZW30BeG9fD7Qnh4zrDa21uZXMA0NzbR6oq2MMEIJyTuDQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b08e3bebabcfa9e249b5273522f412900a4ddeb0c456e99c912db2e53c6bbb79"
       },
       "sources": [
         "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
@@ -762,7 +783,8 @@
         "svg": "svg/logos/microfinance/zitouna-tamkeen.svg",
         "source": "https://zitounatamkeen.com/wp-content/themes/hypress/assets/zitouna.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "b3724f9195e0b361770113a9a660f11b2906bad7ee5c875afbfd8a75a786c1ff"
       },
       "sources": [
         "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
@@ -808,7 +830,8 @@
         "svg": "svg/logos/microfinance/advans.svg",
         "source": "https://www.advanscotedivoire.com/wp-content/uploads/sites/8/2024/04/Logo-Advans-couleurs.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "983d2711948030e34247f29391efeb25354fb58189a5d2dafd424c5d1e2c8758"
       },
       "sources": [
         "https://www.acm.gov.tn/liste-des-imf-agreees_11_26"
@@ -853,7 +876,8 @@
         "svg": "svg/logos/mobile-money/kashy.svg",
         "source": "https://play-lh.googleusercontent.com/pTtXnbOlZa8LXuvgdkvNb00J34wEPpDOHcEnBQiJYPV8zN5OQUBezMlosM0iO_KX5pLIbml45uvH-5MyUy1LQqI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c9f7df449cff8a1acecff319eba47c3a34a6a603995baab2d68d294c317ccedb"
       },
       "sources": [
         "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
@@ -876,7 +900,8 @@
         "svg": "svg/logos/mobile-money/izi.svg",
         "source": "https://play-lh.googleusercontent.com/gWkW4Acbu101YAS2N_G4I278QKPNniK3Ge6jvYG-ZWv6esQuivW7B1u6Z5bGAEeqqLny4PkRsIi7D7Dv1R008w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c7886e419457a22ca623e876c61b625be13d62938e21a3eb1e50717391d29efd"
       },
       "sources": [
         "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
@@ -898,7 +923,8 @@
         "svg": "svg/logos/mobile-money/enda-tao.svg",
         "source": "https://play-lh.googleusercontent.com/kYa6Wva_NNFsnTDdWaFVPWgREMXJE_LTLc-gKb04EZW30BeG9fD7Qnh4zrDa21uZXMA0NzbR6oq2MMEIJyTuDQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b08e3bebabcfa9e249b5273522f412900a4ddeb0c456e99c912db2e53c6bbb79"
       },
       "sources": [
         "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
@@ -921,7 +947,8 @@
         "svg": "svg/logos/mobile-money/wafacash.svg",
         "source": "https://www.wafacash.com/sites/default/files/styles/webp/public/2025-04/Logo_Wafacash_MarocB.png.webp?itok=AQgKJayv",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "d47f769675d6c274590d8b6d3a799923add5ba923ce1b310a4803bfa29c6d651"
       },
       "sources": [
         "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
@@ -943,7 +970,8 @@
         "svg": "svg/logos/mobile-money/payvago.svg",
         "source": "https://play-lh.googleusercontent.com/g_JMYnPNVOWaLSj0-qb06cWkbuaOcKvbE_GlVdExLm4pLBpXKJbh8GKMPo63_mgJCcVPUuPlTvKDAJOpsOV47g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c51f5211e9ec458990d50fbd375d2a6fa854346a1610a22476e82e7408784c83"
       },
       "sources": [
         "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html"
@@ -965,7 +993,8 @@
         "svg": "svg/logos/mobile-money/firstpay.svg",
         "source": "https://play-lh.googleusercontent.com/I-zO3e0W5VxZU0Jez5Y4aErcIBLV2Doup76sXJHA69oei0x3ngRMhCCrVQ0GBqNpH32KMVU5l1-_ajNLCsR82Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8409008f9aae7be2af457744be6fee077ec6dd4d8a92b9da7f8f90677e044314"
       },
       "sources": [
         "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html",
@@ -990,7 +1019,8 @@
         "svg": "svg/logos/mobile-money/walletii.svg",
         "source": "https://play-lh.googleusercontent.com/rjOLRKTzgTY8wwNb9jPtFyK2lqTWmgT1jPIowHFz5VIAQXhgnF5z96EKRgrEq9tXdajcuEcwwwnFfi5y5nYO=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "028c288fa171045245c70cd80730446c74f4161c3a327e1933bca4797ff76a75"
       },
       "sources": [
         "https://mczen-technologies.com/blog/etablissements-paiement-tunisie.html",
@@ -1042,7 +1072,8 @@
         "svg": "svg/logos/digital-bank/flouci.svg",
         "source": "https://play-lh.googleusercontent.com/7mMIDBQ-DsWB5GZluLfTwMXROjPTiJDS1LyQDPKRS8G20dW3LD8GGTU68FZ1hhbwM7-5jqe5QNMiDjQrIoDV=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "291e92e5fd373c408a5e20da5a2578b3c8df0857bb20552e998c1b22d2f1906d"
       },
       "sources": [
         "https://www.forbesmiddleeast.com/lists/30-under-30-2024/nebras-jemel-anis-kallel/",

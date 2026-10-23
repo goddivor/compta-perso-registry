@@ -31,7 +31,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -56,7 +57,8 @@
         "svg": "svg/logos/bank/afriland-first-bank.svg",
         "source": "https://play-lh.googleusercontent.com/sm0-ZU-rjt_y9rxZjbR9g9iwM7Hts8cUhMplGvlNAl367u7IvgVgPN_DHpXXQlvooZknA55y4NIuhBWfEEzDNg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f6694c03bbb6f9211cb54d80c58f696a564c1e84a9a0bd66a4ccaeaa11f22fd8"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -151,7 +153,8 @@
         "svg": "svg/logos/bank/bpmg.svg",
         "source": "https://play-lh.googleusercontent.com/s-1589_0m5pu1AX0yw91yAPuhRnZIlq8bvizbsx93mI02sS3SIMr998k-BEi5BNxpotAad-ssOI6L5QTkO19qA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "831ea14301681555cfee678f10517f2cbe78b427d1bba1b6edfef35fa38d514a"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -175,7 +178,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -200,7 +204,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -223,7 +228,8 @@
         "svg": "svg/logos/bank/diama-bank.svg",
         "source": "https://play-lh.googleusercontent.com/V9P4uTECB9bxN01V-OBLDBKeuiOALr3fX9VWh3khG8RJoukoU1MrbcKx1FEwQAkIF5lhSWMF9F4D23C0EkLyaA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a51a9cb8547d64881951c1950529db4d955b9db30b4b8cdf147a6f27e8458c2d"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -246,7 +252,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -272,7 +279,8 @@
         "svg": "svg/logos/bank/fbnbank.svg",
         "source": "https://play-lh.googleusercontent.com/X8N6kEAHBE_VC5XOHEeT6lDaJ1r9hZAnn65LFqL3qZfAskniKkf81B1eSBA_Gz_fWb27IukVkwq1gb1OLTPCdg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "81c896070f0c7611ec1ae9d7702b3e7211a5f462f014ef83f5886f225dea05f0"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -297,7 +305,8 @@
         "svg": "svg/logos/bank/nsia.svg",
         "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7701aaccd32c53b9a420658e22cf3a167507ab5b13d87cfc08a325ed13d78ad8"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -320,7 +329,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -343,7 +353,8 @@
         "svg": "svg/logos/bank/sfci-bank.svg",
         "source": "https://www.sfcibank.com/uploads/images/1669299862.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e6dd83fb542752e5eeae8d4eea9f7991728a77338460190ff67cd1aa5df65852"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -391,7 +402,8 @@
         "svg": "svg/logos/bank/societe-generale.svg",
         "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "b68478e933c4aacda2f775cf30543698ad601e120ca7fc0c6d8567e75ca58365"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -415,7 +427,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -438,7 +451,8 @@
         "svg": "svg/logos/bank/vista.svg",
         "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "bc4ca0fa9c8009754b018f18cabe9476a5720abd3ef4609b7b9b745a0788c387"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf"
@@ -462,7 +476,8 @@
         "svg": "svg/logos/bank/vista.svg",
         "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "bc4ca0fa9c8009754b018f18cabe9476a5720abd3ef4609b7b9b745a0788c387"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf",
@@ -511,7 +526,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
@@ -535,7 +551,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
@@ -558,7 +575,8 @@
         "svg": "svg/logos/mobile-money/paycard.svg",
         "source": "https://play-lh.googleusercontent.com/HuWCpe0caEcjBX9DaPIOAyu7TqB9XjMELBOiDMPHlFhcIdaVcxHoMOnMnooA96e1v0FibqxDLnYpBDT2cUQ9bP0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89acb76c5213ce13133a9290c56b3eb2be25f31bbd5475d038d40dc13992dcbe"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
@@ -581,7 +599,8 @@
         "svg": "svg/logos/mobile-money/cashmoov-money.svg",
         "source": "https://cashmoov.net/SVG.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "72a4809c7b51589751a3bb80cb63dafce1eab5829f0e41da83887d0018caf505"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
@@ -604,7 +623,8 @@
         "svg": "svg/logos/mobile-money/microbitmoney.svg",
         "source": "https://play-lh.googleusercontent.com/1_X9ufSjBWCvHgD0LJCdTtHTfQkJHLCpsUJ8AXsYWT1ZM-arj2mB-jK2-RJI43hgyHoUmnVb6xzrUydFSdjaHPs=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "08001ddb750e98b243b9ff0e7632b335b5d390e07e4efec38524bfd880503dcb"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf"
@@ -628,7 +648,8 @@
         "svg": "svg/logos/mobile-money/ymo.svg",
         "source": "https://play-lh.googleusercontent.com/MsdGHjc-Yz1L0zwZCiymcIRmSQ1wexlvxTUfbTsd8wiRChrDKph0cEdL8NaKNlMWSbNnHgR1hnP89DCR4Ar4mg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "dd82e827c4d0c87f21460c2dc7b63fa2c9d3235d85bf13e95963c044b6b5dccf"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2022/10/Liste-des-EME.pdf",
@@ -654,7 +675,8 @@
         "svg": "svg/logos/wallet/kulu.svg",
         "source": "https://play-lh.googleusercontent.com/bafJpCyJcZfIhaJAxzdXWg0rlqcrBn5qMbIjbCOD_AcjpWSj1Wem0ZFyoDQiX6cu0f8prCMDmlK9FTDMFibA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1ec45ba79e192ee09e7a41076cbbfadfd7a04c2674144339581ce9379eab6a0b"
       },
       "sources": [
         "https://guineenews.org/2025/02/14/fintech-diwalgui-et-sa-plateforme-kulu-a-lassaut-du-marche-guineen/"
@@ -909,7 +931,8 @@
         "svg": "svg/logos/microfinance/cofina.svg",
         "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "497829dffe013e335509bd504940ba2597c292428bb2c53cb8812c81a5a5920c"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
@@ -932,7 +955,8 @@
         "svg": "svg/logos/microfinance/muffa.svg",
         "source": "https://play-lh.googleusercontent.com/kj760O4X-b3PDiAd8lvjQaR9Q8TE5vannYgxEmdjdsdKfzV4_mL-B1tYG5JbJh21gfJf32CcQ2-yHT0Hx150=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e28105006f9fe405c1aa73bd7ea31d21473a4305bd6d9b2cab63b4baee44bf0c"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
@@ -955,7 +979,8 @@
         "svg": "svg/logos/microfinance/modele-mc2.svg",
         "source": "https://play-lh.googleusercontent.com/mzwz0zcIN5avf6jEbINDU5is9blSC_yvHtJp3oDFi8-3KLcGBiVl6ewUrfwf6_IwZjHLBuFrL59s9gln2ApWrA=s512",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "b2da7604dd53ca83fc5a93ef952274f7e4e2f59e0af0d5244f134aeace490205"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"
@@ -1046,7 +1071,8 @@
         "svg": "svg/logos/microfinance/credit-kash.svg",
         "source": "https://www.creditkash.sn/storage/2025/04/CKSN-scaled.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3eac8813149dd5e4d1e676b9373617f0dc3ecd2db0f4e0142e5ca9ee69d62c67"
       },
       "sources": [
         "https://www.bcrg-guinee.org/wp-content/uploads/2020/02/Adresses-des-IMF.pdf"

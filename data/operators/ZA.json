@@ -33,7 +33,8 @@
         "svg": "svg/logos/bank/absa.svg",
         "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5cd8df6a9195374ae64346bee50330b288654e5d04019c06af79c291155d53fb"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
@@ -100,7 +101,8 @@
         "svg": "svg/logos/bank/capitec-bank.svg",
         "source": "https://play-lh.googleusercontent.com/u_9LAaLRVeOAHuC1872PbE4cUUPPJ5k5pMeHDp-AIpgvN7CpBQ2txKm1Ldj005uPaC1-QT3iJlphu09Pp6dnx_o=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "de1fe5f1867b9ca47fe824c596e3a48136c5d35101d8b061060089a1490e5709"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
@@ -151,7 +153,8 @@
         "svg": "svg/logos/bank/fnb.svg",
         "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "5d761abad68794eda0e3bc16d2ef63bd84662247b2ad38da7aa1c2a763c11b2f"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
@@ -198,7 +201,8 @@
         "svg": "svg/logos/bank/old-mutual.svg",
         "source": "https://eu-images.contentstack.com/v3/assets/blt40b62a118f9f6a08/bltacbbc9266218ea1e/692db7620172c17f17ddbf53/OM_logo.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "d36202b6acfb45906ce871ccba8e77f264f4fd02e665f2f72356940608bc6d6b"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
@@ -220,7 +224,8 @@
         "svg": "svg/logos/bank/nedbank.svg",
         "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "131fb7682f7db40c5cf35b9bc0c6689a2f98f1c7f669c436b08ae1355b1616cd"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
@@ -245,7 +250,8 @@
         "svg": "svg/logos/bank/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf"
@@ -271,7 +277,8 @@
         "svg": "svg/logos/bank/gotyme-bank.svg",
         "source": "https://play-lh.googleusercontent.com/PZUeSfEuJIwqDUirNNp_km-PYbALWSHgdtKGG0albUyC3ZswndR55vkS5v-iioaT4KHYtJ_WbDlQSAnz-ub1ig=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a6428c6ab450dc79a3900fb0ac45c7b65c9cb48ca93d0a346a9c8a1639966e91"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Locally%20Controlled%20Banks%20as%20at%2007%20July%202026.pdf",
@@ -295,7 +302,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2025/Foreign%20Controlled%201.pdf"
@@ -318,7 +326,8 @@
         "svg": "svg/logos/bank/albaraka-bank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "00c66bcce47a7027d259c132e8a815ef6caaf4378708b4cb817337ab27fe6032"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2025/Foreign%20Controlled%201.pdf"
@@ -342,7 +351,8 @@
         "svg": "svg/logos/bank/hbz-bank.svg",
         "source": "https://play-lh.googleusercontent.com/91cGw-EwYq6RgJWAWz9geXyXSRITpG6GA1-NPsdomUs_c-yC2za36zbMf8v9w7F8CCyf5F-J56_BS22g8cEF6w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f62629a053cd1cf9de802b22d5fe85a5673e88ca19a508260fc48603615b8795"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2025/Foreign%20Controlled%201.pdf"
@@ -365,7 +375,8 @@
         "svg": "svg/logos/bank/bank-of-china.svg",
         "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "75cf30731be24ad9e0e6d44848ee72afc4156e8c0133de77b711b45204869908"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
@@ -411,7 +422,8 @@
         "svg": "svg/logos/bank/bank-of-taiwan.svg",
         "source": "https://www.bot.com.tw/assets/images/Logo/Logo(red).png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89ac86a4ccdee82d8ed521461e8f47c928fef9f70debe8b546d63be560b64045"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
@@ -434,7 +446,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
@@ -479,7 +492,8 @@
         "svg": "svg/logos/bank/deutsche-bank.svg",
         "source": "https://country.db.com/south-africa/project/images/logo/Deutsche-Bank-South-Africa.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "8944defd5a145073fe0c85f9969c555c3721553f90fcf7d69f79a348f00dc11e"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
@@ -525,7 +539,8 @@
         "svg": "svg/logos/bank/jpmorgan-chase.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_JPMorganChase_2024.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "411666ac84be4fe797f5c97bec736d40f332dc007ef7cce003ad3c39186dd623"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
@@ -548,7 +563,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Branches%20Foreign%20as%20at%20September%202026.pdf"
@@ -593,7 +609,8 @@
         "svg": "svg/logos/bank/bank-zero.svg",
         "source": "https://play-lh.googleusercontent.com/TJP_xR9qB8ZWE0Fl0L0TWaVY2WWgpedZn7dKzwguzymnzMgDIWAG4E6naX0vPRUDdi9mjYdkXJUbtCK0Pvzl2Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fd26a918e95054acd4c60fb2dcff1628699db032d6af52eb4299292463acf00c"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Mutual%20Banks%20as%20at%20Sept%202026.pdf"
@@ -639,7 +656,8 @@
         "svg": "svg/logos/bank/gbs-mutual-bank.svg",
         "source": "https://www.gbsbank.co.za/assets/images/GBS_Logo_vsn20260707.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2643a3591a21e4a450b87e23e3da3a9063395a73b7a54e809bf09df97ad6b541"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/publications/prudential-authority/sa-registered-financial-banks-and-rep-offices/2026/Mutual%20Banks%20as%20at%20Sept%202026.pdf"
@@ -781,7 +799,8 @@
         "svg": "svg/logos/bank/gig-operative-bank.svg",
         "source": "https://play-lh.googleusercontent.com/uGNGT_zHtiHZo39jTI0tpEwjuWrlwCk3PZsqlQcImIyNHM9CED5WVPMQ8TrH6NtV-nk2aft4FZhZRWLPueZJ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1c5af5fa86ee66ad8452e2e5fd1c64e36358ea2a31be2e760d33f0fea85c72ce"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/what-we-do/prudential-regulation/co-ops-banks/2024/Register%20of%20Co-ops%20Banks.pdf"
@@ -806,7 +825,8 @@
         "svg": "svg/logos/bank/postbank.svg",
         "source": "https://play-lh.googleusercontent.com/x3KzBu5yoUXRaFTFzDcLD3rAkrKm94vKyQeiQhNdK2vRJ4Dg6I8riJzJPQfganBnIF4ZdnlrgtCO3rQI5HvZ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b583009d1450cba39b4b040b35f098ba0c0464c219745d9e03518e32a31ae4f0"
       },
       "sources": [
         "https://acts.co.za/news/blog/2026/03/postbank-licensing-update-2025",
@@ -830,7 +850,8 @@
         "svg": "svg/logos/bank/tymebank.svg",
         "source": "https://play-lh.googleusercontent.com/PZUeSfEuJIwqDUirNNp_km-PYbALWSHgdtKGG0albUyC3ZswndR55vkS5v-iioaT4KHYtJ_WbDlQSAnz-ub1ig=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a6428c6ab450dc79a3900fb0ac45c7b65c9cb48ca93d0a346a9c8a1639966e91"
       },
       "sources": [
         "https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-surveillance/financial-surveillance-documents/2026/15-2026.pdf",
@@ -945,7 +966,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://apps.apple.com/us/app/-/id1480151366",
@@ -970,7 +992,8 @@
         "svg": "svg/logos/mobile-money/vodapay.svg",
         "source": "https://play-lh.googleusercontent.com/6IjrFlVrFM6D5eSvGdX7f9j4_cR_HT2spZNXKLbH3fhIcidvrfcm592u8mbj7bSV5uElQxV4c2nvmRdLuzfK=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b1cae24548a03db5d6cd1aae1c7ce1a9efba9ab354c0bb6222253a3744c3b66c"
       },
       "sources": [
         "https://itweb.co.za/article/bidvest-bank-joins-vodapay-wallet-ecosystem/kYbe97Xbe21qAWpG"
@@ -993,7 +1016,8 @@
         "svg": "svg/logos/mobile-money/telkom-pay.svg",
         "source": "https://www.telkom.co.za/assets/images/footer/telkom-white-logo.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "c06b4244aa36344c86bb6dc3965c58698ecda074dae4b7472bfe65caafebc027"
       },
       "sources": [
         "https://www.telkom.co.za/telkom-pay",
@@ -1018,7 +1042,8 @@
         "svg": "svg/logos/wallet/shoprite.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoprite_(Isle_of_Man)_logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "ea115aae06c0f9fef5d71e1672f655a39eb55bd30bccee36f15370bdd4020fd3"
       },
       "sources": [
         "https://www.gauteng.net/whats-on-g/shoprite-money-market-account/",
@@ -1114,7 +1139,8 @@
         "svg": "svg/logos/wallet/zapper.svg",
         "source": "https://play-lh.googleusercontent.com/WidjRvkjdEysq_zYVRUJntX3EHeilIKEHUp80hs-EH77p4XCjUsWF0taqXuh98jXTBUuf-CYjl6p8dzsiQ0utw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4f57e46e27af2e30fe20d3f2485f3b008297c122c4ad05c50bacebca221585cc"
       },
       "sources": [
         "https://netcash.co.za/blog/mobile-wallet-trends-in-south-africa-whats-next-for-2026/",

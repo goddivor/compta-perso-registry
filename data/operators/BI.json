@@ -29,7 +29,8 @@
         "svg": "svg/logos/bank/bancobu.svg",
         "source": "https://play-lh.googleusercontent.com/HQPiv_GBcXKmInftM7nE5Bdv5GTrLlKyjQ6DzGfCb9qu-xkBpbo6T4GuU0hXyfvf3S316Cc9m3dUJFsdNbpO8tg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a48a5b29d64eaae5976147dc66a77939e74c274b7fc225511659c6422d100054"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -52,7 +53,8 @@
         "svg": "svg/logos/bank/bgf.svg",
         "source": "https://play-lh.googleusercontent.com/XXjzBNWZhG7cVPTWmX0Al3Scnf7H-vSAXWyc23KN6aTwEK7Edg95ocKT8FhSxVVdN--RWRPCrtWfmm490urKWQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "19ad44f64581e71132989eccf7115177cb522c0511d237b71a730c27189c94e3"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -100,7 +102,8 @@
         "svg": "svg/logos/bank/finbank.svg",
         "source": "https://play-lh.googleusercontent.com/mvammOm__Yj-f_4mIWz4R51xIx0bO0bISYYiZwXRWh1rMHkW1dGGmu2q-WmfEoFL6gpaNJTxB2iEUwBmI7xOfrM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "eed7bb20b665cba9924157329266d635943d46f6d114334b73c507349ca27145"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -124,7 +127,8 @@
         "svg": "svg/logos/bank/interbank.svg",
         "source": "https://play-lh.googleusercontent.com/8eHcpOQVJ4O1XaFb8ixQH3ZfAI9G0FqGm8fjY-QOCUFoKP8mrB3_I2Wv_56kp1EPWS3K0tAhXAMJC_Vu1Myi5Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "305586dfcf0492ea25423f8a212a325f1e3db0e57cb0bb557382fce8599395aa"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -147,7 +151,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -197,7 +202,8 @@
         "svg": "svg/logos/bank/dtb.svg",
         "source": "https://dtbafrica.com/storage/uploads/b022ae98-1973-4e4e-93e0-9ebf891f3d86/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "52a098ddc259e23e93344ed3e3df9c5f3670cf953a0a6b80f2ed5d563fc55d6e"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -221,7 +227,8 @@
         "svg": "svg/logos/bank/kcb.svg",
         "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "42b35d053d25f546b515599e6ac55c450a9dd15f83ab995e8127c7c87cded0d6"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -245,7 +252,8 @@
         "svg": "svg/logos/bank/crdb.svg",
         "source": "https://crdbbank.co.tz/storage/app/media/images/logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "6413c3665de7dfcbcdfa3d588a13e72dbc689568192ca1b1ae4c6d10be0fab6a"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -268,7 +276,8 @@
         "svg": "svg/logos/bank/bcab.svg",
         "source": "http://www.bcab.bi/images/bcab_logo-2025.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4d588e062574b5e0806868cde4a611ece1515f6a0ca234ae3da5570066121c64"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -291,7 +300,8 @@
         "svg": "svg/logos/bank/bije.svg",
         "source": "http://www.bije.bi/new_asset/img/logo_New.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "156f1f398a2d657f0a43ffbdf4fba74862237ccf7ee086b30c75dc957baa6b3c"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -337,7 +347,8 @@
         "svg": "svg/logos/bank/bidf.svg",
         "source": "https://bidf.bi/wp-content/uploads/2021/04/logo-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "53f53fed178b5c9bf02b4e21fd89742b8b0f00545d529abb448f4c36bf0bc0af"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -361,7 +372,8 @@
         "svg": "svg/logos/bank/bedrock-financial-bank.svg",
         "source": "https://www.bfb.bi/assets/images/bfb-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8ee80a1f7ce608c2da9dc416a7fdf79cacd3361129298efa10473853e6c43673"
       },
       "sources": [
         "https://www.brb.bi/node/119"
@@ -383,7 +395,8 @@
         "svg": "svg/logos/bank/bnde.svg",
         "source": "https://play-lh.googleusercontent.com/hlGF0o5PtcpreF5hPQwBUdlOEEEH__XUpZ7NO6G5VRlQ_1AzYn4DWjDgJV79A_aVNxoisr-k5b6am-po5xH1z_Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "475b1c35a1c8a12e96cc7d8f962377af31689ebb345d03fdeabed8d8f2cb66c7"
       },
       "sources": [
         "https://www.brb.bi/node/119",
@@ -406,7 +419,8 @@
         "svg": "svg/logos/microfinance/mutec.svg",
         "source": "https://play-lh.googleusercontent.com/_f1-KzZHVuBnFVL5Os4f7A8ou1CKIO03BwFphVbUsyrEPfYTmn_2wsUqkCv-pKpn7RneAOVeiJdKrTrGRpnTvvk=s512",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "eef83299912d50aefe2e19a9bf56c9f4b8c9efe6493f6b088bc68a353613d4fb"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -519,7 +533,8 @@
         "svg": "svg/logos/microfinance/difo.svg",
         "source": "https://play-lh.googleusercontent.com/H2TYuPRat1DTPo4aBA_O9T4UOilHjQKaJG4oPlA7h-rxjtUC4_8O2JYKMEFER3CwdQcN1XOBFpP9EH0Cfb7S1A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b79da930308b5d5e3c7e9dd93f501d15a734a793fd521e629fe755ef183427ca"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -806,7 +821,8 @@
         "svg": "svg/logos/microfinance/burundi-lend-and-lease.svg",
         "source": "https://play-lh.googleusercontent.com/p4f1Q5n55OnAaNBcTMO9QLK6D2WnubdzCZMTuXAJMLURmodn4n5O_zE-R71za0Of4Ixjy3ZtHwzSEPn_S0I-RQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "19ef6e08efb2be651f0326d9fc33d19c335e42c3b963e605f9580b0efb10a218"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -852,7 +868,8 @@
         "svg": "svg/logos/microfinance/ihela-credit-union.svg",
         "source": "https://play-lh.googleusercontent.com/U0IeAK62XxU-umQpc3j32_hMdNfPyDOomXFl9UMTQsyWzHu-O_5WjG15uDDcgJnG6Rsq0F668w6qNJHxX-l_K48=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ba6c829bfce0a662de6c9ac6b938fd8078bb04d62fa20e3aa1188aba64687dfd"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -940,7 +957,8 @@
         "svg": "svg/logos/microfinance/isoko-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/rYsc1EK6GgLN9R0hqmGWp7pC7s1iDyf49JQhI0sFWJ_c2kmy-m8S-3kR_Sp99S34bunUdnkaXw5v4-x5gBXVoA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d789452de7419c4dc06a8db3f89e5f580a4023a49cc071e85c5f4f093f9663fb"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -1028,7 +1046,8 @@
         "svg": "svg/logos/microfinance/kaze-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/Pz1eDmFarN1c3iP0qbrdgdfIfbAw7Mw7uMwFc1KnoplKhSczs3S9XpXUxFg9lTLewMZbf7S1WTmxySoFGjFX=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f36232a18ca66fad6ccc3410585a7462021568ab5ea1b586761dfcf654e4a2da"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -1141,7 +1160,8 @@
         "svg": "svg/logos/microfinance/coopec-fenacobu.svg",
         "source": "https://play-lh.googleusercontent.com/8dkdpjVIjO5uogVP8BfV3XW2camTrgjxbpXWRXC0A7pX3eE--vP8iBjQUxBy2ftsvDGXjNjFLyMb1-tim80P_A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "43b6f01b24596d4e1f40135cfe1020a6e43108737bab3a4500dcdf6de35dfa28"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -1163,7 +1183,8 @@
         "svg": "svg/logos/microfinance/cecm.svg",
         "source": "https://play-lh.googleusercontent.com/CQUdnqAgBNO4oAPQYgtmoq8TOvTry2qFmwOEF6dDJtqZyDjo5b0w6vRG7qaD-dadsdRJNJYRHYC0GoNvWg-8lB8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "df74dfde2e2ba7c1cf84dcaa94987cb11e7c8412f63028e4725e55989d95ca6a"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -1229,7 +1250,8 @@
         "svg": "svg/logos/microfinance/fste.svg",
         "source": "https://play-lh.googleusercontent.com/ZycMy9TccMGYxePghpQ6gZRa5PsDVFGB4gJiiyArBy625ham0AcSBC6BiPJKcjEUmhbid-CJG_7kXbfi8Ne-6Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cd27b88933afb56877bc9c023732d3b9de0bd6d097e557ae51c2a697997b36da"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -1251,7 +1273,8 @@
         "svg": "svg/logos/microfinance/fscj.svg",
         "source": "https://play-lh.googleusercontent.com/q55QnvVazz8k_5uR1XMpkglZrA6Il6x4q6Q1COSGKCc_L2V8AsQCQMKc7rHxyGHCw8P4PqKq2yfI2l3xr1eo-g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d05ce48155ab7e089eed87b572f5175be07b4243a7fdbd454fd31fa9ed94bb35"
       },
       "sources": [
         "https://www.brb.bi/sites/default/files/2025-12/Rapport%20annuel%20de%20supervision%202024_0.pdf"
@@ -1408,7 +1431,8 @@
         "svg": "svg/logos/mobile-money/lumicash.svg",
         "source": "https://play-lh.googleusercontent.com/LvQ4mgyOxnPICuxkM101b1hY6NEtRiSpO8Tdk7hHXaSekKOS1T08hCnnhZKXiCuS5lszb02TFu_9x-0IT5_nLQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3b2c344c3d095a10a4f2b68ff506184a10a1a453a086dc80e6e7b420e7d287f9"
       },
       "sources": [
         "https://www.brb.bi/node/2928"
@@ -1432,7 +1456,8 @@
         "svg": "svg/logos/mobile-money/ecocash.svg",
         "source": "https://play-lh.googleusercontent.com/p8KM6TJr6mODf24U8AhPlX1uofQp5dATtVOdQxUoPHEgrWCvucuEb89Q5L8An36PBSb2iaoXn2i1H1QcPwFtyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cea7655999a4030e78658c821282899ffc70032575ddf5b2533345f1e91dbc66"
       },
       "sources": [
         "https://www.brb.bi/node/2928"
@@ -1455,7 +1480,8 @@
         "svg": "svg/logos/mobile-money/cashtel.svg",
         "source": "https://play-lh.googleusercontent.com/4G2rG26vqdBf-CR72S7uFLda2_Ku0qAGvKqgUtcAqDfbox9D1nVhxcTpZklLI-DHPa4CTJa_lkbBVUAm2BWzyVU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6f2679121b4ef7aff8a412dfe801f01abf648b1baac0b07d370e8e8b7dbbe320"
       },
       "sources": [
         "https://www.brb.bi/node/2928"

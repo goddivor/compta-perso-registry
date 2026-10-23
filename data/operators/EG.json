@@ -29,7 +29,8 @@
         "svg": "svg/logos/bank/banque-misr.svg",
         "source": "https://www.banquemisr.com/Assets/Images/bmp-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e31aecade7dedf5d90e2a2d16c3b28fb357a0d7ffdd39ac4f96fdafa44d94e2b"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -119,7 +120,8 @@
         "svg": "svg/logos/bank/industrial-development-bank.svg",
         "source": "https://play-lh.googleusercontent.com/oI2tI87ZowlxDfqyOmF_sYMueF4yHjHbpbWHnShIk8AqQXvnb0h_LQgjTHAREXw3kOOsjqqxAO7EZDPuw_ejjMM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e680be0fb10fdbdbf757172518db2c397e089286ff7952524ae200ef4902d747"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -142,7 +144,8 @@
         "svg": "svg/logos/bank/banque-du-caire.svg",
         "source": "https://play-lh.googleusercontent.com/L6uK4Rje4HPUhvo3wSxoaswJLI3dAPWzvKawktJkft-xRcBLNq1S6io16ZCMZaF95uWRYJ6Lfrcgk9CB4dqNOTA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6b26b69994bb8e8763e7b006db161204b09cbb8a929f28864a04e7385ff42b4b"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -188,7 +191,8 @@
         "svg": "svg/logos/bank/bank-of-alexandria.svg",
         "source": "https://res.cloudinary.com/alex-bank/image/upload/fl_lossy/c_scale,w_auto/f_auto,q_auto/dpr_auto/test/publicportal/commons/AlexBank_retail2",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "d1af033bc5ad892cdcfc5eb6159ff577c8589cb6b0fb69a68030eba6a5e814fa"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -210,7 +214,8 @@
         "svg": "svg/logos/bank/midbank.svg",
         "source": "https://play-lh.googleusercontent.com/oDiXVsq6VtC86VXJHWwATyMa7iQNsrTaCNGDuIOhJtuls_yW0PKXqbnLdDmGqJBMW05U66wKXYb3LfcFicbtzQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b2b8b870d843a6ce5f85ca63ccfd621298a4f0e57b7abd9f148ae2a1c1726bf8"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -233,7 +238,8 @@
         "svg": "svg/logos/bank/cib.svg",
         "source": "https://cibke.com/wp-content/uploads/2024/01/logo-white-qa.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "63fed4f3559babc9ac8b9689336d83cd399b48a2648358527e9b0d68c528d58a"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -256,7 +262,8 @@
         "svg": "svg/logos/bank/attijariwafa.svg",
         "source": "https://play-lh.googleusercontent.com/Q8Jw-WaLslrWjwmEpBSo7a2sMvhfQm-biyO99xf_AaXSO-Bv907UZ85Zw-IMiXB5bFA_Nl7eu0sHAtSRvA8Ok3I=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "882be182d95db26c7f8162fa2acf603dcd737d39933b9de59ca9e79cdc78cb97"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -302,7 +309,8 @@
         "svg": "svg/logos/bank/credit-agricole.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Cr%C3%A9dit_Agricole_logo_2017.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "f191b2c25d2391d0b83d425b9b416fe1d527ac18a4709e81660a7fcbe3bd22f4"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -325,7 +333,8 @@
         "svg": "svg/logos/bank/emirates-nbd.svg",
         "source": "https://play-lh.googleusercontent.com/SE1QW9TysPkbFYDysj3hpAH7ViW6YjWaAWAQjeoMUlQ7PYH9Ju_6I90X4wL4EJL_tVjwdo1RD9miFTHT7KWf0g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "78d167d5e8f686a0248745afd5fa90625b54b8f305d545874c0c5bb000be03fc"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -371,7 +380,8 @@
         "svg": "svg/logos/bank/qnb.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "1355ab8edd76ae3c5595110e4ca00c82da06326e39c11ae4fe2255750d85cdd4"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -395,7 +405,8 @@
         "svg": "svg/logos/bank/bank-nxt.svg",
         "source": "https://play-lh.googleusercontent.com/RyEP85_2nuEwbjipUj5FMfCDxFV_3eTkpIKXqaqRVZaZJqxYDq0JFkw743corCNsipB9gVUNHq8WP_OB6xFP=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fa36c6242a1500bef47e58737ee28e3df9e3535400f2280bb22466afc06e66e4"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf",
@@ -419,7 +430,8 @@
         "svg": "svg/logos/bank/abk.svg",
         "source": "https://play-lh.googleusercontent.com/RMTyg40GywAa88LYif_7LYcAvfhfPTg_K1tEXQAZ5rnUJQFhwFESB-FjJbQ6Ojqd4ObQj_97Dcc7A3baXMkY4N8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3bf6fb90e2cded5322694059196046f09ede7cf3c238cf99ad4cf690d322af53"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -442,7 +454,8 @@
         "svg": "svg/logos/bank/fab.svg",
         "source": "https://play-lh.googleusercontent.com/aPIS4dEk626OZ7DtJffksXJehJjagcRG5kMnhFGG5MOID8wPWXbvls7YfKDNCQmmMo4LlcF3bNNiwl0Upd4MaPU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "edb465a50ff7075d097f0e716026c65145e91fa1a87e003760480fde2d3782ca"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -467,7 +480,8 @@
         "svg": "svg/logos/bank/kfh.svg",
         "source": "https://play-lh.googleusercontent.com/8uUDANaK6JEguyD_FGE1Q5LUrimtld1-QhLho33bgEDU-d0OmcYabrDuUiBKLPetPsKNEF5vlO2BapywFc5waw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "660e3bbcb50d24598dd97a5644203864bcd1d7754d5619034e5334eee2e5ffcc"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf",
@@ -513,7 +527,8 @@
         "svg": "svg/logos/bank/housing-and-development-bank.svg",
         "source": "https://play-lh.googleusercontent.com/kQPHKCA2MgAwTzcXNPC-eU7_UorEaZGCsNs0dblXYO7nRopqRn_Vf29raKdvbXdAHNtF_AfxGn_1jNYh4EIO2Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0f1e12234fdaa594ab65c1e06e9010f48065a6cd1c7000b6a8d0eaf2207f0d48"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -536,7 +551,8 @@
         "svg": "svg/logos/bank/al-baraka.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "00c66bcce47a7027d259c132e8a815ef6caaf4378708b4cb817337ab27fe6032"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -559,7 +575,8 @@
         "svg": "svg/logos/bank/nbk.svg",
         "source": "https://play-lh.googleusercontent.com/FtzC-umA7K1rwI_PSBx2qXsvBYtevSBpucTpS1SrkBD5PyQR8aoUce19f6ecLSVZ0pFhKsAq49DbExXeb1GN8A4=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "85f911c0e2226fa639e21a6b351a67dae50e9afbce12f8035fab00e3b9adf558"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -582,7 +599,8 @@
         "svg": "svg/logos/bank/adib.svg",
         "source": "https://play-lh.googleusercontent.com/1fD30JC6Hz7_Hvd8GgOSXglvo0U_CvDqlDaCCBYJ0AezeeHk_8t2I_GCTeo0m7ZRx-IFWQFfpyQxeGn5WdVWUQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a2d0c32326a9d6a60cff8f7c8c0c5c970356b8105fc897f196d290f062565eff"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -605,7 +623,8 @@
         "svg": "svg/logos/bank/adcb.svg",
         "source": "https://play-lh.googleusercontent.com/LuKGS_rl3UseW0YeNcNXG4VrUiIYzXR7DmE9tGxTybIJKGwJvhLBEQICb4es_aLxUJYEc_in4KeR7C3szuuVbQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cd44bb115d66f82f6a8cd2065bc255a4d732c0d4cf53763609ddbeee3910c205"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -628,7 +647,8 @@
         "svg": "svg/logos/bank/egyptian-gulf-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Li56X_toKdn-hetE6Hd5M8khAXVzT38xkQCYXaAOxCrsXwjmOoNtV6IhyWm8bLJQh9n7iY4GpK5UkxsylIU8zA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fcfb892044cef3a95e9f11adb2c59a38a21b268954bd534bf6274bd58476e697"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -673,7 +693,8 @@
         "svg": "svg/logos/bank/hsbc.svg",
         "source": "https://www.business.hsbc.co.mu/-/media/project/common/logos/hsbc-logo.svg?iar=0&hash=760ECB6B4C7C98D34B9FD48EC152BB77",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "bc76a1d7775a86196730610a90bb2874f81aef9b6eead494b87579ddf1cba174"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -696,7 +717,8 @@
         "svg": "svg/logos/bank/bank-abc.svg",
         "source": "https://play-lh.googleusercontent.com/lD_fzc9mOn-eCQ54OuTRIDzM1e2Km_X_v7z_pzdgsXkjUsm889fyHJY_Ar6KcMcqoYNLEV_uiwJ5nUOQbdHbmg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "afb009a892579c20220e138a91030391187c64507e9e154fb3b7ff9245b76a78"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -742,7 +764,8 @@
         "svg": "svg/logos/bank/arab-international-bank.svg",
         "source": "https://play-lh.googleusercontent.com/MNWPjMLyGrta99OCgOVByXjTcBVUPzo7DWjAZmZuKuhRq7i-7AbKp_lYYeLaxzLJBP1fJrUat6cg1518-nRM8g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ef7b007e9afbfd7f35fec6c0b66e1b6198384ea953211c53d303bb8c79a91542"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -765,7 +788,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -788,7 +812,8 @@
         "svg": "svg/logos/bank/arab-bank.svg",
         "source": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "e574a4a1e7ddef0f1f2c7435d3a20f2f394f53aac6001edc0e06eaa1a4c85dff"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -811,7 +836,8 @@
         "svg": "svg/logos/bank/mashreq.svg",
         "source": "https://play-lh.googleusercontent.com/KI1sdGnEl2-d8qFvLokGymBgb6R3M84Jx53xp6i9gJEYxJnxPMxk38DUAxe4e0WHB52OgSlPf6aNsrC2nDoc8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bd689c6f9cce5d41a9cd8a755d4fbd806eddc9b2145aef51c7829b6eaaf413fa"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -833,7 +859,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf"
@@ -855,7 +882,8 @@
         "svg": "svg/logos/mobile-money/bm-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/mydj5DyJVkASr4WKIOvhT8Movv7EyYqj48mljL3auynu5TCbE9d0JoV8oj9M3ce7u2c-aa3-wqsfsfIzeAz_ug=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "180eb2485859569c64c939fe7c283d55189d9fdc4fdc86f5a1a19c58cf73f985"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -877,7 +905,8 @@
         "svg": "svg/logos/mobile-money/we-pay.svg",
         "source": "https://play-lh.googleusercontent.com/RHj9H01qk_KoZkkNACWqucGlGv_oeEh6AXBpDDikTfbLABetwGT4cRKZnaz0D0ml0bgrWXyt4dBopuRFMEHZ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89d5c9df1a3ef8cdebba7c028bddfad8a273084d946f454fe93dc6ad76dc8517"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -900,7 +929,8 @@
         "svg": "svg/logos/mobile-money/ma7fazty.svg",
         "source": "https://play-lh.googleusercontent.com/oQg5czYyepCiyb5EnifZwmoIYM6laEyQbPEyDDtPO3cMUB4dhrMkyLRTyLk02K07gwj-_hqX9g3h2RD6pvjLHCg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bb9d40b1c157b28d4ae57956fd8dba7ef20e035bfde505494377df08a19fad19"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -922,7 +952,8 @@
         "svg": "svg/logos/mobile-money/vodafone-cash.svg",
         "source": "https://play-lh.googleusercontent.com/08hq6PR9N_dxRxkai60TX5nkhwGpd__-1V9Dq9BmtBPCgyLw6U7h01yGkjr_hUInaNMDC1w1OGk4pfIyBvTMpzU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "dbaff9fc2eaa31c985fb73f7d7895267462466b43bd404b31da01a919a43b642"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -944,7 +975,8 @@
         "svg": "svg/logos/mobile-money/qnb-wallet.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/QNB_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "1355ab8edd76ae3c5595110e4ca00c82da06326e39c11ae4fe2255750d85cdd4"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1010,7 +1042,8 @@
         "svg": "svg/logos/mobile-money/halan-cash.svg",
         "source": "https://halan.com/wp-content/themes/halan/app/images/Full-logo-black-version.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "cba1f9e25a43a565db93b0a7c6d98d02bcc26dfaae57a9f28b55f8eaf146d6c9"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1032,7 +1065,8 @@
         "svg": "svg/logos/mobile-money/nbk-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/FtzC-umA7K1rwI_PSBx2qXsvBYtevSBpucTpS1SrkBD5PyQR8aoUce19f6ecLSVZ0pFhKsAq49DbExXeb1GN8A4=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "85f911c0e2226fa639e21a6b351a67dae50e9afbce12f8035fab00e3b9adf558"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1055,7 +1089,8 @@
         "svg": "svg/logos/mobile-money/floussy.svg",
         "source": "https://play-lh.googleusercontent.com/hHXHoYa8ON6Boq8URbmu_vu2AH-z09leEUY1v4H4kvigLr60XiUkTtAZep6qvb2zfEYF4neBIzPamfd-vE6TWQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f8af5727d7a746cfa0c8334da5a33f3bcfe7565d3070d67c3c95ee529b0cf8a0"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1077,7 +1112,8 @@
         "svg": "svg/logos/mobile-money/faisal-cash.svg",
         "source": "https://play-lh.googleusercontent.com/NwB-C-fLN3AMW_RPJisUo3xemCEJoQlGSbZcoqORCQLfEmECyxENW6iZvexeoNhaA2DXe59zqcQIdsndzxy3=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "78397f3b2bb81080881e31a47f8f79d2b8661070352a760e3f9f580cbe34d798"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1121,7 +1157,8 @@
         "svg": "svg/logos/mobile-money/gebe.svg",
         "source": "https://play-lh.googleusercontent.com/2bDdnGAMllJ-bdkBMd7Yf4RU-mFePCbW_ZbqBNGTZVclmYDfIL2H0c3qyCNDEBLCWRFT-8iGd09Kgyn0PJW87Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "61bd2aa691c176810f7c0069c96e5cf444ee83d75ebf02fe438732381da4e297"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1144,7 +1181,8 @@
         "svg": "svg/logos/mobile-money/phone-cash.svg",
         "source": "https://play-lh.googleusercontent.com/WJ7bMYbVxqtQa2yX9jyQ9jZ4mzUQ_Wfrk5CkjT1WpING5GarfBHP8MDF5JnaLnAzUFFLOy3eJIX2sZEI-f-_65k=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f1e447b931feb13cae09b1491d2eec3b2126d477ead1f29724603ef59b61116a"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1166,7 +1204,8 @@
         "svg": "svg/logos/mobile-money/orange-cash.svg",
         "source": "https://www.orange.eg/Style%20Library/OrangeImages/OrangeLogo-fb.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b509a1ad3d75b3be5d8d82b87147ed0045cf017d08462228f3167ef142ee9f15"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1188,7 +1227,8 @@
         "svg": "svg/logos/mobile-money/easy-cash.svg",
         "source": "https://play-lh.googleusercontent.com/LkadxLAa-tJFA-M9Q00BHDSjrBcrNyKgjeqkByKwLZ2YV3BeNDCj5daFWinjxozZLTFcFRBgfSh0Oo_nElWo_Vs=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8d6834a147c7a04b9ccaa03b3625d6348d965549fb744331f43fcd33bf77e9aa"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1210,7 +1250,8 @@
         "svg": "svg/logos/mobile-money/qahera-cash.svg",
         "source": "https://play-lh.googleusercontent.com/RfiU69wxHj7eBjQHIZX0kRau9YbuUMrOA4lvRzOTMgC9TM7uqjTbCXBP36s5jRFAVzb6frZ-goA66i1FRAr5_v8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bb36ccc7bac2f22b0484d4a6e43e99520f634f00b10e7a836b0f5481051d796c"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1257,7 +1298,8 @@
         "svg": "svg/logos/mobile-money/cib-smart-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/31KuVSQSvp1Nax985PsPrpk1PKUkukEPTUSbnVm3RxM6TpkbgFhbxqpyLSwZGeU2TkqBB79kApImUioTiQJi5_c=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "51a52b397063b68a18938ef077a1ec2495c7ae513aef56ff59cf94e4e6f22f11"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1279,7 +1321,8 @@
         "svg": "svg/logos/mobile-money/ameen.svg",
         "source": "https://play-lh.googleusercontent.com/LL4jQ1QJwUG7CesjyORBKJ3Vn7gmBoV-RzdDIkg2Z8hw8GMdR4MRPCVnyd8U1jEOkspse1cu0IxI7a2LnHgLog=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7079cd3dc644a8d89acd4d0f194822c3c418c5dc3abd5decaff0a7c793622124"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1345,7 +1388,8 @@
         "svg": "svg/logos/mobile-money/abk-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/O-osdEHkCLkvhqesCGUXt14m6LYyhqGAVhRKOxe9tNzKX8DdKeUDxRVgM7HxMmjIDyQSMAwBxSJ6yGbZZgAKroM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "922a1fc7d693f274b3f1385cca528523da5fad38a7c700689b1c47181e9700a6"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1369,7 +1413,8 @@
         "svg": "svg/logos/mobile-money/3altayer.svg",
         "source": "https://play-lh.googleusercontent.com/tU0KXgRnyEZgHkRkT7moHU_z6ib4l4egrMjF3NknRF7_O5Q0B9unxbxnXq_QQ6q9wFQwFfhaoQ4q8BbegJfS_Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5391dcee41ef454319a5d8e725a07eecbb7f445d37f196f3bee931787c0979c3"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1391,7 +1436,8 @@
         "svg": "svg/logos/mobile-money/scb-e-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/jNAXl5Vc41-tLC-CJF4fJ0d72Cu8tWWpfPdB6uEKC1zd5UPKOe86pE2gBZ3Oo_b7Zty-8W6khL3vJuuHiG19=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c17e8838c40be4ca79b3de90e416cb3928edbec5549cd50ed1cb767ef3b35287"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1436,7 +1482,8 @@
         "svg": "svg/logos/mobile-money/e-pocket.svg",
         "source": "https://play-lh.googleusercontent.com/Cs60VKgWMZ5fdRBOabnjfdP741tk9DDU3r2E2lq-SRgpAVV5K5VuhnKe_25-HNIniGFz5KG1O4QN-PK0xugw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f717db7e0856e5974a8668797dfb3bf8f76485ef298de8fe83c1759ce5571c81"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1458,7 +1505,8 @@
         "svg": "svg/logos/mobile-money/adcb-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/LuKGS_rl3UseW0YeNcNXG4VrUiIYzXR7DmE9tGxTybIJKGwJvhLBEQICb4es_aLxUJYEc_in4KeR7C3szuuVbQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cd44bb115d66f82f6a8cd2065bc255a4d732c0d4cf53763609ddbeee3910c205"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1480,7 +1528,8 @@
         "svg": "svg/logos/mobile-money/agri-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/vucVeyYdY6BV9Z858J6VJ5kp2hXvqEr_WYwOi1lbUBmJFSTTvYbnYraLkv4Q4C5a1fq-Jj0KPHQGC7907zDbvIo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "82ed8fc6e227c66b35410020c3876d1e19752a8deafb33407e4aa03c0494a3d1"
       },
       "sources": [
         "https://www.cbe.org.eg/en/payment-systems-and-services/payment-services/mobile-wallet"
@@ -1524,7 +1573,8 @@
         "svg": "svg/logos/microfinance/reefy.svg",
         "source": "https://play-lh.googleusercontent.com/sH1aDfs8DxdncCmQ9cOXqTefKNhOcyv3zYdl0li1zP-cfro5VoP4lB-UOUZOFdbKuKIOwCktFLZILyvc7rWpLA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "06df187e25e98fd88fc91c725215ad30ccd57a558a9779a9441aced1d15c93b1"
       },
       "sources": [
         "https://www.egyptindependent.com/sawiris-owned-enterprise-gets-first-microfinance-license"
@@ -1568,7 +1618,8 @@
         "svg": "svg/logos/digital-bank/telda.svg",
         "source": "https://telda.app/_next/static/media/telda-logo.25c7955c.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "1d98c548fe705b6c657be4bd515a91c8f00beed267565eebb3394f00a786d0a5"
       },
       "sources": [
         "https://au-startups.com/news/fintech-startups-revolutionizing-banking-and-financial-services-in-north-africa",
@@ -1591,7 +1642,8 @@
         "svg": "svg/logos/microfinance/khazna.svg",
         "source": "https://play-lh.googleusercontent.com/2K4zVtQMEypLW2h66mwmQBMIVe2MoLRE45cZD6r41iUT2MwdpGCM1ElsFWOeNRtZLaNWnxhVVb-QpPbbskaa=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "03ea9994bdf1d4f2f26a448616dc0c01e891b562348f3cb47c722903954c5297"
       },
       "sources": [
         "https://www.cbinsights.com/investor/khazna",
@@ -1639,7 +1691,8 @@
         "svg": "svg/logos/microfinance/mnt-halan.svg",
         "source": "https://halan.com/wp-content/themes/halan/app/images/Full-logo-black-version.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "cba1f9e25a43a565db93b0a7c6d98d02bcc26dfaae57a9f28b55f8eaf146d6c9"
       },
       "sources": [
         "https://allafrica.com/stories/202606090112.html",

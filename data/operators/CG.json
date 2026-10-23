@@ -50,7 +50,8 @@
         "svg": "svg/logos/bank/banque-congolaise-de-l-habitat.svg",
         "source": "https://play-lh.googleusercontent.com/P5ZMe9OzPOx1goiweSd_g8wJwDcRZZyNFNEiYH-H2Ow-VcQP_2M-kqjTyZFz9E7BLUdsCnmRVNmDA0rA4OwLWw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "640babcc9b1a91a2ac42d5d5b4b2768bdac66100e7d3685e65a1f91c246ea692"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/"
@@ -95,7 +96,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/",
@@ -142,7 +144,8 @@
         "svg": "svg/logos/bank/afriland-first-bank.svg",
         "source": "https://play-lh.googleusercontent.com/sm0-ZU-rjt_y9rxZjbR9g9iwM7Hts8cUhMplGvlNAl367u7IvgVgPN_DHpXXQlvooZknA55y4NIuhBWfEEzDNg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f6694c03bbb6f9211cb54d80c58f696a564c1e84a9a0bd66a4ccaeaa11f22fd8"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/"
@@ -191,7 +194,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/"
@@ -214,7 +218,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/"
@@ -262,7 +267,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/",
@@ -286,7 +292,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/",
@@ -309,7 +316,8 @@
         "svg": "svg/logos/mobile-money/bgfi-mobile.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
@@ -538,7 +546,8 @@
         "svg": "svg/logos/microfinance/cofina.svg",
         "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "497829dffe013e335509bd504940ba2597c292428bb2c53cb8812c81a5a5920c"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/"
@@ -583,7 +592,8 @@
         "svg": "svg/logos/microfinance/charden-farell.svg",
         "source": "https://play-lh.googleusercontent.com/ZVjEMoHDW9jYtzKBFtAv6Ro1ym2ZrYe80PpuBg3Y43PA8xdknDc359vke34NVX6U6QNhzw_D_IXN3uca9SzaRrA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "52409a14e3cc304a65a3313a7282b74d8ad67d2218f9a4ee5bc486bb90f9c416"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/"
@@ -787,7 +797,8 @@
         "svg": "svg/logos/microfinance/caisse-d-appui-du-developpement-communautaire.svg",
         "source": "https://play-lh.googleusercontent.com/3ynFu2zXJQQmdT-40SO7lfDhdCJGxIwNYePChpRCQu-b46wRmrh7uc35iKHdvryp9XnrXyFnXSQipWbeIWPwYSo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "51366785f3f0e3d133abd20748f1c1e936bd74aa847097dc2f96a00410f17558"
       },
       "sources": [
         "https://www.dgifn.cg/index.php/assujettis/"

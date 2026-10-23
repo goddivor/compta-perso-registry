@@ -28,7 +28,8 @@
         "svg": "svg/logos/bank/lbdi.svg",
         "source": "https://static.wixstatic.com/media/e7c448_a43a9f2b07084b7b85d92f234d63c51d~mv2.png/v1/fill/w_328,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LBDI_logo_color_ds_03.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8ba586bc6afc425616d04374ce354fced545db8d0b6b010b05185d060b83ca08"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information"
@@ -52,7 +53,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information"
@@ -78,7 +80,8 @@
         "svg": "svg/logos/bank/international-bank.svg",
         "source": "https://ibliberia.com/wp-content/themes/ib/images/ib-brand-logo-with-name-white.png",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "b00965d17757017ddd11cb69646695bf6790f199abc5722c857c736426a8ee6c"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information"
@@ -105,7 +108,8 @@
         "svg": "svg/logos/bank/bloom-bank-africa.svg",
         "source": "https://bloombankafrica.com/assets/55efbb96367fe0d2f417854c3b5a19110fd5411c-C85geNzK.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "1351426a9b8dad4af751e66db73d3d3bedbc6f73fdc1017c0d92489186d9497a"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information",
@@ -132,7 +136,8 @@
         "svg": "svg/logos/bank/sib.svg",
         "source": "https://www.sibll.com/assets/images/logo-cropped.jpeg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c77219517e5c86b48dee2644e4a1d8d1840fd06ac5c24c152b49fcfaf44f0e9d"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information"
@@ -157,7 +162,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information"
@@ -208,7 +214,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information"
@@ -232,7 +239,8 @@
         "svg": "svg/logos/bank/afriland-first-bank.svg",
         "source": "https://play-lh.googleusercontent.com/sm0-ZU-rjt_y9rxZjbR9g9iwM7Hts8cUhMplGvlNAl367u7IvgVgPN_DHpXXQlvooZknA55y4NIuhBWfEEzDNg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f6694c03bbb6f9211cb54d80c58f696a564c1e84a9a0bd66a4ccaeaa11f22fd8"
       },
       "sources": [
         "https://cbl.org.lr/general/commercial-banks-liberia-information"
@@ -280,7 +288,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://developingtelecoms.com/telecom-technology/financial-services/19812-orange-liberias-mobile-money-service-gets-separate-licence-under-new-regs.html"
@@ -305,7 +314,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://developingtelecoms.com/telecom-technology/financial-services/19812-orange-liberias-mobile-money-service-gets-separate-licence-under-new-regs.html",
@@ -399,7 +409,8 @@
         "svg": "svg/logos/microfinance/brac.svg",
         "source": "https://play-lh.googleusercontent.com/I64Mlc-QDJVMdq9lppT3sWvdIMPdTya7d3_cs3ylLikC_s5JK6IVebVX-n-w7MG_urLhcf1dbaKJVAM6Of3U=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "238d81044915e1fad68e42175d9f2e163d9250ed22dc14ea52610b58eb0574a9"
       },
       "sources": [
         "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"
@@ -466,7 +477,8 @@
         "svg": "svg/logos/microfinance/agk-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/p3ZfuxevCHP-WSXHr4NRTpMQzD1upsdmaN4fX6tWV_ZCrb6BrYS0D4ktZULSstbqkv1rvci0PyzHWKA5BFdnVlw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "37e84ab71e202a03702ed807540527b041f229a571cd1a83deb8f01128195eb2"
       },
       "sources": [
         "https://cbl.org.lr/sites/default/files/documents/licensed_financial_institutions.pdf"

@@ -1,6 +1,6 @@
 {
   "sources": {
-    "generatedAt": "2026-10-22",
+    "generatedAt": "2026-10-23",
     "cldr": "48.2.0",
     "flagIcons": "7.6.0"
   },
@@ -25,7 +25,16 @@
       ],
       "currencies": [
         "DZD"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-DZ",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "AO",
@@ -46,7 +55,16 @@
       ],
       "currencies": [
         "AOA"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "pt-AO",
+        "pattern": "¤ #,##0",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "¤ #,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "BJ",
@@ -67,7 +85,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-BJ",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "BW",
@@ -89,7 +116,16 @@
       ],
       "currencies": [
         "BWP"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-BW",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "BF",
@@ -110,7 +146,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-BF",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "BI",
@@ -133,7 +178,16 @@
       ],
       "currencies": [
         "BIF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-BI",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "CM",
@@ -155,7 +209,16 @@
       ],
       "currencies": [
         "XAF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-CM",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "CV",
@@ -176,7 +239,16 @@
       ],
       "currencies": [
         "CVE"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "pt-CV",
+        "pattern": "#,##0¤",
+        "group": ".",
+        "decimal": "$",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "CF",
@@ -198,7 +270,16 @@
       ],
       "currencies": [
         "XAF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-CF",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "TD",
@@ -220,7 +301,16 @@
       ],
       "currencies": [
         "XAF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-TD",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "KM",
@@ -244,7 +334,16 @@
       ],
       "currencies": [
         "KMF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-KM",
+        "pattern": "#,##0 ¤",
+        "group": ".",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "CG",
@@ -265,7 +364,16 @@
       ],
       "currencies": [
         "XAF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-CG",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "CD",
@@ -290,7 +398,16 @@
       ],
       "currencies": [
         "CDF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-CD",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "CI",
@@ -311,7 +428,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-CI",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "DJ",
@@ -333,7 +459,16 @@
       ],
       "currencies": [
         "DJF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-DJ",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "EG",
@@ -354,7 +489,16 @@
       ],
       "currencies": [
         "EGP"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "GQ",
@@ -377,7 +521,16 @@
       ],
       "currencies": [
         "XAF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "es-GQ",
+        "pattern": "#,##0 ¤",
+        "group": ".",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "ER",
@@ -400,7 +553,16 @@
       ],
       "currencies": [
         "ERN"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-ER",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "SZ",
@@ -422,7 +584,16 @@
       ],
       "currencies": [
         "SZL"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-SZ",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "ET",
@@ -443,7 +614,16 @@
       ],
       "currencies": [
         "ETB"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "am",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "GA",
@@ -464,7 +644,16 @@
       ],
       "currencies": [
         "XAF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-GA",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "GM",
@@ -485,7 +674,16 @@
       ],
       "currencies": [
         "GMD"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-GM",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "GH",
@@ -509,7 +707,16 @@
       ],
       "currencies": [
         "GHS"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-GH",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "GN",
@@ -530,7 +737,16 @@
       ],
       "currencies": [
         "GNF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-GN",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "GW",
@@ -551,7 +767,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "pt-GW",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "KE",
@@ -573,7 +798,16 @@
       ],
       "currencies": [
         "KES"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "sw-KE",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤ #,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "LS",
@@ -596,7 +830,16 @@
       "currencies": [
         "ZAR",
         "LSL"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-LS",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤#,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "LR",
@@ -617,7 +860,16 @@
       ],
       "currencies": [
         "LRD"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-LR",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "LY",
@@ -638,7 +890,16 @@
       ],
       "currencies": [
         "LYD"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en",
+        "pattern": "#,##0 ¤",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "MG",
@@ -661,7 +922,16 @@
       ],
       "currencies": [
         "MGA"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-MG",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "MW",
@@ -683,7 +953,16 @@
       ],
       "currencies": [
         "MWK"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-MW",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "ML",
@@ -704,7 +983,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-ML",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "MR",
@@ -725,7 +1013,16 @@
       ],
       "currencies": [
         "MRU"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-MR",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "MU",
@@ -747,7 +1044,16 @@
       ],
       "currencies": [
         "MUR"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-MU",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "MA",
@@ -770,7 +1076,16 @@
       ],
       "currencies": [
         "MAD"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-MA",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "MZ",
@@ -791,7 +1106,16 @@
       ],
       "currencies": [
         "MZN"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "pt-MZ",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "NA",
@@ -813,7 +1137,16 @@
       "currencies": [
         "NAD",
         "ZAR"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-NA",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "NE",
@@ -834,7 +1167,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-NE",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "NG",
@@ -856,7 +1198,16 @@
       ],
       "currencies": [
         "NGN"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-NG",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "RW",
@@ -879,7 +1230,16 @@
       ],
       "currencies": [
         "RWF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-RW",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "ST",
@@ -900,7 +1260,16 @@
       ],
       "currencies": [
         "STN"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "pt-ST",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "SN",
@@ -933,7 +1302,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-SN",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "SC",
@@ -955,7 +1333,16 @@
       ],
       "currencies": [
         "SCR"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-SC",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "SL",
@@ -976,7 +1363,16 @@
       ],
       "currencies": [
         "SLE"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-SL",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "SO",
@@ -998,7 +1394,16 @@
       ],
       "currencies": [
         "SOS"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "so",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "ZA",
@@ -1029,7 +1434,16 @@
       ],
       "currencies": [
         "ZAR"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-ZA",
+        "pattern": "¤#,##0",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "SS",
@@ -1050,7 +1464,16 @@
       ],
       "currencies": [
         "SSP"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-SS",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "SD",
@@ -1072,7 +1495,16 @@
       ],
       "currencies": [
         "SDG"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-SD",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "TZ",
@@ -1094,7 +1526,16 @@
       ],
       "currencies": [
         "TZS"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "sw",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤ #,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "TG",
@@ -1115,7 +1556,16 @@
       ],
       "currencies": [
         "XOF"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-TG",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "TN",
@@ -1137,7 +1587,16 @@
       ],
       "currencies": [
         "TND"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "fr-TN",
+        "pattern": "#,##0 ¤",
+        "group": " ",
+        "decimal": ",",
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
+      }
     },
     {
       "iso2": "UG",
@@ -1159,7 +1618,16 @@
       ],
       "currencies": [
         "UGX"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "sw-UG",
+        "pattern": "¤ #,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤ #,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "cldr"
+      }
     },
     {
       "iso2": "ZM",
@@ -1180,7 +1648,16 @@
       ],
       "currencies": [
         "ZMW"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-ZM",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     },
     {
       "iso2": "ZW",
@@ -1204,7 +1681,16 @@
       "currencies": [
         "ZWG",
         "USD"
-      ]
+      ],
+      "amountFormat": {
+        "locale": "en-ZW",
+        "pattern": "¤#,##0",
+        "group": ",",
+        "decimal": ".",
+        "signPattern": "¤#,##0",
+        "alphaPattern": "¤ #,##0",
+        "source": "override"
+      }
     }
   ]
 }

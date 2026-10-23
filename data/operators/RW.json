@@ -32,7 +32,8 @@
         "svg": "svg/logos/bank/i-and-m.svg",
         "source": "https://play-lh.googleusercontent.com/LfvJcNwaJXj9Cr5YOaDBmkX6Xfy4c37-NxkuA0F2S81vLC_n9UIBEGtAR-avvRnVlz78eWvsejyQd7pQWTfsLg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e314497d7de5ba6df3f281c8c2910bb5cd32a26b2a13d87e0e1bd5b2976c1f60"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -55,7 +56,8 @@
         "svg": "svg/logos/bank/bank-of-kigali.svg",
         "source": "https://play-lh.googleusercontent.com/OaN-Ytqk_G4ba6z4M1KftjUbIG1D9IZXC2zoo64ZVQbpjtvyjLsEs3jn_9vA5SLGSPVfy7ggzUy1VWSWAYR7=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b9ee6e5fd1e7077fdabf582d56ac7cf604ac76b733debe9694c6d7d97bd5c288"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -79,7 +81,8 @@
         "svg": "svg/logos/bank/bpr-bank.svg",
         "source": "https://play-lh.googleusercontent.com/x5daXjfRtaE-soOrYF9RKdPtp1UHCzxA6X6-t3jvgAv3ylxfSQc3idJdGC2Cgg6_7sREDNkr6VRsQkZJdBZZUw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c761986a26e8ff55c5e8fd5b28bae0d9af0a748275c8e3382fcebe5e80f35897"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -104,7 +107,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -128,7 +132,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -151,7 +156,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -175,7 +181,8 @@
         "svg": "svg/logos/bank/equity.svg",
         "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "08967ed8f1bbc66a59410cc9a7a6359d99ecfaad2818e0081338f789bc31ab4b"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -200,7 +207,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -223,7 +231,8 @@
         "svg": "svg/logos/bank/ncba.svg",
         "source": "https://ncbagroup.com/wp-content/uploads/2024/08/ncba-logo-dark.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "91decd532868ceb879526f9955da7ea326a0228d50a9ce645f44d8bac3ee3620"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -247,7 +256,8 @@
         "svg": "svg/logos/bank/brd.svg",
         "source": "https://play-lh.googleusercontent.com/oWIyr3q3ZntDTDsNONC-cRCtA-7iWhSKyQZhXvWrzuL4Q666PL6slUg5Lfear8Uu_aCYr9vPD3x82kurKoH9fA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d96f97661c6e6937e1b42b9cd92eda450c130b28c7acc03ebd55660fa9346c3f"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -270,7 +280,8 @@
         "svg": "svg/logos/bank/zigama-css.svg",
         "source": "https://play-lh.googleusercontent.com/qZuKFJO7gnYWE8c3fpBd1U-rquInwx9-Q0BLgUAiY_JxR3Y2kopwt-fGIRpUOjq0vuoVV5WofvMCz0Joa06p=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "328086c0494f71c35dc4379b760cc2c78158458615f75d1065f65e48acac560d"
       },
       "sources": [
         "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf"
@@ -364,7 +375,8 @@
         "svg": "svg/logos/microfinance/copedu.svg",
         "source": "https://play-lh.googleusercontent.com/eg3ni_rSOtyWz2sHBYPZ9Bodr_OA2YTjWtChxBnrj-iBPCdd1P12K5_GlfLOdu2dkvPMokTqPrTDI5vAx-O8oQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bfda77acc7f2a81b1219ecc2b9aa70e4aba462c1754d317ef5eb0be499751c92"
       },
       "sources": [
         "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
@@ -618,7 +630,8 @@
         "svg": "svg/logos/microfinance/umurimo-finance.svg",
         "source": "https://play-lh.googleusercontent.com/_v-YzD_gYKDq5MUJfNl2sQt4KnGhsCzXj29kCwcIJCInluc5XRMBJv1-BAOoLz6eLzS06h44iRuhVEyKDqODpTY=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ebdd842c66165426a0c0f73514093c135b55f5aca22ba3cda015b0f67d91d282"
       },
       "sources": [
         "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
@@ -663,7 +676,8 @@
         "svg": "svg/logos/microfinance/brac.svg",
         "source": "https://play-lh.googleusercontent.com/I64Mlc-QDJVMdq9lppT3sWvdIMPdTya7d3_cs3ylLikC_s5JK6IVebVX-n-w7MG_urLhcf1dbaKJVAM6Of3U=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "238d81044915e1fad68e42175d9f2e163d9250ed22dc14ea52610b58eb0574a9"
       },
       "sources": [
         "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
@@ -1004,7 +1018,8 @@
         "svg": "svg/logos/microfinance/cooperative-of-progress-and-financing-cpf-ineza.svg",
         "source": "https://play-lh.googleusercontent.com/TM2aTRuAJWc3seXd82orViu-tc8agq8XN7tlJ23DhzEiPD0gVV3i0nX8Ak1ug-nGs-BwJSAyNxUyMJhF6xK_=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "91eaf731ad047a9e69f9302bf829eb3180e2bd84b5b2110df76a45d45f5414b4"
       },
       "sources": [
         "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
@@ -1158,7 +1173,8 @@
         "svg": "svg/logos/microfinance/muganga-sacco.svg",
         "source": "https://play-lh.googleusercontent.com/wD5WPv5RJASc3xIrMzuF92ywdNXWsMTWASdmbuTMJnEei6HCzxONXNZuRdqeT2xbE9dft-FOsm65kcc7fZrt=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9466b4721ea51fbea8aec7995412f65b94a4d20a1f615af020357d2cde79eed7"
       },
       "sources": [
         "https://www.bnr.rw/documents/List_of_Supervised_Deposit-taking_Microfinance_Institutions.pdf"
@@ -1863,7 +1879,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
@@ -1887,7 +1904,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
@@ -1909,7 +1927,8 @@
         "svg": "svg/logos/mobile-money/centrika.svg",
         "source": "https://centrika.rw/svg/centrika.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "aaff05ea7638cada5e015ac507d5292fa6bdfa6eb2da53c414d6579f6225b454"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
@@ -1932,7 +1951,8 @@
         "svg": "svg/logos/mobile-money/mvend.svg",
         "source": "https://play-lh.googleusercontent.com/ECXhLBC0C7jwqk1FlFS1H2SUo7vzJt4Yhgej9ItTYaUTvbi-12RsDKi7_oVnQI0qGYN2DCqVtDC3TQWERO4CAPg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0548d63e282cd6f598a3073fb7377a31096c2a8086409e0a5fd0f9fcdf5bb0ff"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
@@ -1955,7 +1975,8 @@
         "svg": "svg/logos/mobile-money/mobicash.svg",
         "source": "https://play-lh.googleusercontent.com/9TEzpvhZNtxsRuJrLyRYa9KaHw1PtbxjoxUAIa5SUD-gmIMR0a6lhcI61l1adpoSaX1tP0yTTa8j_UR-lX1vRw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "06a8277876d9613d90718840bfa89ae18cc294cfd8aecc5440cd95e1482089aa"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
@@ -1978,7 +1999,8 @@
         "svg": "svg/logos/mobile-money/flutterwave.svg",
         "source": "https://play-lh.googleusercontent.com/zWjoyiUrwmVpVz6_LiqY7Ly14t49ZLmRenMiCfAL3xaMPo_OyFPT7KaNvreXe3UsY99DyVnq8N5cWmCkzOkucQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9029c5d005ad3d5df230b962cafd09cf9793e69405c5f7b298dbf7f796d55a78"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
@@ -2001,7 +2023,8 @@
         "svg": "svg/logos/mobile-money/kayko.svg",
         "source": "https://play-lh.googleusercontent.com/nkUsQrmm8coZlXCbfkHej7NsZ3aZvg0ubJei7_zk-4LpoYkLBFXybEu14zPasb_vhIElalR_8ydTD7Qh0_t8Lb0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "99dcca41f608b3cf36acf814669df1aced2eb36008071a59b621ae3af3addc9a"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
@@ -2116,7 +2139,8 @@
         "svg": "svg/logos/money-transfer/nala.svg",
         "source": "https://play-lh.googleusercontent.com/gGDXYFLHS0Fly3BKLCfdLUUhkguvUdga_ksyf3qg-CVF8RY5cAg08DJzXsO85SULx-yq2LXzqUpp-HK-z7Bo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d2b1e102a77bbf88850b3abe036a41e7a2483c97024801bc12c22a0dc30ed838"
       },
       "sources": [
         "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf",

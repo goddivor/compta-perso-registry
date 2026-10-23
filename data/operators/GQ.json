@@ -27,7 +27,8 @@
         "svg": "svg/logos/bank/bange.svg",
         "source": "https://play-lh.googleusercontent.com/Se22a8LTe9P6ekkIOQUg-EmchCooEr65Ijezs_I95yenSkvzqvjiekkwB2LAoJqGhDfleOJdcfNHjkbx7kqm=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b6c2ba5e445dd87825cffe340c8b3d9838f5de8023b63c760776705091f19b3b"
       },
       "sources": [
         "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
@@ -53,7 +54,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
@@ -105,7 +107,8 @@
         "svg": "svg/logos/bank/commercial-bank.svg",
         "source": "https://play-lh.googleusercontent.com/z74gptYV6jhhPr_9ITlF7lfq2cjPwO9pf-zSCSeMECDSzqKAKePkx91JhitJBXzNfmikzNI9ee2YFNOSZQTr8g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "03cb4f176fe15fabf998ba6b3940513c7bc945e98d2e6f8e356d0527911ad87b"
       },
       "sources": [
         "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
@@ -129,7 +132,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
@@ -153,7 +157,8 @@
         "svg": "svg/logos/mobile-money/getesa-money.svg",
         "source": "https://getesa.gq/site-assets/images/getesa-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "81e90fa41a674d555eda1bc3072a6180d8fdc7925c0091514344978f9355809a"
       },
       "sources": [
         "https://www.electronicpaymentsinternational.com/news/comviva-getesa-digital-payments-partnership/"
@@ -176,7 +181,8 @@
         "svg": "svg/logos/mobile-money/bgfimoney.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"

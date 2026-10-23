@@ -32,7 +32,8 @@
         "svg": "svg/logos/bank/absa.svg",
         "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5cd8df6a9195374ae64346bee50330b288654e5d04019c06af79c291155d53fb"
       },
       "sources": [
         "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
@@ -57,7 +58,8 @@
         "svg": "svg/logos/bank/mcb.svg",
         "source": "https://mcb.mg/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "f8c7036f7c762ca6bbacd609206045e89a7d041a491064d4e88c799f0970a028"
       },
       "sources": [
         "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
@@ -81,7 +83,8 @@
         "svg": "svg/logos/bank/bank-of-baroda.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89d45e55e2d81aacdbaeb4a202693cc6dffa4e71f8fe2cae6b61aadde4122c1b"
       },
       "sources": [
         "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
@@ -131,7 +134,8 @@
         "svg": "svg/logos/bank/seychelles-commercial-bank.svg",
         "source": "https://www.scb.sc/images/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "76516deaee3f57dcd3276bb44ab50896c8503d23032611151627aa16e14576af"
       },
       "sources": [
         "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=bank%20institution",
@@ -227,7 +231,8 @@
         "svg": "svg/logos/bank/housing-finance.svg",
         "source": "https://play-lh.googleusercontent.com/pHLrQFiwO7QSPYH0yg1olRBr0MnjZq5dKmuhWhbuHVDvZmkCIMbHKwuesLLFRCoEjO15j34yEAJxkY8UefOV6io=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b5fff800246f0ec13940f76de5074a19711150fd3e1eecbef0ec79db3f849b23"
       },
       "sources": [
         "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=NBCI"
@@ -274,7 +279,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP",
@@ -344,7 +350,8 @@
         "svg": "svg/logos/wallet/fusepay.svg",
         "source": "https://cdn.prod.website-files.com/67e4f32d1f3c3944b17241b4/67fcf555a040fcb4564f2202_Fusepay_Logo_Seychelles_Fintech.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "e5daa1ed4e8bd82151f3da68d649d745fec1dcb42e3fff4380b6144383a3d4c5"
       },
       "sources": [
         "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP",

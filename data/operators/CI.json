@@ -36,7 +36,8 @@
         "svg": "svg/logos/bank/afg.svg",
         "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4dc7793aa26d8a417e98e123251d9046da1c2a0123f51e7bce3ebb0621794b71"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -113,7 +114,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -136,7 +138,8 @@
         "svg": "svg/logos/bank/banque-atlantique.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "057657133f39142c74f348b314f075b27fbbafdbaff598af07c906073f3bdc96"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -183,7 +186,8 @@
         "svg": "svg/logos/bank/banque-de-l-union.svg",
         "source": "https://play-lh.googleusercontent.com/helGBPfyigLDsuDvf2esUDfgjH2L9xJMmkmS7LmjX5aVxkeLh5bLwoQ6taKC9bVLSr0fbxBjDfiknFncyFA_=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9377d60596eaaeaaf004cbe9abe350164d0928e054beae7bbeb902d27d9d5fe4"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -228,7 +232,8 @@
         "svg": "svg/logos/bank/banque-nationale-d-investissement.svg",
         "source": "https://play-lh.googleusercontent.com/40tpSHqAx-MKZKtfyl67O_lf_bkzmoeCTTgh5sXcz4KOHHuiXzmFUYj49HvxBfn5T-rkQufh35Xjd0KFQdo4lw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7f04d99222e33312429234ded2ddead2e62e7b8d3504a44eaf3e2af079484815"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -253,7 +258,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -278,7 +284,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -303,7 +310,8 @@
         "svg": "svg/logos/bank/bridge-bank-group.svg",
         "source": "https://play-lh.googleusercontent.com/FC9EncO-u-6xoC-58Ztg_x_4nceSovN9Lc783YQ240dYhjZzTEtRD8ET58iC9mTyaUE6_p8NNvy8f8B6445BxA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8fa74778fc208872d9ebdacd7b2e7e0cf87513664433399379a362189053a08f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -328,7 +336,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -353,7 +362,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -377,7 +387,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -404,7 +415,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -451,7 +463,8 @@
         "svg": "svg/logos/bank/nsia.svg",
         "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7701aaccd32c53b9a420658e22cf3a167507ab5b13d87cfc08a325ed13d78ad8"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -475,7 +488,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -498,7 +512,8 @@
         "svg": "svg/logos/bank/orange.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "9ae6cedea6811f226bb0f108dd1355511edd3940b644c64d0071d32db7b4be8d"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -523,7 +538,8 @@
         "svg": "svg/logos/bank/societe-generale.svg",
         "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "b68478e933c4aacda2f775cf30543698ad601e120ca7fc0c6d8567e75ca58365"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -546,7 +562,8 @@
         "svg": "svg/logos/bank/societe-ivoirienne-de-banque.svg",
         "source": "https://play-lh.googleusercontent.com/y6c1-2g1lgjzd531GqebeYf8Y5R-6XrGL1221VpFd9Grr7YsF6QKmABROufqxb6zoDog67xRj1gDP8LqYMB9Aw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ea7ddea72198199e65c3333d6a735a8d77046f3e3d739f5b66f12a94bcfb0438"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -570,7 +587,8 @@
         "svg": "svg/logos/bank/stanbic-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -593,7 +611,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -619,7 +638,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -641,7 +661,8 @@
         "svg": "svg/logos/bank/versus-bank.svg",
         "source": "https://play-lh.googleusercontent.com/K3qqsoBU0mh8RGbdibIIkMxj4voHIcd74ALT6KXUE9KNegI7zCEjPL6kpsRZ0DPFxoLYZrz2obekLC-zjRe8rw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bd98f8addbe54920b248a0497554208f56df7b10191bf1a0c4c57bd3348ea49c"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -665,7 +686,8 @@
         "svg": "svg/logos/bank/zenith.svg",
         "source": "https://play-lh.googleusercontent.com/RIcMVbshRar85KSNG8-JuIEzLffjIAsjxxVXJ0msQeVDJ7RH_8qxsxGDfsI1rt21N545mKZz27I4FFAhAj7eJMc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f12f74bd49e336a8dd4bbaadd6eaddd3cd6591e6708a1a7b529d90ed4c585a99"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf"
@@ -742,7 +764,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -768,7 +791,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -795,7 +819,8 @@
         "svg": "svg/logos/mobile-money/moov-money.svg",
         "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f013a28dd519ab73a6f4d95f3b47d86c46494e9c4951dce0de92d9f8f8a6dccd"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -820,7 +845,8 @@
         "svg": "svg/logos/mobile-money/pe-ya-pay.svg",
         "source": "https://www.peyapay.ci/logo/peyapay_logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "9e11f122d77ccd01d10f86efc2caac15278262e0263e4dad0e6137718e230a46"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -845,7 +871,8 @@
         "svg": "svg/logos/mobile-money/wave.svg",
         "source": "https://www.wave.com/img/nav-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2f8146b7b32d196e4aba60bf101bbf5d983295742d645f053795111386c365a3"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -867,7 +894,8 @@
         "svg": "svg/logos/mobile-money/celpaid-money.svg",
         "source": "https://play-lh.googleusercontent.com/9zbEho9fWHVqCPXhDYhscNBbROsdOnogAWaDlMZ5rMV94x4wXpOhh_JEtLpnZE0DjrPGYQj5-1fBFnzDMHbqgw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3aa53335d8b554c3cb023821b1570cdc2504f08901aaa0396d14de5dd83d1407"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -890,7 +918,8 @@
         "svg": "svg/logos/mobile-money/sama-money.svg",
         "source": "https://sama.money/_astro/logo_sama_money_sombre.lz7lq_CM_Z1ek07O.webp",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "53ffd16002288ffad374ab465c79a7d4153c644f190120adc6bbf66ef7038633"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -913,7 +942,8 @@
         "svg": "svg/logos/mobile-money/coris-money.svg",
         "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bb472d2eb0a92bb02a536e9ac25ebea63687ff27927f7e14bcc6089160c83393"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -933,7 +963,8 @@
         "svg": "svg/logos/mobile-money/wizall.svg",
         "source": "https://play-lh.googleusercontent.com/hUXTCUlz9v7X4VEVWgQO05rdCPVnbkH588NTTgr3mN12jYt_tQVgMyBCS4kEfzrX1NgPowYzfwx7EFymE-E-lQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3b6cc13bafc6366e278905a9b780c43e6dd246bae5be3b1032a55bb6b903d237"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -977,7 +1008,8 @@
         "svg": "svg/logos/mobile-money/xikka-money.svg",
         "source": "https://play-lh.googleusercontent.com/WzNtHGwsnjTlKOU2Q_KvluqgBEmNPc2_BBHgM5UISMBX_9u7acV6AMpn7Q7JTKzwkGOg54DJEIyIw4-B4ddz=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f524a57cb55e1e87e30c4703298ba46d6d6390788fc44196ea460382ad07d89e"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -1000,7 +1032,8 @@
         "svg": "svg/logos/mobile-money/sara-money.svg",
         "source": "https://play-lh.googleusercontent.com/wBh-qU_emqkJLhyVGW7nUygBnvWrre6gZhFdJLWZnBqx_yzGHV4dIq30Ah1sgV9OAq6M3xaQwxa_SCyE4H-NClc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6f01880d4b42755182d743a98048d74dec344eb762a1c5cd388f87400823fab5"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -1022,7 +1055,8 @@
         "svg": "svg/logos/mobile-money/xpress.svg",
         "source": "https://play-lh.googleusercontent.com/BFyTJJOQi2MtC0o9SvSj-QFRIFz1gd2RG-Lvk2kZjaa5QBctXFsUrjG4SROjcci5rO3sCki8Fqm2H56uRQHW=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fa06de80532a7a6bb93cd225ab7d85816921d49e9b102340d571612ebbebb49b"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -1046,7 +1080,8 @@
         "svg": "svg/logos/mobile-money/b-free.svg",
         "source": "https://play-lh.googleusercontent.com/CaAyqFhxlA-l7PzQAW8WD0WY00ih7vDEIOxXnZzJkec4GLO1WzRt3RQ_DoTMlQrmC18MfLMNeE741S9FKon1Sw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "867931c5b904d96d99fffeb4ede256ddd329376796e789c6afe3342a5d260bce"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -1070,7 +1105,8 @@
         "svg": "svg/logos/mobile-money/tresor-money.svg",
         "source": "https://play-lh.googleusercontent.com/vy4X0IG-E2wPC1CHscO2WOX33ld8yvUghVX3lJuJQ2UrqW_qPFet_p4bR2RwZy5DvLOmXReONp_vQhemFCoNlw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7025552fad4c54f8ea7a3b23ce92b79cb767ae835e5fa2e502f841c97b631009"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -1172,7 +1208,8 @@
         "svg": "svg/logos/wallet/feexpay.svg",
         "source": "https://play-lh.googleusercontent.com/LfrSGKk6eOEIzFUNsGNyiMdcSNx2SL-4cZNVF19bFo7ZFNyGVDz0IO_G6Ji9dmDNDrizWGBfCCF1YQwHxKWbWQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4a97cc35e4a1df8e3a193fc6948bb4d6a1f05b39c7f3a1a2c5bcb827fc4aee2f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -1273,7 +1310,8 @@
         "svg": "svg/logos/wallet/syca.svg",
         "source": "https://play-lh.googleusercontent.com/KflahHBL0ZvBYrfmGoKbK5KkjNBq8S0rf7z2LYCBZGKmNkShdwI1YezOiIJItuf6cAPYXjV--yqUPLqc-sWr9A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3eb52b7ed5da1177afb27362e3942beafd451877924e957829901cb9fa9b616f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -1299,7 +1337,8 @@
         "svg": "svg/logos/wallet/touchpoint-financial-services.svg",
         "source": "https://play-lh.googleusercontent.com/QzUJW-n4_-UFgVrhqpFEPAvN6Ewm-TTDHylLCBhCrILhQD2EwMqwrhivUUgmhH2bUCmXQVmc0gUusDc-j1ZDGg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "23148f469129417e657e81745cc36237fcf9eab7036d1ef1b8ee8d003f57998f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -1325,7 +1364,8 @@
         "svg": "svg/logos/money-transfer/nita.svg",
         "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bef468ce2b4ed933bcd4f540fabb28ffbe8b0a676acac55dfb88a1de7c7b3dd9"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
@@ -1696,7 +1736,8 @@
         "svg": "svg/logos/microfinance/ma2e.svg",
         "source": "https://play-lh.googleusercontent.com/NVPYfsNm6uOtYZc6BSS1p36RqjJNd63SqSt6j9bWNInvSoVOEyYdI4r_MyCKZpOQwvj_jEdRcyQuDfwQcB7vuTc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c43a5496339a294e9f0148921ea419c0896469cf01f3cfac6a82d6cf9d78953d"
       },
       "sources": [
         "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
@@ -1918,7 +1959,8 @@
         "svg": "svg/logos/microfinance/advans.svg",
         "source": "https://www.advanscotedivoire.com/wp-content/uploads/sites/8/2024/04/Logo-Advans-couleurs.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "983d2711948030e34247f29391efeb25354fb58189a5d2dafd424c5d1e2c8758"
       },
       "sources": [
         "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
@@ -1968,7 +2010,8 @@
         "svg": "svg/logos/microfinance/credit-access.svg",
         "source": "https://creditaccess.ci/wp-content/uploads/2023/01/cropped-cropped-Logo_CREDIT-ACCESS.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "172837165293f0bdc0427e831446adaf7bbe9a5d5f9e62bd0545fc489445a37c"
       },
       "sources": [
         "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
@@ -1992,7 +2035,8 @@
         "svg": "svg/logos/microfinance/fidra.svg",
         "source": "https://play-lh.googleusercontent.com/MupkpDm6SU_YC7sZwRDhKQcKfL1ZI18wUh0Qpj3QmZi34yVq0SZIFh2kay9jkEv08kp1cRW1Npj-X7meHEld8vs=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "33841405f05531c9cac76c96a43cda885e2cfbb8f6483c63a8c92abc8e029195"
       },
       "sources": [
         "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
@@ -2069,7 +2113,8 @@
         "svg": "svg/logos/microfinance/cofina.svg",
         "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "497829dffe013e335509bd504940ba2597c292428bb2c53cb8812c81a5a5920c"
       },
       "sources": [
         "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
@@ -2143,7 +2188,8 @@
         "svg": "svg/logos/microfinance/celpaid-finances.svg",
         "source": "https://play-lh.googleusercontent.com/9zbEho9fWHVqCPXhDYhscNBbROsdOnogAWaDlMZ5rMV94x4wXpOhh_JEtLpnZE0DjrPGYQj5-1fBFnzDMHbqgw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3aa53335d8b554c3cb023821b1570cdc2504f08901aaa0396d14de5dd83d1407"
       },
       "sources": [
         "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",
@@ -2432,7 +2478,8 @@
         "svg": "svg/logos/microfinance/djamo.svg",
         "source": "https://play-lh.googleusercontent.com/COFlFnBiED3WHi-J8CRd6ehKOzBjvgKGySJasSaOm1OrMZbsn0NVzk3uL4PpzGo7mF91EBaOvbsqRL9ImD_-7A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a31ea869b7d6f0985130e9ab5d8fa3c703234730e88ddb0f99e9d0fa137587ac"
       },
       "sources": [
         "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf",

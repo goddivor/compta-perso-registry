@@ -33,7 +33,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -55,7 +56,8 @@
         "svg": "svg/logos/bank/african-bank-of-oman.svg",
         "source": "https://play-lh.googleusercontent.com/LPaB8_FbW4jdG8WSObQV9pFUsMCXYYbgPNF5Y2FhIavgosdasjXUOcxiyTYOlb2oSlonI3jdaU3PeBi4ypxfKAg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fa97b622450854ad0b0f2b3f7e29ef2d4a81be88ed850c4b088ba2ca6d34871c"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -77,7 +79,8 @@
         "svg": "svg/logos/bank/bai.svg",
         "source": "https://www.bancobai.ao/media/2684/logo-bai.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "306beec07ee9edd7f852ee895527fef3599367cc422bcde8614d788605f74f5e"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -99,7 +102,8 @@
         "svg": "svg/logos/bank/bca.svg",
         "source": "https://www.bca.co.ao/application/images/bca_logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "4a3a627387fd1404447241dfef0155dd7493e21cce79dbd99b47b796c205f9ab"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -189,7 +193,8 @@
         "svg": "svg/logos/bank/banco-de-credito-do-sul.svg",
         "source": "https://play-lh.googleusercontent.com/YrKKoq2dl6kcKAeCXYJCeNE9TcOVLtqOGOJZSXvttjGCAojcYz46-9Lr6QW_A-jWv_wAOckk-jZQAVVw02LgQg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6fe54e2bef09ef62e3ad93af1e52c1e522494d423869ff0ad89e4a23c09837c2"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -235,7 +240,8 @@
         "svg": "svg/logos/bank/banco-economico.svg",
         "source": "https://www.bancoeconomico.ao/media/1182/logo-particulares-white.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "34c17e802092ab91dda487469387ba43fc43b785018ca26062712b958a6c6f9b"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -257,7 +263,8 @@
         "svg": "svg/logos/bank/bfa.svg",
         "source": "https://play-lh.googleusercontent.com/020Ouy6YKtNvmaQjbMpFo46AhEBPXwRcWgfHtvKfMTCQFkncJrFLgnSWrHUuzbtr5ZxFzqUypQ1MFnDNwUON=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1d528addf58e607065b1bdf237f98ec1bb6a0bb3c6451806a6414c680324bd79"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -279,7 +286,8 @@
         "svg": "svg/logos/bank/banco-bic.svg",
         "source": "https://play-lh.googleusercontent.com/NC1mbHkadfAmmEl48Xw5TrV88uH9ttZw4Lsx_Ez4qGeiMLg7DhL2R2fA8tHLPiwxRs4MMmwetb0WmI2gAka0NQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3c3de1d3f7c5f3482b2b9f202bf258a0160ae67ed0b072d4373e7a10eeda6969"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -301,7 +309,8 @@
         "svg": "svg/logos/bank/bir.svg",
         "source": "https://play-lh.googleusercontent.com/W8cvGoWrG2lJZYAy7hjWjbH2sjIW1IiULuItvkzR5DWaEjEMN7sxEwuWv7mqol6N3UTOKQderrPpRnCnlVkYeg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7dd0782d89ec524706d971f728f952c478d04fa828f7efae794cd3fc1fd3b7df"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -349,7 +358,8 @@
         "svg": "svg/logos/bank/banco-millennium-atlantico.svg",
         "source": "https://www.atlantico.ao/media/h10df34n/0-logo-atlanticosvg.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e6ee81944bfe34859857bca22a6a3a0214da65e45eca1b4d21c22b518837da68"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -396,7 +406,8 @@
         "svg": "svg/logos/bank/bank-of-china.svg",
         "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "75cf30731be24ad9e0e6d44848ee72afc4156e8c0133de77b711b45204869908"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -418,7 +429,8 @@
         "svg": "svg/logos/bank/bpc.svg",
         "source": "https://play-lh.googleusercontent.com/4MyQ_OUWdPlqtYp-EafgM8rtFREg79jM5eiyfhH_mHM-mmW52pn4k4Iwbt7NsiXY7mIsQAG3OZnQqqx1tkMF2Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "74c2cc7e364e4d305de027f0e9be19762277a4099083406967c496a654913b81"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -464,7 +476,8 @@
         "svg": "svg/logos/bank/banco-valor.svg",
         "source": "https://www.bancovalor.ao/images/BVLogo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "9c310f63a59feb485bcd145af2219ce6ee39eadb958bd261e4bbd181b5b60259"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -487,7 +500,8 @@
         "svg": "svg/logos/bank/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -510,7 +524,8 @@
         "svg": "svg/logos/bank/banco-yetu.svg",
         "source": "https://play-lh.googleusercontent.com/aAT4297Ca0LNcby_zezr2quKH8_AYzSjpLcB26FVwIV2iDypbBtUnwc6vLrrI6IzoZhLbQwxnV8Ik0GaRtPed_M=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "98afff46361de8e86596d1bf3c6853a404802b0398e740c2573ee3947f737505"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -532,7 +547,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Angola",
@@ -556,7 +572,8 @@
         "svg": "svg/logos/mobile-money/unitel-servicos-de-pagamentos-moveis.svg",
         "source": "https://play-lh.googleusercontent.com/G1mBqgBE_bygzOyfsI7KuO_YVCB-0w5YS5Ed6nVcdPABX-cFb6BD7jSZttfBNGSQi6NPgV9eB6GjEDLf4ulR5w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0c27bc9f5f57bb13ba21f7c797a7e1c903202afd77dd0a1d7c4ded01a0324d17"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -578,7 +595,8 @@
         "svg": "svg/logos/mobile-money/afrimoney.svg",
         "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "03a453366d186b5a872d2470ad35df1a1a8acb62bdf278a2a2d8eeb28dbb4a0f"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
@@ -601,7 +619,8 @@
         "svg": "svg/logos/mobile-money/any-pay.svg",
         "source": "https://play-lh.googleusercontent.com/lbRX0_1r_rm-AXWXhiF0xZGWvIyZB4sYxtiFFaQ26EYwv7u4c728NbW-BNgNDqi_RkpxBfjqTs9tmecgto3Vm3g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c913e4107a8ddc629bff9e045ff9e9b02189a26d125a7087e001084a62e0b060"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -623,7 +642,8 @@
         "svg": "svg/logos/mobile-money/appy-pay.svg",
         "source": "https://play-lh.googleusercontent.com/11sy3pSb1WZcgKwY48QG4bzMcr5SRsicGgpJiaLdjx1bvw6kXjtRpoWhBV6z-uql9M3srsmgWd3Fe2gMtFs0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ea3ddd8e55fdc77f4e8b9d7741fc98aad0f21d46b43d399ac175993959eb8371"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -683,7 +703,8 @@
         "svg": "svg/logos/mobile-money/kwattel.svg",
         "source": "https://kwattel.com/wp-content/uploads/2024/09/kwattel-logo.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "8681a1fb731f1a6965f0cafd8e99df7702f89e21993e2c722a5582137def14c0"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -705,7 +726,8 @@
         "svg": "svg/logos/mobile-money/linkedpay.svg",
         "source": "https://linkedpay.co.ao/wp-content/uploads/sites/24/2022/12/Logo-Light.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f93d530555256eebb14a2eae90c9e340a9541f3d027879559db9c19b43fa79c8"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -728,7 +750,8 @@
         "svg": "svg/logos/mobile-money/now-now.svg",
         "source": "https://play-lh.googleusercontent.com/jMbWLsERbUWFjG90s1eECOb4iM-SWX4nlCwsW2HgmMQvbbRJLlIJtyh7dLJALLQoQKp82cCDgdBswIQJlA9Jkw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b1893e096364a71cde49d4acaa097ba77cee71542d43b7752ecf4344c8d2458"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -770,7 +793,8 @@
         "svg": "svg/logos/mobile-money/pay4all.svg",
         "source": "https://pay4all.ao/wp-content/webp-express/webp-images/uploads/2024/08/cropped-Logo-Pay4all-150x50.png.webp",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "d7a5f6ad6fe35359c744c2c6f2b54e34acd1d362dc0d1f8811d0182c8415a308"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -793,7 +817,8 @@
         "svg": "svg/logos/mobile-money/so-money.svg",
         "source": "https://play-lh.googleusercontent.com/8-cGajSswExgf_Xwkh7B_Um3_YTGfZsTIcgc_HDSGpuc5exfmLT4uVJ2FfkMar6S3jwCtfbEquIHEFsKg-h-=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f51b08eb1689c8220257e23877eac9dd26b510bdd4ed265453153c2d20ce3d1d"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
@@ -1049,7 +1074,8 @@
         "svg": "svg/logos/microfinance/facilcred.svg",
         "source": "https://play-lh.googleusercontent.com/m_k5nTXCD5eMlU16zeiGYKt_Hz38pnAMDWBEQWh5Q8vA2at-DkFBEBPhxjehpQIRqcjmQ5e5mw6c6GT-eUWG=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7874c84abf987bf5f3ddf53353953716dc855bbc3edccd1a05a402d61ab499f8"
       },
       "sources": [
         "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"

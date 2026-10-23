@@ -16,7 +16,8 @@
         "svg": "svg/logos/investment/binance.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Binance_logo.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "e248e6881db6f3479c978a1c938414745e355ee99164b78dfa02e7a53e03e0f0"
       },
       "sources": [
         "https://www.binance.com/en/terms",
@@ -44,7 +45,8 @@
         "svg": "svg/logos/investment/bybit.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bybit_Logo.svg",
         "method": "wikimedia-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "b5aeb32325eaa5124e76fe41fc0ef6fd154e6e46c44f157d724e16282d85a24e"
       },
       "sources": [
         "https://www.bybit.com/en/terms-service/"
@@ -72,7 +74,8 @@
         "svg": "svg/logos/investment/etoro.svg",
         "source": "https://www.etoro.com/",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "cd1922d037bce72746c395a61a73a1970871c7500ada19bdbaaf3d92a942fb82"
       },
       "sources": [
         "https://www.etoro.com/"
@@ -101,7 +104,8 @@
         "svg": "svg/logos/investment/exness.svg",
         "source": "https://d33vw3iu5hs0zi.cloudfront.net/media/logo_big_new_f7ebab0194.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "b18fe7d5b564acb08e71b7c3db2b1f7bef9d33390d0356218d66320fb7a29fb1"
       },
       "sources": [
         "https://www.exness.com/",
@@ -136,7 +140,8 @@
         "svg": "svg/logos/wallet/google-play.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Google_Play_2022_logo.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "19571783373fe30041090b3a5acaebfb7bcbbcfb3e1c0cbc280850dcb697c585"
       },
       "sources": [
         "https://support.google.com/googleplay/answer/143779?hl=en",
@@ -198,7 +203,8 @@
         "svg": "svg/logos/digital-bank/grey.svg",
         "source": "https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "65a9ae97540e465144d1128fbf49ad8147d554ca0c6e04136aebf135ff03fd2e"
       },
       "sources": [
         "https://grey.co/",
@@ -249,7 +255,8 @@
         "svg": "svg/logos/investment/interactive-brokers.svg",
         "source": "https://www.interactivebrokers.com/images/common/logos/ibkr/interactive-brokers.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "e436921fac8a038e5a6d3b866f136ce6f77e288cdb896b6c2b9f62c13fd25658"
       },
       "sources": [
         "https://www.interactivebrokers.com/en/home.php"
@@ -319,7 +326,8 @@
         "svg": "svg/logos/investment/kucoin.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/KUCOIN.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "c6700b4d8e1219e6a74aa08ef927ef7e196a6eff4b78a232741b6d083ad350ea"
       },
       "sources": [
         "https://www.kucoin.com/legal/terms-of-use"
@@ -348,7 +356,8 @@
         "svg": "svg/logos/money-transfer/lemfi.svg",
         "source": "https://d1c5a9xrl5sbk8.cloudfront.net/images-staging/default/appid-254bf36e-lemfi-wordmark.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "1d1eef63cd0879ada49962f12123739f537279740c524836fd1f2489469400ca"
       },
       "sources": [
         "https://lemfi.com/",
@@ -400,7 +409,8 @@
         "svg": "svg/logos/investment/luno.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Luno_logo.svg",
         "method": "wikimedia-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "8435f0f0519058b081f1a297488d2e926e4eb59e1128c936eb5989865dc50bf2"
       },
       "sources": [
         "https://www.luno.com/",
@@ -434,7 +444,8 @@
         "svg": "svg/logos/money-transfer/moneygram.svg",
         "source": "https://images.ctfassets.net/toryt1tt0roy/3tKKo9I8Lr4qJRwqhdEGcT/29ad15e2d505f5c0a9dfbfb1e0a71fb7/logo-moneygram-black.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "4c38605041d1eb8b6a5287dd5d17db5fc475e039d266f7d4e1c8d6d4e77151d3"
       },
       "sources": [
         "https://www.moneygram.com/mgo/us/en/"
@@ -465,7 +476,8 @@
         "svg": "svg/logos/wallet/neteller.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Neteller_logo_2025.svg",
         "method": "wikimedia-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "1200065f4769c11652e89a18575ca2c221eb6f0a63343e3400848de168d0be79"
       },
       "sources": [
         "https://www.neteller.com/en/support/question/17/",
@@ -518,7 +530,8 @@
         "svg": "svg/logos/investment/okx.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/OKX_logo.svg",
         "method": "wikimedia-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "aa03a7241151dc984e1dcd22d63243f427ddcff58abffb9881e502db2590fb5d"
       },
       "sources": [
         "https://www.okx.com/help/terms-of-service"
@@ -585,7 +598,8 @@
         "svg": "svg/logos/wallet/paypal.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PayPal_2024.svg",
         "method": "wikimedia-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "e89b9e683ed1ca3a7e8f0de60a5e6dbd00f2704cda0a611cd6ec5cb591a3177c"
       },
       "sources": [
         "https://www.paypal.com/us/webapps/mpp/country-worldwide"
@@ -619,7 +633,8 @@
         "svg": "svg/logos/money-transfer/remitly.svg",
         "source": "https://www.remitly.com/us/en",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "9840efcd9767a7e0b0888d715f24c3afe645d5b4beb445ed5910820bf1b2f3a5"
       },
       "sources": [
         "https://www.remitly.com/us/en/money-transfer",
@@ -658,7 +673,8 @@
         "svg": "svg/logos/money-transfer/ria.svg",
         "source": "https://a.storyblok.com/f/287392838753555/48x48/9173c7bae1/rialogo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "28df14b108a5fd5567691ccbcacec7dc450484ca60920116b2b4d155bd4eea4b"
       },
       "sources": [
         "https://www.riamoneytransfer.com/en-us/send-money-to-africa/",
@@ -727,7 +743,8 @@
         "svg": "svg/logos/money-transfer/sendwave.svg",
         "source": "https://images.ctfassets.net/pqe6664kagrv/1dZzZQVGSTsOwmxCDwUNsf/d83e1361659b72c178b094b85ac348ee/Group.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "9b3400a27f8d7e6b71de7be2bcd29b31d054ad44c1d3965bd39bfad29f78a5ce"
       },
       "sources": [
         "https://www.sendwave.com/en",
@@ -787,7 +804,8 @@
         "svg": "svg/logos/wallet/skrill.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Skrill_logo_2025.svg",
         "method": "wikimedia-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "9f658aeb26f9caf9e7d6731ea545ec681006a93c21c4dcec82428863a003a4c6"
       },
       "sources": [
         "https://www.skrill.com/en/support/question/11/which-countries-are-serviced-by-skrill/",
@@ -842,7 +860,8 @@
         "svg": "svg/logos/wallet/stripe.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dde1ace530d0bbcade1ed31d5a07a53db6eb1f69bcafdf77755dc44ec9ebe3e3"
       },
       "sources": [
         "https://stripe.com/global"
@@ -945,7 +964,8 @@
         "svg": "svg/logos/money-transfer/western-union.svg",
         "source": "https://www.westernunion.com/content/dam/wu/logo/logo.wu.big.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "c282b1beb76ace496f3ae306131ea5be606395dfadf2204adb13b6cd7ff924bb"
       },
       "sources": [
         "https://www.westernunion.com/us/en/web/global-country-selection",
@@ -978,7 +998,8 @@
         "svg": "svg/logos/wallet/wise.svg",
         "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Wise_Logo_512x124.svg",
         "method": "wikimedia-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "6b2b1d0e210a6b3c2b83b3cfe0f5599eccfd2cb203427335e716cf3f7a72f6e1"
       },
       "sources": [
         "https://wise.com/help/articles/2978049/which-countries-can-i-use-wise-in"
@@ -1018,7 +1039,8 @@
         "svg": "svg/logos/money-transfer/worldremit.svg",
         "source": "https://images.ctfassets.net/sb7j5o4oxtgv/1wKGCpE0nb9w4EVCsvIO9f/90c966231d56cc1be03c5d4e05d206e9/logo__1_.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "e5abdb71f45fa4cbf531e5583edf3b5425c759752ed766cc0c8238776c5df260"
       },
       "sources": [
         "https://www.worldremit.com/en-us",

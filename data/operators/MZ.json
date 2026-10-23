@@ -35,7 +35,8 @@
         "svg": "svg/logos/bank/millennium-bim.svg",
         "source": "https://www.millenniumbim.co.mz/media/j1hg5lay/logotipo-selo-30-anos-topo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "9dffd125a3eff09d5c19f47ee671a665cf5fa8d8f4ef485b656e36516960c218"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -61,7 +62,8 @@
         "svg": "svg/logos/bank/absa.svg",
         "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5cd8df6a9195374ae64346bee50330b288654e5d04019c06af79c291155d53fb"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -86,7 +88,8 @@
         "svg": "svg/logos/bank/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -134,7 +137,8 @@
         "svg": "svg/logos/bank/first-capital-bank.svg",
         "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "ce60cfc24d82605f163164dd91263f53efb996d346a2837cae561e21eacb6474"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -161,7 +165,8 @@
         "svg": "svg/logos/bank/vista.svg",
         "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "bc4ca0fa9c8009754b018f18cabe9476a5720abd3ef4609b7b9b745a0788c387"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -186,7 +191,8 @@
         "svg": "svg/logos/bank/fnb.svg",
         "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "5d761abad68794eda0e3bc16d2ef63bd84662247b2ad38da7aa1c2a763c11b2f"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -210,7 +216,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -234,7 +241,8 @@
         "svg": "svg/logos/bank/moza-banco.svg",
         "source": "https://play-lh.googleusercontent.com/uOdsxPaRo2xLllfVdDY5OUb20dPJbJEcD3rbBAGOFjGaMvjuDCxGx5I81xQ6eyCc2w3bak8jRPTqHeUYhN-BRA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "138cc11817d8482e55ef65e6fe9f017bca5bfdcee0725cebeca3e6a9434c7ab6"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -259,7 +267,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -284,7 +293,8 @@
         "svg": "svg/logos/bank/nedbank.svg",
         "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "131fb7682f7db40c5cf35b9bc0c6689a2f98f1c7f669c436b08ae1355b1616cd"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -307,7 +317,8 @@
         "svg": "svg/logos/bank/banco-nacional-de-investimento.svg",
         "source": "https://www.bni.co.mz/content-files/uploads/2020/03/logo_300.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "292b808e558e76152f6930a17fa372ec920b01950476e806c66bdec8a1065dad"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -331,7 +342,8 @@
         "svg": "svg/logos/bank/banco-big.svg",
         "source": "https://play-lh.googleusercontent.com/F2Q5nFY0ajb3Nrm88yNIHqYTUQJ1NtxCDDZGFNY4mzwwZrl3f7MOyimcDJ3v_Q63zSsbrVDBCxVLWulOF264=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3aa430c0821dd479ddac0d12e450aa8d0fb8a4beef5b79074cdea79eca9a7d88"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -380,7 +392,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -403,7 +416,8 @@
         "svg": "svg/logos/microfinance/ac-microbanco.svg",
         "source": "https://play-lh.googleusercontent.com/nsOCGQII-6iYHF_IOcbOoI9a_cdYYak6K0rbGjJBltCq85IYcV3Ieww2TcUb57YU_4duGjv33h_4fTFYLGJF=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f21149afca365e5731c593363d66dc107369bcc78575f8d2c9c52a335b27fab6"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -450,7 +464,8 @@
         "svg": "svg/logos/microfinance/socremo-microbanco.svg",
         "source": "https://play-lh.googleusercontent.com/RpswMbFWKdzJoHHi380cytG045T66f7KvP7U5yzoMYnRzJ7TtlfuAb9hfcVTvvfkb3vr-RsxLrCx8rxt1LuZ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fc42d1693cb23daa546c8190355628563a653c57c76e1cc8b40b23abbd4ebcbc"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -522,7 +537,8 @@
         "svg": "svg/logos/microfinance/caixa-financeira-de-caia.svg",
         "source": "https://play-lh.googleusercontent.com/W8OyF1WVvpUwyHdzfBtGXM0j3g_O7qTVlsuYts3mMwU7yrSHa-RzZA4P_OcjK3M5BKLEhNiRLC0uaXqeXelZRg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "79c5c3435631a632169c2814f1231ac6159bb1609c90a1a42c4ce12f8803f8ac"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -596,7 +612,8 @@
         "svg": "svg/logos/microfinance/confianca-microbanco.svg",
         "source": "https://play-lh.googleusercontent.com/9CsIlPxPibhFuzr8tFYIIcyTmFQPs27sTsTBqXgSXCvEIJbdfMyJMUPAuCSS_WN4ZD8VsctaGQORO7cdtZgfUg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "134b5c2081949c6362dc2bfcb2766a76b135e8cb1afb5320c856981c6f21976e"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -620,7 +637,8 @@
         "svg": "svg/logos/microfinance/mybucks-bank.svg",
         "source": "https://mybucks.co.mz/wp-content/uploads/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "3be5e0bda97fdeb3f7055d5695b784c453cadd5185cea9c170a137f56364ee4c"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -886,7 +904,8 @@
         "svg": "svg/logos/mobile-money/mkesh.svg",
         "source": "https://play-lh.googleusercontent.com/WF4dooI9tV1mts-g5PYVjd44JA6HW9r8dMVtCDYp-_UbPYqir6pv4pMXO1WaUT_1_xBW9USqxbfLGRlZlxzUkmI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1af34d96993bb2dfa77715c320d4a6a38b1e3fca81bc26b0b7faed03f11de45e"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -913,7 +932,8 @@
         "svg": "svg/logos/mobile-money/m-pesa.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "5924c0131bb648f629d48bdc9af4d65481a972389ef113eb40b2f05d40e352ee"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
@@ -939,7 +959,8 @@
         "svg": "svg/logos/mobile-money/e-mola.svg",
         "source": "https://play-lh.googleusercontent.com/Zs-xwLqYde2cHA17w_MdRurMHoGu4gWv3jBlJCLBMm9EhnwXdw4GZrzjo-aNbLtVceVDKLzNq4pHS3v3EGWLtbg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0e0d6f4d47fd6f6f9589088e14eb3fefd15048bb1293e61a5872780f5d48049c"
       },
       "sources": [
         "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
