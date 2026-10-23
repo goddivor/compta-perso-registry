@@ -1,0 +1,1073 @@
+{
+  "verifiedAt": "2026-10-23",
+  "operators": [
+    {
+      "id": "intl-binance",
+      "name": "Binance",
+      "aliases": [
+        "Binance.com"
+      ],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.binance.com",
+      "logo": {
+        "svg": "svg/logos/investment/binance.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Binance_logo.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.binance.com/en/terms",
+        "https://bin.bnbstatic.com/static/cms/cg08ou2ak0tn7mcplvfg/file/bf4879710c904b991848972ec4818ba2cf9e4ce314c09adae84fa2750d3477f7.pdf"
+      ],
+      "availability": {
+        "mode": "all",
+        "countries": [],
+        "sources": [
+          "https://www.binance.com/en/legal/list-of-prohibited-countries",
+          "https://bin.bnbstatic.com/static/cms/cg08ou2ak0tn7mcplvfg/file/2dead3dd5d9bccb32694e2f0fe5c7f2c6b583e7a6f851296edef7088340e6df5.pdf"
+        ]
+      }
+    },
+    {
+      "id": "intl-bybit",
+      "name": "Bybit",
+      "aliases": [],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.bybit.com",
+      "logo": {
+        "svg": "svg/logos/investment/bybit.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bybit_Logo.svg",
+        "method": "wikimedia-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.bybit.com/en/terms-service/"
+      ],
+      "availability": {
+        "mode": "except",
+        "countries": [
+          "SD"
+        ],
+        "sources": [
+          "https://www.bybit.com/en/help-center/article/Service-Restricted-Countries"
+        ]
+      }
+    },
+    {
+      "id": "intl-etoro",
+      "name": "eToro",
+      "aliases": [],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.etoro.com",
+      "logo": {
+        "svg": "svg/logos/investment/etoro.svg",
+        "source": "https://www.etoro.com/",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.etoro.com/"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "SC",
+          "ZA"
+        ],
+        "sources": [
+          "https://help.etoro.com/s/article/is-etoro-blocked-in-my-country"
+        ]
+      }
+    },
+    {
+      "id": "intl-exness",
+      "name": "Exness",
+      "aliases": [],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.exness.com",
+      "logo": {
+        "svg": "svg/logos/investment/exness.svg",
+        "source": "https://d33vw3iu5hs0zi.cloudfront.net/media/logo_big_new_f7ebab0194.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.exness.com/",
+        "https://www.exness.com/regulation/"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "KE",
+          "ZA"
+        ],
+        "sources": [
+          "https://www.exness.com/regulation/",
+          "https://www.exness.com/"
+        ]
+      }
+    },
+    {
+      "id": "intl-google-play",
+      "name": "Google Play",
+      "aliases": [
+        "Google Play balance",
+        "Google Play gift card",
+        "Play Store"
+      ],
+      "type": "wallet",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://play.google.com",
+      "logo": {
+        "svg": "svg/logos/wallet/google-play.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Google_Play_2022_logo.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://support.google.com/googleplay/answer/143779?hl=en",
+        "https://support.google.com/googleplay/answer/3422734?hl=en"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "AO",
+          "BF",
+          "BJ",
+          "BW",
+          "CI",
+          "CM",
+          "CV",
+          "DZ",
+          "EG",
+          "GA",
+          "GH",
+          "GW",
+          "KE",
+          "MA",
+          "ML",
+          "MU",
+          "MZ",
+          "NA",
+          "NE",
+          "NG",
+          "RW",
+          "SN",
+          "TG",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM",
+          "ZW"
+        ],
+        "sources": [
+          "https://support.google.com/googleplay/answer/143779?hl=en",
+          "https://support.google.com/googleplay/answer/3422734?hl=en"
+        ]
+      }
+    },
+    {
+      "id": "intl-grey",
+      "name": "Grey",
+      "aliases": [
+        "Grey Finance",
+        "Grey.co",
+        "Aboki Africa"
+      ],
+      "type": "digital_bank",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://grey.co",
+      "logo": {
+        "svg": "svg/logos/digital-bank/grey.svg",
+        "source": "https://cdn.prod.website-files.com/6360022338a81bd6fdbb1145/6563c15e45db91a91be06020_Grey%20Logo%20Lockup%20White%201.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://grey.co/",
+        "https://support.grey.co/en/articles/9724774-why-can-t-i-create-a-grey-account"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "AO",
+          "BJ",
+          "CI",
+          "CM",
+          "DZ",
+          "EG",
+          "ET",
+          "GH",
+          "KE",
+          "MA",
+          "NA",
+          "NG",
+          "RW",
+          "SN",
+          "TG",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM"
+        ],
+        "sources": [
+          "https://support.grey.co/en/articles/9724774-why-can-t-i-create-a-grey-account",
+          "https://support.grey.co/en/articles/6383103-non-supported-jurisdictions-and-countries"
+        ]
+      }
+    },
+    {
+      "id": "intl-interactive-brokers",
+      "name": "Interactive Brokers",
+      "aliases": [
+        "IBKR",
+        "IB"
+      ],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.interactivebrokers.com",
+      "logo": {
+        "svg": "svg/logos/investment/interactive-brokers.svg",
+        "source": "https://www.interactivebrokers.com/images/common/logos/ibkr/interactive-brokers.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.interactivebrokers.com/en/home.php"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "AO",
+          "BF",
+          "BJ",
+          "BW",
+          "CI",
+          "CM",
+          "CV",
+          "DJ",
+          "DZ",
+          "EG",
+          "ER",
+          "ET",
+          "GA",
+          "GH",
+          "GM",
+          "GN",
+          "GQ",
+          "GW",
+          "KE",
+          "KM",
+          "LR",
+          "LS",
+          "MA",
+          "MG",
+          "ML",
+          "MR",
+          "MU",
+          "MW",
+          "MZ",
+          "NA",
+          "NE",
+          "RW",
+          "SC",
+          "SN",
+          "ST",
+          "SZ",
+          "TD",
+          "TG",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM"
+        ],
+        "sources": [
+          "https://www.interactivebrokers.com/en/index.php?f=7021&nhf=T"
+        ]
+      }
+    },
+    {
+      "id": "intl-kucoin",
+      "name": "KuCoin",
+      "aliases": [],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.kucoin.com",
+      "logo": {
+        "svg": "svg/logos/investment/kucoin.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/KUCOIN.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.kucoin.com/legal/terms-of-use"
+      ],
+      "availability": {
+        "mode": "all",
+        "countries": [],
+        "sources": [
+          "https://www.kucoin.com/legal/terms-of-use"
+        ]
+      }
+    },
+    {
+      "id": "intl-lemfi",
+      "name": "LemFi",
+      "aliases": [
+        "Lemonade Finance",
+        "Lemfi"
+      ],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://lemfi.com",
+      "logo": {
+        "svg": "svg/logos/money-transfer/lemfi.svg",
+        "source": "https://d1c5a9xrl5sbk8.cloudfront.net/images-staging/default/appid-254bf36e-lemfi-wordmark.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://lemfi.com/",
+        "https://support.lemfi.com/hc/en-us/articles/4417242333329-Where-can-I-send-money"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "BF",
+          "BJ",
+          "CG",
+          "CI",
+          "CM",
+          "EG",
+          "ET",
+          "GA",
+          "GH",
+          "KE",
+          "LR",
+          "MA",
+          "ML",
+          "NG",
+          "RW",
+          "SN",
+          "TG",
+          "TN",
+          "TZ",
+          "UG",
+          "ZM"
+        ],
+        "sources": [
+          "https://support.lemfi.com/hc/en-us/articles/4417242333329-Where-can-I-send-money",
+          "https://support.lemfi.com/hc/en-us/articles/41712142742673-Where-can-I-send-money-from-my-Global-Account"
+        ]
+      }
+    },
+    {
+      "id": "intl-luno",
+      "name": "Luno",
+      "aliases": [
+        "BitX"
+      ],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.luno.com",
+      "logo": {
+        "svg": "svg/logos/investment/luno.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Luno_logo.svg",
+        "method": "wikimedia-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.luno.com/",
+        "https://guide.luno.com/hc/en-gb/articles/11035643143325-What-are-Luno-s-fees-and-transaction-limits"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "KE",
+          "NG",
+          "ZA"
+        ],
+        "sources": [
+          "https://guide.luno.com/hc/en-gb/articles/11035628803101-Which-countries-can-I-use-my-Luno-account-in"
+        ]
+      }
+    },
+    {
+      "id": "intl-moneygram",
+      "name": "MoneyGram",
+      "aliases": [
+        "MoneyGram International",
+        "MGI"
+      ],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.moneygram.com",
+      "logo": {
+        "svg": "svg/logos/money-transfer/moneygram.svg",
+        "source": "https://images.ctfassets.net/toryt1tt0roy/3tKKo9I8Lr4qJRwqhdEGcT/29ad15e2d505f5c0a9dfbfb1e0a71fb7/logo-moneygram-black.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.moneygram.com/mgo/us/en/"
+      ],
+      "availability": {
+        "mode": "except",
+        "countries": [
+          "DZ",
+          "ER"
+        ],
+        "sources": [
+          "https://www.moneygram.com/mgo/us/en/"
+        ]
+      }
+    },
+    {
+      "id": "intl-neteller",
+      "name": "Neteller",
+      "aliases": [
+        "NETELLER"
+      ],
+      "type": "wallet",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.neteller.com",
+      "logo": {
+        "svg": "svg/logos/wallet/neteller.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Neteller_logo_2025.svg",
+        "method": "wikimedia-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.neteller.com/en/support/question/17/",
+        "https://www.neteller.com/en/policies-terms/terms-of-use/"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "BW",
+          "CM",
+          "DZ",
+          "EG",
+          "ET",
+          "GH",
+          "KE",
+          "LS",
+          "MA",
+          "MG",
+          "MU",
+          "MW",
+          "MZ",
+          "NG",
+          "SN",
+          "SZ",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM"
+        ],
+        "sources": [
+          "https://www.neteller.com/en/support/question/17/",
+          "https://www.neteller.com/en/policies-terms/terms-of-use/",
+          "https://docs.nuvei.com/documentation/global-guides/neteller"
+        ]
+      }
+    },
+    {
+      "id": "intl-okx",
+      "name": "OKX",
+      "aliases": [
+        "OKEx"
+      ],
+      "type": "investment",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.okx.com",
+      "logo": {
+        "svg": "svg/logos/investment/okx.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/OKX_logo.svg",
+        "method": "wikimedia-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.okx.com/help/terms-of-service"
+      ],
+      "availability": {
+        "mode": "all",
+        "countries": [],
+        "sources": [
+          "https://www.okx.com/help/risk-compliance-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "intl-payoneer",
+      "name": "Payoneer",
+      "aliases": [],
+      "type": "wallet",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.payoneer.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.payoneer.com/pricing/",
+        "https://www.payoneer.com/legal/prohibited-transaction-list/"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "KE",
+          "MA",
+          "NG",
+          "SN",
+          "TG",
+          "ZA"
+        ],
+        "sources": [
+          "https://www.payoneer.com/pricing/",
+          "https://kolonell.com/en/blog/payoneer-senegal-freelance-account-opening-fcfa-withdrawal-2026",
+          "https://community.shopify.com/t/payoneer-checkout-supported-but-not-showing-in-admin-payments-settings-togo/195450",
+          "https://www.worldfirst.com/af/blog/business-banking-insights/paypal-alternatives-nigeria-morocco/",
+          "https://medium.com/@stan_khan/how-to-use-payoneer-to-get-paid-if-you-are-an-amazon-affiliate-4c8d9133d6af"
+        ]
+      }
+    },
+    {
+      "id": "intl-paypal",
+      "name": "PayPal",
+      "aliases": [
+        "Paypal",
+        "PayPal wallet"
+      ],
+      "type": "wallet",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.paypal.com",
+      "logo": {
+        "svg": "svg/logos/wallet/paypal.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PayPal_2024.svg",
+        "method": "wikimedia-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.paypal.com/us/webapps/mpp/country-worldwide"
+      ],
+      "availability": {
+        "mode": "except",
+        "countries": [
+          "CF",
+          "GH",
+          "GQ",
+          "LR",
+          "LY",
+          "SD",
+          "SS"
+        ],
+        "sources": [
+          "https://www.paypal.com/us/webapps/mpp/country-worldwide"
+        ]
+      }
+    },
+    {
+      "id": "intl-remitly",
+      "name": "Remitly",
+      "aliases": [],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.remitly.com",
+      "logo": {
+        "svg": "svg/logos/money-transfer/remitly.svg",
+        "source": "https://www.remitly.com/us/en",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.remitly.com/us/en/money-transfer",
+        "https://www.remitly.com/us/en/landing/send-money-to-africa"
+      ],
+      "availability": {
+        "mode": "except",
+        "countries": [
+          "CF",
+          "LY",
+          "SD",
+          "SS",
+          "ST",
+          "TD"
+        ],
+        "sources": [
+          "https://www.remitly.com/us/en/money-transfer",
+          "https://www.remitly.com/us/en/landing/send-money-to-africa"
+        ]
+      }
+    },
+    {
+      "id": "intl-ria",
+      "name": "Ria",
+      "aliases": [
+        "Ria Money Transfer",
+        "Ria Financial",
+        "Euronet Ria"
+      ],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.riamoneytransfer.com",
+      "logo": {
+        "svg": "svg/logos/money-transfer/ria.svg",
+        "source": "https://a.storyblok.com/f/287392838753555/48x48/9173c7bae1/rialogo.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.riamoneytransfer.com/en-us/send-money-to-africa/",
+        "https://www.riamoneytransfer.com/en-gb/send-money-to-africa/"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "BF",
+          "BJ",
+          "CG",
+          "CI",
+          "CM",
+          "DZ",
+          "EG",
+          "ER",
+          "ET",
+          "GA",
+          "GH",
+          "GM",
+          "GN",
+          "GW",
+          "KE",
+          "KM",
+          "LR",
+          "LS",
+          "MA",
+          "MG",
+          "MR",
+          "MW",
+          "MZ",
+          "NA",
+          "NE",
+          "NG",
+          "SL",
+          "SN",
+          "SZ",
+          "TG",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM",
+          "ZW"
+        ],
+        "sources": [
+          "https://www.riamoneytransfer.com/en-us/send-money-to-africa/",
+          "https://www.riamoneytransfer.com/en-gb/send-money-to-africa/"
+        ]
+      }
+    },
+    {
+      "id": "intl-sendwave",
+      "name": "Sendwave",
+      "aliases": [
+        "Send Wave",
+        "WorldRemit Sendwave",
+        "Zepz"
+      ],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.sendwave.com",
+      "logo": {
+        "svg": "svg/logos/money-transfer/sendwave.svg",
+        "source": "https://images.ctfassets.net/pqe6664kagrv/1dZzZQVGSTsOwmxCDwUNsf/d83e1361659b72c178b094b85ac348ee/Group.svg",
+        "method": "official-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.sendwave.com/en",
+        "https://www.sendwave.com/en/countries"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "BF",
+          "BJ",
+          "CD",
+          "CG",
+          "CI",
+          "CM",
+          "EG",
+          "GA",
+          "GH",
+          "GM",
+          "GN",
+          "KE",
+          "KM",
+          "LR",
+          "MA",
+          "MG",
+          "ML",
+          "MR",
+          "MW",
+          "MZ",
+          "NG",
+          "RW",
+          "SN",
+          "TG",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM",
+          "ZW"
+        ],
+        "sources": [
+          "https://www.sendwave.com/en/countries"
+        ]
+      }
+    },
+    {
+      "id": "intl-skrill",
+      "name": "Skrill",
+      "aliases": [
+        "Moneybookers"
+      ],
+      "type": "wallet",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.skrill.com",
+      "logo": {
+        "svg": "svg/logos/wallet/skrill.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Skrill_logo_2025.svg",
+        "method": "wikimedia-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://www.skrill.com/en/support/question/11/which-countries-are-serviced-by-skrill/",
+        "https://www.skrill.com/en/footer/terms-conditions/skrillaccounttermsofuse/"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "BW",
+          "CM",
+          "DZ",
+          "EG",
+          "ET",
+          "GH",
+          "KE",
+          "LS",
+          "MA",
+          "MG",
+          "MU",
+          "MW",
+          "MZ",
+          "NG",
+          "SN",
+          "SZ",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM"
+        ],
+        "sources": [
+          "https://www.skrill.com/en/support/question/11/which-countries-are-serviced-by-skrill/",
+          "https://ewallet-comparison.com/skrill-not-serviced-countries-list/",
+          "https://wikiwallet.com/en/wikibrain/in-which-countries-is-skrill-restricted-69.html",
+          "https://docs.nuvei.com/documentation/global-guides/skrill"
+        ]
+      }
+    },
+    {
+      "id": "intl-stripe",
+      "name": "Stripe",
+      "aliases": [
+        "Paystack"
+      ],
+      "type": "wallet",
+      "consumer": false,
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://stripe.com",
+      "logo": {
+        "svg": "svg/logos/wallet/stripe.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
+        "method": "wikimedia-svg",
+        "background": null
+      },
+      "sources": [
+        "https://stripe.com/global"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "CI",
+          "GH",
+          "KE",
+          "NG",
+          "ZA"
+        ],
+        "sources": [
+          "https://stripe.com/global"
+        ]
+      }
+    },
+    {
+      "id": "intl-taptap-send",
+      "name": "Taptap Send",
+      "aliases": [
+        "TapTap Send",
+        "Taptap",
+        "Tap Tap Send"
+      ],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.taptapsend.com",
+      "logo": {
+        "svg": null,
+        "source": null,
+        "method": null,
+        "background": null
+      },
+      "sources": [
+        "https://www.taptapsend.com/"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "BF",
+          "BJ",
+          "BW",
+          "CD",
+          "CF",
+          "CG",
+          "CI",
+          "CM",
+          "EG",
+          "ET",
+          "GA",
+          "GH",
+          "GM",
+          "GN",
+          "GQ",
+          "GW",
+          "KE",
+          "KM",
+          "LR",
+          "MA",
+          "MG",
+          "ML",
+          "MR",
+          "MW",
+          "MZ",
+          "NG",
+          "RW",
+          "SL",
+          "SN",
+          "TD",
+          "TG",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM",
+          "ZW"
+        ],
+        "sources": [
+          "https://www.taptapsend.com/"
+        ]
+      }
+    },
+    {
+      "id": "intl-western-union",
+      "name": "Western Union",
+      "aliases": [
+        "WU",
+        "Western Union Money Transfer"
+      ],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.westernunion.com",
+      "logo": {
+        "svg": "svg/logos/money-transfer/western-union.svg",
+        "source": "https://www.westernunion.com/content/dam/wu/logo/logo.wu.big.svg",
+        "method": "official-svg",
+        "background": "dark"
+      },
+      "sources": [
+        "https://www.westernunion.com/us/en/web/global-country-selection",
+        "https://www.westernunion.com/ly/en/home.html"
+      ],
+      "availability": {
+        "mode": "except",
+        "countries": [
+          "SZ"
+        ],
+        "sources": [
+          "https://www.westernunion.com/us/en/web/global-country-selection",
+          "https://www.westernunion.com/ly/en/home.html"
+        ]
+      }
+    },
+    {
+      "id": "intl-wise",
+      "name": "Wise",
+      "aliases": [
+        "TransferWise",
+        "Wise account"
+      ],
+      "type": "wallet",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://wise.com",
+      "logo": {
+        "svg": "svg/logos/wallet/wise.svg",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Wise_Logo_512x124.svg",
+        "method": "wikimedia-svg",
+        "background": "light"
+      },
+      "sources": [
+        "https://wise.com/help/articles/2978049/which-countries-can-i-use-wise-in"
+      ],
+      "availability": {
+        "mode": "except",
+        "countries": [
+          "BI",
+          "CD",
+          "CF",
+          "CG",
+          "ER",
+          "LY",
+          "SD",
+          "SO",
+          "SS",
+          "TD"
+        ],
+        "sources": [
+          "https://wise.com/help/articles/2978049/which-countries-can-i-use-wise-in"
+        ]
+      }
+    },
+    {
+      "id": "intl-worldremit",
+      "name": "WorldRemit",
+      "aliases": [
+        "World Remit",
+        "Zepz"
+      ],
+      "type": "money_transfer",
+      "group": null,
+      "status": "active",
+      "successor": null,
+      "website": "https://www.worldremit.com",
+      "logo": {
+        "svg": "svg/logos/money-transfer/worldremit.svg",
+        "source": "https://images.ctfassets.net/sb7j5o4oxtgv/1wKGCpE0nb9w4EVCsvIO9f/90c966231d56cc1be03c5d4e05d206e9/logo__1_.svg",
+        "method": "official-svg",
+        "background": null
+      },
+      "sources": [
+        "https://www.worldremit.com/en-us",
+        "https://www.worldremit.com/en-gb"
+      ],
+      "availability": {
+        "mode": "only",
+        "countries": [
+          "BI",
+          "BJ",
+          "BW",
+          "CD",
+          "CF",
+          "CG",
+          "CI",
+          "CM",
+          "CV",
+          "EG",
+          "ET",
+          "GH",
+          "GM",
+          "GN",
+          "GW",
+          "KE",
+          "LR",
+          "MA",
+          "MG",
+          "ML",
+          "MW",
+          "MZ",
+          "NE",
+          "NG",
+          "RW",
+          "SL",
+          "SN",
+          "SO",
+          "SS",
+          "TN",
+          "TZ",
+          "UG",
+          "ZA",
+          "ZM",
+          "ZW"
+        ],
+        "sources": [
+          "https://www.worldremit.com/en-us",
+          "https://www.worldremit.com/en-gb"
+        ]
+      }
+    }
+  ]
+}

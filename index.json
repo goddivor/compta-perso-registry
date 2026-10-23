@@ -13,14 +13,14 @@
     "investment": 3
   },
   "international": {
-    "total": 0,
+    "total": 24,
     "bank": 0,
     "microfinance": 0,
     "mobile_money": 0,
-    "digital_bank": 0,
-    "wallet": 0,
-    "money_transfer": 0,
-    "investment": 0
+    "digital_bank": 1,
+    "wallet": 7,
+    "money_transfer": 8,
+    "investment": 8
   },
-  "logos": 1293
+  "logos": 1315
 }
