@@ -1,0 +1,86 @@
+name: Publish
+
+# On every merge to main that changes data or SVG: validate, tag the next version and attach the
+# manifest (index.json) to a GitHub release, so the app finds it at
+# https://github.com/goddivor/compta-perso-registry/releases/latest/download/index.json
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'svg/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: publish
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+      SHA: ${{ github.sha }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Check the contribution rules
+        run: node .github/scripts/validate.mjs
+
+      - name: Pick the version
+        id: version
+        run: |
+          set -euo pipefail
+          # A re-run of the same commit reuses its tag instead of bumping again.
+          existing=$(git tag --points-at "$SHA" --list 'v*' | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' | sort -V | tail -n 1 || true)
+          if [ -n "$existing" ]; then
+            echo "tag=$existing" >> "$GITHUB_OUTPUT"
+            echo "Commit already tagged $existing"
+            exit 0
+          fi
+          latest=$(git tag --list 'v*' | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' | sort -V | tail -n 1 || true)
+          latest=${latest:-v0.0.0}
+          # The pull request merged as this commit decides the bump: label "major" or "minor", else patch.
+          labels=$(gh api "repos/$REPO/commits/$SHA/pulls" \
+            --jq "(map(select(.merge_commit_sha == \"$SHA\")) + .)[0].labels[]?.name" || true)
+          bump=patch
+          if grep -qx major <<<"$labels"; then bump=major
+          elif grep -qx minor <<<"$labels"; then bump=minor; fi
+          IFS=. read -r major minor patch <<<"${latest#v}"
+          case $bump in
+            major) next="v$((major + 1)).0.0" ;;
+            minor) next="v$major.$((minor + 1)).0" ;;
+            patch) next="v$major.$minor.$((patch + 1))" ;;
+          esac
+          echo "tag=$next" >> "$GITHUB_OUTPUT"
+          echo "Latest $latest, bump $bump, next $next"
+
+      - name: Build the manifest
+        run: node .github/scripts/manifest.mjs "${{ steps.version.outputs.tag }}" "$SHA" > "$RUNNER_TEMP/index.json"
+
+      - name: Create the release
+        env:
+          TAG: ${{ steps.version.outputs.tag }}
+        run: |
+          set -euo pipefail
+          if gh release view "$TAG" --repo "$REPO" > /dev/null 2>&1; then
+            gh release upload "$TAG" "$RUNNER_TEMP/index.json" --clobber --repo "$REPO"
+          else
+            gh release create "$TAG" "$RUNNER_TEMP/index.json" \
+              --repo "$REPO" --target "$SHA" --title "$TAG" --generate-notes --latest
+          fi
