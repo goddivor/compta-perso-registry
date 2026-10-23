@@ -157,7 +157,7 @@
       "symbol": "CVE",
       "narrowSymbol": null,
       "localSymbols": {
-        "CV": "​"
+        "CV": "$00"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -223,12 +223,12 @@
       "symbol": "DZD",
       "narrowSymbol": null,
       "localSymbols": {
-        "DZ": "د.ج.‏"
+        "DZ": "DA"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "DZD",
+        "text": "DA",
         "svg": "svg/currencies/DZD.svg",
         "font": "Poppins Bold"
       },
@@ -256,7 +256,7 @@
       "symbol": "EGP",
       "narrowSymbol": "E£",
       "localSymbols": {
-        "EG": "ج.م.‏"
+        "EG": "EGP"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -487,7 +487,7 @@
       "symbol": "KMF",
       "narrowSymbol": "CF",
       "localSymbols": {
-        "KM": "CF"
+        "KM": "KMF"
       },
       "decimals": 0,
       "cashDecimals": null,
@@ -586,7 +586,7 @@
       "symbol": "LYD",
       "narrowSymbol": null,
       "localSymbols": {
-        "LY": "د.ل.‏"
+        "LY": "LYD"
       },
       "decimals": 3,
       "cashDecimals": null,
@@ -619,12 +619,12 @@
       "symbol": "MAD",
       "narrowSymbol": null,
       "localSymbols": {
-        "MA": "د.م.‏"
+        "MA": "DH"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "MAD",
+        "text": "DH",
         "svg": "svg/currencies/MAD.svg",
         "font": "Poppins Bold"
       },
@@ -916,12 +916,12 @@
       "symbol": "SCR",
       "narrowSymbol": null,
       "localSymbols": {
-        "SC": "SR"
+        "SC": "SCR"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "SR",
+        "text": "SCR",
         "svg": "svg/currencies/SCR.svg",
         "font": "Poppins Bold"
       },
@@ -949,7 +949,7 @@
       "symbol": "SDG",
       "narrowSymbol": null,
       "localSymbols": {
-        "SD": "ج.س."
+        "SD": "SDG"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -1147,12 +1147,12 @@
       "symbol": "TND",
       "narrowSymbol": null,
       "localSymbols": {
-        "TN": "د.ت.‏"
+        "TN": "DT"
       },
       "decimals": 3,
       "cashDecimals": null,
       "sign": {
-        "text": "TND",
+        "text": "DT",
         "svg": "svg/currencies/TND.svg",
         "font": "Poppins Bold"
       },
@@ -1329,12 +1329,12 @@
         "ML": "F CFA",
         "NE": "F CFA",
         "SN": "F CFA",
-        "TG": "F CFA"
+        "TG": "FCFA"
       },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "F CFA",
+        "text": "FCFA",
         "svg": "svg/currencies/XOF.svg",
         "svgColor": "svg/currencies/XOF-color.svg",
         "font": null,
