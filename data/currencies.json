@@ -177,9 +177,10 @@
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "CVE",
+        "text": "$00",
         "svg": "svg/currencies/CVE.svg",
-        "font": "Poppins Bold"
+        "font": "Noto Sans Bold",
+        "source": "https://www.bcv.cv/pt/Notas%20e%20Moedas/Notas/Paginas/Notas.aspx"
       },
       "countries": [
         "CV"
@@ -385,7 +386,7 @@
       "symbol": "GHS",
       "narrowSymbol": "GH₵",
       "localSymbols": {
-        "GH": "GH¢"
+        "GH": "GH₵"
       },
       "symbolSource": {
         "GH": "verified"
@@ -393,9 +394,10 @@
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "GH¢",
+        "text": "GH₵",
         "svg": "svg/currencies/GHS.svg",
-        "font": "Poppins Bold"
+        "font": "Noto Sans Bold",
+        "source": "https://www.unicode.org/Public/UCD/latest/ucd/NamesList.txt"
       },
       "countries": [
         "GH"
@@ -863,7 +865,10 @@
       "sign": {
         "text": "MT",
         "svg": "svg/currencies/MZN.svg",
-        "font": "Poppins Bold"
+        "svgColor": "svg/currencies/MZN-color.svg",
+        "font": null,
+        "emblem": "Banco de Moçambique emblem (coin obverse)",
+        "source": "https://www.bancomoc.mz/media/h2sh1frd/relat%C3%B3rio-anual-2025.pdf"
       },
       "countries": [
         "MZ"
@@ -1413,7 +1418,10 @@
       "sign": {
         "text": "FCFA",
         "svg": "svg/currencies/XAF.svg",
-        "font": "Poppins Bold"
+        "svgColor": null,
+        "font": null,
+        "emblem": "BEAC three Derby eland heads (banknote watermark)",
+        "source": "https://www.beac.int/wp-content/uploads/2016/10/Rapport-Annuel-2025-V-01-09-26.pdf"
       },
       "countries": [
         "CF",
