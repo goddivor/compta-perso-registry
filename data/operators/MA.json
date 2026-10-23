@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "complete",
     "mobile_money": "complete",
-    "microfinance": "complete",
-    "fintech": "none"
+    "microfinance": "complete"
   },
   "listSources": {
     "bank": "https://www.bkam.ma/content/download/847382/9161972/Rapport%20DSB%202025.pdf",

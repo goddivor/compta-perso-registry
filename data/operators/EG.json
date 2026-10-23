@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "partial",
-    "fintech": "partial"
+    "digital_bank": "partial"
   },
   "listSources": {
     "bank": "https://www.cbe.org.eg/-/media/project/cbe/page-content/rich-text/financial-stability/english/headoffices-eng-9-new.pdf",
@@ -1558,20 +1558,21 @@
       "aliases": [
         "Telda Card"
       ],
-      "type": "fintech",
+      "type": "digital_bank",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://telda.app",
       "logo": {
-        "svg": "svg/logos/fintech/telda.svg",
+        "svg": "svg/logos/digital-bank/telda.svg",
         "source": "https://telda.app/_next/static/media/telda-logo.25c7955c.png",
         "method": "vectorized",
         "background": "light"
       },
       "sources": [
-        "https://au-startups.com/news/fintech-startups-revolutionizing-banking-and-financial-services-in-north-africa"
+        "https://au-startups.com/news/fintech-startups-revolutionizing-banking-and-financial-services-in-north-africa",
+        "https://telda.app"
       ]
     },
     {
@@ -1580,20 +1581,21 @@
       "aliases": [
         "Khazna App"
       ],
-      "type": "fintech",
+      "type": "microfinance",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://khazna.app",
       "logo": {
-        "svg": "svg/logos/fintech/khazna.svg",
+        "svg": "svg/logos/microfinance/khazna.svg",
         "source": "https://play-lh.googleusercontent.com/2K4zVtQMEypLW2h66mwmQBMIVe2MoLRE45cZD6r41iUT2MwdpGCM1ElsFWOeNRtZLaNWnxhVVb-QpPbbskaa=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.cbinsights.com/investor/khazna"
+        "https://www.cbinsights.com/investor/khazna",
+        "https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/"
       ]
     },
     {
@@ -1603,7 +1605,7 @@
         "Valu",
         "U Consumer Finance"
       ],
-      "type": "fintech",
+      "type": "microfinance",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1616,7 +1618,8 @@
         "background": null
       },
       "sources": [
-        "https://allbusiness.africa/insights/egyptian-fintech-2026"
+        "https://allbusiness.africa/insights/egyptian-fintech-2026",
+        "https://valugroup.com/"
       ]
     },
     {
@@ -1626,20 +1629,21 @@
         "MNT Halan",
         "Halan App"
       ],
-      "type": "fintech",
+      "type": "microfinance",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://halan.com",
       "logo": {
-        "svg": "svg/logos/fintech/mnt-halan.svg",
+        "svg": "svg/logos/microfinance/mnt-halan.svg",
         "source": "https://halan.com/wp-content/themes/halan/app/images/Full-logo-black-version.svg",
         "method": "official-svg",
         "background": null
       },
       "sources": [
-        "https://allafrica.com/stories/202606090112.html"
+        "https://allafrica.com/stories/202606090112.html",
+        "https://www.businesswire.com/news/home/20210908005147/en/Egyptian-Fintech-MNT-Halan-Attracts-Circa-US120-Million-From-Global-Investors"
       ]
     }
   ]

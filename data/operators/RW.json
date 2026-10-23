@@ -5,7 +5,8 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial",
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://www.bnr.rw/documents/LIST_OF_SUPERVISED_BANKS.pdf",
@@ -2081,7 +2082,7 @@
         "Chipper",
         "Chipper Technologies Rwanda Limited"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "Chipper",
       "presence": 2,
       "status": "active",
@@ -2094,7 +2095,8 @@
         "background": null
       },
       "sources": [
-        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf",
+        "https://www.chippercash.com"
       ]
     },
     {
@@ -2104,20 +2106,21 @@
         "NALA Payments Rwanda Limited",
         "Nala Money"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/nala.svg",
+        "svg": "svg/logos/money-transfer/nala.svg",
         "source": "https://play-lh.googleusercontent.com/gGDXYFLHS0Fly3BKLCfdLUUhkguvUdga_ksyf3qg-CVF8RY5cAg08DJzXsO85SULx-yq2LXzqUpp-HK-z7Bo=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf"
+        "https://www.bnr.rw/documents/Licensed_Institutions_-_September_2026.pdf",
+        "https://www.ktpress.rw/2023/11/nala-announces-rwanda-as-regional-remittance-hub/"
       ]
     }
   ]

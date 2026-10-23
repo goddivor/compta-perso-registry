@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "partial",
     "mobile_money": "partial",
-    "microfinance": "partial",
-    "fintech": "none"
+    "microfinance": "partial"
   },
   "listSources": {
     "bank": "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",

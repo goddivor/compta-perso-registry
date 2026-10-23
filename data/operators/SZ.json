@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "complete",
     "mobile_money": "partial",
-    "microfinance": "partial",
-    "fintech": "none"
+    "microfinance": "partial"
   },
   "listSources": {
     "bank": "https://www.centralbank.org.sz/bank-supervision/"

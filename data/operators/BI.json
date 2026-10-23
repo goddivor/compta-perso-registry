@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "complete",
     "mobile_money": "complete",
-    "microfinance": "partial",
-    "fintech": "none"
+    "microfinance": "partial"
   },
   "listSources": {
     "bank": "https://www.brb.bi/node/119",

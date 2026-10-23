@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "partial",
     "microfinance": "partial",
-    "fintech": "partial"
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://www.bcrg-guinee.org/wp-content/uploads/2023/03/BANQUES-AGREEES.pdf",
@@ -644,14 +644,14 @@
         "Digital Wallet Guinée",
         "Diwalgi"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/kulu.svg",
+        "svg": "svg/logos/wallet/kulu.svg",
         "source": "https://play-lh.googleusercontent.com/bafJpCyJcZfIhaJAxzdXWg0rlqcrBn5qMbIjbCOD_AcjpWSj1Wem0ZFyoDQiX6cu0f8prCMDmlK9FTDMFibA=s512",
         "method": "vectorized",
         "background": null

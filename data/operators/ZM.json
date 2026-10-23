@@ -5,13 +5,15 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial",
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://www.boz.zm/financial-stability/registered-financial-institutions",
     "mobile_money": "https://www.boz.zm/financial-stability/registered-financial-institutions",
     "microfinance": "https://www.boz.zm/financial-stability/registered-financial-institutions",
-    "fintech": "https://www.boz.zm/financial-stability/registered-financial-institutions"
+    "wallet": "https://www.boz.zm/financial-stability/registered-financial-institutions",
+    "money_transfer": "https://www.boz.zm/financial-stability/registered-financial-institutions"
   },
   "operators": [
     {
@@ -1251,21 +1253,23 @@
         "Jabu",
         "GoJabu"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.gojabu.com/",
       "logo": {
-        "svg": "svg/logos/fintech/jabu-wallet.svg",
+        "svg": "svg/logos/wallet/jabu-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/Ii4P8yAWMGo01AL3zcx6Jrwc0sE05FodogIh6blIH3R7EZs43QEwrM5-ziDtOmp_opc79YsuDvZ9A7hoXM9kI2w=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.boz.zm/financial-stability/registered-financial-institutions",
-        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions",
+        "https://www.gojabu.com/"
       ]
     },
     {
@@ -1274,21 +1278,22 @@
       "aliases": [
         "Lupiya Pay"
       ],
-      "type": "fintech",
+      "type": "microfinance",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.lupiya.com",
       "logo": {
-        "svg": "svg/logos/fintech/lupiya.svg",
+        "svg": "svg/logos/microfinance/lupiya.svg",
         "source": "https://cdn.prod.website-files.com/67b46660e661f56c37603996/67b48a008ddf54a37fb90c34_Lupiya%20Logo-02.svg",
         "method": "official-svg",
         "background": "light"
       },
       "sources": [
         "https://www.boz.zm/financial-stability/registered-financial-institutions",
-        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions",
+        "https://www.lupiya.com"
       ]
     },
     {
@@ -1297,21 +1302,23 @@
       "aliases": [
         "Union54"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.union54.com",
       "logo": {
-        "svg": "svg/logos/fintech/union-54.svg",
+        "svg": "svg/logos/wallet/union-54.svg",
         "source": "https://www.union54.com",
         "method": "official-svg",
         "background": null
       },
       "sources": [
         "https://www.boz.zm/financial-stability/registered-financial-institutions",
-        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions",
+        "https://www.union54.com"
       ]
     },
     {
@@ -1320,14 +1327,14 @@
       "aliases": [
         "MyPay Financial Solutions"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/mypay.svg",
+        "svg": "svg/logos/wallet/mypay.svg",
         "source": "https://play-lh.googleusercontent.com/bv7-9rsgfwU0msXh0fdz5HUMsYjeI_P2SMrbNC_G9lph2jLxoHx56BJboSyiOv7w09_8JFirDlClEEF6SAynHA=s512",
         "method": "vectorized",
         "background": null
@@ -1343,7 +1350,7 @@
       "aliases": [
         "Samafrica"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1366,7 +1373,7 @@
       "aliases": [
         "Spargris Zambia"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1389,7 +1396,7 @@
       "aliases": [
         "Mukuru Money Transfer"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "Mukuru",
       "presence": 5,
       "status": "active",
@@ -1403,7 +1410,8 @@
       },
       "sources": [
         "https://www.boz.zm/financial-stability/registered-financial-institutions",
-        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions",
+        "https://www.mukuru.com/zm/send-money/south-africa/"
       ]
     },
     {
@@ -1412,14 +1420,14 @@
       "aliases": [
         "Instapay"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/instapay-africorp.svg",
+        "svg": "svg/logos/money-transfer/instapay-africorp.svg",
         "source": "https://play-lh.googleusercontent.com/_ks0_XUbrZOkeiXkjaiZEK1S-j1skuQgF1E8S3ff702CoVyaiGnbfXPK74WjgxMk0Q4v2hlhu8WTHxp52Wq0=s512",
         "method": "vectorized",
         "background": null
@@ -1437,21 +1445,22 @@
         "Zampost",
         "PostDotNet"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/zampost-money-transfer.svg",
+        "svg": "svg/logos/money-transfer/zampost-money-transfer.svg",
         "source": "https://play-lh.googleusercontent.com/bp-KYnDC7Mn3Bz7LM6GIGr_HY-sQHbB3XulI2fJFiN3h6DUQ4fS_l-ke511t8UonKCzp9sQpmb7xpD6nIqeXvQ=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.boz.zm/financial-stability/registered-financial-institutions",
-        "https://www.boz.zm/api/v1/views/registered_financial_institutions"
+        "https://www.boz.zm/api/v1/views/registered_financial_institutions",
+        "https://zampost.com.zm/financialServices.html"
       ]
     },
     {
@@ -1460,7 +1469,7 @@
       "aliases": [
         "JUMO Zambia"
       ],
-      "type": "fintech",
+      "type": "microfinance",
       "group": "JUMO",
       "presence": 1,
       "status": "active",

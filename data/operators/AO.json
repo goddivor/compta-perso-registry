@@ -5,13 +5,15 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial",
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
     "mobile_money": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
     "microfinance": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
-    "fintech": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+    "wallet": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+    "money_transfer": "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
   },
   "operators": [
     {
@@ -801,7 +803,8 @@
       "id": "ao-cofre-digital",
       "name": "Cofre Digital",
       "aliases": [],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -821,7 +824,7 @@
       "id": "ao-ginga-transfer",
       "name": "Ginga Transfer",
       "aliases": [],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -834,7 +837,8 @@
         "background": null
       },
       "sources": [
-        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+        "https://gingatransfer.com/ginga/"
       ]
     },
     {
@@ -843,7 +847,7 @@
       "aliases": [
         "MaxPay"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -856,14 +860,15 @@
         "background": null
       },
       "sources": [
-        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+        "https://gingatransfer.com/ginga/"
       ]
     },
     {
       "id": "ao-nellpay",
       "name": "NellPay",
       "aliases": [],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -885,7 +890,7 @@
       "aliases": [
         "RealTransfer"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -898,14 +903,15 @@
         "background": null
       },
       "sources": [
-        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280"
+        "https://www.bna.ao/service/rest/file/getPDF/v2?url=_layouts/15/DocIdRedir.aspx?ID=AE2CRDQUTFAC-1955507033-280",
+        "https://pt.editorialge.com/fintechs-e-pagamentos-digitais-em-angola/"
       ]
     },
     {
       "id": "ao-sunpay",
       "name": "SunPay",
       "aliases": [],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -927,7 +933,7 @@
       "aliases": [
         "Victoria Transfer"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": null,
       "presence": 1,
       "status": "active",

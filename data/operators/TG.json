@@ -5,13 +5,15 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial",
+    "investment": "partial"
   },
   "listSources": {
     "bank": "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
     "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
     "microfinance": "https://finances.gouv.tg/wp-content/uploads/2025/01/LISTE-ACTUALISEE-DES-SFD-.pdf",
-    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+    "wallet": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "investment": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
   },
   "operators": [
     {
@@ -460,14 +462,14 @@
         "Solimi Togo",
         "Solimi Gnim"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.solimi.co",
       "logo": {
-        "svg": "svg/logos/fintech/solimi.svg",
+        "svg": "svg/logos/wallet/solimi.svg",
         "source": "https://play-lh.googleusercontent.com/J9B5Zu5jy7Zwi2P-Vd6jxJ9bqDWN2gmsfWaJGD7sqOsvgLfmkBB98ROsRkzy4mVwxEc7brAkeykmbMi1dsmPvA=s512",
         "method": "vectorized",
         "background": null
@@ -485,21 +487,23 @@
         "Intouch",
         "TouchPay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "InTouch",
       "presence": 4,
       "status": "active",
       "successor": null,
       "website": "https://www.intouchgroup.net",
       "logo": {
-        "svg": "svg/logos/fintech/intouch.svg",
+        "svg": "svg/logos/wallet/intouch.svg",
         "source": "https://cdn.prod.website-files.com/66d04fe65aaef00487a98d54/678a7c8ebf55cf1a40a8b923_LOGO-HORIZONTAL_TP-p-1080.png",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.intouchgroup.net"
       ]
     },
     {
@@ -508,21 +512,22 @@
       "aliases": [
         "Ollo"
       ],
-      "type": "fintech",
+      "type": "investment",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/ollo-africa.svg",
+        "svg": "svg/logos/investment/ollo-africa.svg",
         "source": "https://www.imaginedemain.tg/wp-content/uploads/2025/09/68c40705edf9c_IMG-20250912-WA0029.jpg",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.financialafrik.com/2026/02/03/togo-la-fintech-ollo-africa-porte-son-capital-de-68-millions-a-1-milliard-de-fcfa/"
       ]
     },
     {
@@ -531,21 +536,22 @@
       "aliases": [
         "Semoa Togo"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/semoa.svg",
+        "svg": "svg/logos/wallet/semoa.svg",
         "source": "https://www.semoa-group.com/assets/semoa-logo-BTnHkkDF.png",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.ecofinagency.com/news-finances/0302-52524-togolese-fintech-semoa-wins-full-service-bceao-license"
       ]
     },
     {

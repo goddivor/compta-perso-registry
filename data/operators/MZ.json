@@ -5,13 +5,15 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "partial",
-    "fintech": "partial"
+    "money_transfer": "partial",
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
     "mobile_money": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
     "microfinance": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
-    "fintech": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls"
+    "money_transfer": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+    "wallet": "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls"
   },
   "operators": [
     {
@@ -950,7 +952,7 @@
       "aliases": [
         "Mukuru Moçambique"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "Mukuru",
       "presence": 5,
       "status": "active",
@@ -963,7 +965,8 @@
         "background": null
       },
       "sources": [
-        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls"
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://fintech.global/2025/09/19/mukuru-and-moneygram-join-forces-on-cross-border-payments/"
       ]
     },
     {
@@ -972,7 +975,8 @@
       "aliases": [
         "Paytek Tecnologias e Serviços de Pagamentos"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -985,7 +989,8 @@
         "background": null
       },
       "sources": [
-        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls"
+        "https://bancomoc.mz/media/zuvbi1t4/rela%C3%A7%C3%A3o-das-icsf-em-funcionamento_janeiro_2025.xls",
+        "https://www.cbinsights.com/compare/paytek-vs-ux"
       ]
     }
   ]

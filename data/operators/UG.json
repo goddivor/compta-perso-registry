@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "partial",
-    "fintech": "partial"
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://bou.or.ug/supervision",
@@ -1094,7 +1094,7 @@
         "Chipper",
         "Chipper Technologies"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "Chipper",
       "presence": 2,
       "status": "active",
@@ -1108,7 +1108,8 @@
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://www.chippercash.com"
       ]
     },
     {
@@ -1118,21 +1119,22 @@
         "Wave Transfer Limited",
         "Wave Uganda"
       ],
-      "type": "fintech",
+      "type": "mobile_money",
       "group": "Wave",
       "presence": 7,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/wave.svg",
-        "source": "https://play-lh.googleusercontent.com/sZ7EXDrhiNpfbybByvJWBD0trB7zEbGxGVNDROIbkgYlIB3W2onKsg2jjDtKZv8l4x1L7ZhePz0V5SNPlTd_8g=s512",
+        "svg": "svg/logos/mobile-money/wave.svg",
+        "source": "https://www.wave.com/img/nav-logo.png",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://apps.apple.com/app/id1523884528"
       ]
     },
     {
@@ -1142,21 +1144,22 @@
         "Safe Boda",
         "Guinness Tech (U) Ltd"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/safeboda.svg",
+        "svg": "svg/logos/wallet/safeboda.svg",
         "source": "https://play-lh.googleusercontent.com/E6JhHfMvi9XsYsUKCtLjcvt9HYXkAws22VIH1Nn-ToPBZZ0NbPhADslE84CUd3UQb7Ob3jGaLYBHpb4fSycqxbw=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://pctechmag.com/2022/07/safeboda-now-allows-money-transfers-to-bank-mobile-money/"
       ]
     },
     {
@@ -1165,21 +1168,23 @@
       "aliases": [
         "Xente Tech Limited"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/xente.svg",
+        "svg": "svg/logos/wallet/xente.svg",
         "source": "https://play-lh.googleusercontent.com/jkJesINW63h1ip8uSjUeBS3oAsfpS-jbnq6uN127449ZuUvgGC2jxa2hhG1YFAW93en9qpZKMUpRk0G2EU7FQck=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://theexchange.africa/uganda-xente-business-payments/"
       ]
     },
     {
@@ -1189,7 +1194,7 @@
         "Ezee Money",
         "Ezeemoney Uganda Limited"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1203,7 +1208,8 @@
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://pctechmag.com/2013/08/ezeemoney-plans-african-expansion/"
       ]
     },
     {
@@ -1213,21 +1219,22 @@
         "Post Bank Uganda Limited (Wendi)",
         "Wendi Wallet"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/wendi.svg",
+        "svg": "svg/logos/wallet/wendi.svg",
         "source": "https://play-lh.googleusercontent.com/FH7R-_fpx2EDYHHcM8in0ejEyKsWRDjJNjZ779PyqG9Pdx-Z8oGQcCRhBnorIsZFJbKHFfLyjReB8iPCd5fKbA=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://www.pulse.ug/story/over-ugx200b-moved-via-postbanks-wendi-platform-2024073112313636638"
       ]
     },
     {
@@ -1238,21 +1245,22 @@
         "Stanbic Bank Uganda Ltd (Flexipay)",
         "Stanbic FlexiPay"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "Standard Bank",
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/flexipay.svg",
+        "svg": "svg/logos/wallet/flexipay.svg",
         "source": "https://play-lh.googleusercontent.com/6LzXNzw6zpv_t82G5Hz-s3xmfya73j1yg7mNyWO_h5VdH2yyPN0uFxBm5xPleWm4AAJAcMv9CBSGDZp2PxqV=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://www.findevgateway.org/news/stanbic-and-pearl-bank-integrate-digital-wallets-in-landmark-move-to-boost-financial-inclusion"
       ]
     },
     {
@@ -1262,21 +1270,22 @@
         "Ruka Pay",
         "Rhino Payment Services Limited"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/rukapay.svg",
+        "svg": "svg/logos/wallet/rukapay.svg",
         "source": "https://play-lh.googleusercontent.com/ZMrEnGJnxU8i7r-FFTkcHje06rvNlNMKfFXgaZWUpKB3TVLszNCkCC-29S7qZGQBomvDazjWoyZZzyUs1EyD=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://mwm.ai/apps/rukapay/6748399426"
       ]
     },
     {
@@ -1286,21 +1295,23 @@
         "Pesapal",
         "Pesapal Uganda Limited"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "Pesapal",
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/pesapal.svg",
+        "svg": "svg/logos/wallet/pesapal.svg",
         "source": "https://play-lh.googleusercontent.com/-ONulqmJ_Q8DiFk720D8m8lPCXP7cWygCn-CBlElNW3e162lwBx8g3o666AMQZeeGwresCbsvbr1rrMZQ8q5uw=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
-        "https://bou.or.ug/financial-infrastructure-and-innovation"
+        "https://bou.or.ug/financial-infrastructure-and-innovation",
+        "https://www.pesapal.com/blog/pesapal-uganda-has-received-a-payment-systems-operator-license-from-the-bank-of-uganda"
       ]
     }
   ]

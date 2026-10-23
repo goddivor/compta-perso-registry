@@ -5,7 +5,8 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial",
+    "digital_bank": "partial"
   },
   "listSources": {
     "bank": "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf",
@@ -1488,20 +1489,22 @@
         "Pesapal Limited",
         "PesaPal"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "Pesapal",
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": "https://www.pesapal.com",
       "logo": {
-        "svg": "svg/logos/fintech/pesapal.svg",
+        "svg": "svg/logos/wallet/pesapal.svg",
         "source": "https://play-lh.googleusercontent.com/-ONulqmJ_Q8DiFk720D8m8lPCXP7cWygCn-CBlElNW3e162lwBx8g3o666AMQZeeGwresCbsvbr1rrMZQ8q5uw=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+        "https://www.pesapal.com"
       ]
     },
     {
@@ -1512,20 +1515,21 @@
         "Loop Kenya",
         "Loop by NCBA"
       ],
-      "type": "fintech",
+      "type": "digital_bank",
       "group": "NCBA",
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.loop.co.ke/",
       "logo": {
-        "svg": "svg/logos/fintech/loop.svg",
+        "svg": "svg/logos/digital-bank/loop.svg",
         "source": "https://play-lh.googleusercontent.com/GHJOZQQW7Lo_dnTrO72PT6N8wn_tEoCiohUhRMUzsXXuSAK7GIfTJyQcH8VpY5trrGQ7kDzRCGf9h_aQKXZEOw=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+        "https://loop.co.ke/"
       ]
     },
     {
@@ -1536,20 +1540,22 @@
         "Fivespot Kenya Limited",
         "Fivespot"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.ipayafrica.com/",
       "logo": {
-        "svg": "svg/logos/fintech/ipay.svg",
+        "svg": "svg/logos/wallet/ipay.svg",
         "source": "https://www.ipayafrica.com/sites/default/files/logo-45-percent_01.svg",
         "method": "official-svg",
         "background": "light"
       },
       "sources": [
-        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
+        "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
+        "https://www.ipayafrica.com/"
       ]
     }
   ]

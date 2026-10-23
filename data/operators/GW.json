@@ -5,12 +5,12 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "none",
-    "fintech": "partial"
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf",
     "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
-    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+    "wallet": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
   },
   "operators": [
     {
@@ -225,21 +225,23 @@
         "TouchPay",
         "InTouch Guine-Bissau"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "InTouch",
       "presence": 4,
       "status": "active",
       "successor": null,
       "website": "https://www.intouchgroup.net",
       "logo": {
-        "svg": "svg/logos/fintech/intouch.svg",
+        "svg": "svg/logos/wallet/intouch.svg",
         "source": "https://cdn.prod.website-files.com/66d04fe65aaef00487a98d54/678a7c8ebf55cf1a40a8b923_LOGO-HORIZONTAL_TP-p-1080.png",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/4%20-%20Liste%20Guin%C3%A9e-Bissau_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.intouchgroup.net/en/solutions/touch-point"
       ]
     }
   ]

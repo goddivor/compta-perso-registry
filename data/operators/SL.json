@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "partial",
     "microfinance": "complete",
-    "fintech": "partial"
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf",
@@ -426,14 +426,14 @@
         "Vult Wallet",
         "Metro Cable Vult"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/vult.svg",
+        "svg": "svg/logos/wallet/vult.svg",
         "source": "https://play-lh.googleusercontent.com/NWuk2I3NNRtZfbKqFra3jRH1_WC7Wa03QaoPNPINYvwqCPF9nTncK_Erf0OW17wPkIy8m4bNzVGoczQpc54I2Q=s512",
         "method": "vectorized",
         "background": "light"

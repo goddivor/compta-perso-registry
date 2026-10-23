@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "partial",
     "mobile_money": "partial",
-    "microfinance": "partial",
-    "fintech": "none"
+    "microfinance": "partial"
   },
   "listSources": {
     "bank": "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf",

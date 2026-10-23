@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "complete",
     "mobile_money": "partial",
-    "microfinance": "complete",
-    "fintech": "none"
+    "microfinance": "complete"
   },
   "listSources": {
     "bank": "https://banque-comores.km/page/show/etablissements-de-credit",

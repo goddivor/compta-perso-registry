@@ -5,13 +5,13 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "complete"
+    "wallet": "complete"
   },
   "listSources": {
     "bank": "https://www.cbs.sc/Financial/CommercialBanks.html",
     "mobile_money": "https://www.cbs.sc/Financial/PSP.html",
     "microfinance": "https://www.cbs.sc/Financial/CreditUnions.html",
-    "fintech": "https://www.cbs.sc/Financial/PSP.html"
+    "wallet": "https://www.cbs.sc/Financial/PSP.html"
   },
   "operators": [
     {
@@ -287,7 +287,7 @@
       "aliases": [
         "Nebula"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -300,7 +300,8 @@
         "background": null
       },
       "sources": [
-        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP"
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP",
+        "https://nation.sc/articles/20931/nebula-fintech-limited-launches-new-online-payment-platform"
       ]
     },
     {
@@ -309,7 +310,7 @@
       "aliases": [
         "Merlin"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -332,20 +333,22 @@
         "FusePay",
         "Fuse Pay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.fusepay.app/",
       "logo": {
-        "svg": "svg/logos/fintech/fusepay.svg",
+        "svg": "svg/logos/wallet/fusepay.svg",
         "source": "https://cdn.prod.website-files.com/67e4f32d1f3c3944b17241b4/67fcf555a040fcb4564f2202_Fusepay_Logo_Seychelles_Fintech.svg",
         "method": "official-svg",
         "background": "light"
       },
       "sources": [
-        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP"
+        "https://www.cbs.sc/Controller/getFinancialInstitution.jsp?type=PSP",
+        "https://www.fusepay.app/"
       ]
     }
   ]

@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "partial",
     "microfinance": "complete",
-    "fintech": "partial"
+    "digital_bank": "partial"
   },
   "listSources": {
     "bank": "https://www.finances.gov.tn/fr/la-liste-des-banques-0",
@@ -1032,21 +1032,22 @@
       "aliases": [
         "Kaoun"
       ],
-      "type": "fintech",
+      "type": "digital_bank",
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.flouci.com",
       "logo": {
-        "svg": "svg/logos/fintech/flouci.svg",
+        "svg": "svg/logos/digital-bank/flouci.svg",
         "source": "https://play-lh.googleusercontent.com/7mMIDBQ-DsWB5GZluLfTwMXROjPTiJDS1LyQDPKRS8G20dW3LD8GGTU68FZ1hhbwM7-5jqe5QNMiDjQrIoDV=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.forbesmiddleeast.com/lists/30-under-30-2024/nebras-jemel-anis-kallel/",
-        "https://managers.tn/2025/03/15/flouci-parmi-les-50-meilleures-fintechs-de-la-region-mena-selon-forbes"
+        "https://managers.tn/2025/03/15/flouci-parmi-les-50-meilleures-fintechs-de-la-region-mena-selon-forbes",
+        "https://fr.flouci.com/"
       ]
     }
   ]

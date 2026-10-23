@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/",
@@ -215,7 +215,7 @@
       "aliases": [
         "Mukuru Bureau de Change"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "Mukuru",
       "presence": 5,
       "status": "active",
@@ -228,7 +228,8 @@
         "background": null
       },
       "sources": [
-        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/foreign-exchange-bureau-and-money-transfere/"
+        "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/foreign-exchange-bureau-and-money-transfere/",
+        "https://fintech.global/2025/09/19/mukuru-and-moneygram-join-forces-on-cross-border-payments/"
       ]
     },
     {

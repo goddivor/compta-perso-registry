@@ -5,7 +5,7 @@
     "bank": "complete",
     "mobile_money": "partial",
     "microfinance": "none",
-    "fintech": "partial"
+    "wallet": "partial"
   },
   "listSources": {
     "bank": "https://centralbank.gov.so/licensed-banks/"
@@ -454,21 +454,22 @@
       "aliases": [
         "PremierWallet"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "Premier Bank",
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/premier-wallet.svg",
+        "svg": "svg/logos/wallet/premier-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/soGlYxdpeT3ZCMylZoigqsZ4p-H2IaK0Y4EVnnM0mEemvDhKKTMZ_NRky1TtySGIbijiGVwub6y3zJ_bvQlU6g=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://en.wikipedia.org/wiki/Mobile_money_in_Somalia",
-        "https://www.brecorder.com/news/40068569"
+        "https://www.brecorder.com/news/40068569",
+        "https://apps.apple.com/app/id1527270402"
       ]
     }
   ]

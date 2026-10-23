@@ -10,8 +10,8 @@
 [![flag-icons](https://img.shields.io/badge/flag--icons_7.6-2D2D2D?style=flat)](https://github.com/lipis/flag-icons)
 [![jsDelivr](https://img.shields.io/badge/jsDelivr-E84D3D?logo=jsdelivr&logoColor=fff&style=flat)](https://www.jsdelivr.com/)
 
-The **countries, currencies, and financial operators of Africa** (banks, mobile money, microfinance,
-and fintech), with **SVG flags, SVG currency signs, and SVG operator logos**, as plain JSON. Built for
+The **countries, currencies, and financial operators of Africa** (banks, microfinance, mobile money,
+digital banks, e-wallets, money transfer, and investment), plus the international services used there, with **SVG flags, SVG currency signs, and SVG operator logos**, as plain JSON. Built for
 the Compta Perso app and served through jsDelivr; usable by any app that needs the same data.
 
 </div>
@@ -26,8 +26,11 @@ the Compta Perso app and served through jsDelivr; usable by any app that needs t
 - **Currency signs as SVG** — each local symbol outlined into paths, tintable with `currentColor`; the
   West African CFA franc carries the sawfish emblem of the Central Bank of West African States (BCEAO),
   extracted from the bank's own vector art
-- **~4,000 operators** — banks, mobile money, microfinance, and fintech, every entry carrying the URL of
-  the official list or page it comes from, with old names as searchable aliases
+- **~4,000 operators** — banks, microfinance, mobile money, digital banks, e-wallets, money transfer, and
+  investment platforms, every entry carrying the URL of the official list or page it comes from, with old
+  names as searchable aliases; merchant-only payment gateways are flagged `"consumer": false`
+- **International services** — PayPal, Wise, Western Union, Binance, and others, each with the African
+  countries where it is available, taken from the service's own country list
 - **Operator logos as SVG only** — official SVG first, otherwise vectorized, every logo reviewed by eye;
   no PNG ships
 - **Honest coverage** — each country says, per operator type, whether its list is complete or partial
@@ -51,6 +54,7 @@ https://cdn.jsdelivr.net/gh/goddivor/compta-perso-registry@<tag>/svg/flags/1x1/t
 | `data/countries.json` | 54 countries — generated, never hand-edited |
 | `data/currencies.json` | 43 currencies — generated, never hand-edited |
 | `data/operators/<ISO2>.json` | operators of one country, hand-curated and sourced |
+| `data/international.json` | international services and their availability per country |
 | `svg/flags/{4x3,1x1}/` | country flags |
 | `svg/currencies/` | currency signs |
 | `svg/logos/<type>/` | operator logos, one file per brand |

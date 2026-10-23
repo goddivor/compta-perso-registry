@@ -5,7 +5,9 @@
     "bank": "complete",
     "mobile_money": "partial",
     "microfinance": "partial",
-    "fintech": "partial"
+    "wallet": "partial",
+    "digital_bank": "partial",
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://www.resbank.co.za/en/home/what-we-do/Prudentialregulation/sa-registered-banks-and-representative-offices",
@@ -1006,20 +1008,21 @@
         "Shoprite Money",
         "Shoprite Money Market"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": "Shoprite",
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/shoprite.svg",
+        "svg": "svg/logos/wallet/shoprite.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoprite_(Isle_of_Man)_logo.svg",
         "method": "official-svg",
         "background": null
       },
       "sources": [
-        "https://www.gauteng.net/whats-on-g/shoprite-money-market-account/"
+        "https://www.gauteng.net/whats-on-g/shoprite-money-market-account/",
+        "https://shopriteholdings.co.za/articles/Newsroom/2022/meet-south-africas-lowest-cost-bank-account.html"
       ]
     },
     {
@@ -1031,7 +1034,7 @@
         "Lesaka",
         "Net1 green card"
       ],
-      "type": "fintech",
+      "type": "digital_bank",
       "group": "Lesaka",
       "presence": 1,
       "status": "active",
@@ -1044,7 +1047,8 @@
         "background": null
       },
       "sources": [
-        "https://www.businessday.co.za/bt/business-and-economy/2025-05-11-lesaka-gains-social-grant-clients/"
+        "https://www.businessday.co.za/bt/business-and-economy/2025-05-11-lesaka-gains-social-grant-clients/",
+        "https://lesakatech.com/newsroom-all/lesaka-aims-for-bigger-slice-of-grants-market"
       ]
     },
     {
@@ -1054,7 +1058,7 @@
         "Mukuru Card",
         "Mukuru Wallet"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "Mukuru",
       "presence": 5,
       "status": "active",
@@ -1067,7 +1071,8 @@
         "background": null
       },
       "sources": [
-        "https://apps.apple.com/app/id1515075370"
+        "https://apps.apple.com/app/id1515075370",
+        "https://www.mukuru.com/send-money/south-africa/"
       ]
     },
     {
@@ -1076,7 +1081,8 @@
       "aliases": [
         "Snap Scan"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "Standard Bank",
       "presence": 1,
       "status": "active",
@@ -1089,27 +1095,30 @@
         "background": null
       },
       "sources": [
-        "https://businesstech.co.za/news/banking/451246/capitec-launches-scan-to-pay-functionality-in-its-app-including-snapscan-and-zapper/"
+        "https://businesstech.co.za/news/banking/451246/capitec-launches-scan-to-pay-functionality-in-its-app-including-snapscan-and-zapper/",
+        "https://www.standardbank.co.za/southafrica/personal/products-and-services/ways-to-bank/innovative-payment-solutions/snapscan"
       ]
     },
     {
       "id": "za-zapper",
       "name": "Zapper",
       "aliases": [],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": "https://www.zapper.com/",
       "logo": {
-        "svg": "svg/logos/fintech/zapper.svg",
+        "svg": "svg/logos/wallet/zapper.svg",
         "source": "https://play-lh.googleusercontent.com/WidjRvkjdEysq_zYVRUJntX3EHeilIKEHUp80hs-EH77p4XCjUsWF0taqXuh98jXTBUuf-CYjl6p8dzsiQ0utw=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
-        "https://netcash.co.za/blog/mobile-wallet-trends-in-south-africa-whats-next-for-2026/"
+        "https://netcash.co.za/blog/mobile-wallet-trends-in-south-africa-whats-next-for-2026/",
+        "https://eatout.co.za/?p=212842"
       ]
     },
     {

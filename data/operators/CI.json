@@ -5,12 +5,16 @@
     "bank": "complete",
     "mobile_money": "complete",
     "microfinance": "complete",
-    "fintech": "partial"
+    "digital_bank": "partial",
+    "wallet": "partial",
+    "money_transfer": "partial"
   },
   "listSources": {
     "bank": "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
     "mobile_money": "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
-    "fintech": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "digital_bank": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "wallet": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+    "money_transfer": "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
     "microfinance": "https://microfinance.tresor.gouv.ci/micro/wp-content/uploads/2026/09/sfd_agrees_31juin2026.pdf"
   },
   "operators": [
@@ -1080,7 +1084,7 @@
         "Djamo Cote d'Ivoire",
         "Djamo CI"
       ],
-      "type": "fintech",
+      "type": "digital_bank",
       "group": "Djamo",
       "presence": 2,
       "status": "active",
@@ -1094,7 +1098,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.djamo.com"
       ]
     },
     {
@@ -1104,7 +1109,8 @@
         "CinetPay Africa",
         "Cinet Pay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1118,7 +1124,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://afrotech.com/cinetpay-startup-payment-gateway-africa"
       ]
     },
     {
@@ -1127,7 +1134,8 @@
       "aliases": [
         "Dunya"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 2,
       "status": "active",
@@ -1141,7 +1149,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://techcabal.com/?p=89716"
       ]
     },
     {
@@ -1152,21 +1161,23 @@
         "FeexPay Cote d'Ivoire",
         "Feex Pay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/feexpay.svg",
+        "svg": "svg/logos/wallet/feexpay.svg",
         "source": "https://play-lh.googleusercontent.com/LfrSGKk6eOEIzFUNsGNyiMdcSNx2SL-4cZNVF19bFo7ZFNyGVDz0IO_G6Ji9dmDNDrizWGBfCCF1YQwHxKWbWQ=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.wearetech.africa/fr/fils/solutions/benin-feexpay-simplifie-les-processus-de-paiement-en-ligne-pour-les-entreprises"
       ]
     },
     {
@@ -1175,7 +1186,7 @@
       "aliases": [
         "Firstcom"
       ],
-      "type": "fintech",
+      "type": "wallet",
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1189,7 +1200,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://apps.apple.com/it/app/bloom-card/id6745146455"
       ]
     },
     {
@@ -1199,7 +1211,8 @@
         "Julaya Côte d'Ivoire",
         "Julaya Cote d'Ivoire"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": "Julaya",
       "presence": 3,
       "status": "active",
@@ -1213,7 +1226,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.wearetech.africa/fr/fils/solutions/cote-d-ivoire-julaya-une-solution-fintech-qui-centralise-plusieurs-moyens-de-paiement"
       ]
     },
     {
@@ -1222,7 +1236,8 @@
       "aliases": [
         "Paymetrust"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1236,7 +1251,8 @@
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://cio-mag.com/paymetrust-obtient-son-agrement-en-qualite-detablissement-de-paiement-en-cote-divoire-et-confirme-son-ambition-panafricaine/"
       ]
     },
     {
@@ -1246,21 +1262,23 @@
         "Syca Pay",
         "SycaPay"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/syca.svg",
+        "svg": "svg/logos/wallet/syca.svg",
         "source": "https://play-lh.googleusercontent.com/KflahHBL0ZvBYrfmGoKbK5KkjNBq8S0rf7z2LYCBZGKmNkShdwI1YezOiIJItuf6cAPYXjV--yqUPLqc-sWr9A=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.wearetech.africa/fr/fils/solutions/cote-divoire-sycapay-agrege-divers-outils-financiers-pour-faciliter-les-transactions-des-entreprises-et-particuliers"
       ]
     },
     {
@@ -1270,21 +1288,23 @@
         "TouchPoint",
         "Touch Point"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/touchpoint-financial-services.svg",
+        "svg": "svg/logos/wallet/touchpoint-financial-services.svg",
         "source": "https://play-lh.googleusercontent.com/QzUJW-n4_-UFgVrhqpFEPAvN6Ewm-TTDHylLCBhCrILhQD2EwMqwrhivUUgmhH2bUCmXQVmc0gUusDc-j1ZDGg=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.intouchgroup.net/en/solutions/touch-point"
       ]
     },
     {
@@ -1295,21 +1315,22 @@
         "NITA",
         "NITA Cote d’Ivoire"
       ],
-      "type": "fintech",
+      "type": "money_transfer",
       "group": "NITA",
       "presence": 2,
       "status": "active",
       "successor": null,
       "website": null,
       "logo": {
-        "svg": "svg/logos/fintech/nita.svg",
+        "svg": "svg/logos/money-transfer/nita.svg",
         "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
         "method": "vectorized",
         "background": null
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/3%20-%20Liste%20C%C3%B4te%20d_Ivoire_2026.pdf",
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://www.iamtn.org/companies/niger-transfert-d-argent-sa"
       ]
     },
     {
@@ -1319,7 +1340,8 @@
         "Connekt4 Côte d’Ivoire",
         "Connekt4 Cote d’Ivoire"
       ],
-      "type": "fintech",
+      "type": "wallet",
+      "consumer": false,
       "group": null,
       "presence": 1,
       "status": "active",
@@ -1332,7 +1354,8 @@
         "background": null
       },
       "sources": [
-        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf"
+        "https://www.bceao.int/sites/default/files/2026-10/LISTE_DES_ETABLISSEMENTS_DE_PAIEMENT_AGR%C3%89%C3%89S_DANS_L-UMOA_au_31_ao%C3%BBt_2026.pdf",
+        "https://managers.tn/2024/12/04/hub2-leve-84-millions-de-dollars-pour-unifier-les-paiements-en-afrique-francophone"
       ]
     },
     {

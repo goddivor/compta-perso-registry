@@ -4,8 +4,7 @@
   "coverage": {
     "bank": "partial",
     "mobile_money": "partial",
-    "microfinance": "none",
-    "fintech": "none"
+    "microfinance": "none"
   },
   "listSources": {
     "bank": "https://www.tradefinance.africa/equatorial-guinea-letter-of-credit-confirmation.html",
