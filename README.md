@@ -32,19 +32,7 @@ the Compta Perso app and served through jsDelivr; usable by any app that needs t
   no PNG ships
 - **Honest coverage** — each country says, per operator type, whether its list is complete or partial
 
-## 📋 Requirements
-
-- Node.js 22 or later
-- To rebuild signs and logos: Python 3 and Rust (`cargo`)
-
 ## 📦 Installation
-
-```bash
-git clone https://github.com/goddivor/compta-perso-registry.git
-cd compta-perso-registry
-npm install
-npm run setup   # fontTools in .cache/venv, vtracer in .cache/vtracer
-```
 
 Consuming the data requires no installation: fetch the files from a tagged release.
 
@@ -56,27 +44,6 @@ https://cdn.jsdelivr.net/gh/goddivor/compta-perso-registry@<tag>/svg/flags/1x1/t
 
 ## ⚙️ Usage
 
-```bash
-# Regenerate countries, currencies, flags, and currency signs, then validate everything
-npm run build
-
-# Validate only (rewrites index.json with the counts)
-npm run validate
-```
-
-### 🏷️ Logos
-
-```bash
-# Find candidates per brand: Wikidata, the operators' sites, Google Play, and Wikimedia Commons
-npm run logos:find
-
-# Download and convert to SVG (vectorize rasters), into .cache/logos/out/
-npm run logos:process
-
-# After visual review, copy approved logos into svg/logos/ and fill each operator's `logo`
-npm run logos:apply
-```
-
 ### 📐 Data layout
 
 | Path | Content |
@@ -86,13 +53,11 @@ npm run logos:apply
 | `data/operators/<ISO2>.json` | operators of one country, hand-curated and sourced |
 | `svg/flags/{4x3,1x1}/` | country flags |
 | `svg/currencies/` | currency signs |
-| `art/currency-emblems/` | issuer emblems used as currency signs (source art) |
 | `svg/logos/<type>/` | operator logos, one file per brand |
-| `SCHEMA.md` | the contract for every file |
 
 ## 📜 License
 
-Data and scripts: MIT. Flags come from flag-icons (MIT). Currency signs are outlined from Poppins and
-Noto Sans (SIL Open Font License 1.1, both in `fonts/`). The XOF sign is the emblem of the BCEAO,
+Data: MIT. Flags come from flag-icons (MIT). Currency signs are outlined from Poppins and
+Noto Sans (SIL Open Font License 1.1). The XOF sign is the emblem of the BCEAO,
 included only to identify the currency. Operator logos are trademarks of their owners,
 included only to identify them; an owner may ask for removal.
