@@ -524,12 +524,12 @@
       ],
       "amountFormat": {
         "locale": "es-GQ",
-        "pattern": "¤ #,##0",
+        "pattern": "#,##0 ¤",
         "group": ".",
         "decimal": ",",
-        "signPattern": "¤#,##0",
-        "alphaPattern": "¤ #,##0",
-        "source": "cldr"
+        "signPattern": "#,##0 ¤",
+        "alphaPattern": "#,##0 ¤",
+        "source": "override"
       }
     },
     {
@@ -587,12 +587,12 @@
       ],
       "amountFormat": {
         "locale": "en-SZ",
-        "pattern": "¤ #,##0",
+        "pattern": "¤#,##0",
         "group": ",",
         "decimal": ".",
         "signPattern": "¤#,##0",
         "alphaPattern": "¤ #,##0",
-        "source": "cldr"
+        "source": "override"
       }
     },
     {
@@ -677,12 +677,12 @@
       ],
       "amountFormat": {
         "locale": "en-GM",
-        "pattern": "¤ #,##0",
+        "pattern": "¤#,##0",
         "group": ",",
         "decimal": ".",
         "signPattern": "¤#,##0",
         "alphaPattern": "¤ #,##0",
-        "source": "cldr"
+        "source": "override"
       }
     },
     {
@@ -833,12 +833,12 @@
       ],
       "amountFormat": {
         "locale": "en-LS",
-        "pattern": "¤ #,##0",
+        "pattern": "¤#,##0",
         "group": ",",
         "decimal": ".",
         "signPattern": "¤#,##0",
-        "alphaPattern": "¤ #,##0",
-        "source": "cldr"
+        "alphaPattern": "¤#,##0",
+        "source": "override"
       }
     },
     {
@@ -956,12 +956,12 @@
       ],
       "amountFormat": {
         "locale": "en-MW",
-        "pattern": "¤ #,##0",
+        "pattern": "¤#,##0",
         "group": ",",
         "decimal": ".",
         "signPattern": "¤#,##0",
         "alphaPattern": "¤ #,##0",
-        "source": "cldr"
+        "source": "override"
       }
     },
     {
@@ -1015,13 +1015,13 @@
         "MRU"
       ],
       "amountFormat": {
-        "locale": "ar-MR",
+        "locale": "fr-MR",
         "pattern": "#,##0 ¤",
-        "group": ".",
+        "group": " ",
         "decimal": ",",
         "signPattern": "#,##0 ¤",
         "alphaPattern": "#,##0 ¤",
-        "source": "cldr"
+        "source": "override"
       }
     },
     {
@@ -1467,7 +1467,7 @@
       ],
       "amountFormat": {
         "locale": "en-SS",
-        "pattern": "¤#,##0",
+        "pattern": "¤ #,##0",
         "group": ",",
         "decimal": ".",
         "signPattern": "¤#,##0",
@@ -1564,7 +1564,7 @@
         "decimal": ",",
         "signPattern": "#,##0 ¤",
         "alphaPattern": "#,##0 ¤",
-        "source": "override"
+        "source": "cldr"
       }
     },
     {
@@ -1651,12 +1651,12 @@
       ],
       "amountFormat": {
         "locale": "en-ZM",
-        "pattern": "¤ #,##0",
+        "pattern": "¤#,##0",
         "group": ",",
         "decimal": ".",
         "signPattern": "¤#,##0",
         "alphaPattern": "¤ #,##0",
-        "source": "cldr"
+        "source": "override"
       }
     },
     {
@@ -1684,12 +1684,12 @@
       ],
       "amountFormat": {
         "locale": "en-ZW",
-        "pattern": "¤ #,##0",
+        "pattern": "¤#,##0",
         "group": ",",
         "decimal": ".",
         "signPattern": "¤#,##0",
         "alphaPattern": "¤ #,##0",
-        "source": "cldr"
+        "source": "override"
       }
     }
   ]

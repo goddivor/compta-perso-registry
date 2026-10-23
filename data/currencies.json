@@ -27,6 +27,9 @@
       "localSymbols": {
         "AO": "Kz"
       },
+      "symbolSource": {
+        "AO": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
@@ -58,12 +61,15 @@
       "symbol": "BIF",
       "narrowSymbol": null,
       "localSymbols": {
-        "BI": "FBu"
+        "BI": "BIF"
+      },
+      "symbolSource": {
+        "BI": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "FBu",
+        "text": "BIF",
         "svg": "svg/currencies/BIF.svg",
         "font": "Poppins Bold"
       },
@@ -92,6 +98,9 @@
       "narrowSymbol": "P",
       "localSymbols": {
         "BW": "P"
+      },
+      "symbolSource": {
+        "BW": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -126,6 +135,9 @@
       "localSymbols": {
         "CD": "FC"
       },
+      "symbolSource": {
+        "CD": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
@@ -159,6 +171,9 @@
       "localSymbols": {
         "CV": "$00"
       },
+      "symbolSource": {
+        "CV": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
@@ -190,12 +205,15 @@
       "symbol": "DJF",
       "narrowSymbol": null,
       "localSymbols": {
-        "DJ": "Fdj"
+        "DJ": "FDJ"
+      },
+      "symbolSource": {
+        "DJ": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "Fdj",
+        "text": "FDJ",
         "svg": "svg/currencies/DJF.svg",
         "font": "Poppins Bold"
       },
@@ -224,6 +242,9 @@
       "narrowSymbol": null,
       "localSymbols": {
         "DZ": "DA"
+      },
+      "symbolSource": {
+        "DZ": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -258,10 +279,13 @@
       "localSymbols": {
         "EG": "EGP"
       },
+      "symbolSource": {
+        "EG": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "E£",
+        "text": "EGP",
         "svg": "svg/currencies/EGP.svg",
         "font": "Poppins Bold"
       },
@@ -290,6 +314,9 @@
       "narrowSymbol": null,
       "localSymbols": {
         "ER": "Nfk"
+      },
+      "symbolSource": {
+        "ER": "cldr"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -322,12 +349,15 @@
       "symbol": "ETB",
       "narrowSymbol": null,
       "localSymbols": {
-        "ET": "ብር"
+        "ET": "Birr"
+      },
+      "symbolSource": {
+        "ET": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "ETB",
+        "text": "Birr",
         "svg": "svg/currencies/ETB.svg",
         "font": "Poppins Bold"
       },
@@ -355,14 +385,17 @@
       "symbol": "GHS",
       "narrowSymbol": "GH₵",
       "localSymbols": {
-        "GH": "GH₵"
+        "GH": "GH¢"
+      },
+      "symbolSource": {
+        "GH": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "GH₵",
+        "text": "GH¢",
         "svg": "svg/currencies/GHS.svg",
-        "font": "Noto Sans Bold"
+        "font": "Poppins Bold"
       },
       "countries": [
         "GH"
@@ -389,6 +422,9 @@
       "narrowSymbol": null,
       "localSymbols": {
         "GM": "D"
+      },
+      "symbolSource": {
+        "GM": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -421,12 +457,15 @@
       "symbol": "GNF",
       "narrowSymbol": "FG",
       "localSymbols": {
-        "GN": "FG"
+        "GN": "GNF"
+      },
+      "symbolSource": {
+        "GN": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "FG",
+        "text": "GNF",
         "svg": "svg/currencies/GNF.svg",
         "font": "Poppins Bold"
       },
@@ -455,6 +494,9 @@
       "narrowSymbol": null,
       "localSymbols": {
         "KE": "Ksh"
+      },
+      "symbolSource": {
+        "KE": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -489,10 +531,13 @@
       "localSymbols": {
         "KM": "KMF"
       },
+      "symbolSource": {
+        "KM": "verified"
+      },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "CF",
+        "text": "KMF",
         "svg": "svg/currencies/KMF.svg",
         "font": "Poppins Bold"
       },
@@ -520,12 +565,15 @@
       "symbol": "LRD",
       "narrowSymbol": "$",
       "localSymbols": {
-        "LR": "$"
+        "LR": "L$"
+      },
+      "symbolSource": {
+        "LR": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "$",
+        "text": "L$",
         "svg": "svg/currencies/LRD.svg",
         "font": "Poppins Bold"
       },
@@ -554,6 +602,9 @@
       "narrowSymbol": null,
       "localSymbols": {
         "LS": "M"
+      },
+      "symbolSource": {
+        "LS": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -588,6 +639,9 @@
       "localSymbols": {
         "LY": "LYD"
       },
+      "symbolSource": {
+        "LY": "verified"
+      },
       "decimals": 3,
       "cashDecimals": null,
       "sign": {
@@ -620,6 +674,9 @@
       "narrowSymbol": null,
       "localSymbols": {
         "MA": "DH"
+      },
+      "symbolSource": {
+        "MA": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -654,6 +711,9 @@
       "localSymbols": {
         "MG": "Ar"
       },
+      "symbolSource": {
+        "MG": "verified"
+      },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
@@ -685,7 +745,10 @@
       "symbol": "MRU",
       "narrowSymbol": null,
       "localSymbols": {
-        "MR": "أ.م."
+        "MR": "MRU"
+      },
+      "symbolSource": {
+        "MR": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -720,6 +783,9 @@
       "localSymbols": {
         "MU": "Rs"
       },
+      "symbolSource": {
+        "MU": "verified"
+      },
       "decimals": 2,
       "cashDecimals": 0,
       "sign": {
@@ -751,12 +817,15 @@
       "symbol": "MWK",
       "narrowSymbol": null,
       "localSymbols": {
-        "MW": "MK"
+        "MW": "K"
+      },
+      "symbolSource": {
+        "MW": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "MK",
+        "text": "K",
         "svg": "svg/currencies/MWK.svg",
         "font": "Poppins Bold"
       },
@@ -784,12 +853,15 @@
       "symbol": "MZN",
       "narrowSymbol": null,
       "localSymbols": {
-        "MZ": "MTn"
+        "MZ": "MT"
+      },
+      "symbolSource": {
+        "MZ": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "MTn",
+        "text": "MT",
         "svg": "svg/currencies/MZN.svg",
         "font": "Poppins Bold"
       },
@@ -817,12 +889,15 @@
       "symbol": "NAD",
       "narrowSymbol": "$",
       "localSymbols": {
-        "NA": "$"
+        "NA": "N$"
+      },
+      "symbolSource": {
+        "NA": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "$",
+        "text": "N$",
         "svg": "svg/currencies/NAD.svg",
         "font": "Poppins Bold"
       },
@@ -851,6 +926,9 @@
       "narrowSymbol": "₦",
       "localSymbols": {
         "NG": "₦"
+      },
+      "symbolSource": {
+        "NG": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -883,12 +961,15 @@
       "symbol": "RWF",
       "narrowSymbol": "RF",
       "localSymbols": {
-        "RW": "RF"
+        "RW": "Frw"
+      },
+      "symbolSource": {
+        "RW": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "RF",
+        "text": "Frw",
         "svg": "svg/currencies/RWF.svg",
         "font": "Poppins Bold"
       },
@@ -917,6 +998,9 @@
       "narrowSymbol": null,
       "localSymbols": {
         "SC": "SCR"
+      },
+      "symbolSource": {
+        "SC": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -951,6 +1035,9 @@
       "localSymbols": {
         "SD": "SDG"
       },
+      "symbolSource": {
+        "SD": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
@@ -982,12 +1069,15 @@
       "symbol": "SLE",
       "narrowSymbol": null,
       "localSymbols": {
-        "SL": "Le"
+        "SL": "NLe"
+      },
+      "symbolSource": {
+        "SL": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "Le",
+        "text": "NLe",
         "svg": "svg/currencies/SLE.svg",
         "font": "Poppins Bold"
       },
@@ -1015,12 +1105,15 @@
       "symbol": "SOS",
       "narrowSymbol": null,
       "localSymbols": {
-        "SO": "S"
+        "SO": "SOS"
+      },
+      "symbolSource": {
+        "SO": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "S",
+        "text": "SOS",
         "svg": "svg/currencies/SOS.svg",
         "font": "Poppins Bold"
       },
@@ -1048,12 +1141,15 @@
       "symbol": "SSP",
       "narrowSymbol": "£",
       "localSymbols": {
-        "SS": "£"
+        "SS": "SSP"
+      },
+      "symbolSource": {
+        "SS": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "£",
+        "text": "SSP",
         "svg": "svg/currencies/SSP.svg",
         "font": "Poppins Bold"
       },
@@ -1082,6 +1178,9 @@
       "narrowSymbol": "Db",
       "localSymbols": {
         "ST": "Db"
+      },
+      "symbolSource": {
+        "ST": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
@@ -1116,6 +1215,9 @@
       "localSymbols": {
         "SZ": "E"
       },
+      "symbolSource": {
+        "SZ": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
@@ -1149,6 +1251,9 @@
       "localSymbols": {
         "TN": "DT"
       },
+      "symbolSource": {
+        "TN": "verified"
+      },
       "decimals": 3,
       "cashDecimals": null,
       "sign": {
@@ -1180,12 +1285,15 @@
       "symbol": "TZS",
       "narrowSymbol": null,
       "localSymbols": {
-        "TZ": "TSh"
+        "TZ": "TZS"
+      },
+      "symbolSource": {
+        "TZ": "verified"
       },
       "decimals": 2,
       "cashDecimals": 0,
       "sign": {
-        "text": "TSh",
+        "text": "TZS",
         "svg": "svg/currencies/TZS.svg",
         "font": "Poppins Bold"
       },
@@ -1213,12 +1321,15 @@
       "symbol": "UGX",
       "narrowSymbol": null,
       "localSymbols": {
-        "UG": "USh"
+        "UG": "UGX"
+      },
+      "symbolSource": {
+        "UG": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
       "sign": {
-        "text": "USh",
+        "text": "UGX",
         "svg": "svg/currencies/UGX.svg",
         "font": "Poppins Bold"
       },
@@ -1248,10 +1359,13 @@
       "localSymbols": {
         "ZW": "US$"
       },
+      "symbolSource": {
+        "ZW": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "$",
+        "text": "US$",
         "svg": "svg/currencies/USD.svg",
         "font": "Poppins Bold"
       },
@@ -1283,8 +1397,16 @@
         "CG": "FCFA",
         "CM": "FCFA",
         "GA": "FCFA",
-        "GQ": "FCFA",
+        "GQ": "XAF",
         "TD": "FCFA"
+      },
+      "symbolSource": {
+        "CF": "verified",
+        "CG": "verified",
+        "CM": "verified",
+        "GA": "verified",
+        "GQ": "verified",
+        "TD": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
@@ -1322,14 +1444,24 @@
       "symbol": "F CFA",
       "narrowSymbol": null,
       "localSymbols": {
-        "BF": "F CFA",
-        "BJ": "F CFA",
-        "CI": "F CFA",
-        "GW": "F CFA",
-        "ML": "F CFA",
-        "NE": "F CFA",
-        "SN": "F CFA",
+        "BF": "FCFA",
+        "BJ": "FCFA",
+        "CI": "FCFA",
+        "GW": "FCFA",
+        "ML": "FCFA",
+        "NE": "FCFA",
+        "SN": "FCFA",
         "TG": "FCFA"
+      },
+      "symbolSource": {
+        "BF": "verified",
+        "BJ": "verified",
+        "CI": "verified",
+        "GW": "verified",
+        "ML": "verified",
+        "NE": "verified",
+        "SN": "verified",
+        "TG": "verified"
       },
       "decimals": 0,
       "cashDecimals": null,
@@ -1376,6 +1508,11 @@
         "NA": "ZAR",
         "ZA": "R"
       },
+      "symbolSource": {
+        "LS": "cldr",
+        "NA": "cldr",
+        "ZA": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
@@ -1411,6 +1548,9 @@
       "localSymbols": {
         "ZM": "K"
       },
+      "symbolSource": {
+        "ZM": "verified"
+      },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
@@ -1442,12 +1582,15 @@
       "symbol": "ZWG",
       "narrowSymbol": null,
       "localSymbols": {
-        "ZW": "ZWG"
+        "ZW": "ZiG"
+      },
+      "symbolSource": {
+        "ZW": "verified"
       },
       "decimals": 2,
       "cashDecimals": null,
       "sign": {
-        "text": "ZWG",
+        "text": "ZiG",
         "svg": "svg/currencies/ZWG.svg",
         "font": "Poppins Bold"
       },
