@@ -76,7 +76,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
@@ -99,7 +100,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
@@ -121,7 +123,8 @@
         "svg": "svg/logos/bank/gti-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Dh67fVI7AB7ztiTnPptaRWLO-5jeaX0ymvh28XUcb3wyCgT-YUiJVZEwga8otPcQBMDWildLbENMeISq9-gCJPs=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d051edaa3fa70e27805277ed3fcb0cae5496f4d34eb80fc36c3e1ee26918a199"
       },
       "sources": [
         "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=BAN"
@@ -189,7 +192,8 @@
         "svg": "svg/logos/mobile-money/dobra-digital.svg",
         "source": "https://play-lh.googleusercontent.com/6pHej8Rk6kwi57zhWlNb-8O3EYbbmPrMmpnq5YKT6BhO7gidjJHTgqCXbFVGQWuBe62qb8IiQX5Oo15xS6kkU4Y=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7ba7176701d294542a748fc91d94de8ddf7673cb2783cae48a587e1b0aac925f"
       },
       "sources": [
         "https://www.bcstp.st/Instituicoes-Financeiras-Detalhes?cod=PSP",

@@ -54,7 +54,8 @@
         "svg": "svg/logos/bank/bcimr.svg",
         "source": "https://play-lh.googleusercontent.com/wXKfAn7ab3JMqng30TlCi6TSepvPbqg7uM81K7cBJV_8FYSDxIUZGgy48P_kOQ5F2iS-emToaz1hW7UxXdC7TQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "98adae1e1e922b751aa1ba180c6ed5b0595b87ecbe91818463f991c428daa0e6"
       },
       "sources": [
         "https://banque-centrale.dj/les-etablissements-agrees/"
@@ -192,7 +193,8 @@
         "svg": "svg/logos/bank/bank-of-china.svg",
         "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "75cf30731be24ad9e0e6d44848ee72afc4156e8c0133de77b711b45204869908"
       },
       "sources": [
         "https://banque-centrale.dj/les-etablissements-agrees/"
@@ -238,7 +240,8 @@
         "svg": "svg/logos/bank/banque-misr.svg",
         "source": "https://www.banquemisr.com/Assets/Images/bmp-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e31aecade7dedf5d90e2a2d16c3b28fb357a0d7ffdd39ac4f96fdafa44d94e2b"
       },
       "sources": [
         "https://banque-centrale.dj/les-etablissements-agrees/"
@@ -306,7 +309,8 @@
         "svg": "svg/logos/bank/salaam-african-bank.svg",
         "source": "https://play-lh.googleusercontent.com/fQo2sk4zIR-EWYQsG4uvHUgNDRltFAw7mle7zUoJO6CI_BXu6Z8pnw9kXRszHHDd711SvWahIstIweU6ARCtoLk=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6b5cc8e38514ded220031331bd1d108ab15fa4cf97d7c375d4a80291d1f43fef"
       },
       "sources": [
         "https://banque-centrale.dj/les-etablissements-agrees/"
@@ -352,7 +356,8 @@
         "svg": "svg/logos/mobile-money/d-money.svg",
         "source": "https://play-lh.googleusercontent.com/0GAHK2npJxs8Wd_YnqmDNzHeIXLa_KaZikbf_6ONOh_fCwztYC2BzQOtoxxJd0VCDT4S4NoU_CKuAu0EVi9Eeio=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c195c6ba6fd3f958560934dd0cae91a4f8300b60c127705d8e911b7941a86a0d"
       },
       "sources": [
         "https://banque-centrale.dj/les-etablissements-agrees/"
@@ -375,7 +380,8 @@
         "svg": "svg/logos/mobile-money/waafi.svg",
         "source": "https://play-lh.googleusercontent.com/WebSiCg8VA45ly2-olnTh4-o4ETPmfQYpfPYFL7tcscWqqU9KCswlMhMbIhkmPvXrQQpwt50-_JILGrPaEnxtw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "09babff16f8a5224eeb027d1c248527c08e03fa5f5c1a2397c82f06c052416ea"
       },
       "sources": [
         "https://banque-centrale.dj/les-etablissements-agrees/"

@@ -84,7 +84,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -107,7 +108,8 @@
         "svg": "svg/logos/bank/banque-atlantique.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "057657133f39142c74f348b314f075b27fbbafdbaff598af07c906073f3bdc96"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -198,7 +200,8 @@
         "svg": "svg/logos/bank/banque-nationale-pour-le-developpement-economique.svg",
         "source": "https://play-lh.googleusercontent.com/JHsbjIGqzMTKpRM57L58Ebh_z6dn922hJm1Hb6rC8ELJnEwuL1C9Qm27IOwmt5RMx3blmbTwotb8z5BK-kOlyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0ba517661b72e242847632a3adb21530cf867fda6e1bf0f66207a618714e6a7d"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -246,7 +249,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -270,7 +274,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -293,7 +298,8 @@
         "svg": "svg/logos/bank/cbao.svg",
         "source": "https://play-lh.googleusercontent.com/cGLGc9gbiqMApeaRa1EutCzwO1g51zEvIs3aixUmPgjDsuaUoD9j_K0hqLT2JoRLTPjs2Ah4I9R7A1PLZd9-AU8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f2011ecec356e3c1bcfa5ef6dce54f5fedd012f008807276322b639701dd1e9a"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -318,7 +324,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -344,7 +351,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -413,7 +421,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -438,7 +447,8 @@
         "svg": "svg/logos/bank/fbnbank.svg",
         "source": "https://play-lh.googleusercontent.com/X8N6kEAHBE_VC5XOHEeT6lDaJ1r9hZAnn65LFqL3qZfAskniKkf81B1eSBA_Gz_fWb27IukVkwq1gb1OLTPCdg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "81c896070f0c7611ec1ae9d7702b3e7211a5f462f014ef83f5886f225dea05f0"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -460,7 +470,8 @@
         "svg": "svg/logos/bank/la-banque-agricole.svg",
         "source": "https://play-lh.googleusercontent.com/rV7hk3JGJSJJLxJEuCFAGkAQWXyE9PSTXj8XUYZAnG1lxk_HDCHvFKis6p7PU5K8JpfhYqO6NdPPpGeP-ImE=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e3d73d8e89ca510a1777137828e2b35f4fabcfc5f56712af68bd237907dac684"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -482,7 +493,8 @@
         "svg": "svg/logos/bank/la-banque-outarde.svg",
         "source": "https://play-lh.googleusercontent.com/W8VNrl2ZqqCJ7VkiMIQeleDgr72I2Y83A9zPTFskcIL91Jf3Wz8oBkbfETYVhnTy6uglIKOi-MyV-v9Ouwfjzg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a9b5a71df2267ed8843e2b4c4402f900cc213ea2590a7ef0b468e3864d3111ee"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -506,7 +518,8 @@
         "svg": "svg/logos/bank/nsia.svg",
         "source": "https://play-lh.googleusercontent.com/SmOEyji-2Zn6a3S6XtUVwNe9U_Ce6bY3a1EaJBHFkPs4L5VYMtr59vhNdX_gCgrLhx2V4fqzW9VYlhjXq2UZ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7701aaccd32c53b9a420658e22cf3a167507ab5b13d87cfc08a325ed13d78ad8"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -532,7 +545,8 @@
         "svg": "svg/logos/bank/societe-generale.svg",
         "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "b68478e933c4aacda2f775cf30543698ad601e120ca7fc0c6d8567e75ca58365"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -556,7 +570,8 @@
         "svg": "svg/logos/bank/sunu.svg",
         "source": "https://www.sunubank.tg/sites/default/files/Logo-officiel-SUNUBank.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d3f02c63c5240c2e516f286cf8d965cc1edc99499652fbc5b6d0769c422fd7fd"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -581,7 +596,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -655,7 +671,8 @@
         "svg": "svg/logos/bank/bridge-bank-group.svg",
         "source": "https://play-lh.googleusercontent.com/FC9EncO-u-6xoC-58Ztg_x_4nceSovN9Lc783YQ240dYhjZzTEtRD8ET58iC9mTyaUE6_p8NNvy8f8B6445BxA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8fa74778fc208872d9ebdacd7b2e7e0cf87513664433399379a362189053a08f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -680,7 +697,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -704,7 +722,8 @@
         "svg": "svg/logos/bank/orange.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange_logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "9ae6cedea6811f226bb0f108dd1355511edd3940b644c64d0071d32db7b4be8d"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf"
@@ -731,7 +750,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -758,7 +778,8 @@
         "svg": "svg/logos/mobile-money/mixx-by-yas.svg",
         "source": "https://cdn-ilcckdn.nitrocdn.com/mJCoEvGkeejlEvJdEMQjiBVdPamvpGSY/assets/images/optimized/rev-1219e8c/yas.tg/wp-content/uploads/2024/10/jem_logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "4efe3e76329d5fc05c6f3e8c3de5647ddd0bb2679167dd5c758cebde4d9c809a"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -786,7 +807,8 @@
         "svg": "svg/logos/mobile-money/wave.svg",
         "source": "https://www.wave.com/img/nav-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2f8146b7b32d196e4aba60bf101bbf5d983295742d645f053795111386c365a3"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -809,7 +831,8 @@
         "svg": "svg/logos/mobile-money/quickpay.svg",
         "source": "https://play-lh.googleusercontent.com/NivXtQbefrpfPpLPkgtpUx-AQZXx_ZOeAcqlUvy5EShVPDlAqQy3b02nH_iwN_FBPc6w5bMBZ6j-M1ra6kyPCw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a1fca5bfcf96b261c4e4406c8eaf773ba05d039a79d80b8d638971051b817610"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -833,7 +856,8 @@
         "svg": "svg/logos/mobile-money/touchpoint.svg",
         "source": "https://play-lh.googleusercontent.com/QzUJW-n4_-UFgVrhqpFEPAvN6Ewm-TTDHylLCBhCrILhQD2EwMqwrhivUUgmhH2bUCmXQVmc0gUusDc-j1ZDGg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "23148f469129417e657e81745cc36237fcf9eab7036d1ef1b8ee8d003f57998f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -876,7 +900,8 @@
         "svg": "svg/logos/mobile-money/wizall.svg",
         "source": "https://play-lh.googleusercontent.com/hUXTCUlz9v7X4VEVWgQO05rdCPVnbkH588NTTgr3mN12jYt_tQVgMyBCS4kEfzrX1NgPowYzfwx7EFymE-E-lQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3b6cc13bafc6366e278905a9b780c43e6dd246bae5be3b1032a55bb6b903d237"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -922,7 +947,8 @@
         "svg": "svg/logos/mobile-money/coris-money.svg",
         "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bb472d2eb0a92bb02a536e9ac25ebea63687ff27927f7e14bcc6089160c83393"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -969,7 +995,8 @@
         "svg": "svg/logos/mobile-money/post-cash.svg",
         "source": "https://play-lh.googleusercontent.com/WY9e-UF-EePKcFLuZzwMPo05eIBtgw5AtWpmkfZgKV--jc8u_gfvguTep7aJqZKmwNMLC6lFQ0sANKSSnRL7Xg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0c07f27d71660e3ec839839cc769042179d7508b59f07ba4a03a5804443a2b37"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -991,7 +1018,8 @@
         "svg": "svg/logos/mobile-money/flash.svg",
         "source": "https://play-lh.googleusercontent.com/xemiqFey3iTZglLGA_7yBPL9vY0X5OnnW6lp-x6WflRuT_5J0p9JT3EQF2AHl4piOQOuBz2gAQqVnv241xSFOQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "74b5d6aa436e7f5cadebc73a26ad61937e86c3f4dabeff6975fdf61a4332267c"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -1038,7 +1066,8 @@
         "svg": "svg/logos/money-transfer/african-financial-agent.svg",
         "source": "https://play-lh.googleusercontent.com/R0otM_mR_51LOagjTQm9duv-yY9UvhoPEkxHrego9FPECHjbC7cjZJTPLsNM0CVtBOb8Qe04-XE_h7cFWwY5=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8bd9558b474e3e82a44ab4ce638735dcd3fe0a746662597823200f4f153a2396"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -1061,7 +1090,8 @@
         "svg": "svg/logos/wallet/bictorys.svg",
         "source": "https://play-lh.googleusercontent.com/4TO0-TCZKap8lVal_s9Rpjd66RE6S29WQSSkIrrJYuqbGRxi8jtTZoJgJql8g_8pdS7UgTsrWibSRU3H8kQLdxE=s512",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "2b2ca1a993d0cff362a3fa14d0e3d28e120e91c7827a1a267299e0577ba6bf7a"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -1136,7 +1166,8 @@
         "svg": "svg/logos/wallet/flutterwave.svg",
         "source": "https://play-lh.googleusercontent.com/zWjoyiUrwmVpVz6_LiqY7Ly14t49ZLmRenMiCfAL3xaMPo_OyFPT7KaNvreXe3UsY99DyVnq8N5cWmCkzOkucQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9029c5d005ad3d5df230b962cafd09cf9793e69405c5f7b298dbf7f796d55a78"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -1208,7 +1239,8 @@
         "svg": "svg/logos/wallet/samir-money.svg",
         "source": "https://play-lh.googleusercontent.com/L82Fb64leaqPG33gSNEDGV1Aux4Pel4tAKuxDvgtkfNAOMKjW3-y-cboUmO1nRl6L5ISZiiPXoYV7u0Sq0fJXKQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "961aa3e6fe719b5a5cecd9adade9a8302aa740c8c5ef7cbe656f4b868f4f3d83"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/7%20-%20Liste%20S%C3%A9n%C3%A9gal_2026.pdf",
@@ -1303,7 +1335,8 @@
         "svg": "svg/logos/wallet/paydunya.svg",
         "source": "https://paydunya.com/refont/images/logo/blue_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "955c693f28c5c4d2aca53315ae53c4f529bf5508d5c783efd1e02c45883ce60f"
       },
       "sources": [
         "https://paydunya.com"
@@ -1379,7 +1412,8 @@
         "svg": "svg/logos/microfinance/cofina.svg",
         "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "497829dffe013e335509bd504940ba2597c292428bb2c53cb8812c81a5a5920c"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
@@ -1404,7 +1438,8 @@
         "svg": "svg/logos/microfinance/pamecas.svg",
         "source": "https://play-lh.googleusercontent.com/OjY7lHgwsk_KJm-Zk4V-quXicK5iyki1HXkXAJraYoxuLAnK_SIhEDdks1P9zuST0DtmOgy4Nag26I9ZsJXKIg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "258e86a671bd432900f86b530bcbcaa24a0f01c3ac3b1adf9b329bf8ad35cdee"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
@@ -1431,7 +1466,8 @@
         "svg": "svg/logos/microfinance/acep.svg",
         "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6b71ba1e6524c461ab919286632fbf460c56735c3bc8dd22c9f8fa971f040d9f"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
@@ -1555,7 +1591,8 @@
         "svg": "svg/logos/microfinance/credit-kash.svg",
         "source": "https://www.creditkash.sn/storage/2025/04/CKSN-scaled.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3eac8813149dd5e4d1e676b9373617f0dc3ecd2db0f4e0142e5ca9ee69d62c67"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
@@ -1604,7 +1641,8 @@
         "svg": "svg/logos/microfinance/mectrans.svg",
         "source": "https://mectrans.sn/wp-content/uploads/2018/03/cropped-cropped-logo13-1-150x133-1.gif",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1fe07ac4d4f063ea7371189efa4dad98f07fb178c531ce732f6cf7e856d226f7"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",
@@ -1698,7 +1736,8 @@
         "svg": "svg/logos/microfinance/urmecs.svg",
         "source": "https://play-lh.googleusercontent.com/PMe6RFA9AcP0h0oF6ph7Zox2DuR02t8WiH_oZ3OW39YlMDmHfEhZ2qtE72K6mylSFJhZ-Q8T4bMtC-vvdG7E=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b6dfa4920243e8fbe63e965833bcbb56e76900a476df3e7c36f833ad89a792b8"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20%20DU%20SENEGAL_2024.pdf",

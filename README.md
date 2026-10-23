@@ -59,7 +59,8 @@ Add an entry to `operators` in `data/operators/<ISO2>.json`, formatted like the 
     "svg": "svg/logos/bank/orabank.svg",
     "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
     "method": "redrawn",
-    "background": null
+    "background": null,
+    "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
   },
   "sources": [
     "https://www.bceao.int/sites/default/files/inline-files/8%20-%20Liste%20Togo_2026.pdf"
@@ -115,7 +116,8 @@ starts with `intl-` and no `presence`, plus `availability` (here, PayPal):
     "svg": "svg/logos/wallet/paypal.svg",
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PayPal_2024.svg",
     "method": "wikimedia-svg",
-    "background": "light"
+    "background": "light",
+    "sha256": "e89b9e683ed1ca3a7e8f0de60a5e6dbd00f2704cda0a611cd6ec5cb591a3177c"
   },
   "sources": [
     "https://www.paypal.com/us/webapps/mpp/country-worldwide"
@@ -157,7 +159,9 @@ starts with `intl-` and no `presence`, plus `availability` (here, PayPal):
   converted to paths, no script, no event attribute, no link outside the file, 128 KB at most.
 - **Reference it** from the operator's `logo`: `svg` is the path, `source` the URL of the original,
   `method` one of `official-svg`, `wikimedia-svg`, `vectorized`, or `redrawn`, and `background` is
-  `"dark"` for a white mark, `"light"` for a black one, or `null` when it works on both. A logo that no
+  `"dark"` for a white mark, `"light"` for a black one, or `null` when it works on both, and `sha256`
+  is the SHA-256 of the SVG file's bytes in lowercase hex, required: compute it with
+  `sha256sum svg/logos/<type>/<brand>.svg` and update it whenever the file changes. A logo that no
   operator uses is rejected.
 
 ### 🚫 Out of scope
@@ -169,6 +173,7 @@ starts with `intl-` and no `presence`, plus `availability` (here, PayPal):
 ## 📜 License
 
 Data: MIT. Flags come from flag-icons (MIT). Currency signs are outlined from Poppins and
-Noto Sans (SIL Open Font License 1.1). The XOF sign is the emblem of the BCEAO,
-included only to identify the currency. Operator logos are trademarks of their owners,
+Noto Sans (SIL Open Font License 1.1); the Cape Verdean cifrão is built from a Noto Sans "S". The
+XOF, XAF and MZN signs are the emblems of the BCEAO, the BEAC and the Banco de Moçambique, included
+only to identify the currency. Operator logos are trademarks of their owners,
 included only to identify them; an owner may ask for removal.

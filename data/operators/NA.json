@@ -30,7 +30,8 @@
         "svg": "svg/logos/bank/bank-windhoek.svg",
         "source": "https://play-lh.googleusercontent.com/SePU3Dnm3aQ6FnhUI-LRHjN06Pe4TI_oI7keL78t8ZzrjYA0FUGzpOwbXmJww7K9gTOK2IbCbLoUJguaUB4dJg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8f6ed0de2393c5e84eca11997c11df69c6f9e445b68be01c647a5bafe377bfa9"
       },
       "sources": [
         "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -56,7 +57,8 @@
         "svg": "svg/logos/bank/fnb.svg",
         "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "5d761abad68794eda0e3bc16d2ef63bd84662247b2ad38da7aa1c2a763c11b2f"
       },
       "sources": [
         "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -80,7 +82,8 @@
         "svg": "svg/logos/bank/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -103,7 +106,8 @@
         "svg": "svg/logos/bank/nedbank.svg",
         "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "131fb7682f7db40c5cf35b9bc0c6689a2f98f1c7f669c436b08ae1355b1616cd"
       },
       "sources": [
         "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -127,7 +131,8 @@
         "svg": "svg/logos/bank/bank-bic.svg",
         "source": "https://www.bankbic.na/application/images/logos/logo_SIGNATURE.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "3a72df2884fe0a5c9b4aeae903524635434539b1d0a77558b00e3c5552c9b1f7"
       },
       "sources": [
         "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -152,7 +157,8 @@
         "svg": "svg/logos/bank/letshego.svg",
         "source": "https://www.letshego.com/sites/default/files/logo_0.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4878b971bf98a1dbe670bc538fa567bbc98fcc9c5315034ab722d5c2fe7cb97b"
       },
       "sources": [
         "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -178,7 +184,8 @@
         "svg": "svg/logos/bank/banco-atlantico.svg",
         "source": "https://play-lh.googleusercontent.com/OExxeX0Ic9KwjVix2Klgqbq-oGNiI1O-X9aaPx3BWktXDV7x5sVNBLv3aohymDUR6D3sGDbZvWo4_IOvGnULew=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c8f29dd93c0a8099d04d1dc54b8647e22b67b6ed1cbca6aadb4a095862ef29e9"
       },
       "sources": [
         "https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx",
@@ -202,7 +209,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.bon.com.na/Bank/National-Payment-System/National-Payment-System-Participants.aspx",
@@ -252,7 +260,8 @@
         "svg": "svg/logos/mobile-money/mtc-maris.svg",
         "source": "https://play-lh.googleusercontent.com/PG5tJIWZnCq5bParwjR20icagrwS08ugzsC3DrXSLsFyhI8Mx34IsbHwLmvlJT6NrqlRQ1SB7MpT6NmsEEjwxAk=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "29e7e2d72bd1764dc4a6259762943b7acb236fbdafe2e2e6e7a84c3bd26f7f08"
       },
       "sources": [
         "https://www.bon.com.na/Bank/National-Payment-System/National-Payment-System-Participants.aspx",
@@ -277,7 +286,8 @@
         "svg": "svg/logos/wallet/fnb-ewallet.svg",
         "source": "https://www.fnbnamibia.com.na/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959767000",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "5d761abad68794eda0e3bc16d2ef63bd84662247b2ad38da7aa1c2a763c11b2f"
       },
       "sources": [
         "https://www.namibian.com.na/e-money-interoperability-is-coming/",
@@ -302,7 +312,8 @@
         "svg": "svg/logos/wallet/bank-windhoek-easywallet.svg",
         "source": "https://www.bankwindhoek.com.na/_catalogs/masterpage/BWHK/images/SiteLogo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3c6f7cd2e5a333fcd476c5d9e03ae7d83b9a66e6100ccc1c65a7685afd155cec"
       },
       "sources": [
         "https://namibiansun.com/news/bank-windhoek-launches-easywallet",
@@ -327,7 +338,8 @@
         "svg": "svg/logos/wallet/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.namibian.com.na/e-money-interoperability-is-coming/",
@@ -352,7 +364,8 @@
         "svg": "svg/logos/bank/nampost.svg",
         "source": "https://play-lh.googleusercontent.com/kgfpdHTFDW0E1Jj7lmPh6nL8jhurEE4g2uVPTAHmba8sMr1WMGLkiCLtr3wxuh8jDkQ3pmAJ2eBylLAoMddr97Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1ec02cdeb6b8892edd9546abde0e2f572a2e8e55dbe07767879d9f431b2bf553"
       },
       "sources": [
         "https://www.bon.com.na/Bank/National-Payment-System/National-Payment-System-Participants.aspx",

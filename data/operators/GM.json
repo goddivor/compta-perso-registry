@@ -31,7 +31,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -54,7 +55,8 @@
         "svg": "svg/logos/bank/agib-bank.svg",
         "source": "https://play-lh.googleusercontent.com/2u9Iiyw7B6thePmVtXwwROnfQzspOfWGjGDkUzAbqh5dj-3E5Rgdzrq-ZQTe7Ko9FE2QPq6l-7JXfdpVyC_HUQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b93ce108c75824c4c32490b5fac925039c44a6b78990880ed7eb15d95cd19e97"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -78,7 +80,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -102,7 +105,8 @@
         "svg": "svg/logos/bank/bloom-bank-africa.svg",
         "source": "https://bloombankafrica.com/assets/55efbb96367fe0d2f417854c3b5a19110fd5411c-C85geNzK.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "1351426a9b8dad4af751e66db73d3d3bedbc6f73fdc1017c0d92489186d9497a"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -125,7 +129,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -174,7 +179,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -197,7 +203,8 @@
         "svg": "svg/logos/bank/mega-bank.svg",
         "source": "https://megabankgambia.gm/wp-content/uploads/2023/04/megabank-logo.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "921538735d8335de50f00bfcea1f917c30cde7fd5ada78430b81f128938575d1"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -244,7 +251,8 @@
         "svg": "svg/logos/bank/vista.svg",
         "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "bc4ca0fa9c8009754b018f18cabe9476a5720abd3ef4609b7b9b745a0788c387"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -267,7 +275,8 @@
         "svg": "svg/logos/bank/zenith.svg",
         "source": "https://play-lh.googleusercontent.com/RIcMVbshRar85KSNG8-JuIEzLffjIAsjxxVXJ0msQeVDJ7RH_8qxsxGDfsI1rt21N545mKZz27I4FFAhAj7eJMc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f12f74bd49e336a8dd4bbaadd6eaddd3cd6591e6708a1a7b529d90ed4c585a99"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-banks"
@@ -291,7 +300,8 @@
         "svg": "svg/logos/mobile-money/afrimoney.svg",
         "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "03a453366d186b5a872d2470ad35df1a1a8acb62bdf278a2a2d8eeb28dbb4a0f"
       },
       "sources": [
         "https://www.cbg.gm/mobile-money",
@@ -316,7 +326,8 @@
         "svg": "svg/logos/mobile-money/qmoney.svg",
         "source": "https://www.qcell.sl/themes/demo/assets/img/IMAGES/logo.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "76cf7775f5937702bd86a49010872a29b859cf3489c7f8cbcbe17b0a035ee54a"
       },
       "sources": [
         "https://www.cbg.gm/mobile-money",
@@ -341,7 +352,8 @@
         "svg": "svg/logos/mobile-money/wave.svg",
         "source": "https://www.wave.com/img/nav-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2f8146b7b32d196e4aba60bf101bbf5d983295742d645f053795111386c365a3"
       },
       "sources": [
         "https://www.cbg.gm/fintech"
@@ -365,7 +377,8 @@
         "svg": "svg/logos/mobile-money/comcash.svg",
         "source": "https://www.comium.gm/assets/img/logo-rd.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "ed73bf957d3b787f6b934c1c9bf349f67020efe1f200ed968837293b4dddd163"
       },
       "sources": [
         "https://www.cbg.gm/fintech"
@@ -411,7 +424,8 @@
         "svg": "svg/logos/wallet/aps-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/Ap_G8y-IRjrkAMzJdiBNKuGGAJuZJ7zL4kbQcI5fA6Lah5WNWhBLz-rdf_xAfqazJkzZJzIacDPEoPtlWEAaJXk=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "68b3c8b9a88d3e08c47819f97301e0743125cc6cb57decf4461ef3ffc430345e"
       },
       "sources": [
         "https://www.cbg.gm/fintech",
@@ -435,7 +449,8 @@
         "svg": "svg/logos/wallet/s-pay.svg",
         "source": "https://play-lh.googleusercontent.com/dgQ9BfF4QrIKS5v2CAugglPsfhY-A4-gdKYsYKq1nVW2Q0vg_rN58zKlfKnCDJWms6ydcTlxuXPkBs8MY2kyJw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f5994f7b1441c3476a8c59507fbadda8e176373937a4168e2be8469f62233f5d"
       },
       "sources": [
         "https://www.cbg.gm/fintech"
@@ -479,7 +494,8 @@
         "svg": "svg/logos/wallet/i-pay.svg",
         "source": "https://play-lh.googleusercontent.com/Jx_deyRWSs90TRnrtI4e9rdxE6X0hUC5a8VdhwAaY7ZeDuXTQ-0eUxxy6M-PICzkI5hBuwHxCSj9L1xxshyPyg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2eaae00c13bee3d2615129cf29d4ca313eaedb1846b9e7522708f39a33bf3f9f"
       },
       "sources": [
         "https://www.cbg.gm/fintech"
@@ -501,7 +517,8 @@
         "svg": "svg/logos/wallet/nafa-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/bOD_D-kJSrxBxEodh9mAkCb3hdIlMr9Rmx7H8ijDdFobJNLYcU1ryF1DPplRThDMLU2upfAwiIWNJUPV3rQq=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "dcce10ca65a9059add409bdb3309606ad95fb5fd89cf8050edd575f496581368"
       },
       "sources": [
         "https://www.cbg.gm/fintech",
@@ -524,7 +541,8 @@
         "svg": "svg/logos/wallet/jula-wallet.svg",
         "source": "https://play-lh.googleusercontent.com/2QJTYdX1AG5-VjYpMmR8W9xQZE1ZajIC3SY6LGXYttFsZLuwwfaUTcZjNARqQ3SCa4DNs86XVJh-2USLLittsg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e44de4711f493a87116e10f34b84d11592485371705aa77d7276f515d72ba0e5"
       },
       "sources": [
         "https://www.cbg.gm/fintech"
@@ -571,7 +589,8 @@
         "svg": "svg/logos/wallet/afropay.svg",
         "source": "https://play-lh.googleusercontent.com/puEOeVWi2Kv2ITySiSOx2FY0OjLvCF7vsaDiHB-HR4HiWb5eUD51anFpcmxQG1jlFN44MSkcWWoen-NP-g1auw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b783a0dbf9c364f803cfcc22298b909052d348388e943b9965cce94f05aea9ad"
       },
       "sources": [
         "https://www.cbg.gm/fintech"
@@ -616,7 +635,8 @@
         "svg": "svg/logos/wallet/taybull-soft.svg",
         "source": "https://play-lh.googleusercontent.com/ynsHUB14RCSxsBa0CNXY-9WmENoJGwCzkD7lvY-_gfNVsTfHvbzY2yPs3d1OFs_e9K06nbr5bICDWmZD5QT_CQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a613555a960b4f9e4910c5e6a3e1f64b96e990c6fb3affbcf18cc708f0f6ab4a"
       },
       "sources": [
         "https://www.cbg.gm/fintech"
@@ -731,7 +751,8 @@
         "svg": "svg/logos/microfinance/reliance-financial-services.svg",
         "source": "https://play-lh.googleusercontent.com/SCJzldH-9D9Ds1zZbP1qt6dkoZ-feAANN_4-wNnhfP2_59gMS_eMKn9SToQJq1YbGXiNckx1G7triruLveVDCQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cd7112e0c810547630e0190297410b8f64f5c83ff824ece6cc30dfa2da88610e"
       },
       "sources": [
         "https://www.cbg.gm/list-of-licensed-microfinance-institutions"

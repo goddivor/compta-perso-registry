@@ -31,7 +31,8 @@
         "svg": "svg/logos/bank/absa.svg",
         "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5cd8df6a9195374ae64346bee50330b288654e5d04019c06af79c291155d53fb"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -56,7 +57,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -80,7 +82,8 @@
         "svg": "svg/logos/bank/bank-of-baroda.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89d45e55e2d81aacdbaeb4a202693cc6dffa4e71f8fe2cae6b61aadde4122c1b"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -154,7 +157,8 @@
         "svg": "svg/logos/bank/centenary-bank.svg",
         "source": "https://play-lh.googleusercontent.com/AWD51d8OyF8wPzU8uZglvKZgsbx7O1rLl_O_IybDqbW1PpnNgTLBh6jdIIUYWvKDnKEQdwyG7pKLnuWf7GWkz9Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5240c1a401fca382d08bdd1b88a626a7f94a4036855d1f736e92cf25a0e124d1"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -179,7 +183,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -227,7 +232,8 @@
         "svg": "svg/logos/bank/dfcu-bank.svg",
         "source": "https://play-lh.googleusercontent.com/DjyUK0ByqcJWYxWwvTYzlX4dujz2Fls7R_CnVdZ65uR3Nm2D64rwfNfob-eNagcwOGEo3LFkjdKxJ1LZX3kv5g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "dc190a018769cc3f117bc06b42acd2c83bdf11b43377381764ca846e74e808ac"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -252,7 +258,8 @@
         "svg": "svg/logos/bank/dtb.svg",
         "source": "https://dtbafrica.com/storage/uploads/b022ae98-1973-4e4e-93e0-9ebf891f3d86/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "52a098ddc259e23e93344ed3e3df9c5f3670cf953a0a6b80f2ed5d563fc55d6e"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -276,7 +283,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -301,7 +309,8 @@
         "svg": "svg/logos/bank/equity.svg",
         "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "08967ed8f1bbc66a59410cc9a7a6359d99ecfaad2818e0081338f789bc31ab4b"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -349,7 +358,8 @@
         "svg": "svg/logos/bank/kcb.svg",
         "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "42b35d053d25f546b515599e6ac55c450a9dd15f83ab995e8127c7c87cded0d6"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -373,7 +383,8 @@
         "svg": "svg/logos/bank/ncba.svg",
         "source": "https://ncbagroup.com/wp-content/uploads/2024/08/ncba-logo-dark.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "91decd532868ceb879526f9955da7ea326a0228d50a9ce645f44d8bac3ee3620"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -399,7 +410,8 @@
         "svg": "svg/logos/bank/i-and-m.svg",
         "source": "https://play-lh.googleusercontent.com/LfvJcNwaJXj9Cr5YOaDBmkX6Xfy4c37-NxkuA0F2S81vLC_n9UIBEGtAR-avvRnVlz78eWvsejyQd7pQWTfsLg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e314497d7de5ba6df3f281c8c2910bb5cd32a26b2a13d87e0e1bd5b2976c1f60"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -424,7 +436,8 @@
         "svg": "svg/logos/bank/stanbic-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -450,7 +463,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -474,7 +488,8 @@
         "svg": "svg/logos/bank/tropical-bank.svg",
         "source": "https://play-lh.googleusercontent.com/OC6wtpMLA8rBgovvpmTtUKh9wbCtqi2sn2UWq7bcWTJuhcBa37WV6Iu2m0xizB-GMgx6bRb8cBym_F_E3vk8ag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3d5a2084e1247f87b99059f561d66234d21ac23ef70c94cffa0473a070556eab"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -499,7 +514,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -525,7 +541,8 @@
         "svg": "svg/logos/bank/pearl-bank.svg",
         "source": "https://play-lh.googleusercontent.com/P_HA_e668e95MQ03u--naWyQKr-EfX3AwjOiremf2b64OrMHmweeyXxnHdkEI-tqklU3t5gmj7B_0bFEhjqxD0g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1860807732e38cc70bd78b0752f20b488dac50d99784981f3a01897b784dabb8"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -573,7 +590,8 @@
         "svg": "svg/logos/bank/brac.svg",
         "source": "https://play-lh.googleusercontent.com/btF1p04mwutRKGGslxJEB5q8rVK7MHrvYLVUv8SGPizBZ9X3X59rz_fbpYk_ojm4Pp0Zu7VToK5J_EcIIqWF=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "129e62c512f764a2563d251d02d9ae6c9bee817ba52eb2b0592784576c94f907"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -599,7 +617,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -672,7 +691,8 @@
         "svg": "svg/logos/bank/salaam-bank.svg",
         "source": "https://play-lh.googleusercontent.com/aY_L8Ub4fNN5vx3Vp9VfHlVWuwE2lUodhJdCBgLMuBQM1x-vxoFjRyHZ-sWFDGobKZoFIo5xJ91ocdy00ePn8g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "47ed907d956bf0e598820a235805a64a77a43fb375bb68e94fa109254cf83a12"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -790,7 +810,8 @@
         "svg": "svg/logos/microfinance/ebo-sacco.svg",
         "source": "https://play-lh.googleusercontent.com/bhcHRtmfuNbg-GekCrMDaSkmLjJ99XI5NzVMFsQaScsPqNy4PIigCe1JoIbI09V7WJW0-x0xIUXR-ibmsgm0sQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f295ace640db0124d3d7eef7bcf546606e847e8ab2d254b87d2a9ec23717a526"
       },
       "sources": [
         "https://bou.or.ug/api/supervision?populate=supervisedInstitutions.category.items",
@@ -1030,7 +1051,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1055,7 +1077,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1080,7 +1103,8 @@
         "svg": "svg/logos/mobile-money/lycamoney.svg",
         "source": "https://play-lh.googleusercontent.com/091J6012SwezB56JCpJtanJ5HYJmnNJK--IngbEcJ5qzyemoE1ndz-GEaIArMGNUyX1FqFSLGOjzKzVu8rLM_kU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b8d174d56a663d611e4f90520ef2acf288106fdf875ed598b7bce5f9113fd9b4"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1129,7 +1153,8 @@
         "svg": "svg/logos/mobile-money/wave.svg",
         "source": "https://www.wave.com/img/nav-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2f8146b7b32d196e4aba60bf101bbf5d983295742d645f053795111386c365a3"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1154,7 +1179,8 @@
         "svg": "svg/logos/wallet/safeboda.svg",
         "source": "https://play-lh.googleusercontent.com/E6JhHfMvi9XsYsUKCtLjcvt9HYXkAws22VIH1Nn-ToPBZZ0NbPhADslE84CUd3UQb7Ob3jGaLYBHpb4fSycqxbw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4bbf97aad728120a9b1725ef512e8fbdfd4330183c131a6c3f969820472d9361"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1179,7 +1205,8 @@
         "svg": "svg/logos/wallet/xente.svg",
         "source": "https://play-lh.googleusercontent.com/jkJesINW63h1ip8uSjUeBS3oAsfpS-jbnq6uN127449ZuUvgGC2jxa2hhG1YFAW93en9qpZKMUpRk0G2EU7FQck=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a89b4a1311c94a741f5a63b5aecdddbd4791f0aed07bfe482546d12bfefc7eb1"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1229,7 +1256,8 @@
         "svg": "svg/logos/wallet/wendi.svg",
         "source": "https://play-lh.googleusercontent.com/FH7R-_fpx2EDYHHcM8in0ejEyKsWRDjJNjZ779PyqG9Pdx-Z8oGQcCRhBnorIsZFJbKHFfLyjReB8iPCd5fKbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a688513adb056f36854d47487da1eef1f91e20aba2bd0d58e565d48d4a285086"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1255,7 +1283,8 @@
         "svg": "svg/logos/wallet/flexipay.svg",
         "source": "https://play-lh.googleusercontent.com/6LzXNzw6zpv_t82G5Hz-s3xmfya73j1yg7mNyWO_h5VdH2yyPN0uFxBm5xPleWm4AAJAcMv9CBSGDZp2PxqV=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "33a82ee923a63381edf6eba1126e79633c2b4cf099edd25ed837dfd6add2168d"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1280,7 +1309,8 @@
         "svg": "svg/logos/wallet/rukapay.svg",
         "source": "https://play-lh.googleusercontent.com/ZMrEnGJnxU8i7r-FFTkcHje06rvNlNMKfFXgaZWUpKB3TVLszNCkCC-29S7qZGQBomvDazjWoyZZzyUs1EyD=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "88ee0809d49a9c0e1484eda279cafbfb404ac3b97a77e0bc826fd291b962dedc"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",
@@ -1306,7 +1336,8 @@
         "svg": "svg/logos/wallet/pesapal.svg",
         "source": "https://play-lh.googleusercontent.com/-ONulqmJ_Q8DiFk720D8m8lPCXP7cWygCn-CBlElNW3e162lwBx8g3o666AMQZeeGwresCbsvbr1rrMZQ8q5uw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ebe754b752eccd8f612d4e28c19e8b7bebe85f6e881df316e9fe9d6d6f9bb035"
       },
       "sources": [
         "https://bou.or.ug/api/financial-infrastructure-and-innovation?populate=license.licensedList.category",

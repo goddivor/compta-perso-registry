@@ -34,7 +34,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
@@ -79,7 +80,8 @@
         "svg": "svg/logos/bank/banque-atlantique.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "057657133f39142c74f348b314f075b27fbbafdbaff598af07c906073f3bdc96"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
@@ -193,7 +195,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
@@ -215,7 +218,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
@@ -287,7 +291,8 @@
         "svg": "svg/logos/bank/cbao.svg",
         "source": "https://play-lh.googleusercontent.com/cGLGc9gbiqMApeaRa1EutCzwO1g51zEvIs3aixUmPgjDsuaUoD9j_K0hqLT2JoRLTPjs2Ah4I9R7A1PLZd9-AU8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f2011ecec356e3c1bcfa5ef6dce54f5fedd012f008807276322b639701dd1e9a"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
@@ -311,7 +316,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
@@ -335,7 +341,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf"
@@ -358,7 +365,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
@@ -384,7 +392,8 @@
         "svg": "svg/logos/mobile-money/zamani-cash.svg",
         "source": "https://play-lh.googleusercontent.com/kt8wLnUMoz26ry1DVrU2vjBOFoCETzvco5fJM5LWy_3LdWWtTJzWaxGRVl_0SnAP1NJrIGyXEY-8CtGnUZu5sGs=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "78ed70115372993174d85090ac3430ad55257e2678ced2c9e5ba24e5f0c6b45a"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique",
@@ -410,7 +419,8 @@
         "svg": "svg/logos/mobile-money/moov-flooz.svg",
         "source": "https://www.moov-africa.ne/wp-content/uploads/2021/04/logo-moov-africa_niger-1.png",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "54f060e017b00f9a043c5f1cb05d684c855e34cfa8d09f60beb92e3a40547439"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -433,7 +443,8 @@
         "svg": "svg/logos/mobile-money/wave.svg",
         "source": "https://www.wave.com/img/nav-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2f8146b7b32d196e4aba60bf101bbf5d983295742d645f053795111386c365a3"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -455,7 +466,8 @@
         "svg": "svg/logos/mobile-money/coris-money.svg",
         "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bb472d2eb0a92bb02a536e9ac25ebea63687ff27927f7e14bcc6089160c83393"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -478,7 +490,8 @@
         "svg": "svg/logos/mobile-money/mynita.svg",
         "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bef468ce2b4ed933bcd4f540fabb28ffbe8b0a676acac55dfb88a1de7c7b3dd9"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -498,7 +511,8 @@
         "svg": "svg/logos/mobile-money/amanata.svg",
         "source": "https://play-lh.googleusercontent.com/VXDu6FNrz0TrAR0VZ-txL1oKfUTTgfUTB8Rl6VgPTA83PSiW458bo7FECzaiPQIg7LFbg8dsEDT22R2iDfxFrSM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "531f30c991efd7f7410973d5812b3906cbda8c64eae9048e1fbd76749efe0fa8"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -521,7 +535,8 @@
         "svg": "svg/logos/mobile-money/al-izza-business-pay.svg",
         "source": "https://play-lh.googleusercontent.com/Ksf499CepGGLod-8xXjIGNIwrLbHSuTCj3MpR454_KqDNHiixCwK8HzkGYzm2-TLdEh2BvzgmaPJC3YtvCo-=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7720192e44f2106830dc5c74c7691ae466e37a83a629e2d7871664612235a893"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -544,7 +559,8 @@
         "svg": "svg/logos/money-transfer/nita.svg",
         "source": "https://play-lh.googleusercontent.com/XmjOjGGRqwZa7AFgXjiV_WpH-0DBl7X6X9sxLOigbQR_0zvraVoozgJE9QwYs1Hd2ino1s5g3jnCtRMTeL1Qug=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bef468ce2b4ed933bcd4f540fabb28ffbe8b0a676acac55dfb88a1de7c7b3dd9"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
@@ -593,7 +609,8 @@
         "svg": "svg/logos/money-transfer/amana-transfert.svg",
         "source": "https://play-lh.googleusercontent.com/VXDu6FNrz0TrAR0VZ-txL1oKfUTTgfUTB8Rl6VgPTA83PSiW458bo7FECzaiPQIg7LFbg8dsEDT22R2iDfxFrSM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "531f30c991efd7f7410973d5812b3906cbda8c64eae9048e1fbd76749efe0fa8"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/6%20-%20Liste%20Niger_2026.pdf",
@@ -694,7 +711,8 @@
         "svg": "svg/logos/microfinance/acep.svg",
         "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6b71ba1e6524c461ab919286632fbf460c56735c3bc8dd22c9f8fa971f040d9f"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf",
@@ -738,7 +756,8 @@
         "svg": "svg/logos/microfinance/asusu.svg",
         "source": "http://www.asusu-sa.com/theme/asusu/img/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e68dce4106377333ed2aa63bcc15165bc178eb1a8dd099fc5743267b12ba7ad2"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20NIGER_2024vf.pdf",

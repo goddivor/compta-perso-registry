@@ -28,7 +28,8 @@
         "svg": "svg/logos/bank/cdh-investment-bank.svg",
         "source": "https://cdh-malawi.com/wp-content/uploads/2025/04/Group.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "8635549eac31bb37fd983eaaaf9d94ac8a552dc0ebd315db3ce31f7173bcc460"
       },
       "sources": [
         "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
@@ -50,7 +51,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
@@ -99,7 +101,8 @@
         "svg": "svg/logos/bank/first-capital-bank.svg",
         "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "ce60cfc24d82605f163164dd91263f53efb996d346a2837cae561e21eacb6474"
       },
       "sources": [
         "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
@@ -169,7 +172,8 @@
         "svg": "svg/logos/bank/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
@@ -193,7 +197,8 @@
         "svg": "svg/logos/bank/centenary-bank.svg",
         "source": "https://play-lh.googleusercontent.com/AWD51d8OyF8wPzU8uZglvKZgsbx7O1rLl_O_IybDqbW1PpnNgTLBh6jdIIUYWvKDnKEQdwyG7pKLnuWf7GWkz9Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5240c1a401fca382d08bdd1b88a626a7f94a4036855d1f736e92cf25a0e124d1"
       },
       "sources": [
         "https://www.rbm.mw/Supervision/BankSupervision/?activeTab=BASURegisteredBanks"
@@ -217,7 +222,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.mamamoney.co.za/blog/money-transfers-to-malawi-understanding-mobile-wallets-and-cash-pickup-options",
@@ -243,7 +249,8 @@
         "svg": "svg/logos/mobile-money/tnm-mpamba.svg",
         "source": "https://play-lh.googleusercontent.com/dGgGkSFso-mdFgXbKWR8GS8SPMmIHssZWpExUWV6jRKCnPJxq_Mqcj9Kc5koi8woPGJRfNO6PW50Gx6c5vpm4g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c3e064911223a8ad3d897412f9300a23be843dd7a0cd6ac2c4d7aec125ba096"
       },
       "sources": [
         "https://www.mamamoney.co.za/blog/money-transfers-to-malawi-understanding-mobile-wallets-and-cash-pickup-options",

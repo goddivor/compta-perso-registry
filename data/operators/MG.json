@@ -79,7 +79,8 @@
         "svg": "svg/logos/bank/mcb.svg",
         "source": "https://mcb.mg/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "f8c7036f7c762ca6bbacd609206045e89a7d041a491064d4e88c799f0970a028"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -104,7 +105,8 @@
         "svg": "svg/logos/bank/sbm.svg",
         "source": "https://play-lh.googleusercontent.com/FtnuQpIHLTzzyx6sDYY5e_cjQ8JtYyLkA21aJVLAoQYlmeKuTVC4jF-Rf68YtGl4I768BLVyZ8PLW457mdxR=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6255208467a3745a893ccc49ab57bb4a9741b8a52718da09365a3df516e39d30"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -132,7 +134,8 @@
         "svg": "svg/logos/bank/bred-madagasikara.svg",
         "source": "https://play-lh.googleusercontent.com/XG1ORmkntqWj_1toVI4LXmDC8t-VZ3j5HSyyNqaZSn6YJMdW1AWBMEjMikLEmISWe9PoQQWIkSoqF0M8w_dt=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "00acba69903b2fbd9c4f6260a1ed5234df17c52830f9265d13ae4a39ef3bb814"
       },
       "sources": [
         "https://www.banky-foibe.mg/liste-des-codes-banque",
@@ -159,7 +162,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -209,7 +213,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -235,7 +240,8 @@
         "svg": "svg/logos/bank/baobab.svg",
         "source": "https://play-lh.googleusercontent.com/UQBWvZSdPwBXabglp7fFLlS1BEtEoRoPJmKww0qEImQVkfiwpPGHoHG-C2vrwRObNwzndLz8lIeZJwh9Lt_b=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2303475e5f060f222602b1edb03f2756ed6193433d6b6b704b4813a0010767f4"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -284,7 +290,8 @@
         "svg": "svg/logos/bank/sipem-banque.svg",
         "source": "https://www.sipembanque.mg/wp-content/uploads/2024/07/logo-horizontal.webp",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ba45ab1d87ea73776cfed47739f5f4defd9277044c9e9084f1ef0c2469b63837"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -308,7 +315,8 @@
         "svg": "svg/logos/bank/afg.svg",
         "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4dc7793aa26d8a417e98e123251d9046da1c2a0123f51e7bce3ebb0621794b71"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -336,7 +344,8 @@
         "svg": "svg/logos/mobile-money/mvola.svg",
         "source": "https://www.mvola.km/wp-content/uploads/2023/12/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "3cb9065b7b414a383147f4808456b5531cfc7bf2dcc499ce5eb6e09bf5038d51"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees",
@@ -362,7 +371,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissement-de-monnaie-electronique"
@@ -386,7 +396,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissement-de-monnaie-electronique",
@@ -412,7 +423,8 @@
         "svg": "svg/logos/mobile-money/paositra-money.svg",
         "source": "https://play-lh.googleusercontent.com/nOjKz9iQfq9K-czVKOthwOr1uAvsAizcEb_JjgYtwGmOafkjeGSTByjhl2TNWc-y3Lch23_OhG2CrMT4nym2MxI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "31431167d80ae82f8949514a7390b4fcfad4cad2a3794705d5bd2261e86e006d"
       },
       "sources": [
         "https://www.lexpress.mg/2025/11/telecommunications-paositra-malagasy-se.html",
@@ -435,7 +447,8 @@
         "svg": "svg/logos/microfinance/acep.svg",
         "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6b71ba1e6524c461ab919286632fbf460c56735c3bc8dd22c9f8fa971f040d9f"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
@@ -460,7 +473,8 @@
         "svg": "svg/logos/microfinance/cecam.svg",
         "source": "https://unicecam.com/images/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e2f134997611481da20f1a865880deb2521500d307c6e6178085982c16c44994"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
@@ -649,7 +663,8 @@
         "svg": "svg/logos/microfinance/madacredito.svg",
         "source": "https://www.madacredito.mg/web/image/website/1/logo/MADACREDITO?unique=162f524",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f1c25833ea8cd6c3e4478f101cab1fb90a99422d1d7a3ebc85cc57f0d6b167d0"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees"
@@ -673,7 +688,8 @@
         "svg": "svg/logos/microfinance/apem-paiq.svg",
         "source": "https://play-lh.googleusercontent.com/_Ia2bW1zX-G3MWwxRTVTLUzT0iD-Rt2uNkaLvN-mImNMWl5CB1a75n9XMdpJsL_yG0fLNFvuRrsaDCCTXSxB7A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3a602bdc11c7d00766215b6cdaa41a99b7c2d1cd344769236237d8ee7eddbead"
       },
       "sources": [
         "https://www.banky-foibe.mg/etablissements-de-credit-agrees"

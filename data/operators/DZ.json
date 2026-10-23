@@ -99,7 +99,8 @@
         "svg": "svg/logos/bank/banque-de-developpement-local.svg",
         "source": "https://www.bdl.dz/wp-content/uploads/2022/12/logo-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "eea5ec6c63642272bd84700dccc63f2e23f99625a3ed1fbd9b774a02d06ff3b9"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -150,7 +151,8 @@
         "svg": "svg/logos/bank/cnep-banque.svg",
         "source": "https://play-lh.googleusercontent.com/57oakNhX5jHT4aKL-6HE6yjjiBf_vgsJelVu-e6L7SpZkmL3o_j6ZSv9n_Xv7vO1akGZeA2uYFch-J2bkKb7Zg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "42e3d5a747391c7d09a0788786bb150be7ca1e8ed986b609f678662c86ca8750"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -199,7 +201,8 @@
         "svg": "svg/logos/bank/al-baraka.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "00c66bcce47a7027d259c132e8a815ef6caaf4378708b4cb817337ab27fe6032"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -224,7 +227,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -250,7 +254,8 @@
         "svg": "svg/logos/bank/bank-abc.svg",
         "source": "https://play-lh.googleusercontent.com/lD_fzc9mOn-eCQ54OuTRIDzM1e2Km_X_v7z_pzdgsXkjUsm889fyHJY_Ar6KcMcqoYNLEV_uiwJ5nUOQbdHbmg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "afb009a892579c20220e138a91030391187c64507e9e154fb3b7ff9245b76a78"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -274,7 +279,8 @@
         "svg": "svg/logos/bank/natixis.svg",
         "source": "https://play-lh.googleusercontent.com/JgHUwhmOxS1niPcj49fZDlvxS3-UwGTD4ZVog6tOY3lZLv5ldTOSY_3rVcR5VKy0v1X-hVIhQ5c7E0aAp7MrbqM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "44b5c1952652c2800e3a1373dc49b90dd7ce1753e00832542c14610d075f938d"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -299,7 +305,8 @@
         "svg": "svg/logos/bank/societe-generale.svg",
         "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "b68478e933c4aacda2f775cf30543698ad601e120ca7fc0c6d8567e75ca58365"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -323,7 +330,8 @@
         "svg": "svg/logos/bank/arab-bank.svg",
         "source": "https://www.arabbank.com/Mvc/Content/images/logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "e574a4a1e7ddef0f1f2c7435d3a20f2f394f53aac6001edc0e06eaa1a4c85dff"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -348,7 +356,8 @@
         "svg": "svg/logos/bank/bnp-paribas.svg",
         "source": "https://play-lh.googleusercontent.com/473y5IxooyykDBp0X1vf-m3SLhu3dXxnlZuQhIlFzJWjlQjdnC4kqYWXSe5t6xAHLbq90g_7q1JjnB3RkklHGw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e1473d5a1181a371de1df0d9eb5434da7f07adbc914dc49ad7109f0cfb25a954"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -422,7 +431,8 @@
         "svg": "svg/logos/bank/gulf-bank.svg",
         "source": "https://play-lh.googleusercontent.com/y4H0tqwqAUNmLCQjSycvzRW_mJEogFCkXvF39AX5yibPPSKqX52jY-P1YYeWXmZRczYLXr8iToRxpBXEJVEeSw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1e9c50c967eae48c07c2c35776fd4201417e121c012f6f430ed6755fc553f4d7"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -447,7 +457,8 @@
         "svg": "svg/logos/bank/fransabank.svg",
         "source": "https://www.fransabank.dz/wp-content/themes/finbank-child/images/logo-fr.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2b790172ba18f664393cd5953634a700e882d9481c2450cfb2c8a5f2046697f5"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -471,7 +482,8 @@
         "svg": "svg/logos/bank/hsbc.svg",
         "source": "https://www.business.hsbc.co.mu/-/media/project/common/logos/hsbc-logo.svg?iar=0&hash=760ECB6B4C7C98D34B9FD48EC152BB77",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "bc76a1d7775a86196730610a90bb2874f81aef9b6eead494b87579ddf1cba174"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/",
@@ -521,7 +533,8 @@
         "svg": "svg/logos/bank/ziraat-bank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziraat_Bankas%C4%B1_logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "86eb3a532ca2100c39377d813e8fabcc9ebefe771f969bdc2eaf58d887ad911d"
       },
       "sources": [
         "https://www.tsa-algerie.com/la-banque-dalgerie-devoile-la-nouvelle-liste-des-banques-agreees/"
@@ -549,7 +562,8 @@
         "svg": "svg/logos/bank/algerie-poste.svg",
         "source": "https://play-lh.googleusercontent.com/2abr63Zw3vuxvLQQvndDtY8b8Mhv7h_uL_Ke8mGnJ1AgI8URV1MDxavBg13MaRxysQ7bNpUiR06ZaeUMREjD=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b33a5da7a246186df2cd66ff96ecd4d00e36371eeb9baa0e457088e274ba7b6d"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/Alg%C3%A9rie_Poste",

@@ -29,7 +29,8 @@
         "svg": "svg/logos/bank/sierra-leone-commercial-bank.svg",
         "source": "https://play-lh.googleusercontent.com/tiqWL27IBenBh6_DiZB0gSR9n1lebvOXEjUPOCitQap6bXHGGrK-fF-TkcPKdirOOzEuo9QzHG-ZrcqZFZB-ngM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "dc37b7e3ae2ca7cf5affcb46eb6d39162d6406c478951ce1cceeedc366e537b9"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -53,7 +54,8 @@
         "svg": "svg/logos/bank/rokel-commercial-bank.svg",
         "source": "https://www.rokelbank.sl/web/image/website/1/logo/Rokel%20Bank%20SL?unique=133e687",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1522967e8f738b08d4c9b99d8ff1a0e0c2fa9febac6b9c39f4100a1a31577821"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -77,7 +79,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -126,7 +129,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -149,7 +153,8 @@
         "svg": "svg/logos/bank/vista.svg",
         "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "bc4ca0fa9c8009754b018f18cabe9476a5720abd3ef4609b7b9b745a0788c387"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -197,7 +202,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -220,7 +226,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -244,7 +251,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -291,7 +299,8 @@
         "svg": "svg/logos/bank/zenith.svg",
         "source": "https://play-lh.googleusercontent.com/RIcMVbshRar85KSNG8-JuIEzLffjIAsjxxVXJ0msQeVDJ7RH_8qxsxGDfsI1rt21N545mKZz27I4FFAhAj7eJMc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f12f74bd49e336a8dd4bbaadd6eaddd3cd6591e6708a1a7b529d90ed4c585a99"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -315,7 +324,8 @@
         "svg": "svg/logos/bank/bloom-bank-africa.svg",
         "source": "https://bloombankafrica.com/assets/55efbb96367fe0d2f417854c3b5a19110fd5411c-C85geNzK.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "1351426a9b8dad4af751e66db73d3d3bedbc6f73fdc1017c0d92489186d9497a"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -339,7 +349,8 @@
         "svg": "svg/logos/bank/commerce-and-mortgage-bank.svg",
         "source": "https://play-lh.googleusercontent.com/Be82S0cJho-Fk-CnEkUOyziKiVM82Ri67ejWHDt7ABaPQWKw5XUEeyQgD-kdtBOgmdCRAHdwzlFKIe6vCkQ7qRs=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "59d7aba7ae34e27a508715ce554f335421051d90a568f6068e102843144480a8"
       },
       "sources": [
         "https://bsl.gov.sl/COMMERCIAL%20BANKS.pdf"
@@ -362,7 +373,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.theigc.org/blogs/how-sierra-leone-can-join-west-africas-mobile-money-revolution",
@@ -387,7 +399,8 @@
         "svg": "svg/logos/mobile-money/afrimoney.svg",
         "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "03a453366d186b5a872d2470ad35df1a1a8acb62bdf278a2a2d8eeb28dbb4a0f"
       },
       "sources": [
         "https://www.osiris.sn/sierra-leone-apres-orange-africell-lance-une-carte-prepayee-adossee-au-mobile.html",
@@ -412,7 +425,8 @@
         "svg": "svg/logos/mobile-money/qmoney.svg",
         "source": "https://www.qcell.sl/themes/demo/assets/img/IMAGES/logo.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "76cf7775f5937702bd86a49010872a29b859cf3489c7f8cbcbe17b0a035ee54a"
       },
       "sources": [
         "https://www.qcell.sl/mobile-app",
@@ -436,7 +450,8 @@
         "svg": "svg/logos/wallet/vult.svg",
         "source": "https://play-lh.googleusercontent.com/NWuk2I3NNRtZfbKqFra3jRH1_WC7Wa03QaoPNPINYvwqCPF9nTncK_Erf0OW17wPkIy8m4bNzVGoczQpc54I2Q=s512",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "ce7332424d72e078c7e5706167785537d853fffc83e26ff2b5ee20725312ecb7"
       },
       "sources": [
         "https://ibsintelligence.com/ibsi-news/velmie-powers-sierra-leones-first-digital-financial-super-app-vult",
@@ -460,7 +475,8 @@
         "svg": "svg/logos/microfinance/ecobank.svg",
         "source": "https://play-lh.googleusercontent.com/-jg_Y5kEUF06Z2ODj0DU69nvWOEZyEkw0pouGCqsmwiowjLFD5QR3VIe6qu-QwPY8WVpQZgXIIBHDp2pwNF5bw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "09c818dda46498dc173676293672d0c619f43b523926eaec9daf23224f02b1a8"
       },
       "sources": [
         "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
@@ -483,7 +499,8 @@
         "svg": "svg/logos/microfinance/bank-for-innovation-and-partnership-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/ZEP6OWpJ4WSOHlr5RxZMzcd0Qi9sxEuMPl8o_2LeCoDcTjlqahN_gJHMdjpXCgjzlWHN4jTp7-M1Dy8m2WAMML0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2fe4c05f8b05a951b84ea5cf83099b7df5c15a1bfc7ed395970e8b2536691262"
       },
       "sources": [
         "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
@@ -507,7 +524,8 @@
         "svg": "svg/logos/microfinance/lapo.svg",
         "source": "https://play-lh.googleusercontent.com/Ucr5LJRzKiUqmRxnD3nHoeG18bQ6wYQ6ccXLThn_3BZHTXGhjdnx8c4imQ_zt3GVd0yo0SMH9rkBx04oFV5e5A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3e6a06ebd44c2d6b89f6508e8e07e563e94989f9e54959126a6ab90b8f4644e3"
       },
       "sources": [
         "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
@@ -554,7 +572,8 @@
         "svg": "svg/logos/microfinance/salone-microfinance-trust.svg",
         "source": "https://play-lh.googleusercontent.com/E94Hti740rnFpjyDn6qvxnrqa-qegR4K0pX36XCVuzCrh9ZluHYOFjRA5bZ9mOY4X3_Zj0YdQnTqFvFD3-SiL6A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3df49adc23542ad24a7e1c7b146762847313965372c07cad560769d32fe2cfc7"
       },
       "sources": [
         "https://bsl.gov.sl/Deposit%20Taking%20MFI.pdf"
@@ -974,7 +993,8 @@
         "svg": "svg/logos/microfinance/brac.svg",
         "source": "https://play-lh.googleusercontent.com/I64Mlc-QDJVMdq9lppT3sWvdIMPdTya7d3_cs3ylLikC_s5JK6IVebVX-n-w7MG_urLhcf1dbaKJVAM6Of3U=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "238d81044915e1fad68e42175d9f2e163d9250ed22dc14ea52610b58eb0574a9"
       },
       "sources": [
         "https://bsl.gov.sl/CREDIT-ONLY.pdf"
@@ -1041,7 +1061,8 @@
         "svg": "svg/logos/microfinance/asa-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/YwfQZ6NMqKebfKekh1UBfWWs3nvBtCTwxEEFzgQOZq39EZMP2mTtTt6BiqgnU1OzzFspRDTKUYFNbY57b1n4TVk=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4803814750d92ae9ffd31aa9d601425ccc15454edc1860396d052efdc1ae17e5"
       },
       "sources": [
         "https://bsl.gov.sl/CREDIT-ONLY.pdf"
@@ -1775,7 +1796,8 @@
         "svg": "svg/logos/microfinance/canaan-land-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/CH939Mc5ru8BRsCC78xEqilA4vXAyg1EkANe4CIsluh1Qcgj0GLe6f_Hqr2Ms2fXRhkL0sbUkGiKQWcaTHN8Bw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1164afc3eb48aa6e5d1dbba52eb1419819ae8139b0f9d533d65841c8fc5d73bf"
       },
       "sources": [
         "https://bsl.gov.sl/CREDIT-ONLY.pdf"
@@ -1907,7 +1929,8 @@
         "svg": "svg/logos/microfinance/ceda-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/ue0tiGReTYdL6RKsLoIjS35BfZIxIrokdMQ5nRSB2xH4L48S3PgGoDpMsoRT9BlfStu5_0E05G2ZxgxOg0Rpbac=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "233da0f026fd718886c088ab2c38b78e8fac0c999b29df3664bea0a271bf9a81"
       },
       "sources": [
         "https://bsl.gov.sl/CREDIT-ONLY.pdf"
@@ -1995,7 +2018,8 @@
         "svg": "svg/logos/microfinance/loans-and-savings-management.svg",
         "source": "https://play-lh.googleusercontent.com/mmMBTI-8UI04QAgueILd6OuqdkCNyBA7VUO20mJqJXwiQZ20Nqq8vfzCMcNVWFVcNWic4rttaoTVjwoVzOGZyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "796b4de78e9b05c922641c1e9586fc35dbf9033e8dd4de5ea707eb71090b57b2"
       },
       "sources": [
         "https://bsl.gov.sl/CREDIT-ONLY.pdf"
@@ -2282,7 +2306,8 @@
         "svg": "svg/logos/microfinance/aziza-financial-and-commercial-enterprise.svg",
         "source": "https://play-lh.googleusercontent.com/S2A5upaSmUcZRZUWDWvYIQy1YXUFjJdR_sf6D81Mrm-_tW2rtO7YgAUvCMLbxtcLI5Ea-iEBfnlX1WiTijAaNSc=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8fdca5236e76ca285bf3a9b5c1f36bc119eecbfc9940eafc062c7c425f3d91f2"
       },
       "sources": [
         "https://bsl.gov.sl/CREDIT-ONLY.pdf"

@@ -99,7 +99,8 @@
         "svg": "svg/logos/microfinance/saving-and-micro-credit-program.svg",
         "source": "https://play-lh.googleusercontent.com/O5mamag4VzLufS0mc4d4cwx7cWzEbB-ZvwJvPkKdlyH0yo0IPX6yYYLOpDFM6vc8PufTbVMLVOQYBJFFHfga=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "413b1cbd4bcc6ae32b228ef0f87e976933de06cb2618a136ee92e78e20c9c87d"
       },
       "sources": [
         "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/81756",

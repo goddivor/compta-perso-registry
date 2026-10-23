@@ -49,7 +49,8 @@
         "svg": "svg/logos/bank/industrial-development-bank.svg",
         "source": "https://play-lh.googleusercontent.com/oI2tI87ZowlxDfqyOmF_sYMueF4yHjHbpbWHnShIk8AqQXvnb0h_LQgjTHAREXw3kOOsjqqxAO7EZDPuw_ejjMM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e680be0fb10fdbdbf757172518db2c397e089286ff7952524ae200ef4902d747"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -94,7 +95,8 @@
         "svg": "svg/logos/bank/savings-and-social-development-bank.svg",
         "source": "https://play-lh.googleusercontent.com/coE1XvdHRN2nXUkySTsymMU-akE3RPATmAMUZ38wuoCcl8MGQeyctxn5vjCkgTPOArohAQhOlYzWkVPZzVSu=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "57222424bf808573dc19ac43640798725f2db549fb1213e4fc2a975ffd5c3db2"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -116,7 +118,8 @@
         "svg": "svg/logos/bank/animal-resources-bank.svg",
         "source": "https://play-lh.googleusercontent.com/B36AYgeDlZBwzd47lNYyceDoeZf9mcLJ_s2IVqgyoppY9dKtPBSlr4-LRbQClFxU-m-tR6-LSqfmL3gWfzjfRg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7373317feff946949f687d898d8063b19d67abe81c8fe6f7f1e534dd8af661c4"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -211,7 +214,8 @@
         "svg": "svg/logos/bank/bank-of-khartoum.svg",
         "source": "https://play-lh.googleusercontent.com/Mf7EtInCk8siRRlkB3S70LdHX4ZDL2sAiUKPnCYRqttnMma9qy3A_NciPESHo9yOlToKzhvZ2yQ-_ov9UivQm34=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "371b0e49dfb02ffa8942577bc90ed2c3e8404640b7e441c782963745433951ea"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan",
@@ -347,7 +351,8 @@
         "svg": "svg/logos/bank/saudi-sudanese-bank.svg",
         "source": "https://play-lh.googleusercontent.com/dPz7LOEj7Iy7z_jSRzAwBFiXh3gc0w3y9bekSfuKhbZqUIQiAKvfStI_evvIje5m8Hx2pAAqX0jEvQWNTfpIuQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a37458aed8e3993dde5003074ae84c1b92d6559f6759341767519682ae629171"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -392,7 +397,8 @@
         "svg": "svg/logos/bank/qatar-islamic-bank.svg",
         "source": "https://play-lh.googleusercontent.com/nUScvFltuMVvLW7oKkfWCGkWiEJO7hJSpCu_ne5qlflLzU6OWVOf_EnYM7Ansd5yfbAPr1a_UUaEPGZo4-3DJA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b77666150e5ee375ec687b24c7214d969a46428d03f884bfa2c530ee4c3d0d4"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -437,7 +443,8 @@
         "svg": "svg/logos/bank/al-baraka.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Baraka_Banking_Group_Logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "00c66bcce47a7027d259c132e8a815ef6caaf4378708b4cb817337ab27fe6032"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -616,7 +623,8 @@
         "svg": "svg/logos/bank/family-bank.svg",
         "source": "https://familybank.co.ke/family-bank/wp-content/themes/family-bank/assets/images/family-bank-40-logo.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "19b7417dfcc53c2a8c069391c0151f05aad04551eddfc3e3f0466b495e5273e9"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -794,7 +802,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -817,7 +826,8 @@
         "svg": "svg/logos/bank/ziraat-kat-l-m.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ziraat_Kat%C4%B1l%C4%B1m_Bankas%C4%B1_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "c2d7032c88c71e72727e2414f9405ee7f34907e5a194cd3202da89eab3e7edea"
       },
       "sources": [
         "https://cbos.gov.sd/en/content/operating-banks-sudan"
@@ -841,7 +851,8 @@
         "svg": "svg/logos/mobile-money/bede.svg",
         "source": "https://i0.wp.com/bede.sd/wp-content/uploads/2025/01/Bede-logo-white.png?fit=1429%2C656&ssl=1",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "b37b4b756acec2bf517ea73e20b0e2be94bd084f5b5b8924e222185e5884977e"
       },
       "sources": [
         "https://www.crowdfundinsider.com/2025/04/238647-zain-fintech-launches-bede-mobile-wallet-in-sudan/"
@@ -864,7 +875,8 @@
         "svg": "svg/logos/mobile-money/sah.svg",
         "source": "https://sudani.sd/wp-content/uploads/2025/04/Sudani-Logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "1a4a27eeca0fe53bd7deb621f79f0694fcf2e27541950ac2607408aaf837c08e"
       },
       "sources": [
         "https://sudatel.sd/en/sah-launch/"
@@ -887,7 +899,8 @@
         "svg": "svg/logos/microfinance/al-fal-microfinance.svg",
         "source": "https://play-lh.googleusercontent.com/7tcxBAl46xNMmZ9BGPsZupcpsZMexRpxC1XT430D5L0LdWkRiFL3AvfUPayoiNE30m-i3LB3P_QV9li-xX3V3w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "553120cd7766de13e6a850868916964aa35c2023c50c3428a43be3d40d106437"
       },
       "sources": [
         "https://safinetwork.org/members/al-fal-microfinance-company/"

@@ -32,7 +32,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -76,7 +77,8 @@
         "svg": "svg/logos/bank/banque-atlantique.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-banque-atlantique.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "057657133f39142c74f348b314f075b27fbbafdbaff598af07c906073f3bdc96"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -98,7 +100,8 @@
         "svg": "svg/logos/bank/banque-commerciale-du-burkina.svg",
         "source": "https://play-lh.googleusercontent.com/HZlHMyrILkiWlbS0G9MPiW-gkuyY59N1tP4IlGBFbGoLmvAkThKtPMSkTpzPYfZl_B4kluu4PgSJoWyppqCmBQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e9688ef6567a5033628344cb569bbbef58ed440e073b056b0547d1f788478b22"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -121,7 +124,8 @@
         "svg": "svg/logos/bank/banque-de-l-union.svg",
         "source": "https://play-lh.googleusercontent.com/helGBPfyigLDsuDvf2esUDfgjH2L9xJMmkmS7LmjX5aVxkeLh5bLwoQ6taKC9bVLSr0fbxBjDfiknFncyFA_=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9377d60596eaaeaaf004cbe9abe350164d0928e054beae7bbeb902d27d9d5fe4"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -167,7 +171,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -191,7 +196,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -213,7 +219,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -236,7 +243,8 @@
         "svg": "svg/logos/bank/ib-bank.svg",
         "source": "https://play-lh.googleusercontent.com/q1IPcXgVe5TwC-Opxloqbw2THBPUsK28vYzPnOIC7KNxgOQ7UlFFIlVkYkaAy2LTmUdYQrPqtm-gVA9Mbt8qzg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d10438d5c59af0ee84aab9ff03658d4a885ab2f1e42e48070808add06c7835c5"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -261,7 +269,8 @@
         "svg": "svg/logos/bank/societe-generale.svg",
         "source": "https://societegenerale.bj/fileadmin/user_upload/logos/SGB103_2025.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "b68478e933c4aacda2f775cf30543698ad601e120ca7fc0c6d8567e75ca58365"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -284,7 +293,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -307,7 +317,8 @@
         "svg": "svg/logos/bank/vista.svg",
         "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "bc4ca0fa9c8009754b018f18cabe9476a5720abd3ef4609b7b9b745a0788c387"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -355,7 +366,8 @@
         "svg": "svg/logos/bank/bridge-bank-group.svg",
         "source": "https://play-lh.googleusercontent.com/FC9EncO-u-6xoC-58Ztg_x_4nceSovN9Lc783YQ240dYhjZzTEtRD8ET58iC9mTyaUE6_p8NNvy8f8B6445BxA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8fa74778fc208872d9ebdacd7b2e7e0cf87513664433399379a362189053a08f"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -379,7 +391,8 @@
         "svg": "svg/logos/bank/cbao.svg",
         "source": "https://play-lh.googleusercontent.com/cGLGc9gbiqMApeaRa1EutCzwO1g51zEvIs3aixUmPgjDsuaUoD9j_K0hqLT2JoRLTPjs2Ah4I9R7A1PLZd9-AU8=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f2011ecec356e3c1bcfa5ef6dce54f5fedd012f008807276322b639701dd1e9a"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -403,7 +416,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf"
@@ -427,7 +441,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf",
@@ -453,7 +468,8 @@
         "svg": "svg/logos/mobile-money/moov-money.svg",
         "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f013a28dd519ab73a6f4d95f3b47d86c46494e9c4951dce0de92d9f8f8a6dccd"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -475,7 +491,8 @@
         "svg": "svg/logos/mobile-money/coris-money.svg",
         "source": "https://play-lh.googleusercontent.com/nDwRiS3BCEHlK5HLEmzjYlQMywe1sXs1wOtpw5IhZLS_pz6rH_0xlmFcmhBUdG7ARuv-WPmV13U75jwPFSYNyQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bb472d2eb0a92bb02a536e9ac25ebea63687ff27927f7e14bcc6089160c83393"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -498,7 +515,8 @@
         "svg": "svg/logos/mobile-money/wave.svg",
         "source": "https://www.wave.com/img/nav-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2f8146b7b32d196e4aba60bf101bbf5d983295742d645f053795111386c365a3"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -518,7 +536,8 @@
         "svg": "svg/logos/mobile-money/wizall.svg",
         "source": "https://play-lh.googleusercontent.com/hUXTCUlz9v7X4VEVWgQO05rdCPVnbkH588NTTgr3mN12jYt_tQVgMyBCS4kEfzrX1NgPowYzfwx7EFymE-E-lQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3b6cc13bafc6366e278905a9b780c43e6dd246bae5be3b1032a55bb6b903d237"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -540,7 +559,8 @@
         "svg": "svg/logos/mobile-money/telecel.svg",
         "source": "https://telecel.com.gh/icons/icon-48x48.png?v=a3b267ceb2db2a81c1dc75f0ef2b1aaf",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d2be6c41f58ff7663c2d2e3b8264ca4ebed50f9885272b54fba2138e339534a0"
       },
       "sources": [
         "https://www.bceao.int/fr/content/etablissements-de-monnaie-electronique"
@@ -587,7 +607,8 @@
         "svg": "svg/logos/wallet/intouch.svg",
         "source": "https://cdn.prod.website-files.com/66d04fe65aaef00487a98d54/678a7c8ebf55cf1a40a8b923_LOGO-HORIZONTAL_TP-p-1080.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e1c822a95358f3eb3bb18592cc30d53d7e1161c4002ea64f3d5149edef30ed16"
       },
       "sources": [
         "https://www.bceao.int/sites/default/files/inline-files/2%20-%20Liste%20Burkina_2026.pdf",
@@ -664,7 +685,8 @@
         "svg": "svg/logos/microfinance/cofina.svg",
         "source": "https://www.groupecofina.com/wp-content/uploads/2021/12/Fichier-7.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "497829dffe013e335509bd504940ba2597c292428bb2c53cb8812c81a5a5920c"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
@@ -712,7 +734,8 @@
         "svg": "svg/logos/microfinance/acep.svg",
         "source": "https://play-lh.googleusercontent.com/M1O04JjomJ4u4OalfRaRysVWFtqmdyZIowUY-mFGuLSCdr88y67ADSA1ESV8K_nn-jmfdWLuNGVkibtOstL-VA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6b71ba1e6524c461ab919286632fbf460c56735c3bc8dd22c9f8fa971f040d9f"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
@@ -906,7 +929,8 @@
         "svg": "svg/logos/microfinance/mifa.svg",
         "source": "https://play-lh.googleusercontent.com/iDXGSYZoRgmy0QBz2utSeE3EMsg_vwuzhnBIYqHrlKpMdRn_TLvEiIkZEDz4oKNRa43VVDTROrd7W_HasvAv4g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4fa4ce9f0031d6effff2a9679342ae6c06f61540716b8d9be0967fb63fcf4004"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",
@@ -1073,7 +1097,8 @@
         "svg": "svg/logos/microfinance/caisse-baitoul-maal.svg",
         "source": "https://play-lh.googleusercontent.com/9ZyiSRDATCD44g8yHz1rHM1s-sI2dZem0QFyrzStFgsmmHMty47Y10BWKx49LAQ-OqL2-VbJUAksziMidcf1fw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "987f901069684303d8117201b33b492eb5eed7637921289ec252012d2cae2408"
       },
       "sources": [
         "https://cb-umoa.org/sites/default/files/Liste%20des%20SFD%20BURKINA_2024_1.pdf",

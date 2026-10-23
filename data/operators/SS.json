@@ -182,7 +182,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://boss.gov.ss/list-of-banks/"
@@ -228,7 +229,8 @@
         "svg": "svg/logos/bank/equity.svg",
         "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "08967ed8f1bbc66a59410cc9a7a6359d99ecfaad2818e0081338f789bc31ab4b"
       },
       "sources": [
         "https://boss.gov.ss/list-of-banks/"
@@ -294,7 +296,8 @@
         "svg": "svg/logos/bank/kcb.svg",
         "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "42b35d053d25f546b515599e6ac55c450a9dd15f83ab995e8127c7c87cded0d6"
       },
       "sources": [
         "https://boss.gov.ss/list-of-banks/"
@@ -382,7 +385,8 @@
         "svg": "svg/logos/bank/national-credit-bank.svg",
         "source": "https://play-lh.googleusercontent.com/EbvLtvv08S1XR0IK5M4PblOGzdHmnMmmUbgkdMeY821KmIwBJaDCwLUWsHjx3N_dxQiqcGzkLpKrT5XcTfC2cw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ebad693ec32a2bff6fd1a221039ca245fcfe25e656f86c1526bfe94d5773a613"
       },
       "sources": [
         "https://boss.gov.ss/list-of-banks/"
@@ -472,7 +476,8 @@
         "svg": "svg/logos/bank/people-s-bank.svg",
         "source": "https://play-lh.googleusercontent.com/JiXM2hi2Yy5B1AzZjzyINtnvyLq3UpvtVZQVEDtSu0AiK8A4KG34zJr-Y5Px9JOi7ZZPf_cbnU7KdYDydPJ1pQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9fddb72194c39ebb7ab8fc065010db105d1024c2402d62b9fe6d7c54565660f4"
       },
       "sources": [
         "https://boss.gov.ss/list-of-banks/"
@@ -605,7 +610,8 @@
         "svg": "svg/logos/bank/stanbic-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://boss.gov.ss/list-of-banks/"
@@ -717,7 +723,8 @@
         "svg": "svg/logos/mobile-money/mtn-momo.svg",
         "source": "https://www.mtn.bj/wp-content/themes/mtn-vivid-wp/public/img/mtn-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "72aa543487055ed920fc790bb170cc8b8882628ad2c4818c132b8c3ec7f2842e"
       },
       "sources": [
         "https://boss.gov.ss/mobile-money-providers-vow-nationwide-expansion-to-back-governments-digital-payment-push/"
@@ -741,7 +748,8 @@
         "svg": "svg/logos/mobile-money/m-gurush.svg",
         "source": "https://play-lh.googleusercontent.com/tkFjXETdttz05aMciyZFzqp4zSpQJab-aGApv8uvbqouSZV79L7aj39FdjLW1X35oe092NzncZ3OATCD7GzkFzU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a5212664777c6b023614a6562a1072e35c3e656e0dcce145fe27e2f340949e4d"
       },
       "sources": [
         "https://sudantribune.com/?p=65930"

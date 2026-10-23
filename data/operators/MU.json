@@ -29,7 +29,8 @@
         "svg": "svg/logos/bank/abc-banking.svg",
         "source": "https://abcbanking.mu/wp-content/themes/abc-banking-theme/images/abc-banking-logo.png",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "2ad6523c8ce2fafee6d0523856b212f87bc2ac54be94bbf474721d94d5d50b8e"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -53,7 +54,8 @@
         "svg": "svg/logos/bank/absa.svg",
         "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5cd8df6a9195374ae64346bee50330b288654e5d04019c06af79c291155d53fb"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -76,7 +78,8 @@
         "svg": "svg/logos/bank/afrasia-bank.svg",
         "source": "https://play-lh.googleusercontent.com/-4tWgGXzDQdGOsCyjNVHbEtk_m_aCpnRB5RmOWR61X2qfErMfPDrHueI_eeZWyVXylNUvfXQxO4BJZqTim6tta0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "69c9f2ab72178d8571a68981d36cfc87da31ce0b034e4c886b5287359af961fa"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -99,7 +102,8 @@
         "svg": "svg/logos/bank/bank-of-baroda.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89d45e55e2d81aacdbaeb4a202693cc6dffa4e71f8fe2cae6b61aadde4122c1b"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -122,7 +126,8 @@
         "svg": "svg/logos/bank/bank-of-china.svg",
         "source": "https://play-lh.googleusercontent.com/HldgY4ppsExc4niX4ODL1aX2KCwyANYFh5Fsal9-VCFx6oHmXwwifciMh7VCrMBofD7_lc_KS23sdat_JGtD=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "75cf30731be24ad9e0e6d44848ee72afc4156e8c0133de77b711b45204869908"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -192,7 +197,8 @@
         "svg": "svg/logos/bank/bcp-bank.svg",
         "source": "https://www.bcpbank.mu/themes/bcp/img/logo-bcp.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "9b9fe894f28aed5e6ce3c4904af9eacc1992401ad97ba554c6e911ffc9fcf2a9"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -216,7 +222,8 @@
         "svg": "svg/logos/bank/hsbc.svg",
         "source": "https://www.business.hsbc.co.mu/-/media/project/common/logos/hsbc-logo.svg?iar=0&hash=760ECB6B4C7C98D34B9FD48EC152BB77",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "bc76a1d7775a86196730610a90bb2874f81aef9b6eead494b87579ddf1cba174"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -263,7 +270,8 @@
         "svg": "svg/logos/bank/maubank.svg",
         "source": "https://maubank.mu/assets/images/svg/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f0a3d6fcf202457ddbc36133269eadfeb1c2d4dd9e29acdb071e2107c0b6f9fb"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -287,7 +295,8 @@
         "svg": "svg/logos/bank/sbi.svg",
         "source": "https://mu.statebank/image/layout_set_logo?img_id=1511455&t=1792523219396",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cd81e42b0c2024ee4f3376b0fc23407bef4f5f9c50f2118bac6dfd9816c96332"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -311,7 +320,8 @@
         "svg": "svg/logos/bank/sbm.svg",
         "source": "https://play-lh.googleusercontent.com/FtnuQpIHLTzzyx6sDYY5e_cjQ8JtYyLkA21aJVLAoQYlmeKuTVC4jF-Rf68YtGl4I768BLVyZ8PLW457mdxR=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6255208467a3745a893ccc49ab57bb4a9741b8a52718da09365a3df516e39d30"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -334,7 +344,8 @@
         "svg": "svg/logos/bank/standard-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -358,7 +369,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -383,7 +395,8 @@
         "svg": "svg/logos/bank/mcb.svg",
         "source": "https://mcb.mg/images/mcbmadagascarlibraries/default-album/logo-mcb-caravelle-red.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "f8c7036f7c762ca6bbacd609206045e89a7d041a491064d4e88c799f0970a028"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -405,7 +418,8 @@
         "svg": "svg/logos/bank/warwyck-private-bank.svg",
         "source": "https://www.warwyck.com/images/icn/logo-armoiry.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "ebafe59678fca72275dd600ee7ac1198e2fbb5c92a7d6bb3ab854e3e900d867d"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees"
@@ -428,7 +442,8 @@
         "svg": "svg/logos/microfinance/la-prudence-leasing-finance.svg",
         "source": "https://www.prudenceleasing.com/wp-content/uploads/2022/09/cropped-cropped-LPL-Logo-FINAL.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c5d72e24db1633fea8362cab9f3ef370f86f68ed14d5b2bc39dd8a3210f01871"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
@@ -451,7 +466,8 @@
         "svg": "svg/logos/microfinance/mauritius-housing.svg",
         "source": "https://play-lh.googleusercontent.com/gZ2-_Pzvj2CWIaoWid-OGjNyAt0uvx7S3wmZe3tTwsUQ7uScMAMMzdwPeXcSJRUtjShR1nkqEpBo5AhRtufLEw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "87963b022abb546fd77511d7a36e9f79913ef649aaced4e14cdaa230411f0ddc"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
@@ -475,7 +491,8 @@
         "svg": "svg/logos/microfinance/mcb.svg",
         "source": "https://mcbleasing.mu/images/mcbleasinglibraries/default-album/logo-leasing.svg?sfvrsn=d1fb3788_1",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "7cc6e37bea72b354e4d95c0012bb4ed22d1b7bac94fc6a599e0e3e875330b54e"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
@@ -498,7 +515,8 @@
         "svg": "svg/logos/microfinance/sicom-financial-services.svg",
         "source": "https://www.sicom.mu/ResourcePackages/Bootstrap5/assets/images/logo-white.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "294261e0ea1cd8fa157444b2c17566f76b12e4d6467a7a5c821bc0a0d2a220a9"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
@@ -521,7 +539,8 @@
         "svg": "svg/logos/microfinance/spice-finance.svg",
         "source": "https://play-lh.googleusercontent.com/VFi49tRzm-LDvRVn873stAdP55RfHG49KTIG7ZF1plNPCg7np3sOJvC9ETPSKj5sAskGih9rMY4V5lEhGi3l=s512",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "26192c74f5c3dafa517d1ab0a68ccae54689ef02981bde2e8467b5705f9ec5a9"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
@@ -545,7 +564,8 @@
         "svg": "svg/logos/microfinance/mauritius-civil-service-mutual-aid-association.svg",
         "source": "http://www.mcsmutualaid.mu/images/mcslogo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d75b12d0aafb700565c2597b9bc97b1442927edd5cb123a0e234ca11d2a4c097"
       },
       "sources": [
         "https://www.bom.mu/financial-stability/supervision/licensees/list-of-licensees?field_licensees_type_value=3"
@@ -570,7 +590,8 @@
         "svg": "svg/logos/mobile-money/my-t-money.svg",
         "source": "https://www.myt.mu/images/logos/myt_Logo_Blue.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "89f0de0535ce5f6effbb1a76bb9ba0a93107e6a59561f418701dbd71af08243b"
       },
       "sources": [
         "https://www.myt.mu/support/mytmoney/1/money",
@@ -596,7 +617,8 @@
         "svg": "svg/logos/mobile-money/blink-by-emtel.svg",
         "source": "https://play-lh.googleusercontent.com/TZpbhyVVqy6ZThNSo6cxHFgFB3Y8pZN2Y1w3Rnv_SM_OSc7KR6E-tVoLi7DkSMBXeTL43ctAj9zKoN7ka86-4wI=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e17f7eae49815b9ff3e695fd2d3088af2f28b73d3cd560fd6c02006c0409aa66"
       },
       "sources": [
         "https://blink.emtel.com/?p=257",

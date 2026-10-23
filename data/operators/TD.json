@@ -32,7 +32,8 @@
         "svg": "svg/logos/bank/coris.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Coris_Bank.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "0fe1665066625f0117c5453606101730db2566377e857d1a9eb9fdc3c94c1244"
       },
       "sources": [
         "https://www.financialafrik.com/2025/06/18/coris-bank-tchad-officiellement-lancee/",
@@ -58,7 +59,8 @@
         "svg": "svg/logos/bank/vista.svg",
         "source": "https://vistabankgroup.com/wp-content/themes/vistabankgroup/assets/images/logo-torch-red.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "bc4ca0fa9c8009754b018f18cabe9476a5720abd3ef4609b7b9b745a0788c387"
       },
       "sources": [
         "https://www.financialafrik.com/2026/03/31/vista-finalise-lacquisition-de-la-bac-et-lance-vista-bank-tchad/",
@@ -81,7 +83,8 @@
         "svg": "svg/logos/bank/banque-commerciale-du-chari.svg",
         "source": "https://play-lh.googleusercontent.com/aiffcJA9bKaNlj9AOYMTLednYgFzdqO9t9abwGwM981sgCYeCZUYkl30OB9BjhOQvcy5ASc69VQRprGlaUk_new=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a92d0bc60ec7c9e3cb2fc697dbab31423c109011884ff799fe304851186a6a63"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
@@ -104,7 +107,8 @@
         "svg": "svg/logos/bank/commercial-bank.svg",
         "source": "https://play-lh.googleusercontent.com/z74gptYV6jhhPr_9ITlF7lfq2cjPwO9pf-zSCSeMECDSzqKAKePkx91JhitJBXzNfmikzNI9ee2YFNOSZQTr8g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "03cb4f176fe15fabf998ba6b3940513c7bc945e98d2e6f8e356d0527911ad87b"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
@@ -127,7 +131,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
@@ -152,7 +157,8 @@
         "svg": "svg/logos/bank/orabank.svg",
         "source": "https://www.orabank.net/sites/default/files/2025-09/Oragroup_Logo_RVB%201110x400.jpg",
         "method": "redrawn",
-        "background": null
+        "background": null,
+        "sha256": "e68f1cc4119dd8aee3530d47185eb61501481a9fcf9dd2e46184dc7ef1c67f55"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
@@ -176,7 +182,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
@@ -200,7 +207,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://en.wikipedia.org/wiki/List_of_banks_in_Chad",
@@ -247,7 +255,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
@@ -271,7 +280,8 @@
         "svg": "svg/logos/mobile-money/moov-money.svg",
         "source": "https://moov-africa.bf/wp-content/uploads/2026/01/cropped-logo-moov.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f013a28dd519ab73a6f4d95f3b47d86c46494e9c4951dce0de92d9f8f8a6dccd"
       },
       "sources": [
         "https://ecomatin.net/tchad-moov-money-decroche-son-agrement-detablissement-de-paiement",

@@ -28,7 +28,8 @@
         "svg": "svg/logos/bank/siket-bank.svg",
         "source": "https://siketbank.com/assets/public/images/siketbank-logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "33dd7f1db8fa20c6254d626e3c200bbefdd89e2d94516245fa40528d5edfcdd7"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -94,7 +95,8 @@
         "svg": "svg/logos/bank/omo-bank.svg",
         "source": "https://play-lh.googleusercontent.com/MMngJ7o-uErqQBZEJ5fmheB2B3hRlaJkVCRDCqaT9yu47_DGkdNEiurE4LN4E-raJC4FlAAtU4auAwjonijZ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a15e57288f07d7d9a275051db9de1f25399ac8db13a251c4a3474a80eb0bbd2e"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -138,7 +140,8 @@
         "svg": "svg/logos/bank/amhara-bank.svg",
         "source": "https://www.amharabank.com.et/storage/2023/03/logo-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ef1f4ead18e175cbfa6ab7abdcb1363a524cc0c873a0560cab5e1bce6b07029d"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -272,7 +275,8 @@
         "svg": "svg/logos/bank/goh-betoch-bank.svg",
         "source": "https://www.gohbetbank.com/wp-content/uploads/2022/12/mobilelogo-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "458857f953e34bcdd3b0aea9cc930b025a06aad89210a110782e46c20f88f897"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -294,7 +298,8 @@
         "svg": "svg/logos/bank/shabelle-bank.svg",
         "source": "https://shabellebank.com/wp-content/uploads/2025/12/cropped-photo_5818918347021074843_y-2-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7ca39ff36e6feabccb793bec03d36c8ae0c1a9dc275df1a18383bcdca28edcb5"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -317,7 +322,8 @@
         "svg": "svg/logos/bank/zamzam-bank.svg",
         "source": "https://zamzambank.com/wp-content/uploads/2024/07/Untitled-design-2024-07-23T153756.815.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "14e682e6679dc614dfca1b0f842848d9f9930b05990cace463cc3699cd801715"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -340,7 +346,8 @@
         "svg": "svg/logos/bank/global-bank.svg",
         "source": "https://www.globalbankethiopia.com/wp-content/uploads/2023/11/GlobalbankET-Primary-Logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "7816a66db0ff92be0c2b892f4791651caa7eecec119a02de88e112724d9b5821"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -362,7 +369,8 @@
         "svg": "svg/logos/bank/enat-bank.svg",
         "source": "https://play-lh.googleusercontent.com/-U9rcIkhsc2u5dch-3yCO21rxuwvi6ryVI2BHVq5HThCS527oGD3cwr9JpTSm-S03xKUX1d7p9sIn0j2DwcT1w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "39735cd43e60cf13484e584851337925331dca2245282c9808bfedc6c363d9ef"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -407,7 +415,8 @@
         "svg": "svg/logos/bank/abay-bank.svg",
         "source": "https://www.abaybanksc.com/wp-content/uploads/2020/08/abayBank_logo2-01-1.png",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "b9ba052b3f3a57264689c0fd711096213eeb3e360f91fa6f179149ecdd6d9b42"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -430,7 +439,8 @@
         "svg": "svg/logos/bank/berhan-bank.svg",
         "source": "https://berhanbanksc.com/wp-content/uploads/2022/06/logo-berhan-bank.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2ce4f131aaf7a386250fd61e14a9a5c3f72bd7dc8ad836757a80ebeaf6ea613b"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -453,7 +463,8 @@
         "svg": "svg/logos/bank/bunna-bank.svg",
         "source": "https://bunnabanksc.com/wp-content/uploads/2023/06/logo-1-167x58.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c6d67c2791908edef8e743d2a931730335ccc301b3e673368e9929b2c8a7556b"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -475,7 +486,8 @@
         "svg": "svg/logos/bank/zemen-bank.svg",
         "source": "https://zemenbank.com/wp-content/uploads/2024/10/ZB-Logo-01-1.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "e45466170976efe34eb42f0be6257edc434e07af07b4206c08aabb214153dc85"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -498,7 +510,8 @@
         "svg": "svg/logos/bank/oromia-bank.svg",
         "source": "https://oromiabank.com/wp-content/uploads/2023/09/fullogoset-2color.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "58599e20bacfcee801b18809dd8c7cd9494b78755b07fe313755c56903ccf994"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -521,7 +534,8 @@
         "svg": "svg/logos/bank/anbesa-bank.svg",
         "source": "https://anbesabank.com/wp-content/uploads/2026/01/Main-Logo-scaled.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "775a690987b5381099fdec1539b06a09f401fa13beb6f67a337ce663b810f9bb"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -545,7 +559,8 @@
         "svg": "svg/logos/bank/coopbank.svg",
         "source": "https://coopbankoromia.com.et/wp-content/uploads/2020/11/Coopbank-Logo-Ethiopia.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "1259b1a4cb762856488352405101d104ccbd0853d93b85bfd615905b7e7ece12"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -569,7 +584,8 @@
         "svg": "svg/logos/bank/nib-bank.svg",
         "source": "https://www.nibbanksc.com/wp-content/uploads/2022/03/LOGO-SETS-AND-STYLE-01.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "784582f1dbafdc1be2f67b4c34953b85127aedb06c0f7c8cb5a55b1f8964cc43"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -615,7 +631,8 @@
         "svg": "svg/logos/bank/wegagen-bank.svg",
         "source": "https://play-lh.googleusercontent.com/iVnYLOeUUnlGiiXiIT3WnTbm5AjQ9mKHcDusyD4cENBXhzMn_dGbHQVeUqWdkybL77Tr_Q1KpBH6pEBNMigaz20=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3dc4ac3e2d37723967f80c6157ee58d343f916f30fde3e8cbec0d84b736f2147"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -662,7 +679,8 @@
         "svg": "svg/logos/bank/dashen-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lC-ao3_I1F9-mzhlpa4B_gV9h1v7WJl-x7zEZnkOMqlLl8ohrX4WxDmzT-_IzCft5UHpjYfJTUlwCwE1D3emxQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d482283892280b6c4e5ec98c486b59b499e2b38610e108edac5f44fb17ae2b50"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -686,7 +704,8 @@
         "svg": "svg/logos/bank/awash-bank.svg",
         "source": "https://awashbank.com/wp-content/uploads/2022/08/Awash-bank-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "0d6f401669361636d0c45a3489153626f3c3286101fe78fb9c3fd4dccfc9b7d5"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/banks/"
@@ -885,7 +904,8 @@
         "svg": "svg/logos/microfinance/amhara-credit-and-saving-institution.svg",
         "source": "https://play-lh.googleusercontent.com/TpGkKaUIzd0_AnY7Vq85-k-cG6wF8ctHZDW-3PF8zSc0cVKoUXAj7emgJ1Y1mF_hrqSSWhAcx1tCqWX1g3gIUQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "598fd5709b9d6ddd406d8895156e74ef8b48abfec56a2edfb91bc99e543d9808"
       },
       "sources": [
         "https://nbe.gov.et/financial-institutions/microfinance-institute/"
@@ -1986,7 +2006,8 @@
         "svg": "svg/logos/mobile-money/telebirr.svg",
         "source": "https://play-lh.googleusercontent.com/26b3chBWWWiCR3ZWCFqrd45v3rNqa92BZyTc_7RFJkzOT2GgkDBNACjB46P5biiQLxvgIKyEQpKIAccdt4FHwg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "d26184a565d5319d1d892d4d0c33145f8ff1c86bb408a562049cef764275bfb9"
       },
       "sources": [
         "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
@@ -2009,7 +2030,8 @@
         "svg": "svg/logos/mobile-money/kacha.svg",
         "source": "https://www.kacha.et/images/kacha-brand-logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "49bc97f8491a8b050ccb8c108897ee3e1b06ab8bf24b244658a1f0def3c845c4"
       },
       "sources": [
         "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
@@ -2033,7 +2055,8 @@
         "svg": "svg/logos/mobile-money/m-pesa.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "5924c0131bb648f629d48bdc9af4d65481a972389ef113eb40b2f05d40e352ee"
       },
       "sources": [
         "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
@@ -2056,7 +2079,8 @@
         "svg": "svg/logos/mobile-money/yaya-wallet.svg",
         "source": "https://yayawallet.com/web/images/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "01f5ae83f703d4713a97bf774878b93e41234aacdcf730323352f8f4c8d44813"
       },
       "sources": [
         "https://nbe.gov.et/payment-instrument-issuers-system-operators/"
@@ -2079,7 +2103,8 @@
         "svg": "svg/logos/mobile-money/vitabirr.svg",
         "source": "https://play-lh.googleusercontent.com/UmLRDzhTuHqzcyHmPHd0PPqfKG42MkfRYi5-DapmLtyx6s0DkBUjFu10NCtgm0AQmiOUNu2EFwUtzJVAT22G=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e497d95404be988291d34e730de3566c5262c0b71e0e3800e86c052368a26666"
       },
       "sources": [
         "https://nbe.gov.et/payment-instrument-issuers-system-operators/"

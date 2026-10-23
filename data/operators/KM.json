@@ -31,7 +31,8 @@
         "svg": "svg/logos/bank/afg.svg",
         "source": "https://play-lh.googleusercontent.com/HINQjpKMcrbHlVm0qrnXjjzu2feLdQTuNsgefvZRAWqJYdnhTVrIKDJf9bvrw3YWJyROr09IRMbq3kE1nqUyIQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4dc7793aa26d8a417e98e123251d9046da1c2a0123f51e7bce3ebb0621794b71"
       },
       "sources": [
         "https://banque-comores.km/page/show/etablissements-de-credit",
@@ -157,7 +158,8 @@
         "svg": "svg/logos/microfinance/meck.svg",
         "source": "https://meck-moroni.org/assets/images/logo_meckMoroni.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "42bc760e0264fde713a594e84e12b5e15dfabca3def5b378fda017f259d74d3e"
       },
       "sources": [
         "https://banque-comores.km/page/show/etablissements-de-credit",
@@ -232,7 +234,8 @@
         "svg": "svg/logos/mobile-money/mvola.svg",
         "source": "https://www.mvola.km/wp-content/uploads/2023/12/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "3cb9065b7b414a383147f4808456b5531cfc7bf2dcc499ce5eb6e09bf5038d51"
       },
       "sources": [
         "https://www.mvola.km/",
@@ -258,7 +261,8 @@
         "svg": "svg/logos/mobile-money/huri-money.svg",
         "source": "https://play-lh.googleusercontent.com/UnnzUQann-Pu3oflHUedIztioHhWXS9iW6xcpMYhOJNHNQenXtJ_us7nzmHEX-eik2ofXZYz_ITS5ljy3JjjauU=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ac747a9a6db38b5da6ae17e2437539080dc08692712ed9e1d7e862c652ff0135"
       },
       "sources": [
         "https://mail.lagazettedescomores.com/assets/pdfs/Lagazette_3930.pdf",
@@ -282,7 +286,8 @@
         "svg": "svg/logos/mobile-money/holo.svg",
         "source": "https://play-lh.googleusercontent.com/Hpjx-B-EL2J-TPsjS1OHklQlYIa6qM-2MB0-iyhBysqvkNPto1ziCnkC4IfKorClc7MkeiEEUuwnlDc3q-XUxUo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5c31e68b1eea018ae09df1f5c47a4d96e4f848d432c1d76ca3c89973f80c33d5"
       },
       "sources": [
         "https://mail.lagazettedescomores.com/assets/pdfs/Lagazette_3930.pdf",

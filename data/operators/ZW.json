@@ -76,7 +76,8 @@
         "svg": "svg/logos/bank/cbz-bank.svg",
         "source": "https://play-lh.googleusercontent.com/d6gLd66yJ-h8OQ0I0H4Gcgb16yWTctb8RRDUPjpo6v9UwUAMfFSDNCQv2_DeRF58q_BL9EJxxjoREWrFf1tuLQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "649f2e7de085c1968861da15c4015f4e21c95e54e56fbcb1737d352a91e3c047"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -99,7 +100,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -122,7 +124,8 @@
         "svg": "svg/logos/bank/fbc-bank.svg",
         "source": "https://www.fbc.co.zw/sites/default/files/fbc-holdings-logo.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "29c33aed2306ac5b506c5fd81148cabad18d922c8695695bbf378a631b9e3c98"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -146,7 +149,8 @@
         "svg": "svg/logos/bank/first-capital-bank.svg",
         "source": "https://www.firstcapitalbank.co.bw/wp-content/uploads/2018/09/logo-1.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "ce60cfc24d82605f163164dd91263f53efb996d346a2837cae561e21eacb6474"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -191,7 +195,8 @@
         "svg": "svg/logos/bank/nedbank.svg",
         "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "131fb7682f7db40c5cf35b9bc0c6689a2f98f1c7f669c436b08ae1355b1616cd"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -214,7 +219,8 @@
         "svg": "svg/logos/bank/nmb-bank.svg",
         "source": "https://nmbz.co.zw/nmb/sites/default/files/logo_1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fae92d6d13ead58524119f3b42182f8fd087ac445a618c955958e0cdc1f4aea6"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -237,7 +243,8 @@
         "svg": "svg/logos/bank/stanbic-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -260,7 +267,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -282,7 +290,8 @@
         "svg": "svg/logos/bank/steward-bank.svg",
         "source": "https://play-lh.googleusercontent.com/-NGVsA5MhGc6hAwEO-TO5gPncyB2p4Ag30JPrdh_Wc_4p13xDY1gFhlvZDctWntSj3LdhNq3KXwoxHbrZstkwMA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bea611b52eb9e17d67c79f4415776e524dc7686bb2ab25b6195cd3013332871d"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -306,7 +315,8 @@
         "svg": "svg/logos/bank/zb-bank.svg",
         "source": "https://www.zb.co.zw/sites/default/files/zblogo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4b3c0d5fd093b832a12898a9a72cf2495371c5d93f2f40340250e0b111343785"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -328,7 +338,8 @@
         "svg": "svg/logos/bank/cabs.svg",
         "source": "https://play-lh.googleusercontent.com/qFJp0Suy2MlTi7Wvf5d1glKOIDTo4UVN_b2Kiiko4ghQDe7nTJIBH2JMhEVrMWTpl3qr4kG8DKeEDeBau6I-Xg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f2ef88238a91c252957b14720383368e65488802c5f34cf90ecef92978048fb5"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -350,7 +361,8 @@
         "svg": "svg/logos/bank/fbc-building-society.svg",
         "source": "https://www.fbc.co.zw/sites/default/files/fbc-holdings-logo.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "29c33aed2306ac5b506c5fd81148cabad18d922c8695695bbf378a631b9e3c98"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -372,7 +384,8 @@
         "svg": "svg/logos/bank/national-building-society.svg",
         "source": "https://www.nbs.co.zw/wp-content/themes/NBS/img/nbs-logo-1.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9ae5e91b5004dcfeb423bafea274d1b08d71e6aa231b7759f7ed2ba3245cd83e"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -395,7 +408,8 @@
         "svg": "svg/logos/bank/posb.svg",
         "source": "https://play-lh.googleusercontent.com/2_NAI7OZOlA-4kon1DZFf7kQcPHt8_ElVvfR2no1dFtGYnSC7JLeDRgwEALjGy5Fji5IE7DxYEqsjl__aOPpfg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b71089e8871590d1664be716002e3ec8672983bace3300d4c825c973f4524764"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -484,7 +498,8 @@
         "svg": "svg/logos/bank/smedco.svg",
         "source": "https://www.smedco.co.zw/assets/img/logob.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4d776a6b396920c2497a8db6ba59bf2a04910ef5ae1f9c6c880e6f420de42f7f"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -528,7 +543,8 @@
         "svg": "svg/logos/microfinance/empowerbank.svg",
         "source": "https://play-lh.googleusercontent.com/HsEjW2J8qi0DDlPNDPK_KmdjpmzW4VfH5azOyimFcnwCq2M2D1MemAunpr8CMPKniguAGnInC3DGqQEYqpqmXIM=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "749603027c10118e3bbdac6281f33403393842656da31c6d47532cd8c5d0c395"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -551,7 +567,8 @@
         "svg": "svg/logos/microfinance/getbucks-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/4MDBq4dmosNZqK-SDjWHJMMLRKpvX5LElRX8ThGWzaaedSZiN_PVwl_huwfRrc-HY8tzQdKoDOBRmqpCXN1J=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "a605aba03cd764764c417cba40453ab4a01095e55e86d7486bc9a481953e157f"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -574,7 +591,8 @@
         "svg": "svg/logos/microfinance/lion-microfinance.svg",
         "source": "https://www.lionfinance.co.zw/images/resources/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4f272c7d92b25670f0ecfc8db5b3347cb489654ced1463bff7209fd93ec9c334"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -646,7 +664,8 @@
         "svg": "svg/logos/mobile-money/innbucks.svg",
         "source": "https://play-lh.googleusercontent.com/oxMqivKGKFyTE6LBfNRrjkXmCbFcOUinLp2O4fIcSh5-7LcX_dhkN8f-eVpGTv5RKX-Grkuf_zP_kWJaiqQWlw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "44a1da2e44f82e605e2163da82dee720f3004e75a1463dc11c7d6a167ba7cea8"
       },
       "sources": [
         "https://www.rbz.co.zw/documents/BLSS/Supervision%20Publications/Consolidated_Banking_Institutions_Information_as_at_30_June_2024.pdf"
@@ -670,7 +689,8 @@
         "svg": "svg/logos/mobile-money/ecocash.svg",
         "source": "https://play-lh.googleusercontent.com/p8KM6TJr6mODf24U8AhPlX1uofQp5dATtVOdQxUoPHEgrWCvucuEb89Q5L8An36PBSb2iaoXn2i1H1QcPwFtyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cea7655999a4030e78658c821282899ffc70032575ddf5b2533345f1e91dbc66"
       },
       "sources": [
         "https://www.econet.co.zw"
@@ -693,7 +713,8 @@
         "svg": "svg/logos/mobile-money/onemoney.svg",
         "source": "https://play-lh.googleusercontent.com/sMkS6GQjBFWYaoGDhMGco6B4NxmdBV1qyvhuihEmJC0eYtH37gxaQ23DAVl-r9k722otLT837KTlsOOMkyC0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f039dbce90e7a58dcec296f948169c678497da37270ad35d3c53f50ca8ad7bbc"
       },
       "sources": [
         "https://www.onemoney.co.zw"
@@ -717,7 +738,8 @@
         "svg": "svg/logos/mobile-money/o-mari.svg",
         "source": "https://www.omari.co.zw/images/logo.webp",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fb6f77d63a490e3c08571501814280a0870b556257144de9e130141ad4e99b06"
       },
       "sources": [
         "https://www.omari.co.zw"

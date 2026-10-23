@@ -32,7 +32,8 @@
         "svg": "svg/logos/bank/absa.svg",
         "source": "https://play-lh.googleusercontent.com/rZxLhihccdMWPtlhVU8WhU2QYFXqt0qWJFsn5U_XvJ6PSAj_WCfYvrkmpYgMa7bCkRXhLfXycWcuGfZDUxUOag=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5cd8df6a9195374ae64346bee50330b288654e5d04019c06af79c291155d53fb"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -55,7 +56,8 @@
         "svg": "svg/logos/bank/access.svg",
         "source": "https://play-lh.googleusercontent.com/x-cCXGT3IXHnnveoYZdnPoJXMY2WhAWwnO0jRDTCX-zYP5cxEzvEUqUWVL1TlHugD_bXd9cVtrhETbNOZlZAQA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "18cc9838b6fa63ff6482d23dd3318fd96c6291276517e622d8d21fb23ab2bb01"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -79,7 +81,8 @@
         "svg": "svg/logos/bank/abc-bank.svg",
         "source": "https://play-lh.googleusercontent.com/h3_uULEzcFqG_9gBFHitcpXdfvaDRZSAW6shuczu8h4pumQu_IVeBAhsKUCCAcDVyxlV7m8qqZUe4zkiUSNqng=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "802c5f6c2a094f18ad76fcec6ca28120c42363bcb2a58eca2cadae7936fd1551"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -103,7 +106,8 @@
         "svg": "svg/logos/bank/bank-of-africa.svg",
         "source": "https://www.boabenin.com/wp-content/uploads/2025/01/Logo_PP_Positif-small.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "a96d65fcf4599c88760e061510877370cae78108d8ac29c40c7ba44074f68e84"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -126,7 +130,8 @@
         "svg": "svg/logos/bank/bank-of-baroda.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_Baroda_Logo_since_Dec_19.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "89d45e55e2d81aacdbaeb4a202693cc6dffa4e71f8fe2cae6b61aadde4122c1b"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -173,7 +178,8 @@
         "svg": "svg/logos/bank/citi.svg",
         "source": "https://play-lh.googleusercontent.com/MY6mrncLA-pB2eXwEEf5BbidshQ0oQsWFC_ePzx6ApQfLaQcGNJKVnSsM6-8OolBOVKHBFn6K5jjrevlbQVT=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "8257be337740dd989086c9a116a84a3bc78d62c2461ec824db3d52b3667018bf"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -198,7 +204,8 @@
         "svg": "svg/logos/bank/cib.svg",
         "source": "https://cibke.com/wp-content/uploads/2024/01/logo-white-qa.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "63fed4f3559babc9ac8b9689336d83cd399b48a2648358527e9b0d68c528d58a"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -268,7 +275,8 @@
         "svg": "svg/logos/bank/credit-bank.svg",
         "source": "https://creditbank.co.ke/storage/2023/04/New-Credit-Bank-Logo-1.png",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "1bc7e9c5542cba219de05131e8e76f064a351ec2093e7795059de61255776e80"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -315,7 +323,8 @@
         "svg": "svg/logos/bank/dtb.svg",
         "source": "https://dtbafrica.com/storage/uploads/b022ae98-1973-4e4e-93e0-9ebf891f3d86/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "52a098ddc259e23e93344ed3e3df9c5f3670cf953a0a6b80f2ed5d563fc55d6e"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -339,7 +348,8 @@
         "svg": "svg/logos/bank/dib-bank.svg",
         "source": "https://www.dibkenya.co.ke/wp-content/themes/dib/images/DIB%20White.webp",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "a93f294eb0d9a5118044856a6d9cdb4d2dd75365560ebc95237552170ff8b1ed"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -362,7 +372,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -386,7 +397,8 @@
         "svg": "svg/logos/bank/equity.svg",
         "source": "https://play-lh.googleusercontent.com/Z-zdQPhLVmT46X34A-umNQFsOUTUlYOGHu284N-Qs_dXImWO8FvFfbHpNMoPJwbGjZFpq9F5vVS0JAcwyKv4UA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "08967ed8f1bbc66a59410cc9a7a6359d99ecfaad2818e0081338f789bc31ab4b"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -408,7 +420,8 @@
         "svg": "svg/logos/bank/family-bank.svg",
         "source": "https://familybank.co.ke/family-bank/wp-content/themes/family-bank/assets/images/family-bank-40-logo.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "19b7417dfcc53c2a8c069391c0151f05aad04551eddfc3e3f0466b495e5273e9"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -433,7 +446,8 @@
         "svg": "svg/logos/bank/gtbank.svg",
         "source": "https://www.gtbank.com/",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "081dd0d293f715abddebc06d1371096744ca4906396281d1785f39f2aa84e941"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -478,7 +492,8 @@
         "svg": "svg/logos/bank/gulf-african-bank.svg",
         "source": "https://play-lh.googleusercontent.com/vKdQ6m4moy_vNhcIONrBQW2W0_eoB2f3zAqe-XErauto-SJbBXjYDRmS2tZ18eDApqriMKMnPKwTF29AE68-fl0=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3a14e997b2a8e6cffee6169cf8aaf3555121a0374602cdd3de7a49c2362eec9c"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -526,7 +541,8 @@
         "svg": "svg/logos/bank/i-and-m.svg",
         "source": "https://play-lh.googleusercontent.com/LfvJcNwaJXj9Cr5YOaDBmkX6Xfy4c37-NxkuA0F2S81vLC_n9UIBEGtAR-avvRnVlz78eWvsejyQd7pQWTfsLg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "e314497d7de5ba6df3f281c8c2910bb5cd32a26b2a13d87e0e1bd5b2976c1f60"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -550,7 +566,8 @@
         "svg": "svg/logos/bank/kcb.svg",
         "source": "https://play-lh.googleusercontent.com/MnBm0dP4tpfQliJLu3umBnR0TEcZQ_RyjaeHsGe58h2v9HWWpsU2EoLmhWUcrhnY7gWI8D1_nrv4hH7LCbHG=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "42b35d053d25f546b515599e6ac55c450a9dd15f83ab995e8127c7c87cded0d6"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -597,7 +614,8 @@
         "svg": "svg/logos/bank/middle-east-bank.svg",
         "source": "https://mebkenya.com/sites/all/themes/mebkenya/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bfae862f60ebdbd384db35dba37109354bd2e06bb1efe2197dce45d78e75af6e"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -670,7 +688,8 @@
         "svg": "svg/logos/bank/ncba.svg",
         "source": "https://ncbagroup.com/wp-content/uploads/2024/08/ncba-logo-dark.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "91decd532868ceb879526f9955da7ea326a0228d50a9ce645f44d8bac3ee3620"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -692,7 +711,8 @@
         "svg": "svg/logos/bank/paramount-bank.svg",
         "source": "https://play-lh.googleusercontent.com/kV40_JuAVJJMvyxRERhkAgrJnoK2fEqSX1wvOi7WiWau0GkLWT_o6lZb0V0UrlAqd5xk-_ftUEkISDpqtZ3-0Vo=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "0e80fd640c0516a5c012eb93f3370b2ee381e32db5fadf1c7820f01f60ef490f"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -715,7 +735,8 @@
         "svg": "svg/logos/bank/premier-bank.svg",
         "source": "https://www.premierbank.so/wp-content/uploads/2020/07/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "7da142e1ffbdb371ad4c4b7711b6862e9faec884325c6dba97416328f5866e86"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -737,7 +758,8 @@
         "svg": "svg/logos/bank/prime-bank.svg",
         "source": "https://www.primebank.co.ke/wp-content/themes/prime-bank/images/Prime-Bank-logo-main.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "07682848b084e18df50e21b4f229c1b526e4dcd3be70dd7852e2ee552af044a2"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -761,7 +783,8 @@
         "svg": "svg/logos/bank/sbm.svg",
         "source": "https://play-lh.googleusercontent.com/FtnuQpIHLTzzyx6sDYY5e_cjQ8JtYyLkA21aJVLAoQYlmeKuTVC4jF-Rf68YtGl4I768BLVyZ8PLW457mdxR=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "6255208467a3745a893ccc49ab57bb4a9741b8a52718da09365a3df516e39d30"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -783,7 +806,8 @@
         "svg": "svg/logos/bank/sidian-bank.svg",
         "source": "https://sidianbank.co.ke/wp-content/uploads/2023/02/Sidian-bank-Logo-1.png",
         "method": "vectorized",
-        "background": "light"
+        "background": "light",
+        "sha256": "8c5ce3250b613992124b0da989997d84a6476c9248cf56de307248da380118cc"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -805,7 +829,8 @@
         "svg": "svg/logos/bank/spire-bank.svg",
         "source": "http://www.spirebank.co.ke/wp-content/uploads/2016/06/spire-Logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "868b6e6d13222aa28d2436d0bce426c822d93bf2da5ccec9fa66a77de50ff1ad"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -829,7 +854,8 @@
         "svg": "svg/logos/bank/stanbic-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -854,7 +880,8 @@
         "svg": "svg/logos/bank/standard-chartered.svg",
         "source": "https://av.sc.com/bw/content/images/content/images/cropped-512x512-1-200x200.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2aae35ce3ab596e0159846e418a52c94d61803389886950b76a70606b48902d0"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -878,7 +905,8 @@
         "svg": "svg/logos/bank/uba.svg",
         "source": "https://play-lh.googleusercontent.com/B1gox8FMbQEBCTbujvSySpStyLhTZdxZCC8jMBKd-pv2eVjPkmVxIi9H7UyF1gTXYokQttcfVqHcraN1y36pbA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "64dbdbacc2b0d48d58143d75babf0ee7ef94f1d6b1dc6927ace0631a5b41e29f"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -927,7 +955,8 @@
         "svg": "svg/logos/bank/hfc.svg",
         "source": "https://www.hfcb.co.ke/images/logos/no-bg-logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "0f746d17a129fe2f4c0988e7177bad24ae953cd8874a9f74bbea41abc838feb0"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/07/Directory-of-Licenced-Commercial-Banks-Mortgage-Finance-Institutions-and-Authorised-Non-Operating-Bank-Holding-Companies.pdf"
@@ -951,7 +980,8 @@
         "svg": "svg/logos/microfinance/caritas-microfinance-bank.svg",
         "source": "https://caritas-mfb.co.ke/wp-content/uploads/2024/07/caritas_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "b7c47c2a95ad95a72703d3846382e8b630951e120e4dae6393aa3821d71b0ce8"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -975,7 +1005,8 @@
         "svg": "svg/logos/microfinance/branch-microfinance-bank.svg",
         "source": "https://d2c5ectx2y1vm9.cloudfront.net/assets/branch_logo_navy-7e548f86d075abfb2faf4d2097d5349d1da404030f5825a01f6e24d36cc60c46.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "834255bf6d7d04cd47f18f2f22758b017b774f2231aff23828919675b71fb1fc"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -998,7 +1029,8 @@
         "svg": "svg/logos/microfinance/choice-microfinance-bank.svg",
         "source": "https://choice-bank.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo2.0wvr9_hxggsa5.png&w=640&q=75",
         "method": "vectorized",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "8bc85f85174447c3f4ff1080cac877de6e44e363450045033b0fa22e8e0f0bb5"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -1021,7 +1053,8 @@
         "svg": "svg/logos/microfinance/umba-microfinance-bank.svg",
         "source": "https://www.umba.com/images/Umba-mfb-white.svg",
         "method": "official-svg",
-        "background": "dark"
+        "background": "dark",
+        "sha256": "ce5d932a0bfaa6c9609ddd90d0c275270b7190059464fbc233218474eb150f68"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -1069,7 +1102,8 @@
         "svg": "svg/logos/microfinance/kenya-women-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/N2XrDCT4iYxei9MbUIE-9klbknek3uDMPzjQ9FIiTFq2c1_KNArkHvkOu053beJA6WYR0FxoCfA-4XWOerEJvMk=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fa21526e2262fb2463a3f9a423d9048c7bd87d011089559eac3f59fa7d91abbc"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -1092,7 +1126,8 @@
         "svg": "svg/logos/microfinance/rafiki-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/fVioVfMOaedNACdp4Ba7mff0WzyE9UZRKaN3kpM-fxF8V1kQIiwcYS0qmqgFp0MkUatrLCqHpL6K7WOwEzGX=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "3ab7d302767b73576e56ad558c2a40a275c052b7047e89fd28794fe196df47e3"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -1186,7 +1221,8 @@
         "svg": "svg/logos/microfinance/u-and-i-microfinance-bank.svg",
         "source": "https://uni-microfinance.co.ke/wp-content/uploads/2026/06/logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4307f77e74dc69ce1d101f5075e2046f41b775c23257f6480e1417b3d1c6f576"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -1209,7 +1245,8 @@
         "svg": "svg/logos/microfinance/salaam-microfinance-bank.svg",
         "source": "https://www.salaammfbank.co.ke/wp-content/uploads/2023/10/SMB-Logo-scaled.jpg",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "237a91389fe4bc1596d66c1de9eb865930e0a0ac8c6c13fd8db096ed88dddd80"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -1256,7 +1293,8 @@
         "svg": "svg/logos/microfinance/muungano-microfinance-bank.svg",
         "source": "https://play-lh.googleusercontent.com/P5pW1a08b07PsmMwVWeKCgD_2iV6Ryl4QIVgkDLKAS59UmSriBfAPrW-guzEzAkEQeFqJx_g2n2XcPadkH5yNA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "22fc42ec583bb0e4179666146af1e140ffdb1916de902488a667fffc26f7fb6e"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/02/Directory-of-Licenced-Microfinance-Banks-Feb-2026.pdf"
@@ -1282,7 +1320,8 @@
         "svg": "svg/logos/mobile-money/m-pesa.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "5924c0131bb648f629d48bdc9af4d65481a972389ef113eb40b2f05d40e352ee"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
@@ -1306,7 +1345,8 @@
         "svg": "svg/logos/mobile-money/airtel-money.svg",
         "source": "https://play-lh.googleusercontent.com/6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4c5d25fbd673d62b157bc0de4949ac4770705aaa4648fda5c4c7eda71b8cd2b4"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
@@ -1331,7 +1371,8 @@
         "svg": "svg/logos/mobile-money/t-kash.svg",
         "source": "https://play-lh.googleusercontent.com/U7fweDr-LJm4TnQbCRfVCPbeNOIueny2yqUAvz8LKO36YoxoB7vgwbCih_Ip0vhOAa_EGqcEXz5JiRhB5KR_Fg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "38ced9af0b181ccfd5059cbb71ab9a7270949d554e468e206b6079d24f63c2e0"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
@@ -1356,7 +1397,8 @@
         "svg": "svg/logos/mobile-money/sasapay.svg",
         "source": "https://play-lh.googleusercontent.com/jlrMq4vZ5vU9YhUcqLp3qjIf2QQprUP7f0gOyG72kHmRMOjfr_8Y9FXwJoIh_i9CIimOE3ZwHkg-k_eSY5ia_Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "bfee02e86a0e7e789216e93c9f91275fbfc20fec9ac272672cea040bd7d0474e"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
@@ -1380,7 +1422,8 @@
         "svg": "svg/logos/mobile-money/equitel.svg",
         "source": "https://finserve.africa/assets/finserve-logo-5xR7EcmM.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "60c971675994e99f7ad438076cecda2cc515e2d1354f23b7babd43e259ccd57c"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
@@ -1405,7 +1448,8 @@
         "svg": "svg/logos/mobile-money/jambopay.svg",
         "source": "https://play-lh.googleusercontent.com/1hOJAtiqJE5EcaPKsxzRhJcZHSQCLUhBwwkYgaK-foeOu1QbpMUDxxvsjPdlmmDyF21W9uB6NulmQpnBoHGj4w=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "2ad1f1a31a8b6e532dad4d34d8e7968dd8e3c74d35d6fefa9b3fcc20d0b9a982"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
@@ -1429,7 +1473,8 @@
         "svg": "svg/logos/mobile-money/afrimoney.svg",
         "source": "https://play-lh.googleusercontent.com/dd1mu0GVVt6v157x28u17u3zwpBOIyWMI7S2InZid7HQnSXot6R1_C3C7tqsZAbFjhsUYpk-i6mMts7MWgCg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "03a453366d186b5a872d2470ad35df1a1a8acb62bdf278a2a2d8eeb28dbb4a0f"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
@@ -1453,7 +1498,8 @@
         "svg": "svg/logos/mobile-money/cashia.svg",
         "source": "https://play-lh.googleusercontent.com/EpuGUpK61HGj5R0PJAOqblxc8tVoWuZkaasC_lO83nN8j7UYaqwoOKfMucEzIqz3jDLDUESnvpHUrsNXmC4oeg=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "5e64d24b76dece26784644ffe0c42c422c80f1e69552c7a2be5c8452388f20de"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
@@ -1476,7 +1522,8 @@
         "svg": "svg/logos/mobile-money/whizmo.svg",
         "source": "https://ke.whizmo.com/assets/img/Whizmo%20Logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "7438b7da40c50c0017d54ba903e102f3e0eab7a2aa638f183e8ce1860a7367e7"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf"
@@ -1500,7 +1547,8 @@
         "svg": "svg/logos/wallet/pesapal.svg",
         "source": "https://play-lh.googleusercontent.com/-ONulqmJ_Q8DiFk720D8m8lPCXP7cWygCn-CBlElNW3e162lwBx8g3o666AMQZeeGwresCbsvbr1rrMZQ8q5uw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "ebe754b752eccd8f612d4e28c19e8b7bebe85f6e881df316e9fe9d6d6f9bb035"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
@@ -1525,7 +1573,8 @@
         "svg": "svg/logos/digital-bank/loop.svg",
         "source": "https://play-lh.googleusercontent.com/GHJOZQQW7Lo_dnTrO72PT6N8wn_tEoCiohUhRMUzsXXuSAK7GIfTJyQcH8VpY5trrGQ7kDzRCGf9h_aQKXZEOw=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "62c9c1fc686cbcc712fa2c4489920217a604047da976459da2b28ea8a75f11d3"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",
@@ -1551,7 +1600,8 @@
         "svg": "svg/logos/wallet/ipay.svg",
         "source": "https://www.ipayafrica.com/sites/default/files/logo-45-percent_01.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "ae821224f3f0a3d0abe644a7f138efb645a578054303f36220acd0961ba7b842"
       },
       "sources": [
         "https://www.centralbank.go.ke/wp-content/uploads/2026/09/Directory-of-Authorized-Payment-Service-Providers-August-10-2026.pdf",

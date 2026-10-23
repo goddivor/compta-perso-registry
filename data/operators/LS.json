@@ -31,7 +31,8 @@
         "svg": "svg/logos/bank/standard-lesotho-bank.svg",
         "source": "https://play-lh.googleusercontent.com/lYHevwCYYWazJwKRl3JRjKZlx_N3vHiOGXz_7qqY0awDozVV9jB8OWjJ1qXLvzW8mArraRUQqidNWumKQbHsgA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "c33b909e24f5c155396936f64ef2378c465d1e5fa1a0574216d905e49f90c10f"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/"
@@ -53,7 +54,8 @@
         "svg": "svg/logos/bank/nedbank.svg",
         "source": "https://www.nedbank.co.ls/content/dam/nedbank/icons/resources/logo.svg",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "131fb7682f7db40c5cf35b9bc0c6689a2f98f1c7f669c436b08ae1355b1616cd"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/"
@@ -77,7 +79,8 @@
         "svg": "svg/logos/bank/fnb.svg",
         "source": "https://www.fnbbotswana.co.bw/_assets/images/generic/skins/00/navigation/secondary-logo/header-logo_lrg.svg?v=1775959716000",
         "method": "official-svg",
-        "background": null
+        "background": null,
+        "sha256": "5d761abad68794eda0e3bc16d2ef63bd84662247b2ad38da7aa1c2a763c11b2f"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/"
@@ -101,7 +104,8 @@
         "svg": "svg/logos/bank/lesotho-postbank.svg",
         "source": "https://play-lh.googleusercontent.com/98iSbumd1GJO3nQFdCyaE9fbqKeoAva-GxJku1H9S8m23yzHP6bCaJ_urmX1HePKeZyh3xPOJKrR_H4vWtWb98k=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "01993a3d6d620e061762419dce1846a7eab4c521410e071fa942a7b5211bbd36"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/commercial-banks-and-forex-agencies/",
@@ -127,7 +131,8 @@
         "svg": "svg/logos/mobile-money/m-pesa.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/M-PESA_LOGO-01.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "5924c0131bb648f629d48bdc9af4d65481a972389ef113eb40b2f05d40e352ee"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
@@ -152,7 +157,8 @@
         "svg": "svg/logos/mobile-money/ecocash.svg",
         "source": "https://play-lh.googleusercontent.com/p8KM6TJr6mODf24U8AhPlX1uofQp5dATtVOdQxUoPHEgrWCvucuEb89Q5L8An36PBSb2iaoXn2i1H1QcPwFtyA=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "cea7655999a4030e78658c821282899ffc70032575ddf5b2533345f1e91dbc66"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
@@ -177,7 +183,8 @@
         "svg": "svg/logos/mobile-money/c-pay.svg",
         "source": "https://play-lh.googleusercontent.com/IfVm585Rcjylr9nx0tdSDUChErmHmV4QaVJKnwYVS1zV0BdY4Cf1LYyGEuFNGmnjF51FyHCJsPfrOGZkwwnA3A=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "4dd18c9462f90d5a3db1445487f016b9b66b39cf99b7cd359f8817d681b1621c"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
@@ -202,7 +209,8 @@
         "svg": "svg/logos/mobile-money/smartel-money.svg",
         "source": "https://play-lh.googleusercontent.com/PfjP4-7JZDlBehTnM3wGcmufj13PzrEBdkZx77KGrC7hXYxJQWY1U97_1ly0xQglYukfaL78sKsFuxfZeMk_m_g=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fe033bc2461a894bd965d71e79a571084f0232c608786f9209252ea0b0106bd2"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/",
@@ -2358,7 +2366,8 @@
         "svg": "svg/logos/microfinance/myloan.svg",
         "source": "https://play-lh.googleusercontent.com/XMn4nn3GGHmhMsLojWWgJZrsDXm3ja03iLq6hR4jrBoGruRcEpgysnUpVGnXSslMkbUW2CIsg-bmU24nG61s6Q=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "fdfadfab70039473606c672a8dcd82cd830ad833d4701ca1f7935bd596374cb5"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/myloan-limited/"
@@ -2657,7 +2666,8 @@
         "svg": "svg/logos/microfinance/platinum-credit.svg",
         "source": "https://play-lh.googleusercontent.com/7pWXZdNmvF2UtS0Bxz6r_jWapbcZuYfqB_FlY8gXrZVHUag2LMpO9pez6F-AIfMxy6e3TLD3ldQyAs5GCh8qCQ=s512",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "f773ec81262c693d6fc94becf55dbc2d60b1988ec89a14bbe8bdb926347af967"
       },
       "sources": [
         "https://centralbank.org.ls/other-financial-institutions-2/platinum-credit-ltd/"

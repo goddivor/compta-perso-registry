@@ -18,7 +18,9 @@ const MODES = ['all', 'only', 'except']
 const REGIONS = ['north', 'west', 'central', 'east', 'southern']
 const OPERATOR_KEYS = ['id', 'name', 'aliases', 'type', 'group', 'presence', 'consumer', 'status', 'successor', 'website', 'logo', 'sources']
 const LOGO_KEYS = ['svg', 'source', 'method', 'background', 'sha256']
-const AMOUNT_KEYS = ['locale', 'pattern', 'group', 'decimal', 'signPattern', 'alphaPattern']
+const AMOUNT_KEYS = ['locale', 'pattern', 'group', 'decimal', 'signPattern', 'alphaPattern', 'source']
+const AMOUNT_SOURCES = ['cldr', 'override']
+const SYMBOL_SOURCES = ['cldr', 'verified']
 const URL_RE = /^https?:\/\/[^\s/]+\.[^\s]+$/
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/
 const SVG_MAX_BYTES = 128 * 1024 // the largest file on 2026-10-23 weighs 118 KB
@@ -227,12 +229,12 @@ for (const c of countries) {
   const af = (msg) => fail(F, fl, `${c.iso2}.amountFormat: ${msg}`)
   if (!f || typeof f !== 'object' || Array.isArray(f)) { af('must be an object'); continue }
   for (const k of AMOUNT_KEYS) if (!(k in f)) af(`missing ${k}`)
-  for (const k of Object.keys(f)) if (!AMOUNT_KEYS.includes(k) && k !== 'source') af(`unknown key ${k}`)
+  for (const k of Object.keys(f)) if (!AMOUNT_KEYS.includes(k)) af(`unknown key ${k}`)
   if (!/^[a-z]{2,3}(-[A-Z][a-z]{3})?(-[A-Z]{2})?$/.test(f.locale ?? '')) af(`bad locale ${JSON.stringify(f.locale)}`)
   for (const k of ['pattern', 'signPattern', 'alphaPattern']) if (!PATTERN_RE.test(f[k] ?? '')) af(`bad ${k} ${JSON.stringify(f[k])}`)
   if (!/^[   .,'’]$/.test(f.group ?? '')) af(`bad group ${JSON.stringify(f.group)}`)
   if (!/^[.,$]$/.test(f.decimal ?? '') || f.decimal === f.group) af(`bad decimal ${JSON.stringify(f.decimal)}`)
-  if ('source' in f && !isUrl(f.source)) af('source must be a URL')
+  if (!AMOUNT_SOURCES.includes(f.source)) af(`source must be one of ${AMOUNT_SOURCES.join(', ')}`)
 }
 for (const cur of currencies) {
   const line = lineOf('data/currencies.json', `"code": ${JSON.stringify(cur.code)}`)
@@ -241,7 +243,11 @@ for (const cur of currencies) {
   if (!Number.isInteger(cur.decimals) || cur.decimals < 0) at('decimals must be a whole number')
   if (!cur.sign?.svg || !existsSync(join(ROOT, cur.sign.svg))) at(`missing sign svg ${cur.sign?.svg}`)
   if (cur.sign?.svgColor && !existsSync(join(ROOT, cur.sign.svgColor))) at(`missing colour sign svg ${cur.sign.svgColor}`)
-  for (const iso2 of cur.countries ?? []) if (!iso2s.has(iso2)) at(`unknown country ${iso2}`)
+  for (const iso2 of cur.countries ?? []) {
+    if (!iso2s.has(iso2)) at(`unknown country ${iso2}`)
+    if (!isStr(cur.localSymbols?.[iso2]?.replace(/[\u200b-\u200f]/g, ''))) at(`localSymbols.${iso2} must be a visible symbol`)
+    if (!SYMBOL_SOURCES.includes(cur.symbolSource?.[iso2])) at(`symbolSource.${iso2} must be one of ${SYMBOL_SOURCES.join(', ')}`)
+  }
 }
 
 // ── 4. operators ─────────────────────────────────────────────────────────────────────────────────────
@@ -283,13 +289,13 @@ function checkOperator(file, op, { intl }) {
     if (folder && !logo.svg.startsWith(folder)) at(`a ${op.type} logo lives in ${folder}`)
     const p = join(ROOT, logo.svg)
     if (!existsSync(p)) at(`logo file ${logo.svg} does not exist`)
-    else if ('sha256' in logo && logo.sha256 !== createHash('sha256').update(readFileSync(p)).digest('hex')) at('logo.sha256 does not match the file')
+    else if (/^[0-9a-f]{64}$/.test(logo.sha256 ?? '') && logo.sha256 !== createHash('sha256').update(readFileSync(p)).digest('hex')) at('logo.sha256 does not match the file')
     usedLogos.add(logo.svg)
   }
   if (!isUrl(logo.source)) at('logo.source must be the URL of the original logo')
   if (!METHODS.includes(logo.method)) at(`logo.method must be one of ${METHODS.join(', ')}`)
   if (!BACKGROUNDS.includes(logo.background ?? null)) at('logo.background must be "dark", "light" or null')
-  if ('sha256' in logo && !/^[0-9a-f]{64}$/.test(logo.sha256 ?? '')) at('logo.sha256 must be 64 lowercase hex characters')
+  if (!/^[0-9a-f]{64}$/.test(logo.sha256 ?? '')) at('logo.sha256 must be the 64 lowercase hex characters of the SVG file (sha256sum <file>)')
 }
 
 function checkCoverage(file, doc) {

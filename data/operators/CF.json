@@ -28,7 +28,8 @@
         "svg": "svg/logos/bank/ecobank.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ecobank_Logo.svg",
         "method": "official-svg",
-        "background": "light"
+        "background": "light",
+        "sha256": "243fd278f682a974d0e2ec35142169574b4f39c63e113812c6691b43d32fb27f"
       },
       "sources": [
         "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
@@ -55,7 +56,8 @@
         "svg": "svg/logos/bank/bgfibank.svg",
         "source": "https://groupebgfibank.com/wp-content/uploads/2025/05/BGFI_logo.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "20b7c63ceb2b097318c335605a7a6d23c6e51d0bc639fb58d20e9a59d61f7a06"
       },
       "sources": [
         "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
@@ -104,7 +106,8 @@
         "svg": "svg/logos/bank/bsic.svg",
         "source": "https://www.bsic-guinee.com/wp-content/uploads/2022/03/logo-bsic-2.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "9b6159778be49bf293a800dfed4dd02f22c2fcf5dd9556c653927ad0e4526950"
       },
       "sources": [
         "https://cnef-rca.org/situation-du-systeme-bancaire-a-decembre-2025/",
@@ -129,7 +132,8 @@
         "svg": "svg/logos/mobile-money/orange-money.svg",
         "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Orange_Money.svg",
         "method": "wikimedia-svg",
-        "background": null
+        "background": null,
+        "sha256": "dc6e3ec2d8351729c3961f384b583f97b49a956e1757ab646e4a041d04798440"
       },
       "sources": [
         "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf"
@@ -152,7 +156,8 @@
         "svg": "svg/logos/mobile-money/telecel-money.svg",
         "source": "https://telecel-rca.com/wp-content/uploads/2025/01/logo_car_05_blanc_cropped-300x245.png",
         "method": "vectorized",
-        "background": null
+        "background": null,
+        "sha256": "97c62874272efda202d638d412ae3199263049b12d24575f25ae79cf19339ebd"
       },
       "sources": [
         "https://www.beac.int/wp-content/uploads/2023/11/Rapport-Etat-des-services-de-paiement-2022-VF_3-Final.pdf",
